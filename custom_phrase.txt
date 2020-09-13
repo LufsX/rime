@@ -48,6 +48,7 @@ Magisk	magisk
 MySQL	mysql
 OS X	osx
 Objective-C	ojbc
+OneDrive	onedrive
 QQ邮箱	qqyzxl
 Quantumult	quan
 Ruby	ruby

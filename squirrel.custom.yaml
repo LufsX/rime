@@ -42,6 +42,8 @@ patch:
       ascii_mode: true
     com.github.GitHubClient:
       ascii_mode: true
+    org.yuanli.utools:
+      ascii_mode: true
 
   # 如果想要修改皮肤，直接更改 color_scheme 的值即可
   style:
