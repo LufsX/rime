@@ -43,6 +43,7 @@ Linux	linux
 Mac	mac
 Mac App Store	mas
 MacBook	macbook
+MacBook Air	mba
 MacBook Pro	mbp
 Magisk	magisk
 MySQL	mysql
@@ -81,5 +82,3 @@ macOS High Sierra	macos
 macOS Mojave	macos
 又双叒叕	yyy
 又双叒叕	yzyz
-小鹤	xnhe
-小鹤双拼	xnheulpb
