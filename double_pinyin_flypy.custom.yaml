@@ -4,9 +4,8 @@ patch:
     - name: ascii_mode
       reset: 0
       states: [中文, 西文]
-    - name: emoji_suggestion
-      reset: 1
-      states: ["No", "👌🏻"]
+    # - name: emoji_suggestion
+    #   states: ["No", "👌🏻"]
     - name: full_shape
       states: [半角, 全角]
     - name: simplification
@@ -16,7 +15,7 @@ patch:
       states: [。，, ．，]
   engine/translators:
     - lua_translator@date_translator
-    - lua_translator@week_translator
+    # - lua_translator@week_translator
     - punct_translator
     - script_translator
     - table_translator@custom_phrase
@@ -27,7 +26,7 @@ patch:
     - charset_filter@gbk
     - single_char_filter
   engine/processors:
-    - ascii_composer
+    # - ascii_composer
     - recognizer
     - key_binder
     - speller
@@ -35,9 +34,9 @@ patch:
     - selector
     - navigator
     - express_editor
-  emoji_suggestion:
-    opencc_config: emoji.json
-    option_name: emoji_suggestion
+  # emoji_suggestion:
+  #   opencc_config: emoji.json
+  #   option_name: emoji_suggestion
     # tips: all
   reverse_lookup: {}
 
@@ -51,7 +50,7 @@ patch:
     # 自定义快捷符号输入
     symbols:
       "/fs": [½, ‰, ¼, ⅓, ⅔, ¾, ⅒]
-      "/bq": [🤣, 🤔️, 🎉, 😂️, 🐂🍺️, 😱️, 👌, 😅️, 😇️, 🙃️, 💊️, 💯️, 👍️, 🙈️, 💩️, 😈️]
+      "/bq": [🤣, 😆, 😋, 🤔️, 🎉, 😂️, 🐂🍺️, 😱️, 👌, 😅️, 😇️, 🙃️, 💊️, 💯️, 👍️, 🙈️, 💩️, 😈️]
       "/dn": [⌘, ⌥, ⇧, ⌃, ⎋, ⇪, , ⌫, ⌦, ↩︎, ⏎, ↑, ↓, ←, →, ↖, ↘, ⇟, ⇞]
       "/fh": [⚐, ⚑, ⚠, ©, ®, ℗, ℠, ™, ℡, ⓘ, ♂, ♀, ☉, ☊, ☋, ☌, ☍, ☐, ☑︎, ☒, ☜, ☝, ☞, ☟, ✎, ✄, ♲, ♻]
       "/x": [＊, ×, ✱, ★, ☆, ✩, ✧, ❋, ❊, ❉, ❈, ❅, ✿, ✲]
@@ -67,7 +66,7 @@ patch:
       "=": "="
       "/": ["/", "÷"]
       '\': "、"
-      # "_": "──"
+      "_": "──"
       '"': { pair: ["「", "」"] }
       "'": { pair: ["『", "』"] }
       "$": ["¥", "$", "€", "£", "¢", "¤"]
@@ -109,7 +108,7 @@ patch:
     initial_quality: 1
   "engine/translators/@5": table_translator@custom_phrase
 
-  # Rx: BlindingDark/rime-easy-en:customize:schema=double_pinyin_flypy
+  Rx: BlindingDark/rime-easy-en:customize:schema=double_pinyin_flypy
   __include: easy_en:/patch
   easy_en/enable_sentence: false
   # Rx: lotem/rime-octagram-data:customize:schema=luna_pinyin,model=hans

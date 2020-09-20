@@ -76,9 +76,10 @@ iPod	ipod
 iTunes	itunes
 jQuery	jquery
 macOS	macos
-macOS	macos	4
-macOS Catalina	macos	3
-macOS High Sierra	macos	1
-macOS Mojave	macos	2
+macOS Catalina	macos
+macOS High Sierra	macos
+macOS Mojave	macos
 又双叒叕	yyy
 又双叒叕	yzyz
+小鹤	xnhe
+小鹤双拼	xnheulpb
