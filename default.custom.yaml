@@ -11,15 +11,14 @@ patch:
     - simplification
     - emoji_suggestion
   menu/page_size: 4
-  ascii_composer: # 设置caps、shift、control等键的作用
-    good_old_caps_lock: false # 若为true，caps只切换大小写
-    switch_key:
-      Shift_L: noop
-      Shift_R: noop
-      Control_L: noop
-      Control_R: noop
-      Caps_Lock: commit_code
-      Eisu_toggle: clear
+  ascii_composer/good_old_caps_lock: false
+  ascii_composer/switch_key:
+    Shift_L: noop
+    Shift_R: noop
+    Control_L: noop
+    Control_R: noop
+    Caps_Lock: commit_code
+    Eisu_toggle: clear
   key_binder/bindings: # 设置哪些键可以翻页，需要哪个取消注释即可
     - { accept: "Control+k", send: "Shift+Delete", when: composing }
     - { accept: "Shift+Tab", send: Page_Up, when: composing } # Shift + Tab 向上翻页
