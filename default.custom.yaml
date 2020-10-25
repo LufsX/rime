@@ -32,8 +32,8 @@ patch:
     - { accept: "Control+Shift+4", toggle: simplification, when: always } # Shift + Control + 4 切换简繁
     # - { accept: "Control+d", send: Delete, when: composing }
     # - { accept: "Shift+space", toggle: full_shape, when: always } # Shift + 空格 切换全角/半角
-    # - { when: has_menu, accept: apostrophe, send: 3 }
-    # - { when: has_menu, accept: semicolon, send: 2 }
+    - { when: has_menu, accept: apostrophe, send: 3 }
+    - { when: has_menu, accept: semicolon, send: 2 }
     # - {accept: "Control+Shift+1", select: .next, when: always}
     # - {accept: "Control+Shift+2", toggle: ascii_mode, when: always}
     # - {accept: "Control+Shift+3", toggle: full_shape, when: always}

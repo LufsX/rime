@@ -26,7 +26,7 @@ patch:
     - charset_filter@gbk
     - single_char_filter
   engine/processors:
-    # - ascii_composer
+    - ascii_composer
     - recognizer
     - key_binder
     - speller
