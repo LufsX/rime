@@ -4,8 +4,9 @@ patch:
     - name: ascii_mode
       reset: 0
       states: [中文, 西文]
-    # - name: emoji_suggestion
-    #   states: ["No", "👌🏻"]
+    - name: emoji_suggestion
+      reset: 0
+      states: ["No", "👌🏻"]
     - name: full_shape
       states: [半角, 全角]
     - name: simplification
@@ -34,9 +35,9 @@ patch:
     - selector
     - navigator
     - express_editor
-  # emoji_suggestion:
-  #   opencc_config: emoji.json
-  #   option_name: emoji_suggestion
+  emoji_suggestion:
+    opencc_config: emoji.json
+    option_name: emoji_suggestion
     # tips: all
   reverse_lookup: {}
 
