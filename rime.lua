@@ -27,3 +27,7 @@ function single_char_first_filter(input)
         yield(cand)
     end
 end
+
+-- select_character_processor: 以词定字
+-- 详见 `lua/select_character.lua`
+select_character_processor = require("select_character")
