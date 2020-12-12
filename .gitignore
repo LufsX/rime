@@ -1,0 +1,7 @@
+.DS_Store
+/build/
+/easy_en.userdb/
+/luna_pinyin.userdb/
+/sync/
+installation.yaml
+user.yaml
