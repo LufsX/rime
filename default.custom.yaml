@@ -21,18 +21,17 @@ patch:
     Eisu_toggle: clear
   key_binder/bindings: # 设置哪些键可以翻页，需要哪个取消注释即可
     - { accept: "Control+k", send: "Shift+Delete", when: composing }
-    - { accept: "Shift+Tab", send: Page_Up, when: composing } # Shift + Tab 向上翻页
+    - { accept: Shift+Tab, send: Page_Up, when: composing } # Shift + Tab 向上翻页
     - { accept: Tab, send: Page_Down, when: composing } # Tab 向下翻页
-    - { accept: Shift+Tab, send: Page_Up, when: composing }
-    - { accept: bracketright, send: Page_Down, when: composing }
+    - { accept: bracketleft, send: Page_Up, when: composing } # 左括号向上翻页
+    - { accept: bracketright, send: Page_Down, when: composing } # 右括号向下翻页
     - { accept: equal, send: Page_Down, when: composing }
-    - { accept: bracketleft, send: Page_Up, when: composing }
     - { accept: minus, send: Page_Up, when: composing }
     - { accept: "Control+Shift+4", toggle: simplification, when: always } # Shift + Control + 4 切换简繁
+    - { when: has_menu, accept: semicolon, send: 2 } # 输入时「;」二选
+    - { when: has_menu, accept: apostrophe, send: 3 } # 输入时「'」三选
     # - { accept: "Control+d", send: Delete, when: composing }
     # - { accept: "Shift+space", toggle: full_shape, when: always } # Shift + 空格 切换全角/半角
-    - { when: has_menu, accept: apostrophe, send: 3 }
-    - { when: has_menu, accept: semicolon, send: 2 }
     # - {accept: "Control+Shift+1", select: .next, when: always}
     # - {accept: "Control+Shift+2", toggle: ascii_mode, when: always}
     # - {accept: "Control+Shift+3", toggle: full_shape, when: always}
