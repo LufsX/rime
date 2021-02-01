@@ -1,10 +1,10 @@
 # Rime
 
-My config of squirrel
+My config of squirrel.
 
 - OS: macOS 10.15.7
-- version: 0.14.0+git3a63a46
-- Date: 2020-12-16
+- version: 0.15.0+git8ef9442
+- Date: 2021-02-01
 
 Please use the lasted commit version, that you can fing in https://dl.bintray.com/rime/squirrel/ .
 
@@ -20,4 +20,4 @@ Warning: The file list is not sorted by time, you should download according to t
 
 # To-do
 
-- [ ] Add introduction
+- [ ] Add documentation and features

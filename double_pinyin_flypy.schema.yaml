@@ -82,7 +82,7 @@ speller:
     - xform/ui$/V/
     - xform/in$/B/
     - xlit/QWRTYUIOPSDFGHJKLZXCVBNM/qwrtyuiopsdfghjklzxcvbnm/
-    #- abbrev/^(.).+$/$1/
+    - abbrev/^(.).+$/$1/
 
 translator:
   dictionary: luna_pinyin
