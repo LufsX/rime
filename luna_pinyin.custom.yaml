@@ -125,7 +125,7 @@ patch:
       reset: 0
       states: [中文, 西文]
     - name: emoji_suggestion
-      reset: 1
+      reset: 0
       states: ["👌🏻", "No"]
     - name: full_shape
       states: [半角, 全角]
@@ -192,6 +192,16 @@ patch:
 
   recognizer/patterns/punct: "^/([0-9]0?|[A-Za-z]+)$"
 
+  recognizer:
+    import_preset: default
+    patterns:
+      email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
+      uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
+      punct: "^/([a-z]+|[0-9]0?)$"
+      html: "^<[a-z]+>$"
+      camel: "[a-z]+[A-Z].*$"
+      url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]{1,11}[.:_].*$"
+
   # 自定义词库
   custom_phrase:
     dictionary: ""
@@ -203,8 +213,8 @@ patch:
   "engine/translators/@5": table_translator@custom_phrase
 
   # Rx: BlindingDark/rime-easy-en:customize:schema=double_pinyin_flypy
-  # __include: easy_en:/patch
-  # easy_en/enable_sentence: false
+  __include: easy_en:/patch
+  easy_en/enable_sentence: false
   # Rx: lotem/rime-octagram-data:customize:schema=luna_pinyin,model=hans
   __include: grammar:/hant
   # Rx: BlindingDark/rime-lua-select-character:customize:schema=luna_pinyin
