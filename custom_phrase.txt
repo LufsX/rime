@@ -33,6 +33,7 @@ Dropbox	dropbox
 GBK	gbk
 GUN/Linux linux
 GitHub	github
+Google	google
 Google Analytics	ga
 HTML	html
 IPTV	iptv
@@ -50,6 +51,7 @@ MySQL	mysql
 OS X	osx
 Objective-C	ojbc
 OneDrive	onedrive
+Pixel	pixel
 QQ邮箱	qqyzxl
 Quantumult	quan
 Ruby	ruby
@@ -72,7 +74,7 @@ iOS	ios
 iPad	ipad
 iPad	ipad
 iPhone	iphone
-iPhone	iphone
+iPhone Xʀ	iphonexr
 iPod	ipod
 iTunes	itunes
 jQuery	jquery
