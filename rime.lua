@@ -2,10 +2,12 @@ function date_translator(input, seg)
     if (input == "date") then
         --- Candidate(type, start, end, text, comment)
         yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d"), "Date"))
+        yield(Candidate("date", seg.start, seg._end, os.date("%Y%m%d"), ""))
     end
     if (input == "time") then
         --- Candidate(type, start, end, text, comment)
         yield(Candidate("date", seg.start, seg._end, os.date("%H:%M:%S"), "Time"))
+        yield(Candidate("time", seg.start, seg._end, os.date("%H%M%S"), ""))
     end
     if (input == "riqi") then
         --- Candidate(type, start, end, text, comment)
