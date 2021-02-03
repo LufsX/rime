@@ -95,7 +95,7 @@ patch:
       punct: "^/([a-z]+|[0-9]0?)$"
       html: "^<[a-z]+>$"
       camel: "[a-z]+[A-Z].*$"
-      url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]{1,11}[.:_-].*$"
+      url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]{1,11}[.:_].*$"
 
   ### 双拼使用自定义词典 custom_phrase.txt
   custom_phrase:
