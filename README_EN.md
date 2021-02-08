@@ -3,8 +3,8 @@
 My config of squirrel.
 
 - OS: macOS 10.15.7
-- version: 0.15.0+git8ef9442
-- Date: 2021-02-01
+- version: 0.15.0+gitf3ac3ea
+- Date: 2021-02-08
 
 Please use the lasted commit version, that you can fing in https://dl.bintray.com/rime/squirrel/ .
 

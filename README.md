@@ -3,8 +3,8 @@
 我的鼠须管配置文件～
 
 - OS: macOS 10.15.7
-- version: 0.15.0+git8ef9442
-- Date: 2021-02-01
+- version: 0.15.0+gitf3ac3ea
+- Date: 2021-02-08
 
 请使用最新提交的版本，你可以在这里找到 https://dl.bintray.com/rime/squirrel/ 。
 
