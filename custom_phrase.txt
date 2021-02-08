@@ -64,6 +64,7 @@ WeChat	wechat
 Wi-Fi	wifi
 X-Ray	xray
 Xbox One	xbox
+Xʀ	xr
 YouTube	youtube
 Youku	youku
 iCloud	icloud
