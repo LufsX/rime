@@ -14,10 +14,12 @@ import_tables:
   - pinyin_idiom # 成语俗语
   - pinyin_kaifa # 开发
   - pinyin_net # 网络流行语
-  - pinyin_simp # 最小拼音词典
 
-  # 一点点小小的私货，有需要的可以自行开启呢
-  # - pinyin_minecraft # Minecraft 词条
-  # - pinyin_genshin # 原神
-  # - pinyin_touhou # 东方 Project
+  # 一点点小小的私货，不需要的可以自行关闭呢
+  - pinyin_minecraft # Minecraft 词条
+  - pinyin_genshin # 原神
+  - pinyin_touhou # 东方 Project
+
+  # 覆盖词频
+  - pinyin_simp # 最小拼音词典
 ...
