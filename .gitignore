@@ -1,0 +1,7 @@
+
+.DS_Store
+/build/
+/extended.userdb/
+/sync/
+installation.yaml
+user.yaml

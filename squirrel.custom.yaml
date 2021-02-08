@@ -1,0 +1,50 @@
+patch:
+  show_notifications_via_notification_center: true
+  app_options: {} # 清除应用默认输入法，防止无法输入中文（通过 Caps 切换中英文）
+  style:
+    color_scheme: ayaya
+
+  preset_color_schemes:
+    ayaya:
+      name: "文文／Ayaya"
+      author: "Lufs <i@isteed.cc>"
+
+      horizontal: true # 水平排列
+      inline_preedit: true # 单行显示，false 双行显示
+      candidate_format: "%c\u2005%@" # 编号 %c 和候选词 %@ 前后的空间
+      corner_radius: 5 # 候选条圆角
+      border_height: 0
+      border_width: 0
+      font_face: "PingFangSC" # 候选词字体
+      font_point: 16 # 候选字词大小
+      label_font_face: "PingFangSC" # 候选词编号字体
+      label_font_point: 12 # 候选编号大小
+
+      # 颜色
+      back_color: 0xFFFFFF # 候选条背景色，24位色值，16进制，BGR顺序
+      candidate_text_color: 0x121212 # 预选项文字颜色
+      comment_text_color: 0x8E8E8E # 拼音等提示文字颜色
+      hilited_candidate_back_color: 0xECE4FC # 候选文字背景色
+      hilited_candidate_label_color: 0xB18FF4 # 候选编号颜色
+      hilited_candidate_text_color: 0x7A40EC # 候选文字颜色
+      label_color: 0x888785 # 预选栏编号颜色
+      text_color: 0x8100EB # 高亮选中词颜色
+
+    apathy:
+      name: 冷漠／Apathy
+      author: LIANG Hai
+      horizontal: true # 水平排列
+      inline_preedit: true #单行显示，false 双行显示
+      candidate_format: "%c\u2005%@" # 编号 %c 和候选词 %@ 前后的空间
+      corner_radius: 5 #候选条圆角
+      border_height: 0
+      border_width: 0
+      back_color: 0xFFFFFF #候选条背景色
+      font_face: "PingFangSC-Regular,HanaMinB" #候选词字体
+      font_point: 16 #候选字词大小
+      text_color: 0x424242 #高亮选中词颜色
+      label_font_face: "STHeitiSC-Light" #候选词编号字体
+      label_font_point: 12 #候选编号大小
+      hilited_candidate_text_color: 0xEE6E00 #候选文字颜色
+      hilited_candidate_back_color: 0xFFF0E4 #候选文字背景色
+      comment_text_color: 0x999999 #拼音等提示文字颜色

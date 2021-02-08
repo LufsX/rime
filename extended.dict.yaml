@@ -1,0 +1,23 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: extended
+version: "2020.12.30"
+sort: by_weight
+vocabulary: essay-zh-hans
+use_preset_vocabulary: false
+
+import_tables:
+  - pinyin_computer # 计算机名词
+  - pinyin_essay # 通用词组
+  - pinyin_idiom # 成语俗语
+  - pinyin_kaifa # 开发
+  - pinyin_net # 网络流行语
+  - pinyin_simp # 最小拼音词典
+
+  # 一点点小小的私货，有需要的可以自行开启呢
+  - pinyin_minecraft # Minecraft 词条
+  - pinyin_genshin # 原神
+  - pinyin_touhou # 东方 Project
+...

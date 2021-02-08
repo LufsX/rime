@@ -1,0 +1,1457 @@
+# Rime dictionary
+# encoding: utf-8
+# source: https://pinyin.sogou.com/dict/detail/index/121267
+
+---
+name: pinyin_minecraft
+version: "2020-06-25"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+暗海晶石	an hai jing shi	100
+暗海晶石楼梯	an hai jing shi lou ti	100
+暗海晶石台阶	an hai jing shi tai jie	100
+按钮	an niu	100
+安山岩	an shan yan	100
+安山岩楼梯	an shan yan lou ti	100
+安山岩墙	an shan yan qiang	100
+安山岩台阶	an shan yan tai jie	100
+白桦木	bai hua mu	100
+白桦木按钮	bai hua mu an niu	100
+白桦木板	bai hua mu ban	100
+白桦木船	bai hua mu chuan	100
+白桦木告示牌	bai hua mu gao shi pai	100
+白桦木活板门	bai hua mu huo ban men	100
+白桦木楼梯	bai hua mu lou ti	100
+白桦木门	bai hua mu men	100
+白桦木台阶	bai hua mu tai jie	100
+白桦木压力板	bai hua mu ya li ban	100
+白桦木栅栏	bai hua mu zha lan	100
+白桦木栅栏门	bai hua mu zha lan men	100
+白桦树苗	bai hua shu miao	100
+白桦树苗盆栽	bai hua shu miao pen zai	100
+白桦树叶	bai hua shu ye	100
+白桦原木	bai hua yuan mu	100
+白色染料	bai se ran liao	100
+白色郁金香	bai se yu jin xiang	100
+白色郁金香盆栽	bai se yu jin xiang pen zai	100
+版本记录	ban ben ji lu	100
+绊线	ban xian	100
+绊线钩	ban xian gou	100
+绑定诅咒	bang ding zu zhou	100
+饱和度	bao he du	100
+保护	bao hu	100
+堡垒遗迹	bao lei yi ji	100
+爆裂紫颂果	bao lie zi song guo	100
+豹猫	bao mao	100
+爆炸保护	bao zha bao hu	100
+被虫蚀的方块	bei chong shi de fang kuai	100
+被虫蚀的裂石砖	bei chong shi de lie shi zhuan	100
+被虫蚀的石头	bei chong shi de shi tou	100
+被虫蚀的石砖	bei chong shi de shi zhuan	100
+被虫蚀的苔石砖	bei chong shi de tai shi zhuan	100
+被虫蚀的圆石	bei chong shi de yuan shi	100
+被虫蚀的錾制石砖	bei chong shi de zan zhi shi zhuan	100
+被风蚀的恶地	bei feng shi de e di	100
+北极熊	bei ji xiong	100
+崩溃	beng kui	100
+蝙蝠	bian fu	100
+边境之地	bian jing zhi di	100
+变量	bian liang	100
+扁平化	bian ping hua	100
+变种	bian zhong	100
+标靶	biao ba	100
+表格	biao ge	100
+标签	biao qian	100
+缤纷更新	bin fen geng xin	100
+滨菊	bin ju	100
+滨菊盆栽	bin ju pen zai	100
+冰刺	bing ci	100
+冰刺平原	bing ci ping yuan	100
+冰山	bing shan	100
+冰霜行者	bing shuang xing zhe	100
+玻璃	bo li	100
+玻璃板	bo li ban	100
+玻璃瓶	bo li ping	100
+布尔型	bu er xing	100
+布尔值	bu er zhi	100
+不可合成的喷溅型药水	bu ke he cheng de pen jian xing yao shui	100
+不可合成的药箭	bu ke he cheng de yao jian	100
+不可合成的药水	bu ke he cheng de yao shui	100
+不可合成的滞留型药水	bu ke he cheng de zhi liu xing yao shui	100
+不死图腾	bu si tu teng	100
+不透明度	bu tou ming du	100
+不祥之兆	bu xiang zhi zhao	100
+彩蛋	cai dan	100
+材料	cai liao	100
+材质	cai zhi	100
+参见	can jian	100
+参考	can kao	100
+参数	can shu	100
+藏宝图	cang bao tu	100
+草方块	cao fang kuai	100
+草径	cao jing	100
+槽位	cao wei	100
+测重压力板	ce zhong ya li ban	100
+缠怨藤	chan yuan teng	100
+缠怨藤植物	chan yuan teng zhi wu	100
+常规	chang gui	100
+常加载区域	chang jia zai qu yu	100
+唱片机	chang pian ji	100
+长整型	chang zheng xing	100
+超平坦	chao ping tan	100
+潮涌核心	chao yong he xin	100
+潮涌框架	chao yong kuang jia	100
+潮涌能量	chao yong neng liang	100
+沉船	chen chuan	100
+橙色染料	cheng se ran liao	100
+橙色郁金香	cheng se yu jin xiang	100
+橙色郁金香盆栽	cheng se yu jin xiang pen zai	100
+成书	cheng shu	100
+迟缓药水	chi huan yao shui	100
+迟缓之箭	chi huan zhi jian	100
+齿轮	chi lun	100
+炽足兽	chi zu shou	100
+重定向	chong ding xiang	100
+冲击	chong ji	100
+充能铁轨	chong neng tie gui	100
+重生	chong sheng	100
+重生锚	chong sheng mao	100
+出生点	chu sheng dian	100
+出生点区块	chu sheng dian qu kuai	100
+穿刺	chuan ci	100
+穿透	chuan tou	100
+创造模式	chuang zao mo shi	100
+垂泪藤	chui lei teng	100
+垂泪藤植物	chui lei teng zhi wu	100
+磁石	ci shi	100
+磁石指针	ci shi zhi zhen	100
+丛林	cong lin	100
+丛林边缘	cong lin bian yuan	100
+丛林边缘变种	cong lin bian yuan bian zhong	100
+丛林变种	cong lin bian zhong	100
+丛林木	cong lin mu	100
+丛林木按钮	cong lin mu an niu	100
+丛林木板	cong lin mu ban	100
+丛林木船	cong lin mu chuan	100
+丛林木告示牌	cong lin mu gao shi pai	100
+丛林木活板门	cong lin mu huo ban men	100
+丛林木楼梯	cong lin mu lou ti	100
+丛林木门	cong lin mu men	100
+丛林木台阶	cong lin mu tai jie	100
+丛林木压力板	cong lin mu ya li ban	100
+丛林木栅栏	cong lin mu zha lan	100
+丛林木栅栏门	cong lin mu zha lan men	100
+丛林丘陵	cong lin qiu ling	100
+丛林神庙	cong lin shen miao	100
+丛林树苗	cong lin shu miao	100
+丛林树苗盆栽	cong lin shu miao pen zai	100
+丛林树叶	cong lin shu ye	100
+丛林原木	cong lin yuan mu	100
+粗制的药水	cu zhi de yao shui	100
+摧毁	cui hui	100
+村民	cun min	100
+村民交易	cun min jiao yi	100
+村庄和掠夺	cun zhuang he lue duo	100
+村庄英雄	cun zhuang ying xiong	100
+打火石	da huo shi	100
+大师	da shi	100
+大小	da xiao	100
+大型蕨	da xing jue	100
+带釉陶瓦	dai you tao wa	100
+蛋糕	dan gao	100
+淡灰色染料	dan hui se ran liao	100
+淡蓝色染料	dan lan se ran liao	100
+单人创造模式	dan ren chuang zao mo shi	100
+单人极限模式	dan ren ji xian mo shi	100
+单人冒险模式	dan ren mao xian mo shi	100
+单人生存模式	dan ren sheng cun mo shi	100
+灯笼	deng long	100
+地牢	di lao	100
+第三人称视角	di san ren cheng shi jiao	100
+地毯	di tan	100
+地图	di tu	100
+点亮的红石灯	dian liang de hong shi deng	100
+雕刻过的南瓜	diao ke guo de nan gua	100
+凋灵	diao ling	100
+凋零	diao ling	100
+凋灵骷髅	diao ling ku lou	100
+凋灵骷髅头颅	diao ling ku lou tou lu	100
+凋零玫瑰	diao ling mei gui	100
+凋零玫瑰盆栽	diao ling mei gui pen zai	100
+凋灵之首	diao ling zhi shou	100
+钓鱼竿	diao yu gan	100
+钓鱼竿浮标	diao yu gan fu biao	100
+丁香	ding xiang	100
+冻河	dong he	100
+动力矿车	dong li kuang che	100
+洞穴空气	dong xue kong qi	100
+洞穴蜘蛛	dong xue zhi zhu	100
+冻洋	dong yang	100
+蠹虫	du chong	100
+独乐不如众乐更新	du le bu ru zhong le geng xin	100
+毒马铃薯	du ma ling shu	100
+独石柱	du shi zhu	100
+独有特性	du you te xing	100
+锻造台	duan zao tai	100
+堆叠数	dui die shu	100
+堆肥桶	dui fei tong	100
+盾牌	dun pai	100
+多彩世界更新	duo cai shi jie geng xin	100
+多重射击	duo chong she ji	100
+多人创造模式	duo ren chuang zao mo shi	100
+多人极限模式	duo ren ji xian mo shi	100
+多人冒险模式	duo ren mao xian mo shi	100
+多人生存模式	duo ren sheng cun mo shi	100
+恶地	e di	100
+恶地高原	e di gao yuan	100
+恶地高原变种	e di gao yuan bian zhong	100
+恶魂	e hun	100
+恶魂之泪	e hun zhi lei	100
+饵钓	er diao	100
+发布	fa bu	100
+发光	fa guang	100
+发酵蛛眼	fa jiao zhu yan	100
+发射器	fa she qi	100
+发射器矿车	fa she qi kuang che	100
+繁花森林	fan hua sen lin	100
+返回传送门	fan hui chuan song men	100
+繁茂的恶地高原	fan mao de e di gao yuan	100
+繁茂的恶地高原变种	fan mao de e di gao yuan bian zhong	100
+繁茂的丘陵	fan mao de qiu ling	100
+繁茂的山地	fan mao de shan di	100
+反胃	fan wei	100
+范围	fan wei	100
+反向阳光探测器	fan xiang yang guang tan ce qi	100
+繁殖	fan zhi	100
+放大化	fang da hua	100
+防火	fang huo	100
+方块状态	fang kuai zhuang tai	100
+防御	fang yu	100
+绯红菌	fei hong jun	100
+绯红菌柄	fei hong jun bing	100
+绯红菌核	fei hong jun he	100
+绯红菌盆栽	fei hong jun pen zai	100
+绯红菌索	fei hong jun suo	100
+绯红菌索盆栽	fei hong jun suo pen zai	100
+绯红菌岩	fei hong jun yan	100
+绯红木按钮	fei hong mu an niu	100
+绯红木板	fei hong mu ban	100
+绯红木告示牌	fei hong mu gao shi pai	100
+绯红木活板门	fei hong mu huo ban men	100
+绯红木楼梯	fei hong mu lou ti	100
+绯红木门	fei hong mu men	100
+绯红木台阶	fei hong mu tai jie	100
+绯红木压力板	fei hong mu ya li ban	100
+绯红木栅栏	fei hong mu zha lan	100
+绯红木栅栏门	fei hong mu zha lan men	100
+绯红森林	fei hong sen lin	100
+废弃传送门	fei qi chuan song men	100
+废弃矿井	fei qi kuang jing	100
+粉红色染料	fen hong se ran liao	100
+粉红色郁金香	fen hong se yu jin xiang	100
+粉色郁金香盆栽	fen se yu jin xiang pen zai	100
+蜂巢	feng chao	100
+封冻深海	feng dong shen hai	100
+蜂蜡块	feng la kuai	100
+锋利	feng li	100
+蜂蜜块	feng mi kuai	100
+蜂蜜瓶	feng mi ping	100
+蜂箱	feng xiang	100
+浮冰	fu bing	100
+浮岛	fu dao	100
+附加包	fu jia bao	100
+附魔	fu mo	100
+附魔金苹果	fu mo jin ping guo	100
+附魔书	fu mo shu	100
+附魔台	fu mo tai	100
+附魔用图书馆	fu mo yong tu shu guan	100
+附魔之瓶	fu mo zhi ping	100
+腐肉	fu rou	100
+复述功能	fu shu gong neng	100
+辅助功能	fu zhu gong neng	100
+改进	gai jin	100
+干草块	gan cao kuai	100
+干海带	gan hai dai	100
+干海带块	gan hai dai kuai	100
+甘蔗	gan zhe	100
+高草丛	gao cao cong	100
+高大桦木丘陵	gao da hua mu qiu ling	100
+高大桦木森林	gao da hua mu sen lin	100
+高海草	gao hai cao	100
+高炉	gao lu	100
+告示牌	gao shi pai	100
+格式	ge shi	100
+耕地	geng di	100
+更改	geng gai	100
+耕种	geng zhong	100
+攻击指示器	gong ji zhi shi qi	100
+功能	gong neng	100
+共通	gong tong	100
+公文包	gong wen bao	100
+工作台	gong zuo tai	100
+工作站点	gong zuo zhan dian	100
+骨粉	gu fen	100
+骨块	gu kuai	100
+骨头	gu tou	100
+管珊瑚	guan shan hu	100
+管珊瑚块	guan shan hu kuai	100
+管珊瑚扇	guan shan hu shan	100
+光灵箭	guang ling jian	100
+诡异菌	gui yi jun	100
+诡异菌柄	gui yi jun bing	100
+诡异菌钓竿	gui yi jun diao gan	100
+诡异菌核	gui yi jun he	100
+诡异菌盆栽	gui yi jun pen zai	100
+诡异菌索	gui yi jun suo	100
+诡异菌索盆栽	gui yi jun suo pen zai	100
+诡异菌岩	gui yi jun yan	100
+诡异木按钮	gui yi mu an niu	100
+诡异木板	gui yi mu ban	100
+诡异木告示牌	gui yi mu gao shi pai	100
+诡异木活板门	gui yi mu huo ban men	100
+诡异木楼梯	gui yi mu lou ti	100
+诡异木门	gui yi mu men	100
+诡异木台阶	gui yi mu tai jie	100
+诡异木压力板	gui yi mu ya li ban	100
+诡异木栅栏	gui yi mu zha lan	100
+诡异木栅栏门	gui yi mu zha lan men	100
+诡异森林	gui yi sen lin	100
+诡异疣块	gui yi you kuai	100
+鲑鱼	gui yu	100
+鲑鱼桶	gui yu tong	100
+过期	guo qi	100
+过时	guo shi	100
+海草	hai cao	100
+海带	hai dai	100
+海底废墟	hai di fei xu	100
+海底遗迹	hai di yi ji	100
+海龟	hai gui	100
+海龟蛋	hai gui dan	100
+海龟壳	hai gui qiao	100
+海晶灯	hai jing deng	100
+海晶砂粒	hai jing sha li	100
+海晶石	hai jing shi	100
+海晶石楼梯	hai jing shi lou ti	100
+海晶石墙	hai jing shi qiang	100
+海晶石台阶	hai jing shi tai jie	100
+海晶石砖	hai jing shi zhuan	100
+海晶石砖楼梯	hai jing shi zhuan lou ti	100
+海晶石砖台阶	hai jing shi zhuan tai jie	100
+海晶碎片	hai jing sui pian	100
+海绵	hai mian	100
+海泡菜	hai pao cai	100
+骇人更新	hai ren geng xin	100
+海豚	hai tun	100
+海豚的恩惠	hai tun de en hui	100
+海洋	hai yang	100
+海洋探险家地图	hai yang tan xian jia di tu	100
+海洋之心	hai yang zhi xin	100
+海之眷顾	hai zhi juan gu	100
+函数	han shu	100
+含水	han shui	100
+合成	he cheng	100
+河流	he liu	100
+和平	he ping	100
+河豚	he tun	100
+河豚桶	he tun tong	100
+黑板	hei ban	100
+黑色染料	hei se ran liao	100
+黑森林	hei sen lin	100
+黑森林丘陵	hei sen lin qiu ling	100
+黑石	hei shi	100
+黑石楼梯	hei shi lou ti	100
+黑石墙	hei shi qiang	100
+黑石台阶	hei shi tai jie	100
+黑曜石	hei yao shi	100
+黑曜石柱	hei yao shi zhu	100
+横扫之刃	heng sao zhi ren	100
+红色巨型蘑菇	hong se ju xing mo gu	100
+红色蘑菇	hong se mo gu	100
+红色蘑菇方块	hong se mo gu fang kuai	100
+红色蘑菇盆栽	hong se mo gu pen zai	100
+红色染料	hong se ran liao	100
+红色下界砖块	hong se xia jie zhuan kuai	100
+红色下界砖楼梯	hong se xia jie zhuan lou ti	100
+红色下界砖墙	hong se xia jie zhuan qiang	100
+红色下界砖台阶	hong se xia jie zhuan tai jie	100
+红色郁金香	hong se yu jin xiang	100
+红色郁金香盆栽	hong se yu jin xiang pen zai	100
+红沙	hong sha	100
+红砂岩	hong sha yan	100
+红砂岩楼梯	hong sha yan lou ti	100
+红砂岩墙	hong sha yan qiang	100
+红砂岩台阶	hong sha yan tai jie	100
+红石比较器	hong shi bi jiao qi	100
+红石灯	hong shi deng	100
+红石粉	hong shi fen	100
+红石火把	hong shi huo ba	100
+红石块	hong shi kuai	100
+红石矿石	hong shi kuang shi	100
+红石线	hong shi xian	100
+红石中继器	hong shi zhong ji qi	100
+红砖	hong zhuan	100
+狐狸	hu li	100
+胡萝卜	hu luo bo	100
+胡萝卜钓竿	hu luo bo diao gan	100
+护腿	hu tui	100
+花岗岩	hua gang yan	100
+花岗岩楼梯	hua gang yan lou ti	100
+花岗岩墙	hua gang yan qiang	100
+花岗岩台阶	hua gang yan tai jie	100
+花岗岩钟	hua gang yan zhong	100
+画廊	hua lang	100
+桦木森林	hua mu sen lin	100
+桦木森林丘陵	hua mu sen lin qiu ling	100
+花盆	hua pen	100
+缓降	huan jiang	100
+缓降药水	huan jiang yao shui	100
+缓降之箭	huan jiang zhi jian	100
+环境音效	huan jing yin xiao	100
+缓慢	huan man	100
+唤魔者	huan mo zhe	100
+唤魔者尖牙	huan mo zhe jian ya	100
+幻术师	huan shu shi	100
+幻翼	huan yi	100
+幻翼膜	huan yi mo	100
+黄绿色染料	huang lv se ran liao	100
+黄色染料	huang se ran liao	100
+灰化土	hui hua tu	100
+灰色染料	hui se ran liao	100
+混搭包	hun da bao	100
+混凝土	hun ning tu	100
+混凝土粉末	hun ning tu fen mo	100
+火把	huo ba	100
+活板门	huo ban men	100
+获取	huo qu	100
+活塞	huo sai	100
+活塞头	huo sai tou	100
+火珊瑚	huo shan hu	100
+火珊瑚块	huo shan hu kuai	100
+火珊瑚扇	huo shan hu shan	100
+火矢	huo shi	100
+火焰保护	huo yan bao hu	100
+火焰弹	huo yan dan	100
+火焰附加	huo yan fu jia	100
+火药	huo yao	100
+鸡蛋	ji dan	100
+饥饿	ji e	100
+记分板	ji fen ban	100
+计划版本	ji hua ban ben	100
+激活铁轨	ji huo tie gui	100
+即将到来	ji jiang dao lai	100
+激流	ji liu	100
+几率	ji lv	100
+疾跑	ji pao	100
+急迫	ji po	100
+鸡骑士	ji qi shi	100
+击退	ji tui	100
+极限模式	ji xian mo shi	100
+吉祥物	ji xiang wu	100
+积雪的冻原	ji xue de dong yuan	100
+积雪的沙滩	ji xue de sha tan	100
+积雪的针叶林	ji xue de zhen ye lin	100
+积雪的针叶林丘陵	ji xue de zhen ye lin qiu ling	100
+积雪的针叶林山地	ji xue de zhen ye lin shan di	100
+基岩	ji yan	100
+基岩版	ji yan ban	100
+家具	jia ju	100
+加入了	jia ru le	100
+简单	jian dan	100
+剪刀	jian dao	100
+建筑	jian zhu	100
+僵尸	jiang shi	100
+僵尸村民	jiang shi cun min	100
+僵尸的头	jiang shi de tou	100
+僵尸马	jiang shi ma	100
+僵尸疣猪兽	jiang shi you zhu shou	100
+僵尸猪灵	jiang shi zhu ling	100
+僵尸猪灵刷怪蛋	jiang shi zhu ling shua guai dan	100
+僵尸猪人	jiang shi zhu ren	100
+讲台	jiang tai	100
+脚手架	jiao shou jia	100
+教学提示	jiao xue ti shi	100
+交易	jiao yi	100
+教育版	jiao yu ban	100
+结构	jie gou	100
+结构方块	jie gou fang kuai	100
+结构空位	jie gou kong wei	100
+结晶蜜	jie jing mi	100
+劫掠兽	jie lue shou	100
+截屏	jie ping	100
+解析	jie xi	100
+节肢杀手	jie zhi sha shou	100
+金锄	jin chu	100
+金锭	jin ding	100
+进度	jin du	100
+金斧	jin fu	100
+金镐	jin gao	100
+金合欢木	jin he huan mu	100
+金合欢木按钮	jin he huan mu an niu	100
+金合欢木板	jin he huan mu ban	100
+金合欢木船	jin he huan mu chuan	100
+金合欢木告示牌	jin he huan mu gao shi pai	100
+金合欢木活板门	jin he huan mu huo ban men	100
+金合欢木楼梯	jin he huan mu lou ti	100
+金合欢木门	jin he huan mu men	100
+金合欢木台阶	jin he huan mu tai jie	100
+金合欢木压力板	jin he huan mu ya li ban	100
+金合欢木栅栏	jin he huan mu zha lan	100
+金合欢木栅栏门	jin he huan mu zha lan men	100
+金合欢树苗	jin he huan shu miao	100
+金合欢树苗盆栽	jin he huan shu miao pen zai	100
+金合欢树叶	jin he huan shu ye	100
+金合欢原木	jin he huan yuan mu	100
+金胡萝卜	jin hu luo bo	100
+金护腿	jin hu tui	100
+金剑	jin jian	100
+金块	jin kuai	100
+金矿石	jin kuang shi	100
+金粒	jin li	100
+金马铠	jin ma kai	100
+金苹果	jin ping guo	100
+金锹	jin qiao	100
+金头盔	jin tou kui	100
+金胸甲	jin xiong jia	100
+金靴子	jin xue zi	100
+金质工具	jin zhi gong ju	100
+金质盔甲	jin zhi kui jia	100
+荆棘	jing ji	100
+精灵	jing ling	100
+经验球	jing yan qiu	100
+经验修补	jing yan xiu bu	100
+精准采集	jing zhun cai ji	100
+旧世界类型	jiu shi jie lei xing	100
+剧毒药水	ju du yao shui	100
+剧毒之箭	ju du zhi jian	100
+巨人	ju ren	100
+巨型蘑菇	ju xing mo gu	100
+巨型生物群系	ju xing sheng wu qun xi	100
+巨型云杉针叶林	ju xing yun shan zhen ye lin	100
+巨型云杉针叶林丘陵	ju xing yun shan zhen ye lin qiu ling	100
+巨型针叶林	ju xing zhen ye lin	100
+巨型针叶林丘陵	ju xing zhen ye lin qiu ling	100
+蕨盆栽	jue pen zai	100
+菌柄	jun bing	100
+菌光体	jun guang ti	100
+菌核	jun he	100
+菌类	jun lei	100
+菌丝	jun si	100
+菌岩	jun yan	100
+开发版	kai fa ban	100
+开发周期	kai fa zhou qi	100
+开裂的铁砧	kai lie de tie zhen	100
+抗火药水	kang huo yao shui	100
+抗火之箭	kang huo zhi jian	100
+抗性提升	kang xing ti sheng	100
+烤马铃薯	kao ma ling shu	100
+可可豆	ke ke dou	100
+可可果	ke ke guo	100
+颗粒	ke li	100
+可用的	ke yong de	100
+可再生资源	ke zai sheng zi yuan	100
+空地图	kong di tu	100
+空定位器地图	kong ding wei qi di tu	100
+空洞	kong dong	100
+空木桶	kong mu tong	100
+空气	kong qi	100
+苦力怕	ku li pa	100
+苦力怕的头	ku li pa de tou	100
+骷髅	ku lou	100
+骷髅马	ku lou ma	100
+骷髅骑手	ku lou qi shou	100
+骷髅头颅	ku lou tou lu	100
+哭泣的黑曜石	ku qi de hei yao shi	100
+枯萎的灌木	ku wei de guan mu	100
+枯萎的灌木盆栽	ku wei de guan mu pen zai	100
+快捷栏	kuai jie lan	100
+快速装填	kuai su zhuang tian	100
+快照	kuai zhao	100
+矿车	kuang che	100
+盔甲架	kui jia jia	100
+困难	kun nan	100
+拉杆	la gan	100
+蓝冰	lan bing	100
+兰花	lan hua	100
+兰花盆栽	lan hua pen zai	100
+蓝色染料	lan se ran liao	100
+老手	lao shou	100
+雷暴	lei bao	100
+冷水海洋	leng shui hai yang	100
+冷水深海	leng shui shen hai	100
+力量	li liang	100
+力量药水	li liang yao shui	100
+力量之箭	li liang zhi jian	100
+连锁型命令方块	lian suo xing ming ling fang kuai	100
+炼药锅	lian yao guo	100
+裂石砖	lie shi zhuan	100
+裂纹磨制黑石砖	lie wen mo zhi hei shi zhuan	100
+裂纹下界砖块	lie wen xia jie zhuan kuai	100
+烈焰棒	lie yan bang	100
+烈焰粉	lie yan fen	100
+烈焰人	lie yan ren	100
+林地府邸	lin di fu di	100
+林地探险家地图	lin di tan xian jia di tu	100
+鳞甲	lin jia	100
+灵魂灯笼	ling hun deng long	100
+灵魂火	ling hun huo	100
+灵魂火把	ling hun huo ba	100
+灵魂疾行	ling hun ji xing	100
+灵魂沙	ling hun sha	100
+灵魂沙峡谷	ling hun sha xia gu	100
+灵魂土	ling hun tu	100
+灵魂营火	ling hun ying huo	100
+铃兰	ling lan	100
+铃兰盆栽	ling lan pen zai	100
+流浪商人	liu lang shang ren	100
+流浪者	liu lang zhe	100
+龙蛋	long dan	100
+龙首	long shou	100
+龙息	long xi	100
+漏洞	lou dong	100
+漏斗	lou dou	100
+漏斗矿车	lou dou kuang che	100
+楼梯	lou ti	100
+鹿角珊瑚	lu jiao shan hu	100
+鹿角珊瑚块	lu jiao shan hu kuai	100
+鹿角珊瑚扇	lu jiao shan hu shan	100
+掠夺者	lue duo zhe	100
+掠夺者前哨站	lue duo zhe qian shao zhan	100
+绿宝石	lv bao shi	100
+绿宝石块	lv bao shi kuai	100
+绿宝石矿石	lv bao shi kuang shi	100
+绿色染料	lv se ran liao	100
+马铠	ma kai	100
+马铃薯	ma ling shu	100
+马匹更新	ma pi geng xin	100
+埋藏的宝藏	mai cang de bao zang	100
+脉冲型命令方块	mai chong xing ming ling fang kuai	100
+冒险更新	mao xian geng xin	100
+冒险模式	mao xian mo shi	100
+玫瑰	mei gui	100
+玫瑰丛	mei gui cong	100
+玫瑰红	mei gui hong	100
+煤矿石	mei kuang shi	100
+煤炭	mei tan	100
+煤炭块	mei tan kuai	100
+霉运	mei yun	100
+蜜蜂	mi feng	100
+秘密周五更新	mi mi zhou wu geng xin	100
+蜜脾	mi pi	100
+蜜脾块	mi pi kuai	100
+迷之炖菜	mi zhi dun cai	100
+面包	mian bao	100
+命令	ming ling	100
+命令方块	ming ling fang kuai	100
+命令方块矿车	ming ling fang kuai kuang che	100
+命名牌	ming ming pai	100
+末地	mo di	100
+末地城	mo di cheng	100
+末地传送门方块	mo di chuan song men fang kuai	100
+末地传送门框架	mo di chuan song men kuang jia	100
+末地高岛	mo di gao dao	100
+末地荒岛	mo di huang dao	100
+末地石	mo di shi	100
+末地石砖	mo di shi zhuan	100
+末地石砖楼梯	mo di shi zhuan lou ti	100
+末地石砖墙	mo di shi zhuan qiang	100
+末地石砖台阶	mo di shi zhuan tai jie	100
+末地小型岛屿	mo di xiao xing dao yu	100
+末地折跃门	mo di zhe yue men	100
+末地折跃门方块	mo di zhe yue men fang kuai	100
+末地中型岛屿	mo di zhong xing dao yu	100
+末地烛	mo di zhu	100
+蘑菇	mo gu	100
+蘑菇煲	mo gu bao	100
+蘑菇柄	mo gu bing	100
+蘑菇岛	mo gu dao	100
+蘑菇岛岸	mo gu dao an	100
+蘑菇方块	mo gu fang kuai	100
+模块	mo kuai	100
+末路之地	mo lu zhi di	100
+墨囊	mo nang	100
+默认	mo ren	100
+末影更新	mo ying geng xin	100
+末影龙	mo ying long	100
+末影龙火球	mo ying long huo qiu	100
+末影螨	mo ying man	100
+末影人	mo ying ren	100
+末影水晶	mo ying shui jing	100
+末影箱	mo ying xiang	100
+末影珍珠	mo ying zhen zhu	100
+末影之眼	mo ying zhi yan	100
+磨制安山岩	mo zhi an shan yan	100
+磨制安山岩楼梯	mo zhi an shan yan lou ti	100
+磨制安山岩台阶	mo zhi an shan yan tai jie	100
+磨制黑石	mo zhi hei shi	100
+磨制黑石按钮	mo zhi hei shi an niu	100
+磨制黑石楼梯	mo zhi hei shi lou ti	100
+磨制黑石墙	mo zhi hei shi qiang	100
+磨制黑石台阶	mo zhi hei shi tai jie	100
+磨制黑石压力板	mo zhi hei shi ya li ban	100
+磨制黑石砖	mo zhi hei shi zhuan	100
+磨制黑石砖楼梯	mo zhi hei shi zhuan lou ti	100
+磨制黑石砖墙	mo zhi hei shi zhuan qiang	100
+磨制黑石砖台阶	mo zhi hei shi zhuan tai jie	100
+磨制花岗岩	mo zhi hua gang yan	100
+磨制花岗岩楼梯	mo zhi hua gang yan lou ti	100
+磨制花岗岩台阶	mo zhi hua gang yan tai jie	100
+磨制花岗岩钟	mo zhi hua gang yan zhong	100
+磨制闪长岩	mo zhi shan chang yan	100
+磨制闪长岩楼梯	mo zhi shan chang yan lou ti	100
+磨制闪长岩台阶	mo zhi shan chang yan tai jie	100
+磨制玄武岩	mo zhi xuan wu yan	100
+哞菇	mou gu	100
+木板	mu ban	100
+模板	mu ban	100
+木锄	mu chu	100
+牡丹	mu dan	100
+木斧	mu fu	100
+木镐	mu gao	100
+木棍	mu gun	100
+木剑	mu jian	100
+木门	mu men	100
+木锹	mu qiao	100
+木炭	mu tan	100
+木桶	mu tong	100
+木头	mu tou	100
+木头或菌核	mu tou huo jun he	100
+木质按钮	mu zhi an niu	100
+木质活板门	mu zhi huo ban men	100
+木质楼梯	mu zhi lou ti	100
+木质台阶	mu zhi tai jie	100
+木质压力板	mu zhi ya li ban	100
+木质栅栏	mu zhi zha lan	100
+耐久	nai jiu	100
+南瓜	nan gua	100
+南瓜灯	nan gua deng	100
+南瓜茎	nan gua jing	100
+南瓜派	nan gua pai	100
+南瓜种子	nan gua zhong zi	100
+恼鬼	nao gui	100
+脑纹珊瑚	nao wen shan hu	100
+脑纹珊瑚块	nao wen shan hu kuai	100
+脑纹珊瑚扇	nao wen shan hu shan	100
+溺尸	ni shi	100
+泥土	ni tu	100
+你知道吗	ni zhi dao ma	100
+粘土块	nian tu kuai	100
+粘土球	nian tu qiu	100
+粘性活塞	nian xing huo sai	100
+粘液块	nian ye kuai	100
+粘液球	nian ye qiu	100
+酿造	niang zao	100
+酿造台	niang zao tai	100
+牛奶	niu nai	100
+牛奶桶	niu nai tong	100
+牛排	niu pai	100
+浓稠的药水	nong chou de yao shui	100
+暖水海洋	nuan shui hai yang	100
+暖水深海	nuan shui shen hai	100
+女巫	nv wu	100
+旁观模式	pang guan mo shi	100
+配方书	pei fang shu	100
+喷溅型迟缓药水	pen jian xing chi huan yao shui	100
+喷溅型粗制的药水	pen jian xing cu zhi de yao shui	100
+喷溅型粗制药水	pen jian xing cu zhi yao shui	100
+喷溅型缓降药水	pen jian xing huan jiang yao shui	100
+喷溅型剧毒药水	pen jian xing ju du yao shui	100
+喷溅型抗火药水	pen jian xing kang huo yao shui	100
+喷溅型力量药水	pen jian xing li liang yao shui	100
+喷溅型浓稠的药水	pen jian xing nong chou de yao shui	100
+喷溅型平凡的药水	pen jian xing ping fan de yao shui	100
+喷溅型伤害药水	pen jian xing shang hai yao shui	100
+喷溅型神龟药水	pen jian xing shen gui yao shui	100
+喷溅型衰变药水	pen jian xing shuai bian yao shui	100
+喷溅型水肺药水	pen jian xing shui fei yao shui	100
+喷溅型水瓶	pen jian xing shui ping	100
+喷溅型跳跃药水	pen jian xing tiao yue yao shui	100
+喷溅型幸运药水	pen jian xing xing yun yao shui	100
+喷溅型虚弱药水	pen jian xing xu ruo yao shui	100
+喷溅型迅捷药水	pen jian xing xun jie yao shui	100
+喷溅型夜视药水	pen jian xing ye shi yao shui	100
+喷溅型隐身药水	pen jian xing yin shen yao shui	100
+喷溅型再生药水	pen jian xing zai sheng yao shui	100
+喷溅型治疗药水	pen jian xing zhi liao yao shui	100
+喷溅药水	pen jian yao shui	100
+喷溅之箭	pen jian zhi jian	100
+皮革	pi ge	100
+皮革裤子	pi ge ku zi	100
+皮革盔甲	pi ge kui jia	100
+皮革马铠	pi ge ma kai	100
+皮革帽子	pi ge mao zi	100
+皮革外套	pi ge wai tao	100
+皮革靴子	pi ge xue zi	100
+飘浮	piao fu	100
+品红色染料	pin hong se ran liao	100
+拼图方块	pin tu fang kuai	100
+品质	pin zhi	100
+平凡的药水	ping fan de yao shui	100
+苹果	ping guo	100
+平滑红砂岩	ping hua hong sha yan	100
+平滑红砂岩楼梯	ping hua hong sha yan lou ti	100
+平滑红砂岩台阶	ping hua hong sha yan tai jie	100
+平滑砂岩	ping hua sha yan	100
+平滑砂岩楼梯	ping hua sha yan lou ti	100
+平滑砂岩台阶	ping hua sha yan tai jie	100
+平滑石台阶	ping hua shi tai jie	100
+平滑石头	ping hua shi tou	100
+平滑石英块	ping hua shi ying kuai	100
+平滑石英楼梯	ping hua shi ying lou ti	100
+平滑石英台阶	ping hua shi ying tai jie	100
+平视显示器	ping shi xian shi qi	100
+平原	ping yuan	100
+屏障	ping zhang	100
+破碎的热带草原	po sui de re dai cao yuan	100
+破碎的热带高原	po sui de re dai gao yuan	100
+蒲公英	pu gong ying	100
+蒲公英黄	pu gong ying huang	100
+蒲公英盆栽	pu gong ying pen zai	100
+普通	pu tong	100
+启动器	qi dong qi	100
+气泡珊瑚	qi pao shan hu	100
+气泡珊瑚块	qi pao shan hu kuai	100
+气泡珊瑚扇	qi pao shan hu shan	100
+气泡柱	qi pao zhu	100
+旗帜	qi zhi	100
+旗帜图案	qi zhi tu an	100
+茜草花	qian cao hua	100
+潜行	qian xing	100
+潜影贝	qian ying bei	100
+潜影贝导弹	qian ying bei dao dan	100
+潜影盒	qian ying he	100
+潜影壳	qian ying ke	100
+抢夺	qiang duo	100
+墙上的白桦木告示牌	qiang shang de bai hua mu gao shi pai	100
+墙上的丛林木告示牌	qiang shang de cong lin mu gao shi pai	100
+墙上的绯红木告示牌	qiang shang de fei hong mu gao shi pai	100
+墙上的诡异木告示牌	qiang shang de gui yi mu gao shi pai	100
+墙上的金合欢木告示牌	qiang shang de jin he huan mu gao shi pai	100
+墙上的灵魂火把	qiang shang de ling hun huo ba	100
+墙上的深色橡木告示牌	qiang shang de shen se xiang mu gao shi pai	100
+墙上的橡木告示牌	qiang shang de xiang mu gao shi pai	100
+墙上的云杉木告示牌	qiang shang de yun sha mu gao shi pai	100
+鞘翅	qiao chi	100
+切石机	qie shi ji	100
+切制红砂岩	qie zhi hong sha yan	100
+切制红砂岩台阶	qie zhi hong sha yan tai jie	100
+切制砂岩	qie zhi sha yan	100
+切制砂岩台阶	qie zhi sha yan tai jie	100
+清除	qing chu	100
+青花	qing hua	100
+青金石	qing jin shi	100
+青金石块	qing jin shi kuai	100
+青金石矿石	qing jin shi kuang shi	100
+青色染料	qing se ran liao	100
+轻微损坏的铁砧	qing wei sun huai de tie zhen	100
+轻质测重压力板	qing zhi ce zhong ya li ban	100
+丘陵	qiu ling	100
+区块	qu kuai	100
+去皮白桦木	qu pi bai hua mu	100
+去皮白桦原木	qu pi bai hua yuan mu	100
+去皮丛林木	qu pi cong lin mu	100
+去皮丛林原木	qu pi cong lin yuan mu	100
+去皮绯红菌柄	qu pi fei hong jun bing	100
+去皮绯红菌核	qu pi fei hong jun he	100
+去皮诡异菌柄	qu pi gui yi jun bing	100
+去皮诡异菌核	qu pi gui yi jun he	100
+去皮金合欢木	qu pi jin he huan mu	100
+去皮金合欢原木	qu pi jin he huan yuan mu	100
+去皮菌柄	qu pi jun bing	100
+去皮菌核	qu pi jun he	100
+去皮木头	qu pi mu tou	100
+去皮木头或菌核	qu pi mu tou huo jun he	100
+去皮深色橡木	qu pi shen se xiang mu	100
+去皮深色橡木原木	qu pi shen se xiang mu yuan mu	100
+去皮橡木	qu pi xiang mu	100
+去皮橡木原木	qu pi xiang mu yuan mu	100
+去皮原木	qu pi yuan mu	100
+去皮原木或菌柄	qu pi yuan mu huo jun bing	100
+去皮云杉木	qu pi yun sha mu	100
+去皮云杉原木	qu pi yun shan yuan mu	100
+曲奇	qu qi	100
+染料	ran liao	100
+燃料	ran liao	100
+染色玻璃	ran se bo li	100
+染色玻璃板	ran se bo li ban	100
+染色床	ran se chuang	100
+染色地毯	ran se di tan	100
+染色木板	ran se mu ban	100
+染色陶瓦	ran se tao wa	100
+染色羊毛	ran se yang mao	100
+热带草原	re dai cao yuan	100
+热带高原	re dai gao yuan	100
+热带鱼	re dai yu	100
+热带鱼桶	re dai yu tong	100
+热修复	re xiu fu	100
+人类	ren lei	100
+人造	ren zao	100
+熔炉	rong lu	100
+绒球葱	rong qiu cong	100
+绒球葱盆栽	rong qiu cong pen zai	100
+熔岩	rong yan	100
+熔岩海	rong yan hai	100
+熔岩桶	rong yan tong	100
+三叉戟	san cha ji	100
+森林	sen lin	100
+沙盒	sha he	100
+沙砾	sha li	100
+沙砾山地	sha li shan di	100
+砂轮	sha lun	100
+沙漠	sha mo	100
+沙漠湖泊	sha mo hu po	100
+沙漠丘陵	sha mo qiu ling	100
+沙漠神殿	sha mo shen dian	100
+杀手兔	sha shou tu	100
+杀死	sha si	100
+沙滩	sha tan	100
+砂土	sha tu	100
+砂岩	sha yan	100
+砂岩楼梯	sha yan lou ti	100
+砂岩墙	sha yan qiang	100
+砂岩台阶	sha yan tai jie	100
+沙子	sha zi	100
+闪长岩	shan chang yan	100
+闪长岩楼梯	shan chang yan lou ti	100
+闪长岩墙	shan chang yan qiang	100
+闪长岩台阶	shan chang yan tai jie	100
+闪长岩钟	shan chang yan zhong	100
+山地	shan di	100
+山地边缘	shan di bian yuan	100
+闪电	shan dian	100
+闪电苦力怕	shan dian ku li pa	100
+珊瑚	shan hu	100
+珊瑚礁	shan hu jiao	100
+珊瑚块	shan hu kuai	100
+珊瑚扇	shan hu shan	100
+山脉	shan mai	100
+闪烁标语	shan shuo biao yu	100
+闪烁的西瓜片	shan shuo de xi gua pian	100
+伤害吸收	shang hai xi shou	100
+伤害药水	shang hai yao shui	100
+伤害之箭	shang hai zhi jian	100
+上锁的箱子	shang suo de xiang zi	100
+烧炼	shao lian	100
+设置	she zhi	100
+神龟药水	shen gui yao shui	100
+神龟之箭	shen gui zhi jian	100
+深海	shen hai	100
+深海探索者	shen hai tan suo zhe	100
+深色橡木	shen se xiang mu	100
+深色橡木按钮	shen se xiang mu an niu	100
+深色橡木船	shen se xiang mu chuan	100
+深色橡木告示牌	shen se xiang mu gao shi pai	100
+深色橡木活板门	shen se xiang mu huo ban men	100
+深色橡木楼梯	shen se xiang mu lou ti	100
+深色橡木门	shen se xiang mu men	100
+深色橡木木板	shen se xiang mu mu ban	100
+深色橡木台阶	shen se xiang mu tai jie	100
+深色橡木压力板	shen se xiang mu ya li ban	100
+深色橡木原木	shen se xiang mu yuan mu	100
+深色橡木栅栏	shen se xiang mu zha lan	100
+深色橡木栅栏门	shen se xiang mu zha lan men	100
+深色橡树树苗	shen se xiang shu shu miao	100
+深色橡树树苗盆栽	shen se xiang shu shu miao pen zai	100
+深色橡树树叶	shen se xiang shu shu ye	100
+生成	sheng cheng	100
+生存模式	sheng cun mo shi	100
+生鲑鱼	sheng gui yu	100
+生鸡肉	sheng ji rou	100
+生命	sheng ming	100
+生命恢复	sheng ming hui fu	100
+生命提升	sheng ming ti sheng	100
+生命条	sheng ming tiao	100
+生牛肉	sheng niu rou	100
+生苔的巨石	sheng tai de ju shi	100
+生兔肉	sheng tu rou	100
+生物群系	sheng wu qun xi	100
+生物容量	sheng wu rong liang	100
+生物头颅	sheng wu tou lu	100
+生鳕鱼	sheng xue yu	100
+生羊肉	sheng yang rou	100
+生鱼	sheng yu	100
+生猪排	sheng zhu pai	100
+石岸	shi an	100
+矢车菊	shi che ju	100
+矢车菊盆栽	shi che ju pen zai	100
+石锄	shi chu	100
+石斧	shi fu	100
+石镐	shi gao	100
+湿海绵	shi hai mian	100
+石化橡木台阶	shi hua xiang mu tai jie	100
+失活的管珊瑚	shi huo de guan shan hu	100
+失活的管珊瑚块	shi huo de guan shan hu kuai	100
+失活的火珊瑚	shi huo de huo shan hu	100
+失活的火珊瑚块	shi huo de huo shan hu kuai	100
+失活的鹿角珊瑚	shi huo de lu jiao shan hu	100
+失活的鹿角珊瑚块	shi huo de lu jiao shan hu kuai	100
+失活的脑纹珊瑚	shi huo de nao wen shan hu	100
+失活的脑纹珊瑚块	shi huo de nao wen shan hu kuai	100
+失活的气泡珊瑚	shi huo de qi pao shan hu	100
+失活的气泡珊瑚块	shi huo de qi pao shan hu kuai	100
+失活的珊瑚	shi huo de shan hu	100
+失活的珊瑚块	shi huo de shan hu kuai	100
+失活的珊瑚扇	shi huo de shan hu shan	100
+石剑	shi jian	100
+世界界限	shi jie jie xian	100
+尸壳	shi ke	100
+史莱姆	shi lai mu	100
+石楼梯	shi lou ti	100
+失明	shi ming	100
+石锹	shi qiao	100
+石台阶	shi tai jie	100
+实体	shi ti	100
+石头	shi tou	100
+实现	shi xian	100
+石英块	shi ying kuai	100
+石英楼梯	shi ying lou ti	100
+石英台阶	shi ying tai jie	100
+石英柱	shi ying zhu	100
+石英砖	shi ying zhuan	100
+时运	shi yun	100
+石质按钮	shi zhi an niu	100
+石质压力板	shi zhi ya li ban	100
+时钟	shi zhong	100
+石砖	shi zhuan	100
+石砖楼梯	shi zhuan lou ti	100
+石砖墙	shi zhuan qiang	100
+石砖台阶	shi zhuan tai jie	100
+十字准星	shi zi zhun xing	100
+守卫者	shou wei zhe	100
+熟鲑鱼	shu gui yu	100
+熟鸡肉	shu ji rou	100
+书架	shu jia	100
+数据包	shu ju bao	100
+数据更新方块	shu ju geng xin fang kuai	100
+数据值	shu ju zhi	100
+树苗	shu miao	100
+熟兔肉	shu tu rou	100
+熟鳕鱼	shu xue yu	100
+熟羊肉	shu yang rou	100
+树叶	shu ye	100
+熟鱼	shu yu	100
+书与笔	shu yu bi	100
+熟猪排	shu zhu pai	100
+刷怪蛋	shua guai dan	100
+刷怪笼	shua guai long	100
+刷怪笼矿车	shua guai long kuang che	100
+衰变药水	shuai bian yao shui	100
+衰变之箭	shuai bian zhi jian	100
+摔落保护	shuai luo bao hu	100
+拴绳	shuan sheng	100
+霜冰	shuang bing	100
+双持	shuang chi	100
+霜炙更新	shuang zhi geng xin	100
+水肺药水	shui fei yao shui	100
+水肺之箭	shui fei zhi jian	100
+睡莲	shui lian	100
+水瓶	shui ping	100
+水桶	shui tong	100
+水下呼吸	shui xia hu xi	100
+水下速掘	shui xia su jue	100
+水域更新	shui yu geng xin	100
+速度	su du	100
+燧石	sui shi	100
+损害值	sun hai zhi	100
+损坏的铁砧	sun huai de tie zhen	100
+缩放	suo fang	100
+锁链	suo lian	100
+锁链护腿	suo lian hu tui	100
+锁链盔甲	suo lian kui jia	100
+锁链头盔	suo lian tou kui	100
+锁链胸甲	suo lian xiong jia	100
+锁链靴子	suo lian xue zi	100
+缩略图	suo lue tu	100
+台阶	tai jie	100
+苔石	tai shi	100
+苔石楼梯	tai shi lou ti	100
+苔石墙	tai shi qiang	100
+苔石台阶	tai shi tai jie	100
+苔石砖	tai shi zhuan	100
+苔石砖楼梯	tai shi zhuan lou ti	100
+苔石砖墙	tai shi zhuan qiang	100
+苔石砖台阶	tai shi zhuan tai jie	100
+抬头显示器	tai tou xian shi qi	100
+探测铁轨	tan ce tie gui	100
+弹射物	tan she wu	100
+弹射物保护	tan she wu bao hu	100
+探索更新	tan suo geng xin	100
+探险更新	tan xian geng xin	100
+探险家地图	tan xian jia di tu	100
+陶瓦	tao wa	100
+特性	te xing	100
+藤蔓	teng wan	100
+提及特性	ti ji te xing	100
+梯子	ti zi	100
+甜菜	tian cai	100
+甜菜根	tian cai gen	100
+甜菜汤	tian cai tang	100
+甜菜种子	tian cai zhong zi	100
+甜浆果	tian jiang guo	100
+甜浆果丛	tian jiang guo cong	100
+天域	tian yu	100
+调试棒	tiao shi bang	100
+调试界面	tiao shi jie mian	100
+调试模式	tiao shi mo shi	100
+跳跃提升	tiao yue ti sheng	100
+跳跃药水	tiao yue yao shui	100
+跳跃之箭	tiao yue zhi jian	100
+铁锄	tie chu	100
+铁锭	tie ding	100
+铁斧	tie fu	100
+铁镐	tie gao	100
+铁轨	tie gui	100
+铁护腿	tie hu tui	100
+铁活板门	tie huo ban men	100
+铁剑	tie jian	100
+铁块	tie kuai	100
+铁矿石	tie kuang shi	100
+铁傀儡	tie kui lei	100
+铁栏杆	tie lan gan	100
+铁粒	tie li	100
+铁马铠	tie ma kai	100
+铁门	tie men	100
+铁锹	tie qiao	100
+铁头盔	tie tou kui	100
+铁胸甲	tie xiong jia	100
+铁靴子	tie xue zi	100
+铁砧	tie zhen	100
+铁质工具	tie zhi gong ju	100
+铁质盔甲	tie zhi kui jia	100
+头盔	tou kui	100
+投掷器	tou zhi qi	100
+图例	tu li	100
+兔肉煲	tu rou bao	100
+图形用户界面	tu xing yong hu jie mian	100
+兔子	tu zi	100
+兔子脚	tu zi jiao	100
+兔子皮	tu zi pi	100
+推送通知	tui song tong zhi	100
+挖掘	wa jue	100
+挖掘疲劳	wa jue pi lao	100
+玩家	wan jia	100
+玩家头颅	wan jia tou lu	100
+亡灵杀手	wang ling sha shou	100
+卫道士	wei dao shi	100
+维度	wei du	100
+伪木台阶	wei mu tai jie	100
+未使用特性	wei shi yong te xing	100
+温水海洋	wen shui hai yang	100
+温水深海	wen shui shen hai	100
+嗡嗡蜂群	weng weng feng qun	100
+物品栏	wu pin lan	100
+物品展示框	wu pin zhan shi kuang	100
+无限	wu xian	100
+西瓜	xi gua	100
+西瓜茎	xi gua jing	100
+西瓜片	xi gua pian	100
+西瓜种子	xi gua zhong zi	100
+袭击	xi ji	100
+稀有度	xi you du	100
+下界	xia jie	100
+下界传送门	xia jie chuan song men	100
+下界传送门方块	xia jie chuan song men fang kuai	100
+下界反应器	xia jie fan ying qi	100
+下界合金锄	xia jie he jin chu	100
+下界合金锭	xia jie he jin ding	100
+下界合金斧	xia jie he jin fu	100
+下界合金镐	xia jie he jin gao	100
+下界合金护腿	xia jie he jin hu tui	100
+下界合金剑	xia jie he jin jian	100
+下界合金块	xia jie he jin kuai	100
+下界合金锹	xia jie he jin qiao	100
+下界合金碎片	xia jie he jin sui pian	100
+下界合金头盔	xia jie he jin tou kui	100
+下界合金胸甲	xia jie he jin xiong jia	100
+下界合金靴子	xia jie he jin xue zi	100
+下界荒地	xia jie huang di	100
+下界金矿石	xia jie jin kuang shi	100
+下界苗	xia jie miao	100
+下界木板	xia jie mu ban	100
+下界木质台阶	xia jie mu zhi tai jie	100
+下界木质栅栏	xia jie mu zhi zha lan	100
+下界石英	xia jie shi ying	100
+下界石英矿石	xia jie shi ying kuang shi	100
+下界岩	xia jie yan	100
+下界要塞	xia jie yao sai	100
+下界疣	xia jie you	100
+下界疣块	xia jie you kuai	100
+下界之星	xia jie zhi xing	100
+下界砖	xia jie zhuan	100
+下界砖块	xia jie zhuan kuai	100
+下界砖楼梯	xia jie zhuan lou ti	100
+下界砖墙	xia jie zhuan qiang	100
+下界砖台阶	xia jie zhuan tai jie	100
+下界砖栅栏	xia jie zhuan zha lan	100
+陷阱箱	xian jing xiang	100
+仙人掌	xian ren zhang	100
+仙人掌绿	xian ren zhang lv	100
+仙人掌盆栽	xian ren zhang pen zai	100
+镶金黑石	xiang jin hei shi	100
+橡木	xiang mu	100
+橡木按钮	xiang mu an niu	100
+橡木船	xiang mu chuan	100
+橡木告示牌	xiang mu gao shi pai	100
+橡木活板门	xiang mu huo ban men	100
+橡木楼梯	xiang mu lou ti	100
+橡木门	xiang mu men	100
+橡木木板	xiang mu mu ban	100
+橡木台阶	xiang mu tai jie	100
+橡木压力板	xiang mu ya li ban	100
+橡木原木	xiang mu yuan mu	100
+橡木栅栏	xiang mu zha lan	100
+橡木栅栏门	xiang mu zha lan men	100
+向日葵	xiang ri kui	100
+向日葵平原	xiang ri kui ping yuan	100
+橡树树苗	xiang shu shu miao	100
+橡树树苗盆栽	xiang shu shu miao pen zai	100
+橡树树叶	xiang shu shu ye	100
+箱子	xiang zi	100
+箱子战利品	xiang zi zhan li pin	100
+小丑鱼	xiao chou yu	100
+效果区域云	xiao guo qu yu yun	100
+效率	xiao lv	100
+小麦	xiao mai	100
+小麦种子	xiao mai zhong zi	100
+消歧义	xiao qi yi	100
+消失	xiao shi	100
+消失诅咒	xiao shi zu zhou	100
+效用型	xiao yong xing	100
+携带版	xie dai ban	100
+信标	xin biao	100
+新内容	xin nei rong	100
+新手	xin shou	100
+性能	xing neng	100
+行商羊驼	xing shang yang tuo	100
+行为	xing wei	100
+幸运	xing yun	100
+幸运药水	xing yun yao shui	100
+幸运之箭	xing yun zhi jian	100
+胸甲	xiong jia	100
+熊猫	xiong mao	100
+修复	xiu fu	100
+修改	xiu gai	100
+虚空	xu kong	100
+虚空空气	xu kong kong qi	100
+虚拟型	xu ni xing	100
+虚弱	xu ruo	100
+虚弱药水	xu ruo yao shui	100
+虚弱之箭	xu ruo zhi jian	100
+选定	xuan ding	100
+玄武岩	xuan wu yan	100
+玄武岩三角洲	xuan wu yan san jiao zhou	100
+玄武岩柱	xuan wu yan zhu	100
+选项	xuan xiang	100
+雪块	xue kuai	100
+雪傀儡	xue kui lei	100
+雪球	xue qiu	100
+雪山	xue shan	100
+学徒	xue tu	100
+雪屋	xue wu	100
+鳕鱼	xue yu	100
+鳕鱼桶	xue yu tong	100
+靴子	xue zi	100
+驯服的狼	xun fu de lang	100
+循环型命令方块	xun huan xing ming ling fang kuai	100
+循环型命令方块矿车	xun huan xing ming ling fang kuai kuang che	100
+迅捷药水	xun jie yao shui	100
+迅捷之箭	xun jie zhi jian	100
+压力板	ya li ban	100
+烟花火箭	yan hua huo jian	100
+烟火之星	yan huo zhi xing	100
+岩浆膏	yan jiang gao	100
+岩浆怪	yan jiang guai	100
+岩浆块	yan jiang kuai	100
+演示版	yan shi ban	100
+演示模式	yan shi mo shi	100
+烟熏炉	yan xun lu	100
+严重损坏的铁砧	yan zhong sun huai de tie zhen	100
+阳光探测器	yang guang tan ce qi	100
+羊毛	yang mao	100
+样式代码	yang shi dai ma	100
+羊驼	yang tuo	100
+羊驼唾沫	yang tuo tuo mo	100
+药箭	yao jian	100
+要塞	yao sai	100
+药水	yao shui	100
+夜视	ye shi	100
+夜视药水	ye shi yao shui	100
+夜视之箭	ye shi zhi jian	100
+移除了	yi chu le	100
+移动中的方块	yi dong zhong de fang kuai	100
+移动中的活塞	yi dong zhong de huo sai	100
+已锁定的地图	yi suo ding de di tu	100
+已移除特性	yi yi chu te xing	100
+音符盒	yin fu he	100
+引雷	yin lei	100
+隐身	yin shen	100
+隐身药水	yin shen yao shui	100
+隐身之箭	yin shen zhi jian	100
+音乐唱片	yin yue chang pian	100
+营火	ying huo	100
+荧石	ying shi	100
+荧石堆	ying shi dui	100
+荧石粉	ying shi fen	100
+鹦鹉	ying wu	100
+鹦鹉螺壳	ying wu luo ke	100
+用法	yong fa	100
+用途	yong tu	100
+游戏内容	you xi nei rong	100
+鱿鱼	you yu	100
+疣猪兽	you zhu shou	100
+语法	yu fa	100
+预发布版	yu fa bu ban	100
+郁金香	yu jin xiang	100
+羽毛	yu mao	100
+虞美人	yu mei ren	100
+虞美人盆栽	yu mei ren pen zai	100
+鱼木桶	yu mu tong	100
+原版	yuan ban	100
+远古残骸	yuan gu can hai	100
+远古守卫者	yuan gu shou wei zhe	100
+原木	yuan mu	100
+原木或菌柄	yuan mu huo jun bing	100
+圆石	yuan shi	100
+圆石或黑石	yuan shi huo hei shi	100
+圆石楼梯	yuan shi lou ti	100
+圆石墙	yuan shi qiang	100
+圆石台阶	yuan shi tai jie	100
+原主机版	yuan zhu ji ban	100
+云杉木	yun sha mu	100
+云杉木按钮	yun sha mu an niu	100
+云杉木告示牌	yun sha mu gao shi pai	100
+云杉木活板门	yun sha mu huo ban men	100
+云杉木楼梯	yun sha mu lou ti	100
+云杉木台阶	yun sha mu tai jie	100
+云杉木压力板	yun sha mu ya li ban	100
+云杉木板	yun shan mu ban	100
+云杉木船	yun shan mu chuan	100
+云杉木门	yun shan mu men	100
+云杉木栅栏	yun shan mu zha lan	100
+云杉木栅栏门	yun shan mu zha lan men	100
+云杉树苗	yun shan shu miao	100
+云杉树苗盆栽	yun shan shu miao pen zai	100
+云杉树叶	yun shan shu ye	100
+云杉原木	yun shan yuan mu	100
+运输	yun shu	100
+运输矿车	yun shu kuang che	100
+灾厄村民	zai e cun min	100
+灾厄队长	zai e dui zhang	100
+灾厄旗帜	zai e qi zhi	100
+灾厄巡逻队	zai e xun luo dui	100
+载具	zai ju	100
+再生药水	zai sheng yao shui	100
+再生之箭	zai sheng zhi jian	100
+錾制红砂岩	zan zhi hong sha yan	100
+錾制磨制黑石	zan zhi mo zhi hei shi	100
+錾制砂岩	zan zhi sha yan	100
+錾制石英块	zan zhi shi ying kuai	100
+錾制石砖	zan zhi shi zhuan	100
+錾制下界砖块	zan zhi xia jie zhuan kuai	100
+栅栏	zha lan	100
+栅栏门	zha lan men	100
+战利品表	zhan li pin biao	100
+占位符	zhan wei fu	100
+沼泽	zhao ze	100
+沼泽山丘	zhao ze shan qiu	100
+沼泽小屋	zhao ze xiao wu	100
+侦测器	zhen ce qi	100
+针叶林	zhen ye lin	100
+针叶林丘陵	zhen ye lin qiu ling	100
+针叶林山地	zhen ye lin shan di	100
+正式版	zheng shi ban	100
+织布机	zhi bu ji	100
+制箭台	zhi jian tai	100
+治疗药水	zhi liao yao shui	100
+治疗之箭	zhi liao zhi jian	100
+滞留型迟缓药水	zhi liu xing chi huan yao shui	100
+滞留型粗制的药水	zhi liu xing cu zhi de yao shui	100
+滞留型缓降药水	zhi liu xing huan jiang yao shui	100
+滞留型剧毒药水	zhi liu xing ju du yao shui	100
+滞留型抗火药水	zhi liu xing kang huo yao shui	100
+滞留型力量药水	zhi liu xing li liang yao shui	100
+滞留型浓稠的药水	zhi liu xing nong chou de yao shui	100
+滞留型平凡的药水	zhi liu xing ping fan de yao shui	100
+滞留型伤害药水	zhi liu xing shang hai yao shui	100
+滞留型神龟药水	zhi liu xing shen gui yao shui	100
+滞留型衰变药水	zhi liu xing shuai bian yao shui	100
+滞留型水肺药水	zhi liu xing shui fei yao shui	100
+滞留型水瓶	zhi liu xing shui ping	100
+滞留型跳跃药水	zhi liu xing tiao yue yao shui	100
+滞留型幸运药水	zhi liu xing xing yun yao shui	100
+滞留型虚弱药水	zhi liu xing xu ruo yao shui	100
+滞留型迅捷药水	zhi liu xing xun jie yao shui	100
+滞留型夜视药水	zhi liu xing ye shi yao shui	100
+滞留型隐身药水	zhi liu xing yin shen yao shui	100
+滞留型再生药水	zhi liu xing zai sheng yao shui	100
+滞留型治疗药水	zhi liu xing zhi liao yao shui	100
+滞留药水	zhi liu yao shui	100
+指南针	zhi nan zhen	100
+知识之书	zhi shi zhi shu	100
+制图台	zhi tu tai	100
+蜘蛛	zhi zhu	100
+蜘蛛骑士	zhi zhu qi shi	100
+蜘蛛网	zhi zhu wang	100
+蜘蛛眼	zhi zhu yan	100
+忠诚	zhong cheng	100
+中毒	zhong du	100
+重质测重压力板	zhong zhi ce zhong ya li ban	100
+种子	zhong zi	100
+竹林	zhu lin	100
+竹林丘陵	zhu lin qiu ling	100
+猪灵	zhu ling	100
+猪人	zhu ren	100
+主世界	zhu shi jie	100
+主世界木板	zhu shi jie mu ban	100
+主世界木头	zhu shi jie mu tou	100
+主世界木质台阶	zhu shi jie mu zhi tai jie	100
+主世界木质栅栏	zhu shi jie mu zhi zha lan	100
+主世界去皮木头	zhu shi jie qu pi mu tou	100
+主世界去皮原木	zhu shi jie qu pi yuan mu	100
+主世界原木	zhu shi jie yuan mu	100
+竹笋	zhu sun	100
+竹子	zhu zi	100
+竹子盆栽	zhu zi pen zai	100
+专家	zhuan jia	100
+砖块	zhuan kuai	100
+砖块墙	zhuan kuai qiang	100
+砖楼梯	zhuan lou ti	100
+砖台阶	zhuan tai jie	100
+状态效果	zhuang tai xiao guo	100
+装填箭的弩	zhuang tian jian de nu	100
+装填烟花的弩	zhuang tian yan hua de nu	100
+准星	zhun xing	100
+自定义	zi ding yi	100
+字段	zi duan	100
+字符串	zi fu chuan	100
+紫珀块	zi po kuai	100
+紫珀楼梯	zi po lou ti	100
+紫珀台阶	zi po tai jie	100
+紫珀柱	zi po zhu	100
+自然	zi ran	100
+紫色染料	zi se ran liao	100
+紫颂果	zi song guo	100
+紫颂花	zi song hua	100
+紫颂植物	zi song zhi wu	100
+自选	zi xuan	100
+资源	zi yuan	100
+棕色巨型蘑菇	zong se ju xing mo gu	100
+棕色蘑菇	zong se mo gu	100
+棕色蘑菇方块	zong se mo gu fang kuai	100
+棕色蘑菇盆栽	zong se mo gu pen zai	100
+棕色染料	zong se ran liao	100
+组件	zu jian	100
+钻石	zuan shi	100
+钻石锄	zuan shi chu	100
+钻石斧	zuan shi fu	100
+钻石镐	zuan shi gao	100
+钻石护腿	zuan shi hu tui	100
+钻石剑	zuan shi jian	100
+钻石块	zuan shi kuai	100
+钻石矿石	zuan shi kuang shi	100
+钻石马铠	zuan shi ma kai	100
+钻石锹	zuan shi qiao	100
+钻石头盔	zuan shi tou kui	100
+钻石胸甲	zuan shi xiong jia	100
+钻石靴子	zuan shi xue zi	100

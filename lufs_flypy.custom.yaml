@@ -1,0 +1,5 @@
+__patch:
+# Rx: BlindingDark/rime-lua-select-character:customize:schema=lufs_flypy {
+  - patch/+:
+      __include: lua_select_character:/patch
+# }
