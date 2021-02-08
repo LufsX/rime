@@ -17,7 +17,7 @@ import_tables:
   - pinyin_simp # 最小拼音词典
 
   # 一点点小小的私货，有需要的可以自行开启呢
-  - pinyin_minecraft # Minecraft 词条
-  - pinyin_genshin # 原神
-  - pinyin_touhou # 东方 Project
+  # - pinyin_minecraft # Minecraft 词条
+  # - pinyin_genshin # 原神
+  # - pinyin_touhou # 东方 Project
 ...
