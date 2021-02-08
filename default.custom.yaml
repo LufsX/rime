@@ -2,6 +2,7 @@ patch:
   schema_list:
     - schema: lufs_flypy # 小鹤双拼
     - schema: lufs_pinyin # 朙月拼音
+  switcher/caption: "[方案菜单]"
   switcher/hotkeys:
     - F2
   switcher/save_options:
