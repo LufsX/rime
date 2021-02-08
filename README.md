@@ -1,4 +1,5 @@
 # Rime
+[GitHub](https://github.com/LufsX/rime) | [Gitee](https://gitee.com/LufsX/rime)
 
 我的鼠须管配置文件～
 
@@ -21,9 +22,12 @@
 3. 将本仓库所有文件复制到 `~/Library/Rime/`
 4. 重新部署鼠须管
 
-Warning: 下载页面的文件并不是按照时间排序，请依据[提交哈希](https://github.com/rime/squirrel/commits/master)寻找最新版本。
+Warning:
+- 下载页面的文件并不是按照时间排序，请依据[提交哈希](https://github.com/rime/squirrel/commits/master)寻找最新版本。
 
-Tips: 国内 GitHub 速度不理想/无法下载可以尝试使用 [Cloudflare 代理下载](https://gh.isteed.cc/https://github.com/LufsX/rime/archive/master.zip)
+Tips:
+- 国内 GitHub 无法下载可以尝试使用 [Cloudflare 代理下载](https://gh.isteed.cc/https://github.com/LufsX/rime/archive/master.zip)
+- 或使用 [Gitee 镜像](https://gitee.com/LufsX/rime)
 
 # 待办
 
