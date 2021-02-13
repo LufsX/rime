@@ -3,8 +3,8 @@
 我的鼠须管配置文件～
 
 - OS: macOS 10.15.7
-- version: 0.15.1+git5075034
-- Date: 2021-02-12
+- version: 0.15.2+git44c7c46
+- Date: 2021-02-14
 
 # 预览
 
@@ -33,13 +33,17 @@ Tips:
 # 特性
 
 - 「小鹤双拼」+「朙月拼音」
-- 8104 简体字，基于 [placeless/squirrel_config](https://github.com/placeless/squirrel_config)
-- 长句模型，[placeless/squirrel_config](https://github.com/placeless/squirrel_config)
-- 以词定字，[BlindingDark/rime-lua-select-character](https://github.com/BlindingDark/rime-lua-select-character)
-- [部分搜狗词库](https://pinyin.sogou.com/dict/)
+- 8104 简体字
+- 长句模型
+- 以词定字
+- 搜狗词库（夹带私货）
 - 自定义词典（自造词）
-- 词库总大小仅 5.7MB
+- 词库总大小仅 `5.7MB`
+- `Caps` 切换英文输入法
 
-# 待办
+# 感谢/参考
 
-- [x] 添加使用文档及特性
+- [rime/squirrel](https://github.com/rime/squirrel)
+- [placeless/squirrel_config](https://github.com/placeless/squirrel_config)
+- [BlindingDark/rime-lua-select-character](https://github.com/BlindingDark/rime-lua-select-character)
+- [搜狗词库](https://pinyin.sogou.com/dict/)
