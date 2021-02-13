@@ -3,7 +3,7 @@
 我的鼠须管配置文件～
 
 - OS: macOS 10.15.7
-- version: 0.15.2+git44c7c46
+- version: [0.15.2+git44c7c46](https://dl.bintray.com/rime/squirrel/Squirrel-0.15.2+git44c7c46.zip)
 - Date: 2021-02-14
 
 # 预览
