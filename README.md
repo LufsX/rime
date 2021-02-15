@@ -1,10 +1,20 @@
 # [Rime](https://github.com/LufsX/rime)
 
-我的鼠须管配置文件～
+我的 Rime 配置文件～
+
+## macOS
 
 - OS: macOS 10.15.7
-- version: [0.15.2+git44c7c46](https://dl.bintray.com/rime/squirrel/Squirrel-0.15.2+git44c7c46.zip)
-- Date: 2021-02-14
+- Version: [0.15.2+git44c7c46](https://dl.bintray.com/rime/squirrel/Squirrel-0.15.2+git44c7c46.zip)
+- Date: 2021-02-16
+
+## Windows
+
+> 个人主要使用 macOS，所以这个配置可能会有些问题～
+
+- OS: Windows 10 20H2
+- Version: [0.14.3](https://dl.bintray.com/rime/weasel/weasel-0.14.3.0-installer.exe)
+- Date: 2021-02-16
 
 # 预览
 
