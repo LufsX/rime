@@ -49,7 +49,8 @@ engine:
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba/
   delimiter: " '"
-  algebra: {}
+  algebra:
+    - abbrev/^(.).+$/$1/
 
 translator:
   dictionary: extended
