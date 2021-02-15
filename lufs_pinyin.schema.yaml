@@ -44,15 +44,12 @@ engine:
   filters:
     - simplifier
     - uniquifier
+    - single_char_filter
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba/
   delimiter: " '"
-  algebra:
-    __patch:
-      - pinyin:/abbreviation
-      - pinyin:/spelling_correction
-      - pinyin:/key_correction
+  algebra: {}
 
 translator:
   dictionary: extended
@@ -60,19 +57,11 @@ translator:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
+  contextual_suggestions: true
+  max_homophones: 7
 
 grammar:
   language: zh-hans-t-essay-bgw
-
-custom_phrase:
-  dictionary: ""
-  user_dict: custom_phrase
-  db_class: stabledb
-  enable_completion: false
-  enable_sentence: false
-  initial_quality: 1
-
-reverse_lookup: {}
 
 punctuator:
   import_preset: symbols
@@ -114,6 +103,10 @@ recognizer:
     camel: "[a-z]+[A-Z].*$"
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]{1,11}[.:_].*$"
 
-# __patch:
-#   # 用户自选配置
-#   - luna_pinyin.custom:/patch?
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: true
+  initial_quality: 1

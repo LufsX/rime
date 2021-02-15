@@ -1,0 +1,56 @@
+patch:
+  style:
+    display_tray_icon: false
+    horizontal: true
+    font_point: 13
+    layout:
+      border_width: 0
+      border: 0
+      margin_x: 12
+      margin_y: 12
+      hilite_padding: 12
+      hilite_spacing: 3
+      spacing: 10
+      candidate_spacing: 24
+      round_corner: 0
+    color_scheme: ayaya
+
+  preset_color_schemes:
+    apathy:
+      name: "冷漠／Apathy"
+      author: "LIANG Hai"
+      back_color: 0xFFFFFF
+      border_height: 0
+      border_width: 8
+      candidate_format: "%c\u2005%@"
+      comment_text_color: 0x999999
+      corner_radius: 5
+      font_point: 16
+      font_face: "Microsoft YaHei"
+      hilited_candidate_back_color: 0xFFF0E4
+      hilited_candidate_text_color: 0xEE6E00
+      horizontal: true
+      inline_preedit: true
+      label_font_point: 12
+      border_color: 0xffffff
+      text_color: 0x424242
+    ayaya:
+      name: "文文／Ayaya"
+      author: "Lufs <i@isteed.cc>"
+      border_color: 0xffffff
+      horizontal: true
+      inline_preedit: true
+      candidate_format: "%c\u2005%@"
+      corner_radius: 5
+      border_height: 0
+      border_width: 0
+      font_point: 16
+      label_font_point: 12
+      back_color: 0xFFFFFF
+      candidate_text_color: 0x121212
+      comment_text_color: 0x8E8E8E
+      hilited_candidate_back_color: 0xECE4FC
+      hilited_candidate_label_color: 0xB18FF4
+      hilited_candidate_text_color: 0x7A40EC
+      label_color: 0x888785
+      text_color: 0x8100EB
