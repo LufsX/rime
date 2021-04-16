@@ -25,10 +25,11 @@ switches:
 engine:
   processors:
     - recognizer
+    - lua_processor@select_character_processor
     - key_binder
     - speller
-    - punctuator
     - selector
+    - punctuator
     - navigator
     - express_editor
   segmentors:
