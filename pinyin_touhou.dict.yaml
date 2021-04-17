@@ -4,7 +4,7 @@
 
 ---
 name: pinyin_touhou
-version: "2020-10-07"
+version: "2021-03-13"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -17,6 +17,7 @@ use_preset_vocabulary: false
 奥莲姬	ao lian ji	100
 八坂神奈子	ba ban shen nai zi	100
 八亿	ba yi	100
+八意健身操	ba yi jian shen cao	100
 八意永琳	ba yi yong lin	100
 八云蓝	ba yun lan	100
 八云紫	ba yun zi	100
@@ -52,6 +53,7 @@ use_preset_vocabulary: false
 东方绀珠传	dong fang gan zhu chuan	100
 东方怪绮谈	dong fang guai qi tan	100
 东方鬼形兽	dong fang gui xing shou	100
+东方虹龙洞	dong fang hong long dong	100
 东方红魔乡	dong fang hong mo xiang	100
 东方花映冢	dong fang hua ying zhong	100
 东方幻想乡	dong fang huan xiang xiang	100
@@ -250,7 +252,7 @@ use_preset_vocabulary: false
 小恶魔	xiao e mo	100
 小兔姬	xiao tu ji	100
 小野冢小町	xiao ye zhong xiao ding	100
-泄矢诹访子	xie shi zou fang zi	100
+洩矢诹访子	xie shi zou fang zi	100
 星熊勇仪	xing xiong yong yi	100
 续关	xu guan	100
 玄武之泽	xuan wu zhi ze	100
@@ -285,3 +287,4 @@ use_preset_vocabulary: false
 朱鹭子	zhu lu zi	100
 灼热地狱迹	zhuo re di yu ji	100
 紫妈	zi ma	100
+诹访大舞	zou fang da wu	100
