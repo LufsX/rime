@@ -9,15 +9,18 @@ vocabulary: essay-zh-hans
 use_preset_vocabulary: false
 
 import_tables:
-  - pinyin_computer # 计算机名词
-  - pinyin_essay # 通用词组
+  - pinyin_animal # 动物
+  - pinyin_caijing # 财经
+  - pinyin_food # 饮食
   - pinyin_idiom # 成语俗语
-  - pinyin_kaifa # 开发
+  - pinyin_IT # IT
+  - pinyin_medical # 医学
   - pinyin_net # 网络流行语
+  - pinyin_renmingdiming # 人名地名
 
   # 一点点小小的私货，不需要的可以自行关闭呢
-  - pinyin_minecraft # Minecraft 词条
   - pinyin_genshin # 原神
+  - pinyin_minecraft # Minecraft 词条
   - pinyin_touhou # 东方 Project
 
   # 覆盖词频

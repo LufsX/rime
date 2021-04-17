@@ -6,9 +6,10 @@
 name: pinyin_net
 version: "2021-04-08"
 sort: by_weight
-use_preset_vocabulary: false
 ...
 
+小鹤	xiao he
+小鹤双拼	xiao he shuang pin
 阿巴阿巴	a ba a ba
 阿巴巴	a ba ba
 阿巴巴巴	a ba ba ba

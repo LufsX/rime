@@ -28,29 +28,43 @@ Apple ID	appleid
 CSS	css
 Dropbox	dropbox
 GBK	gbk
-GUN/Linux linux
 GitHub	github
-Google	google
 Google Analytics	ga
+Google	google
+GUN/Linux linux
 HTML	html
+iCloud	icloud
+iMac	imac
+iOS	ios
+iPad	ipad
+iPad	ipad
+iPhone	iphone
+iPhone Xʀ	iphonexr
+iPod	ipod
 IPTV	iptv
 IPv4	ipv
 IPv6	ipv
+iTunes	itunes
 JavaScript js
+jQuery	jquery
 Linux	linux
-Mac	mac
 Mac App Store	mas
-MacBook	macbook
+Mac	mac
 MacBook Air	mba
+MacBook	macbook
 MacBook Pro	mbp
+macOS Catalina	macos
+macOS High Sierra	macos
+macOS	macos
+macOS Mojave	macos
 Magisk	magisk
 Minecraft	minecraft
 MySQL	mysql
-OS X	osx
 Objective-C	ojbc
 OneDrive	onedrive
+OS X	osx
 Pixel	pixel
-QQ邮箱	qqyzxl
+QQ 邮箱	qqyzxl
 Quantumult	quan
 Ruby	ruby
 Rust	rust
@@ -65,21 +79,7 @@ Wi-Fi	wifi
 X-Ray	xray
 Xbox One	xbox
 Xʀ	xr
-YouTube	youtube
 Youku	youku
-iCloud	icloud
-iMac	imac
-iOS	ios
-iPad	ipad
-iPad	ipad
-iPhone	iphone
-iPhone Xʀ	iphonexr
-iPod	ipod
-iTunes	itunes
-jQuery	jquery
-macOS	macos
-macOS Catalina	macos
-macOS High Sierra	macos
-macOS Mojave	macos
+YouTube	youtube
 又双叒叕	yyy
 又双叒叕	yzyz

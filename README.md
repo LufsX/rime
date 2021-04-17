@@ -6,11 +6,11 @@
 
 - OS: macOS 10.15.7
 - Version: [0.15.2+git44c7c46](https://dl.bintray.com/rime/squirrel/Squirrel-0.15.2+git44c7c46.zip)
-- Date: 2021-02-16
+- Date: 2021-04-18
 
 ## Windows
 
-> 个人主要使用 macOS，所以这个配置可能会有些问题～
+> 个人主要使用 macOS，所以这个配置可能会有些小问题～
 
 - OS: Windows 10 20H2
 - Version: [0.14.3](https://dl.bintray.com/rime/weasel/weasel-0.14.3.0-installer.exe)
@@ -46,19 +46,21 @@ Tips:
 - 8104 简体字
 - 长句模型
 - 以词定字
+- THUOCL 词库
 - 搜狗词库（夹带私货）
 - 自定义词典（自造词）
-- 词库总大小仅 `5.7MB`
+- 词库总大小仅 `7.0MB`（包括八股文仅 `9.8MB`）
 - `Caps` 切换英文输入法（小狼毫无法享受）
 
 # 代办
 
-- [ ] 更新搜狗词库
+- [x] 更新搜狗词库 Update: 2021-04-18
 - [ ] 添加深色主题
 
 # 感谢/参考
 
-- [rime/squirrel](https://github.com/rime/squirrel)
-- [placeless/squirrel_config](https://github.com/placeless/squirrel_config)
 - [BlindingDark/rime-lua-select-character](https://github.com/BlindingDark/rime-lua-select-character)
+- [placeless/squirrel_config](https://github.com/placeless/squirrel_config)
+- [rime/squirrel](https://github.com/rime/squirrel)
+- [thunlp/THUOCL](https://github.com/thunlp/THUOCL)
 - [搜狗词库](https://pinyin.sogou.com/dict/)
