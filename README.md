@@ -6,7 +6,7 @@
 
 - OS: macOS 10.15.7
 - Version: [0.15.2+git44c7c46](https://dl.bintray.com/rime/squirrel/Squirrel-0.15.2+git44c7c46.zip)
-- Date: 2021-04-18
+- Date: 2021-04-23
 
 ## Windows
 
@@ -31,28 +31,29 @@
 3. 将本仓库所有文件复制到 `~/Library/Rime/`
 4. 重新部署鼠须管
 
-Warning:
+注意:
 
 - 下载页面的文件并不是按照时间排序，请依据[提交哈希](https://github.com/rime/squirrel/commits/master)寻找最新版本。
 
-Tips:
+小技巧:
 
-- 国内 GitHub 无法下载可以尝试使用 [Cloudflare 代理下载](https://gh.isteed.cc/https://github.com/LufsX/rime/archive/master.zip)
+- 国内 GitHub 无法下载可以尝试使用 [Cloudflare 加速下载](https://gh.isteed.cc/https://github.com/LufsX/rime/archive/master.zip)
 - 或使用 [Gitee 镜像](https://gitee.com/LufsX/rime)（须登录，不推荐使用）
 
 # 特性
 
 - 「小鹤双拼」+「朙月拼音」
-- 8104 简体字
 - 长句模型
 - 以词定字
+- 8104 简体字
 - THUOCL 词库
 - 搜狗词库（夹带私货）
 - 自定义词典（自造词）
+- 快捷输入（日期，时间，星期）
 - 词库总大小仅 `7.0MB`（包括八股文仅 `9.8MB`）
 - `Caps` 切换英文输入法（小狼毫无法享受）
 
-# 代办
+# 待办
 
 - [x] 更新搜狗词库 Update: 2021-04-18
 - [ ] 添加深色主题
@@ -60,6 +61,7 @@ Tips:
 # 感谢/参考
 
 - [BlindingDark/rime-lua-select-character](https://github.com/BlindingDark/rime-lua-select-character)
+- [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian/)
 - [placeless/squirrel_config](https://github.com/placeless/squirrel_config)
 - [rime/squirrel](https://github.com/rime/squirrel)
 - [thunlp/THUOCL](https://github.com/thunlp/THUOCL)
