@@ -3,6 +3,7 @@ patch:
   app_options: {} # 清除应用默认输入法，防止无法输入中文（通过 Caps 切换中英文）
   style:
     color_scheme: ayaya
+    translucency: true # 背景半透明总开关，不需要关掉即可
 
   preset_color_schemes:
     ayaya:
@@ -21,7 +22,7 @@ patch:
       label_font_point: 12 # 候选编号大小
 
       # 颜色
-      back_color: 0xFFFFFF # 候选条背景色，24位色值，16进制，BGR顺序
+      back_color: 0xAEFFFFFF # 候选条背景色，24位色值，16进制，ABGR顺序
       candidate_text_color: 0x121212 # 预选项文字颜色
       comment_text_color: 0x8E8E8E # 拼音等提示文字颜色
       hilited_candidate_back_color: 0xECE4FC # 候选文字背景色
