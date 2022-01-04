@@ -1,13 +1,15 @@
 # Rime dictionary
 # encoding: utf-8
-# source: https://pinyin.sogou.com/dict/detail/index/121267
+# source: https://pinyin.sogou.com/dict/detail/index/124017
 
 ---
 name: pinyin_minecraft
-version: "2020-06-25"
+version: "2021-11-04"
 sort: by_weight
 ...
 
+阿克塞尔	a ke sai er
+艾弗	ai fu
 暗海晶石	an hai jing shi
 暗海晶石楼梯	an hai jing shi lou ti
 暗海晶石台阶	an hai jing shi tai jie
@@ -16,6 +18,8 @@ sort: by_weight
 安山岩楼梯	an shan yan lou ti
 安山岩墙	an shan yan qiang
 安山岩台阶	an shan yan tai jie
+奥利维亚	ao li wei ya
+白底	bai di
 白桦木	bai hua mu
 白桦木按钮	bai hua mu an niu
 白桦木板	bai hua mu ban
@@ -32,100 +36,205 @@ sort: by_weight
 白桦树苗盆栽	bai hua shu miao pen zai
 白桦树叶	bai hua shu ye
 白桦原木	bai hua yuan mu
+百猫全书	bai mao quan shu
+白色	bai se
+白色波纹边	bai se bo wen bian
+白色床	bai se chuang
+白色带釉陶瓦	bai se dai you tao wa
+白色底波纹	bai se di bo wen
+白色地球	bai se di qiu
+白色地毯	bai se di tan
+白色顶波纹	bai se ding bo wen
+白色顶三角	bai se ding san jiao
+白色盾牌	bai se dun pai
+白色方框边	bai se fang kuang bian
+白色花朵盾徽	bai se hua duo dun hui
+白色混凝土	bai se hun ning tu
+白色混凝土粉末	bai se hun ning tu fen mo
+白色苦力怕盾徽	bai se ku li pa dun hui
+白色蜡烛	bai se la zhu
+白色菱形	bai se ling xing
+白色爬行者盾徽	bai se pa xing zhe dun hui
+白色旗帜	bai se qi zhi
+白色潜影盒	bai se qian ying he
 白色染料	bai se ran liao
+白色染色玻璃	bai se ran se bo li
+白色染色玻璃板	bai se ran se bo li ban
+白色上半方形	bai se shang ban fang xing
+白色陶瓦	bai se tao wa
+白色头颅盾徽	bai se tou lu dun hui
+白色下半方形	bai se xia ban fang xing
+白色羊毛	bai se yang mao
+白色右半方形	bai se you ban fang xing
+白色右上三角	bai se you shang san jiao
+白色右下三角	bai se you xia san jiao
 白色郁金香	bai se yu jin xiang
 白色郁金香盆栽	bai se yu jin xiang pen zai
-版本记录	ban ben ji lu
+白色圆形	bai se yuan xing
+白色猪鼻	bai se zhu bi
+白色砖纹	bai se zhuan wen
+白色自上渐淡	bai se zi shang jian dan
+白色自下渐淡	bai se zi xia jian dan
+白色左半方形	bai se zuo ban fang xing
+白色左上三角	bai se zuo shang san jiao
+白色左下三角	bai se zuo xia san jiao
+白竖条纹	bai shu tiao wen
+白条双锯鱼	bai tiao shuang ju yu
+白斜十字	bai xie shi zi
+白正十字	bai zheng shi zi
+斑驳的切制铜块	ban bo de qie zhi tong kuai
+斑驳的切制铜楼梯	ban bo de qie zhi tong lou ti
+斑驳的切制铜台阶	ban bo de qie zhi tong tai jie
+斑驳的铜块	ban bo de tong kuai
+斑驳的涂蜡切制铜块	ban bo de tu la qie zhi tong kuai
+斑驳的涂蜡切制铜楼梯	ban bo de tu la qie zhi tong lou ti
+斑驳的涂蜡切制铜台阶	ban bo de tu la qie zhi tong tai jie
+斑驳的涂蜡铜块	ban bo de tu la tong kuai
 绊线	ban xian
 绊线钩	ban xian gou
 绑定诅咒	bang ding zu zhou
-饱和度	bao he du
+饱和	bao he
 保护	bao hu
-堡垒遗迹	bao lei yi ji
+爆裂状	bao lie zhuang
 爆裂紫颂果	bao lie zi song guo
 豹猫	bao mao
+豹猫刷怪蛋	bao mao shua guai dan
 爆炸保护	bao zha bao hu
-被虫蚀的方块	bei chong shi de fang kuai
+孢子花	bao zi hua
 被虫蚀的裂石砖	bei chong shi de lie shi zhuan
+被虫蚀的裂纹石砖	bei chong shi de lie wen shi zhuan
+被虫蚀的深板岩	bei chong shi de shen ban yan
 被虫蚀的石头	bei chong shi de shi tou
 被虫蚀的石砖	bei chong shi de shi zhuan
 被虫蚀的苔石砖	bei chong shi de tai shi zhuan
 被虫蚀的圆石	bei chong shi de yuan shi
 被虫蚀的錾制石砖	bei chong shi de zan zhi shi zhuan
+背蒂类	bei di lei
 被风蚀的恶地	bei feng shi de e di
 北极熊	bei ji xiong
-崩溃	beng kui
+北极熊刷怪蛋	bei ji xiong shua guai dan
+本地的酿造厂	ben di de niang zao chang
+本地酿造厂	ben di niang zao chang
+避雷针	bi lei zhen
 蝙蝠	bian fu
-边境之地	bian jing zhi di
-变量	bian liang
-扁平化	bian ping hua
-变种	bian zhong
+蝙蝠刷怪蛋	bian fu shua guai dan
 标靶	biao ba
-表格	biao ge
-标签	biao qian
+标记	biao ji
 缤纷更新	bin fen geng xin
 滨菊	bin ju
 滨菊盆栽	bin ju pen zai
-冰刺	bing ci
 冰刺平原	bing ci ping yuan
-冰山	bing shan
 冰霜行者	bing shuang xing zhe
+冰桶挑战	bing tong tiao zhan
+播放唱片数	bo fang chang pian shu
 玻璃	bo li
 玻璃板	bo li ban
 玻璃瓶	bo li ping
-布尔型	bu er xing
-布尔值	bu er zhi
 不可合成的喷溅型药水	bu ke he cheng de pen jian xing yao shui
 不可合成的药箭	bu ke he cheng de yao jian
 不可合成的药水	bu ke he cheng de yao shui
 不可合成的滞留型药水	bu ke he cheng de zhi liu xing yao shui
 不死图腾	bu si tu teng
-不透明度	bu tou ming du
+不稳定的同盟	bu wen ding de tong meng
 不祥之兆	bu xiang zhi zhao
-彩蛋	cai dan
-材料	cai liao
-材质	cai zhi
-参见	can jian
-参考	can kao
-参数	can shu
-藏宝图	cang bao tu
+捕鱼数	bu yu shu
+不战而栗	bu zhan er li
+残骸裹身	can hai guo shen
 草方块	cao fang kuai
 草径	cao jing
-槽位	cao wei
-测重压力板	ce zhong ya li ban
+草原	cao yuan
+插上白色蜡烛的蛋糕	cha shang bai se la zhu de dan gao
+插上橙色蜡烛的蛋糕	cha shang cheng se la zhu de dan gao
+插上淡灰色蜡烛的蛋糕	cha shang dan hui se la zhu de dan gao
+插上淡蓝色蜡烛的蛋糕	cha shang dan lan se la zhu de dan gao
+插上粉红色蜡烛的蛋糕	cha shang fen hong se la zhu de dan gao
+插上黑色蜡烛的蛋糕	cha shang hei se la zhu de dan gao
+插上红色蜡烛的蛋糕	cha shang hong se la zhu de dan gao
+插上黄绿色蜡烛的蛋糕	cha shang huang lv se la zhu de dan gao
+插上黄色蜡烛的蛋糕	cha shang huang se la zhu de dan gao
+插上灰色蜡烛的蛋糕	cha shang hui se la zhu de dan gao
+插上蜡烛的蛋糕	cha shang la zhu de dan gao
+插上蓝色蜡烛的蛋糕	cha shang lan se la zhu de dan gao
+插上绿色蜡烛的蛋糕	cha shang lv se la zhu de dan gao
+插上品红色蜡烛的蛋糕	cha shang pin hong se la zhu de dan gao
+插上青色蜡烛的蛋糕	cha shang qing se la zhu de dan gao
+插上紫色蜡烛的蛋糕	cha shang zi se la zhu de dan gao
+插上棕色蜡烛的蛋糕	cha shang zong se la zhu de dan gao
+缠根泥土	chan gen ni tu
 缠怨藤	chan yuan teng
 缠怨藤植物	chan yuan teng zhi wu
-常规	chang gui
-常加载区域	chang jia zai qu yu
 唱片机	chang pian ji
-长整型	chang zheng xing
-超平坦	chao ping tan
 潮涌核心	chao yong he xin
-潮涌框架	chao yong kuang jia
 潮涌能量	chao yong neng liang
-沉船	chen chuan
+超越生死	chao yue sheng si
+橙底	cheng di
+橙色	cheng se
+橙色波纹边	cheng se bo wen bian
+橙色床	cheng se chuang
+橙色带釉陶瓦	cheng se dai you tao wa
+橙色底波纹	cheng se di bo wen
+橙色地球	cheng se di qiu
+橙色地毯	cheng se di tan
+橙色顶波纹	cheng se ding bo wen
+橙色顶三角	cheng se ding san jiao
+橙色盾牌	cheng se dun pai
+橙色方框边	cheng se fang kuang bian
+橙色花朵盾徽	cheng se hua duo dun hui
+橙色混凝土	cheng se hun ning tu
+橙色混凝土粉末	cheng se hun ning tu fen mo
+橙色苦力怕盾徽	cheng se ku li pa dun hui
+橙色蜡烛	cheng se la zhu
+橙色菱形	cheng se ling xing
+橙色爬行者盾徽	cheng se pa xing zhe dun hui
+橙色旗帜	cheng se qi zhi
+橙色潜影盒	cheng se qian ying he
 橙色染料	cheng se ran liao
+橙色染色玻璃	cheng se ran se bo li
+橙色染色玻璃板	cheng se ran se bo li ban
+橙色上半方形	cheng se shang ban fang xing
+橙色陶瓦	cheng se tao wa
+橙色头颅盾徽	cheng se tou lu dun hui
+橙色下半方形	cheng se xia ban fang xing
+橙色羊毛	cheng se yang mao
+橙色右半方形	cheng se you ban fang xing
+橙色右上三角	cheng se you shang san jiao
+橙色右下三角	cheng se you xia san jiao
 橙色郁金香	cheng se yu jin xiang
 橙色郁金香盆栽	cheng se yu jin xiang pen zai
+橙色圆形	cheng se yuan xing
+橙色猪鼻	cheng se zhu bi
+橙色砖纹	cheng se zhuan wen
+橙色自上渐淡	cheng se zi shang jian dan
+橙色自下渐淡	cheng se zi xia jian dan
+橙色左半方形	cheng se zuo ban fang xing
+橙色左上三角	cheng se zuo shang san jiao
+橙色左下三角	cheng se zuo xia san jiao
 成书	cheng shu
+橙竖条纹	cheng shu tiao wen
+橙斜十字	cheng xie shi zi
+橙正十字	cheng zheng shi zi
+吃掉的蛋糕片数	chi diao de dan gao pian shu
 迟缓药水	chi huan yao shui
 迟缓之箭	chi huan zhi jian
-齿轮	chi lun
 炽足兽	chi zu shou
-重定向	chong ding xiang
+炽足兽刷怪蛋	chi zu shou shua guai dan
 冲击	chong ji
 充能铁轨	chong neng tie gui
-重生	chong sheng
 重生锚	chong sheng mao
-出生点	chu sheng dian
-出生点区块	chu sheng dian qu kuai
+触发袭击次数	chu fa xi ji ci shu
 穿刺	chuan ci
+传送门	chuan song men
 穿透	chuan tou
-创造模式	chuang zao mo shi
+川纹笛鲷	chuan wen di diao
+穿在脚上时	chuan zai jiao shang shi
+穿在身上时	chuan zai shen shang shi
+穿在腿上时	chuan zai tui shang shi
+垂根	chui gen
 垂泪藤	chui lei teng
 垂泪藤植物	chui lei teng zhi wu
 磁石	ci shi
 磁石指针	ci shi zhi zhen
+从炼药锅取水次数	cong lian yao guo qu shui ci shu
 丛林	cong lin
 丛林边缘	cong lin bian yuan
 丛林边缘变种	cong lin bian yuan bian zhong
@@ -143,91 +252,258 @@ sort: by_weight
 丛林木栅栏	cong lin mu zha lan
 丛林木栅栏门	cong lin mu zha lan men
 丛林丘陵	cong lin qiu ling
-丛林神庙	cong lin shen miao
 丛林树苗	cong lin shu miao
 丛林树苗盆栽	cong lin shu miao pen zai
 丛林树叶	cong lin shu ye
+丛林台阶	cong lin tai jie
 丛林原木	cong lin yuan mu
+粗金	cu jin
+粗金块	cu jin kuai
+粗铁	cu tie
+粗铁块	cu tie kuai
+粗铜	cu tong
+粗铜块	cu tong kuai
 粗制的药水	cu zhi de yao shui
-摧毁	cui hui
+脆弱的同盟	cui ruo de tong meng
 村民	cun min
-村民交易	cun min jiao yi
-村庄和掠夺	cun zhuang he lue duo
+村民交互次数	cun min jiao hu ci shu
+村民交易次数	cun min jiao yi ci shu
+村民刷怪蛋	cun min shua guai dan
 村庄英雄	cun zhuang ying xiong
 打火石	da huo shi
-大师	da shi
-大小	da xiao
+打开末影箱次数	da kai mo ying xiang ci shu
+大型垂滴叶	da xing chui di ye
+大型垂滴叶茎	da xing chui di ye jing
 大型蕨	da xing jue
-带釉陶瓦	dai you tao wa
+大型球状	da xing qiu zhuang
+大型紫晶芽	da xing zi jing ya
+带信标回家	dai xin biao hui jia
 蛋糕	dan gao
+淡化至	dan hua zhi
+淡灰底	dan hui di
+淡灰色	dan hui se
+淡灰色波纹边	dan hui se bo wen bian
+淡灰色床	dan hui se chuang
+淡灰色带釉陶瓦	dan hui se dai you tao wa
+淡灰色底波纹	dan hui se di bo wen
+淡灰色地球	dan hui se di qiu
+淡灰色地毯	dan hui se di tan
+淡灰色顶波纹	dan hui se ding bo wen
+淡灰色盾牌	dan hui se dun pai
+淡灰色方框边	dan hui se fang kuang bian
+淡灰色花朵盾徽	dan hui se hua duo dun hui
+淡灰色混凝土	dan hui se hun ning tu
+淡灰色混凝土粉末	dan hui se hun ning tu fen mo
+淡灰色苦力怕盾徽	dan hui se ku li pa dun hui
+淡灰色蜡烛	dan hui se la zhu
+淡灰色菱形	dan hui se ling xing
+淡灰色爬行者盾徽	dan hui se pa xing zhe dun hui
+淡灰色旗帜	dan hui se qi zhi
+淡灰色潜影盒	dan hui se qian ying he
 淡灰色染料	dan hui se ran liao
+淡灰色染色玻璃	dan hui se ran se bo li
+淡灰色染色玻璃板	dan hui se ran se bo li ban
+淡灰色上半方形	dan hui se shang ban fang xing
+淡灰色陶瓦	dan hui se tao wa
+淡灰色头颅盾徽	dan hui se tou lu dun hui
+淡灰色下半方形	dan hui se xia ban fang xing
+淡灰色羊毛	dan hui se yang mao
+淡灰色右半方形	dan hui se you ban fang xing
+淡灰色右上三角	dan hui se you shang san jiao
+淡灰色右下三角	dan hui se you xia san jiao
+淡灰色圆形	dan hui se yuan xing
+淡灰色猪鼻	dan hui se zhu bi
+淡灰色砖纹	dan hui se zhuan wen
+淡灰色自上渐淡	dan hui se zi shang jian dan
+淡灰色自下渐淡	dan hui se zi xia jian dan
+淡灰色左半方形	dan hui se zuo ban fang xing
+淡灰色左上三角	dan hui se zuo shang san jiao
+淡灰色左下三角	dan hui se zuo xia san jiao
+淡灰竖条纹	dan hui shu tiao wen
+淡灰斜十字	dan hui xie shi zi
+淡灰正十字	dan hui zheng shi zi
+淡蓝底	dan lan di
+淡蓝色	dan lan se
+淡蓝色波纹边	dan lan se bo wen bian
+淡蓝色床	dan lan se chuang
+淡蓝色带釉陶瓦	dan lan se dai you tao wa
+淡蓝色底波纹	dan lan se di bo wen
+淡蓝色地球	dan lan se di qiu
+淡蓝色地毯	dan lan se di tan
+淡蓝色顶波纹	dan lan se ding bo wen
+淡蓝色顶三角	dan lan se ding san jiao
+淡蓝色盾牌	dan lan se dun pai
+淡蓝色方框边	dan lan se fang kuang bian
+淡蓝色花朵盾徽	dan lan se hua duo dun hui
+淡蓝色混凝土	dan lan se hun ning tu
+淡蓝色混凝土粉末	dan lan se hun ning tu fen mo
+淡蓝色苦力怕盾徽	dan lan se ku li pa dun hui
+淡蓝色蜡烛	dan lan se la zhu
+淡蓝色菱形	dan lan se ling xing
+淡蓝色爬行者盾徽	dan lan se pa xing zhe dun hui
+淡蓝色旗帜	dan lan se qi zhi
+淡蓝色潜影盒	dan lan se qian ying he
 淡蓝色染料	dan lan se ran liao
-单人创造模式	dan ren chuang zao mo shi
-单人极限模式	dan ren ji xian mo shi
-单人冒险模式	dan ren mao xian mo shi
-单人生存模式	dan ren sheng cun mo shi
+淡蓝色染色玻璃	dan lan se ran se bo li
+淡蓝色染色玻璃板	dan lan se ran se bo li ban
+淡蓝色上半方形	dan lan se shang ban fang xing
+淡蓝色陶瓦	dan lan se tao wa
+淡蓝色头颅盾徽	dan lan se tou lu dun hui
+淡蓝色下半方形	dan lan se xia ban fang xing
+淡蓝色羊毛	dan lan se yang mao
+淡蓝色右半方形	dan lan se you ban fang xing
+淡蓝色右上三角	dan lan se you shang san jiao
+淡蓝色右下三角	dan lan se you xia san jiao
+淡蓝色圆形	dan lan se yuan xing
+淡蓝色猪鼻	dan lan se zhu bi
+淡蓝色砖纹	dan lan se zhuan wen
+淡蓝色自上渐淡	dan lan se zi shang jian dan
+淡蓝色自下渐淡	dan lan se zi xia jian dan
+淡蓝色左半方形	dan lan se zuo ban fang xing
+淡蓝色左上三角	dan lan se zuo shang san jiao
+淡蓝色左下三角	dan lan se zuo xia san jiao
+淡蓝竖条纹	dan lan shu tiao wen
+淡蓝斜十字	dan lan xie shi zi
+淡蓝正十字	dan lan zheng shi zi
 灯笼	deng long
-地牢	di lao
-第三人称视角	di san ren cheng shi jiao
+底白横条	di bai heng tiao
+底白三角	di bai san jiao
+底橙横条	di cheng heng tiao
+底橙三角	di cheng san jiao
+底淡灰横条	di dan hui heng tiao
+底淡灰三角	di dan hui san jiao
+底淡蓝横条	di dan lan heng tiao
+底淡蓝三角	di dan lan san jiao
+抵挡的伤害	di dang de shang hai
+底粉红横条	di fen hong heng tiao
+底粉红三角	di fen hong san jiao
+底黑横条	di hei heng tiao
+底黑三角	di hei san jiao
+底红横条	di hong heng tiao
+底红三角	di hong san jiao
+底黄横条	di huang heng tiao
+底黄绿横条	di huang lv heng tiao
+底黄绿三角	di huang lv san jiao
+底黄三角	di huang san jiao
+底灰横条	di hui heng tiao
+底灰三角	di hui san jiao
+底蓝横条	di lan heng tiao
+底蓝三角	di lan san jiao
+底绿横条	di lv heng tiao
+底绿三角	di lv san jiao
+底品红横条	di pin hong heng tiao
+底品红三角	di pin hong san jiao
+底青横条	di qing heng tiao
+底青三角	di qing san jiao
+地球	di qiu
+滴水石块	di shui shi kuai
+滴水石锥	di shui shi zhui
 地毯	di tan
 地图	di tu
-点亮的红石灯	dian liang de hong shi deng
+地狱岩	di yu yan
+地狱疣	di yu you
+地狱疣块	di yu you kuai
+地狱砖	di yu zhuan
+地狱砖块	di yu zhuan kuai
+地狱砖楼梯	di yu zhuan lou ti
+地狱砖墙	di yu zhuan qiang
+地狱砖台阶	di yu zhuan tai jie
+地狱砖栅栏	di yu zhuan zha lan
+底紫横条	di zi heng tiao
+底紫三角	di zi san jiao
+底棕横条	di zong heng tiao
+底棕三角	di zong san jiao
+电涌保护器	dian yong bao hu qi
+钓到宝藏次数	diao dao bao zang ci shu
+钓到垃圾次数	diao dao la ji ci shu
 雕刻过的南瓜	diao ke guo de nan gua
 凋灵	diao ling
 凋零	diao ling
+凋灵风暴	diao ling feng bao
 凋灵骷髅	diao ling ku lou
+凋灵骷髅刷怪蛋	diao ling ku lou shua guai dan
 凋灵骷髅头颅	diao ling ku lou tou lu
 凋零玫瑰	diao ling mei gui
 凋零玫瑰盆栽	diao ling mei gui pen zai
+凋零山庄	diao ling shan zhuang
+凋灵头颅	diao ling tou lu
 凋灵之首	diao ling zhi shou
 钓鱼竿	diao yu gan
-钓鱼竿浮标	diao yu gan fu biao
+顶白横条	ding bai heng tiao
+顶橙横条	ding cheng heng tiao
+顶淡灰横条	ding dan hui heng tiao
+顶淡灰三角	ding dan hui san jiao
+顶淡蓝横条	ding dan lan heng tiao
+顶粉红横条	ding fen hong heng tiao
+顶黑横条	ding hei heng tiao
+顶黑三角	ding hei san jiao
+顶红横条	ding hong heng tiao
+顶红三角	ding hong san jiao
+顶黄横条	ding huang heng tiao
+顶黄绿横条	ding huang lv heng tiao
+顶灰横条	ding hui heng tiao
+顶蓝横条	ding lan heng tiao
+顶蓝三角	ding lan san jiao
+顶绿横条	ding lv heng tiao
+顶绿三角	ding lv san jiao
+顶品红横条	ding pin hong heng tiao
+顶青横条	ding qing heng tiao
+顶青三角	ding qing san jiao
 丁香	ding xiang
+顶紫横条	ding zi heng tiao
+顶紫三角	ding zi san jiao
+顶棕横条	ding zong heng tiao
+顶棕三角	ding zong san jiao
 冻河	dong he
 动力矿车	dong li kuang che
 洞穴空气	dong xue kong qi
+洞穴藤蔓	dong xue teng wan
+洞穴藤蔓植物	dong xue teng wan zhi wu
 洞穴蜘蛛	dong xue zhi zhu
+洞穴蜘蛛刷怪蛋	dong xue zhi zhu shua guai dan
 冻洋	dong yang
+抖包袱	dou bao fu
 蠹虫	du chong
-独乐不如众乐更新	du le bu ru zhong le geng xin
+蠹虫刷怪蛋	du chong shua guai dan
+杜鹃花丛	du juan hua cong
+杜鹃花丛盆栽	du juan hua cong pen zai
+杜鹃树叶	du juan shu ye
 毒马铃薯	du ma ling shu
-独石柱	du shi zhu
-独有特性	du you te xing
+读取存档次数	du qu cun dang ci shu
 锻造台	duan zao tai
-堆叠数	dui die shu
 堆肥桶	dui fei tong
 盾牌	dun pai
+盾牌抵挡的伤害	dun pai di dang de shang hai
+多斑类	duo ban lei
 多彩世界更新	duo cai shi jie geng xin
 多重射击	duo chong she ji
-多人创造模式	duo ren chuang zao mo shi
-多人极限模式	duo ren ji xian mo shi
-多人冒险模式	duo ren mao xian mo shi
-多人生存模式	duo ren sheng cun mo shi
+多人游戏设置	duo ren you xi she zhi
+额斑刺蝶鱼	e ban ci die yu
 恶地	e di
 恶地高原	e di gao yuan
 恶地高原变种	e di gao yuan bian zhong
 恶魂	e hun
+恶魂刷怪蛋	e hun shua guai dan
 恶魂之泪	e hun zhi lei
 饵钓	er diao
-发布	fa bu
 发光	fa guang
+发光地衣	fa guang di yi
+发光浆果	fa guang jiang guo
+发光鱿鱼	fa guang you yu
+发光鱿鱼刷怪蛋	fa guang you yu shua guai dan
 发酵蛛眼	fa jiao zhu yan
 发射器	fa she qi
-发射器矿车	fa she qi kuang che
 繁花森林	fan hua sen lin
-返回传送门	fan hui chuan song men
 繁茂的恶地高原	fan mao de e di gao yuan
 繁茂的恶地高原变种	fan mao de e di gao yuan bian zhong
 繁茂的丘陵	fan mao de qiu ling
 繁茂的山地	fan mao de shan di
+繁茂洞穴	fan mao dong xue
 反胃	fan wei
-范围	fan wei
-反向阳光探测器	fan xiang yang guang tan ce qi
-繁殖	fan zhi
-放大化	fang da hua
+繁殖动物次数	fan zhi dong wu ci shu
 防火	fang huo
-方块状态	fang kuai zhuang tai
-防御	fang yu
+方解石	fang jie shi
+方身类	fang shen lei
 绯红菌	fei hong jun
 绯红菌柄	fei hong jun bing
 绯红菌核	fei hong jun he
@@ -246,31 +522,72 @@ sort: by_weight
 绯红木栅栏	fei hong mu zha lan
 绯红木栅栏门	fei hong mu zha lan men
 绯红森林	fei hong sen lin
-废弃传送门	fei qi chuan song men
-废弃矿井	fei qi kuang jing
+飞行距离	fei xing ju li
+飞翼类	fei yi lei
+粉红底	fen hong di
+粉红色	fen hong se
+粉红色波纹边	fen hong se bo wen bian
+粉红色床	fen hong se chuang
+粉红色带釉陶瓦	fen hong se dai you tao wa
+粉红色底波纹	fen hong se di bo wen
+粉红色地球	fen hong se di qiu
+粉红色地毯	fen hong se di tan
+粉红色顶波纹	fen hong se ding bo wen
+粉红色顶三角	fen hong se ding san jiao
+粉红色盾牌	fen hong se dun pai
+粉红色方框边	fen hong se fang kuang bian
+粉红色花朵盾徽	fen hong se hua duo dun hui
+粉红色混凝土	fen hong se hun ning tu
+粉红色混凝土粉末	fen hong se hun ning tu fen mo
+粉红色苦力怕盾徽	fen hong se ku li pa dun hui
+粉红色蜡烛	fen hong se la zhu
+粉红色菱形	fen hong se ling xing
+粉红色爬行者盾徽	fen hong se pa xing zhe dun hui
+粉红色旗帜	fen hong se qi zhi
+粉红色潜影盒	fen hong se qian ying he
 粉红色染料	fen hong se ran liao
+粉红色染色玻璃	fen hong se ran se bo li
+粉红色染色玻璃板	fen hong se ran se bo li ban
+粉红色上半方形	fen hong se shang ban fang xing
+粉红色陶瓦	fen hong se tao wa
+粉红色头颅盾徽	fen hong se tou lu dun hui
+粉红色下半方形	fen hong se xia ban fang xing
+粉红色羊毛	fen hong se yang mao
+粉红色右半方形	fen hong se you ban fang xing
+粉红色右上三角	fen hong se you shang san jiao
+粉红色右下三角	fen hong se you xia san jiao
 粉红色郁金香	fen hong se yu jin xiang
+粉红色郁金香盆栽	fen hong se yu jin xiang pen zai
+粉红色圆形	fen hong se yuan xing
+粉红色猪鼻	fen hong se zhu bi
+粉红色砖纹	fen hong se zhuan wen
+粉红色自上渐淡	fen hong se zi shang jian dan
+粉红色自下渐淡	fen hong se zi xia jian dan
+粉红色左半方形	fen hong se zuo ban fang xing
+粉红色左上三角	fen hong se zuo shang san jiao
+粉红色左下三角	fen hong se zuo xia san jiao
+粉红竖条纹	fen hong shu tiao wen
+粉红斜十字	fen hong xie shi zi
+粉红正十字	fen hong zheng shi zi
 粉色郁金香盆栽	fen se yu jin xiang pen zai
 蜂巢	feng chao
 封冻深海	feng dong shen hai
-蜂蜡块	feng la kuai
 锋利	feng li
 蜂蜜块	feng mi kuai
 蜂蜜瓶	feng mi ping
 蜂箱	feng xiang
 浮冰	fu bing
-浮岛	fu dao
-附加包	fu jia bao
-附魔	fu mo
+弗雷德	fu lei de
+弗雷德的堡垒	fu lei de de bao lei
 附魔金苹果	fu mo jin ping guo
+附魔师	fu mo shi
 附魔书	fu mo shu
 附魔台	fu mo tai
-附魔用图书馆	fu mo yong tu shu guan
 附魔之瓶	fu mo zhi ping
+浮漂	fu piao
 腐肉	fu rou
-复述功能	fu shu gong neng
-辅助功能	fu zhu gong neng
-改进	gai jin
+辅助功能设置	fu zhu gong neng she zhi
+辅助效果	fu zhu xiao guo
 干草块	gan cao kuai
 干海带	gan hai dai
 干海带块	gan hai dai kuai
@@ -280,23 +597,23 @@ sort: by_weight
 高大桦木森林	gao da hua mu sen lin
 高海草	gao hai cao
 高炉	gao lu
+高鳍鹦嘴鱼	gao qi ying zui yu
 告示牌	gao shi pai
-格式	ge shi
+隔墙有眼	ge qiang you yan
 耕地	geng di
-更改	geng gai
-耕种	geng zhong
-攻击指示器	gong ji zhi shi qi
-功能	gong neng
-共通	gong tong
-公文包	gong wen bao
+工具匠	gong ju jiang
+工具商	gong ju shang
+工具消耗数	gong ju xiao hao shu
 工作台	gong zuo tai
-工作站点	gong zuo zhan dian
 骨粉	gu fen
 骨块	gu kuai
 骨头	gu tou
+怪物猎人	guai wu lie ren
+怪物狩猎完成	guai wu shou lie wan cheng
 管珊瑚	guan shan hu
 管珊瑚块	guan shan hu kuai
 管珊瑚扇	guan shan hu shan
+光辉岁月	guang hui sui yue
 光灵箭	guang ling jian
 诡异菌	gui yi jun
 诡异菌柄	gui yi jun bing
@@ -319,16 +636,16 @@ sort: by_weight
 诡异森林	gui yi sen lin
 诡异疣块	gui yi you kuai
 鲑鱼	gui yu
+鲑鱼刷怪蛋	gui yu shua guai dan
 鲑鱼桶	gui yu tong
-过期	guo qi
-过时	guo shi
 海草	hai cao
 海带	hai dai
-海底废墟	hai di fei xu
+海带植株	hai dai zhi zhu
 海底遗迹	hai di yi ji
 海龟	hai gui
 海龟蛋	hai gui dan
 海龟壳	hai gui qiao
+海龟刷怪蛋	hai gui shua guai dan
 海晶灯	hai jing deng
 海晶砂粒	hai jing sha li
 海晶石	hai jing shi
@@ -339,44 +656,128 @@ sort: by_weight
 海晶石砖楼梯	hai jing shi zhuan lou ti
 海晶石砖台阶	hai jing shi zhuan tai jie
 海晶碎片	hai jing sui pian
+海葵鱼	hai kui yu
 海绵	hai mian
 海泡菜	hai pao cai
 骇人更新	hai ren geng xin
 海豚	hai tun
 海豚的恩惠	hai tun de en hui
+海豚刷怪蛋	hai tun shua guai dan
 海洋	hai yang
-海洋探险家地图	hai yang tan xian jia di tu
 海洋之心	hai yang zhi xin
 海之眷顾	hai zhi juan gu
-函数	han shu
-含水	han shui
-合成	he cheng
+旱地	han di
 河流	he liu
-和平	he ping
 河豚	he tun
+河豚刷怪蛋	he tun shua guai dan
 河豚桶	he tun tong
-黑板	hei ban
+黑刺尾鲷	hei ci wei diao
+黑底	hei di
+黑色	hei se
+黑色波纹边	hei se bo wen bian
+黑色床	hei se chuang
+黑色带釉陶瓦	hei se dai you tao wa
+黑色底波纹	hei se di bo wen
+黑色地球	hei se di qiu
+黑色地毯	hei se di tan
+黑色顶波纹	hei se ding bo wen
+黑色盾牌	hei se dun pai
+黑色方框边	hei se fang kuang bian
+黑色花朵盾徽	hei se hua duo dun hui
+黑色混凝土	hei se hun ning tu
+黑色混凝土粉末	hei se hun ning tu fen mo
+黑色苦力怕盾徽	hei se ku li pa dun hui
+黑色蜡烛	hei se la zhu
+黑色菱形	hei se ling xing
+黑色爬行者盾徽	hei se pa xing zhe dun hui
+黑色旗帜	hei se qi zhi
+黑色潜影盒	hei se qian ying he
 黑色染料	hei se ran liao
+黑色染色玻璃	hei se ran se bo li
+黑色染色玻璃板	hei se ran se bo li ban
+黑色上半方形	hei se shang ban fang xing
+黑色陶瓦	hei se tao wa
+黑色头颅盾徽	hei se tou lu dun hui
+黑色下半方形	hei se xia ban fang xing
+黑色羊毛	hei se yang mao
+黑色右半方形	hei se you ban fang xing
+黑色右上三角	hei se you shang san jiao
+黑色右下三角	hei se you xia san jiao
+黑色圆形	hei se yuan xing
+黑色猪鼻	hei se zhu bi
+黑色砖纹	hei se zhuan wen
+黑色自上渐淡	hei se zi shang jian dan
+黑色自下渐淡	hei se zi xia jian dan
+黑色左半方形	hei se zuo ban fang xing
+黑色左上三角	hei se zuo shang san jiao
+黑色左下三角	hei se zuo xia san jiao
 黑森林	hei sen lin
 黑森林丘陵	hei sen lin qiu ling
 黑石	hei shi
 黑石楼梯	hei shi lou ti
 黑石墙	hei shi qiang
 黑石台阶	hei shi tai jie
+黑竖条纹	hei shu tiao wen
+黑斜十字	hei xie shi zi
 黑曜石	hei yao shi
-黑曜石柱	hei yao shi zhu
+黑正十字	hei zheng shi zi
 横扫之刃	heng sao zhi ren
-红色巨型蘑菇	hong se ju xing mo gu
+红边笛鲷	hong bian di diao
+红唇真蛇鳚	hong chun zhen she wei
+红底	hong di
+红丽鱼	hong li yu
+红色	hong se
+红色波纹边	hong se bo wen bian
+红色床	hong se chuang
+红色带釉陶瓦	hong se dai you tao wa
+红色底波纹	hong se di bo wen
+红色地球	hong se di qiu
+红色地毯	hong se di tan
+红色地狱砖	hong se di yu zhuan
+红色地狱砖块	hong se di yu zhuan kuai
+红色地狱砖楼梯	hong se di yu zhuan lou ti
+红色地狱砖墙	hong se di yu zhuan qiang
+红色地狱砖台阶	hong se di yu zhuan tai jie
+红色顶波纹	hong se ding bo wen
+红色盾牌	hong se dun pai
+红色方框边	hong se fang kuang bian
+红色花朵盾徽	hong se hua duo dun hui
+红色混凝土	hong se hun ning tu
+红色混凝土粉末	hong se hun ning tu fen mo
+红色苦力怕盾徽	hong se ku li pa dun hui
+红色蜡烛	hong se la zhu
+红色菱形	hong se ling xing
 红色蘑菇	hong se mo gu
 红色蘑菇方块	hong se mo gu fang kuai
 红色蘑菇盆栽	hong se mo gu pen zai
+红色爬行者盾徽	hong se pa xing zhe dun hui
+红色旗帜	hong se qi zhi
+红色潜影盒	hong se qian ying he
 红色染料	hong se ran liao
+红色染色玻璃	hong se ran se bo li
+红色染色玻璃板	hong se ran se bo li ban
+红色上半方形	hong se shang ban fang xing
+红色陶瓦	hong se tao wa
+红色头颅盾徽	hong se tou lu dun hui
+红色下半方形	hong se xia ban fang xing
 红色下界砖块	hong se xia jie zhuan kuai
 红色下界砖楼梯	hong se xia jie zhuan lou ti
 红色下界砖墙	hong se xia jie zhuan qiang
 红色下界砖台阶	hong se xia jie zhuan tai jie
+红色羊毛	hong se yang mao
+红色右半方形	hong se you ban fang xing
+红色右上三角	hong se you shang san jiao
+红色右下三角	hong se you xia san jiao
 红色郁金香	hong se yu jin xiang
 红色郁金香盆栽	hong se yu jin xiang pen zai
+红色圆形	hong se yuan xing
+红色猪鼻	hong se zhu bi
+红色砖纹	hong se zhuan wen
+红色自上渐淡	hong se zi shang jian dan
+红色自下渐淡	hong se zi xia jian dan
+红色左半方形	hong se zuo ban fang xing
+红色左上三角	hong se zuo shang san jiao
+红色左下三角	hong se zuo xia san jiao
 红沙	hong sha
 红砂岩	hong sha yan
 红砂岩楼梯	hong sha yan lou ti
@@ -386,44 +787,181 @@ sort: by_weight
 红石灯	hong shi deng
 红石粉	hong shi fen
 红石火把	hong shi huo ba
+红石俱备	hong shi ju bei
 红石块	hong shi kuai
 红石矿石	hong shi kuang shi
 红石线	hong shi xian
 红石中继器	hong shi zhong ji qi
+红竖条纹	hong shu tiao wen
+红斜十字	hong xie shi zi
+红正十字	hong zheng shi zi
 红砖	hong zhuan
+蝴蝶鱼	hu die yu
 狐狸	hu li
+狐狸刷怪蛋	hu li shua guai dan
 胡萝卜	hu luo bo
 胡萝卜钓竿	hu luo bo diao gan
-护腿	hu tui
+画船添足	hua chuan tian zu
+花朵盾徽	hua duo dun hui
 花岗岩	hua gang yan
 花岗岩楼梯	hua gang yan lou ti
 花岗岩墙	hua gang yan qiang
 花岗岩台阶	hua gang yan tai jie
-花岗岩钟	hua gang yan zhong
-画廊	hua lang
+华丽蝴蝶鱼	hua li hu die yu
+桦木船	hua mu chuan
+桦木楼梯	hua mu lou ti
 桦木森林	hua mu sen lin
 桦木森林丘陵	hua mu sen lin qiu ling
+桦木台阶	hua mu tai jie
 花盆	hua pen
 缓降	huan jiang
 缓降药水	huan jiang yao shui
 缓降之箭	huan jiang zhi jian
-环境音效	huan jing yin xiao
 缓慢	huan man
 唤魔者	huan mo zhe
+唤魔者的尖牙	huan mo zhe de jian ya
 唤魔者尖牙	huan mo zhe jian ya
+唤魔者刷怪蛋	huan mo zhe shua guai dan
 幻术师	huan shu shi
 幻翼	huan yi
 幻翼膜	huan yi mo
+幻翼刷怪蛋	huan yi shua guai dan
+黄刺尾鲷	huang ci wei diao
+黄底	huang di
+黄绿底	huang lv di
+黄绿色	huang lv se
+黄绿色波纹边	huang lv se bo wen bian
+黄绿色床	huang lv se chuang
+黄绿色带釉陶瓦	huang lv se dai you tao wa
+黄绿色底波纹	huang lv se di bo wen
+黄绿色地球	huang lv se di qiu
+黄绿色地毯	huang lv se di tan
+黄绿色顶波纹	huang lv se ding bo wen
+黄绿色顶三角	huang lv se ding san jiao
+黄绿色盾牌	huang lv se dun pai
+黄绿色方框边	huang lv se fang kuang bian
+黄绿色花朵盾徽	huang lv se hua duo dun hui
+黄绿色混凝土	huang lv se hun ning tu
+黄绿色混凝土粉末	huang lv se hun ning tu fen mo
+黄绿色苦力怕盾徽	huang lv se ku li pa dun hui
+黄绿色蜡烛	huang lv se la zhu
+黄绿色菱形	huang lv se ling xing
+黄绿色爬行者盾徽	huang lv se pa xing zhe dun hui
+黄绿色旗帜	huang lv se qi zhi
+黄绿色潜影盒	huang lv se qian ying he
 黄绿色染料	huang lv se ran liao
+黄绿色染色玻璃	huang lv se ran se bo li
+黄绿色染色玻璃板	huang lv se ran se bo li ban
+黄绿色上半方形	huang lv se shang ban fang xing
+黄绿色陶瓦	huang lv se tao wa
+黄绿色头颅盾徽	huang lv se tou lu dun hui
+黄绿色下半方形	huang lv se xia ban fang xing
+黄绿色羊毛	huang lv se yang mao
+黄绿色右半方形	huang lv se you ban fang xing
+黄绿色右上三角	huang lv se you shang san jiao
+黄绿色右下三角	huang lv se you xia san jiao
+黄绿色圆形	huang lv se yuan xing
+黄绿色猪鼻	huang lv se zhu bi
+黄绿色砖纹	huang lv se zhuan wen
+黄绿色自上渐淡	huang lv se zi shang jian dan
+黄绿色自下渐淡	huang lv se zi xia jian dan
+黄绿色左半方形	huang lv se zuo ban fang xing
+黄绿色左上三角	huang lv se zuo shang san jiao
+黄绿色左下三角	huang lv se zuo xia san jiao
+黄绿竖条纹	huang lv shu tiao wen
+黄绿斜十字	huang lv xie shi zi
+黄绿正十字	huang lv zheng shi zi
+黄色	huang se
+黄色波纹边	huang se bo wen bian
+黄色床	huang se chuang
+黄色带釉陶瓦	huang se dai you tao wa
+黄色底波纹	huang se di bo wen
+黄色地球	huang se di qiu
+黄色地毯	huang se di tan
+黄色顶波纹	huang se ding bo wen
+黄色顶三角	huang se ding san jiao
+黄色盾牌	huang se dun pai
+黄色方框边	huang se fang kuang bian
+黄色花朵盾徽	huang se hua duo dun hui
+黄色混凝土	huang se hun ning tu
+黄色混凝土粉末	huang se hun ning tu fen mo
+黄色苦力怕盾徽	huang se ku li pa dun hui
+黄色蜡烛	huang se la zhu
+黄色菱形	huang se ling xing
+黄色爬行者盾徽	huang se pa xing zhe dun hui
+黄色旗帜	huang se qi zhi
+黄色潜影盒	huang se qian ying he
 黄色染料	huang se ran liao
+黄色染色玻璃	huang se ran se bo li
+黄色染色玻璃板	huang se ran se bo li ban
+黄色上半方形	huang se shang ban fang xing
+黄色陶瓦	huang se tao wa
+黄色头颅盾徽	huang se tou lu dun hui
+黄色下半方形	huang se xia ban fang xing
+黄色羊毛	huang se yang mao
+黄色右半方形	huang se you ban fang xing
+黄色右上三角	huang se you shang san jiao
+黄色右下三角	huang se you xia san jiao
+黄色圆形	huang se yuan xing
+黄色猪鼻	huang se zhu bi
+黄色砖纹	huang se zhuan wen
+黄色自上渐淡	huang se zi shang jian dan
+黄色自下渐淡	huang se zi xia jian dan
+黄色左半方形	huang se zuo ban fang xing
+黄色左上三角	huang se zuo shang san jiao
+黄色左下三角	huang se zuo xia san jiao
+黄竖条纹	huang shu tiao wen
+黄斜十字	huang xie shi zi
+黄正十字	huang zheng shi zi
+灰底	hui di
 灰化土	hui hua tu
+灰色	hui se
+灰色波纹边	hui se bo wen bian
+灰色床	hui se chuang
+灰色带釉陶瓦	hui se dai you tao wa
+灰色底波纹	hui se di bo wen
+灰色地球	hui se di qiu
+灰色地毯	hui se di tan
+灰色顶波纹	hui se ding bo wen
+灰色顶三角	hui se ding san jiao
+灰色盾牌	hui se dun pai
+灰色方框边	hui se fang kuang bian
+灰色花朵盾徽	hui se hua duo dun hui
+灰色混凝土	hui se hun ning tu
+灰色混凝土粉末	hui se hun ning tu fen mo
+灰色苦力怕盾徽	hui se ku li pa dun hui
+灰色蜡烛	hui se la zhu
+灰色菱形	hui se ling xing
+灰色爬行者盾徽	hui se pa xing zhe dun hui
+灰色旗帜	hui se qi zhi
+灰色潜影盒	hui se qian ying he
 灰色染料	hui se ran liao
-混搭包	hun da bao
-混凝土	hun ning tu
-混凝土粉末	hun ning tu fen mo
+灰色染色玻璃	hui se ran se bo li
+灰色染色玻璃板	hui se ran se bo li ban
+灰色上半方形	hui se shang ban fang xing
+灰色陶瓦	hui se tao wa
+灰色头颅盾徽	hui se tou lu dun hui
+灰色下半方形	hui se xia ban fang xing
+灰色羊毛	hui se yang mao
+灰色右半方形	hui se you ban fang xing
+灰色右上三角	hui se you shang san jiao
+灰色右下三角	hui se you xia san jiao
+灰色圆形	hui se yuan xing
+灰色猪鼻	hui se zhu bi
+灰色砖纹	hui se zhuan wen
+灰色自上渐淡	hui se zi shang jian dan
+灰色自下渐淡	hui se zi xia jian dan
+灰色左半方形	hui se zuo ban fang xing
+灰色左上三角	hui se zuo shang san jiao
+灰色左下三角	hui se zuo xia san jiao
+灰竖条纹	hui shu tiao wen
+灰斜十字	hui xie shi zi
+灰正十字	hui zheng shi zi
+混沌洞穴	hun dun dong xue
 火把	huo ba
 活板门	huo ban men
-获取	huo qu
+获得升级	huo de sheng ji
+火球	huo qiu
 活塞	huo sai
 活塞头	huo sai tou
 火珊瑚	huo shan hu
@@ -436,18 +974,13 @@ sort: by_weight
 火药	huo yao
 鸡蛋	ji dan
 饥饿	ji e
-记分板	ji fen ban
-计划版本	ji hua ban ben
 激活铁轨	ji huo tie gui
-即将到来	ji jiang dao lai
 激流	ji liu
-几率	ji lv
-疾跑	ji pao
+疾跑距离	ji pao ju li
 急迫	ji po
-鸡骑士	ji qi shi
+鸡刷怪蛋	ji shua guai dan
 击退	ji tui
 极限模式	ji xian mo shi
-吉祥物	ji xiang wu
 积雪的冻原	ji xue de dong yuan
 积雪的沙滩	ji xue de sha tan
 积雪的针叶林	ji xue de zhen ye lin
@@ -455,37 +988,44 @@ sort: by_weight
 积雪的针叶林山地	ji xue de zhen ye lin shan di
 基岩	ji yan
 基岩版	ji yan ban
-家具	jia ju
-加入了	jia ru le
-简单	jian dan
+击中标靶次数	ji zhong biao ba ci shu
 剪刀	jian dao
-建筑	jian zhu
+见鬼去吧	jian gui qu ba
 僵尸	jiang shi
 僵尸村民	jiang shi cun min
+僵尸村民刷怪蛋	jiang shi cun min shua guai dan
 僵尸的头	jiang shi de tou
+僵尸科医生	jiang shi ke yi sheng
 僵尸马	jiang shi ma
+僵尸马刷怪蛋	jiang shi ma shua guai dan
+僵尸刷怪蛋	jiang shi shua guai dan
 僵尸疣猪兽	jiang shi you zhu shou
+僵尸疣猪兽刷怪蛋	jiang shi you zhu shou shua guai dan
 僵尸猪灵	jiang shi zhu ling
 僵尸猪灵刷怪蛋	jiang shi zhu ling shua guai dan
 僵尸猪人	jiang shi zhu ren
+僵尸猪人刷怪蛋	jiang shi zhu ren shua guai dan
 讲台	jiang tai
+角视场	jiao shi chang
 脚手架	jiao shou jia
-教学提示	jiao xue ti shi
-交易	jiao yi
-教育版	jiao yu ban
-结构	jie gou
+胶着状态	jiao zhuo zhuang tai
+解放末地	jie fang mo di
 结构方块	jie gou fang kuai
 结构空位	jie gou kong wei
-结晶蜜	jie jing mi
+结果的南瓜茎	jie guo de nan gua jing
+结果的西瓜茎	jie guo de xi gua jing
 劫掠兽	jie lue shou
-截屏	jie ping
-解析	jie xi
+劫掠兽刷怪蛋	jie lue shou shua guai dan
+结束了	jie shu le
+结束了再一次	jie shu le zai yi ci
+杰西	jie xi
 节肢杀手	jie zhi sha shou
 金锄	jin chu
 金锭	jin ding
-进度	jin du
 金斧	jin fu
 金镐	jin gao
+金光闪闪	jin guang shan shan
+金合欢活板门	jin he huan huo ban men
 金合欢木	jin he huan mu
 金合欢木按钮	jin he huan mu an niu
 金合欢木板	jin he huan mu ban
@@ -502,6 +1042,8 @@ sort: by_weight
 金合欢树苗盆栽	jin he huan shu miao pen zai
 金合欢树叶	jin he huan shu ye
 金合欢原木	jin he huan yuan mu
+金合欢栅栏	jin he huan zha lan
+金合欢栅栏门	jin he huan zha lan men
 金胡萝卜	jin hu luo bo
 金护腿	jin hu tui
 金剑	jin jian
@@ -514,85 +1056,141 @@ sort: by_weight
 金头盔	jin tou kui
 金胸甲	jin xiong jia
 金靴子	jin xue zi
-金质工具	jin zhi gong ju
-金质盔甲	jin zhi kui jia
+经典平坦	jing dian ping tan
 荆棘	jing ji
-精灵	jing ling
+劲弩手	jing nu shou
+惊悚恐怖骷髅头	jing song kong bu ku lou tou
 经验球	jing yan qiu
 经验修补	jing yan xiu bu
 精准采集	jing zhun cai ji
-旧世界类型	jiu shi jie lei xing
+举巢搬迁	ju chao ban qian
 剧毒药水	ju du yao shui
 剧毒之箭	ju du zhi jian
+狙击手的对决	ju ji shou de dui jue
+狙击手间的对决	ju ji shou jian de dui jue
 巨人	ju ren
-巨型蘑菇	ju xing mo gu
-巨型生物群系	ju xing sheng wu qun xi
 巨型云杉针叶林	ju xing yun shan zhen ye lin
 巨型云杉针叶林丘陵	ju xing yun shan zhen ye lin qiu ling
 巨型针叶林	ju xing zhen ye lin
 巨型针叶林丘陵	ju xing zhen ye lin qiu ling
 蕨盆栽	jue pen zai
-菌柄	jun bing
+绝望冰宫	jue wang bing gong
 菌光体	jun guang ti
-菌核	jun he
-菌类	jun lei
+均衡饮食	jun heng yin shi
 菌丝	jun si
-菌岩	jun yan
-开发版	kai fa ban
-开发周期	kai fa zhou qi
+开荒垦地	kai huang ken di
 开裂的铁砧	kai lie de tie zhen
+开箱次数	kai xiang ci shu
 抗火药水	kang huo yao shui
 抗火之箭	kang huo zhi jian
 抗性提升	kang xing ti sheng
 烤马铃薯	kao ma ling shu
 可可豆	ke ke dou
 可可果	ke ke guo
-颗粒	ke li
-可用的	ke yong de
-可再生资源	ke zai sheng zi yuan
+颗粒效果	ke li xiao guo
+可怕的要塞	ke pa de yao sai
+可以放在	ke yi fang zai
+空岛	kong dao
 空地图	kong di tu
-空定位器地图	kong ding wei qi di tu
-空洞	kong dong
-空木桶	kong mu tong
 空气	kong qi
+扣下悬刀	kou xia xuan dao
 苦力怕	ku li pa
 苦力怕的头	ku li pa de tou
+苦力怕盾徽	ku li pa dun hui
+苦力怕刷怪蛋	ku li pa shua guai dan
+苦力怕状	ku li pa zhuang
 骷髅	ku lou
 骷髅马	ku lou ma
-骷髅骑手	ku lou qi shou
+骷髅马刷怪蛋	ku lou ma shua guai dan
+骷髅刷怪蛋	ku lou shua guai dan
 骷髅头颅	ku lou tou lu
 哭泣的黑曜石	ku qi de hei yao shi
+枯死的灌木	ku si de guan mu
+枯死的灌木盆栽	ku si de guan mu pen zai
 枯萎的灌木	ku wei de guan mu
 枯萎的灌木盆栽	ku wei de guan mu pen zai
-快捷栏	kuai jie lan
 快速装填	kuai su zhuang tian
-快照	kuai zhao
 矿车	kuang che
+狂乱的鸡尾酒	kuang luan de ji wei jiu
 盔甲架	kui jia jia
-困难	kun nan
+盔甲匠	kui jia jiang
+盔甲商	kui jia shang
+窥伺类	kui si lei
 拉杆	la gan
+蜡烛	la zhu
+来硬的	lai ying de
 蓝冰	lan bing
+蓝刺尾鲷	lan ci wei diao
+蓝底	lan di
 兰花	lan hua
+蓝花美耳草	lan hua mei er cao
+蓝花美耳草盆栽	lan hua mei er cao pen zai
 兰花盆栽	lan hua pen zai
+蓝色	lan se
+蓝色波纹边	lan se bo wen bian
+蓝色床	lan se chuang
+蓝色带釉陶瓦	lan se dai you tao wa
+蓝色底波纹	lan se di bo wen
+蓝色地球	lan se di qiu
+蓝色地毯	lan se di tan
+蓝色顶波纹	lan se ding bo wen
+蓝色盾牌	lan se dun pai
+蓝色方框边	lan se fang kuang bian
+蓝色花朵盾徽	lan se hua duo dun hui
+蓝色混凝土	lan se hun ning tu
+蓝色混凝土粉末	lan se hun ning tu fen mo
+蓝色苦力怕盾徽	lan se ku li pa dun hui
+蓝色蜡烛	lan se la zhu
+蓝色菱形	lan se ling xing
+蓝色爬行者盾徽	lan se pa xing zhe dun hui
+蓝色旗帜	lan se qi zhi
+蓝色潜影盒	lan se qian ying he
 蓝色染料	lan se ran liao
-老手	lao shou
-雷暴	lei bao
+蓝色染色玻璃	lan se ran se bo li
+蓝色染色玻璃板	lan se ran se bo li ban
+蓝色上半方形	lan se shang ban fang xing
+蓝色陶瓦	lan se tao wa
+蓝色头颅盾徽	lan se tou lu dun hui
+蓝色下半方形	lan se xia ban fang xing
+蓝色羊毛	lan se yang mao
+蓝色右半方形	lan se you ban fang xing
+蓝色右上三角	lan se you shang san jiao
+蓝色右下三角	lan se you xia san jiao
+蓝色圆形	lan se yuan xing
+蓝色猪鼻	lan se zhu bi
+蓝色砖纹	lan se zhuan wen
+蓝色自上渐淡	lan se zi shang jian dan
+蓝色自下渐变	lan se zi xia jian bian
+蓝色左半方形	lan se zuo ban fang xing
+蓝色左上三角	lan se zuo shang san jiao
+蓝色左下三角	lan se zuo xia san jiao
+蓝竖条纹	lan shu tiao wen
+蓝斜十字	lan xie shi zi
+蓝正十字	lan zheng shi zi
+狼刷怪蛋	lang shua guai dan
 冷水海洋	leng shui hai yang
 冷水深海	leng shui shen hai
 力量	li liang
 力量药水	li liang yao shui
 力量之箭	li liang zhi jian
+丽鱼	li yu
 连锁型命令方块	lian suo xing ming ling fang kuai
 炼药锅	lian yao guo
+炼药锅装水次数	lian yao guo zhuang shui ci shu
+镰鱼	lian yu
 裂石砖	lie shi zhuan
+裂石砖怪物蛋	lie shi zhuan guai wu dan
 裂纹磨制黑石砖	lie wen mo zhi hei shi zhuan
+裂纹深板岩瓦	lie wen shen ban yan wa
+裂纹深板岩砖	lie wen shen ban yan zhuan
+裂纹石砖	lie wen shi zhuan
 裂纹下界砖块	lie wen xia jie zhuan kuai
 烈焰棒	lie yan bang
 烈焰粉	lie yan fen
 烈焰人	lie yan ren
-林地府邸	lin di fu di
-林地探险家地图	lin di tan xian jia di tu
+烈焰人刷怪蛋	lie yan ren shua guai dan
 鳞甲	lin jia
+鳞鲀	lin tun
 灵魂灯笼	ling hun deng long
 灵魂火	ling hun huo
 灵魂火把	ling hun huo ba
@@ -603,51 +1201,104 @@ sort: by_weight
 灵魂营火	ling hun ying huo
 铃兰	ling lan
 铃兰盆栽	ling lan pen zai
+流动的熔岩	liu dong de rong yan
+流动的水	liu dong de shui
+流髑	liu du
 流浪商人	liu lang shang ren
+流浪商人刷怪蛋	liu lang shang ren shua guai dan
 流浪者	liu lang zhe
+流浪者刷怪蛋	liu lang zhe shua guai dan
 龙蛋	long dan
 龙首	long shou
 龙息	long xi
-漏洞	lou dong
 漏斗	lou dou
 漏斗矿车	lou dou kuang che
-楼梯	lou ti
+鲁宾	lu bin
+鲁宾纪念碑	lu bin ji nian bei
 鹿角珊瑚	lu jiao shan hu
 鹿角珊瑚块	lu jiao shan hu kuai
 鹿角珊瑚扇	lu jiao shan hu shan
+卢卡斯	lu ka si
 掠夺者	lue duo zhe
-掠夺者前哨站	lue duo zhe qian shao zhan
+掠夺者刷怪蛋	lue duo zhe shua guai dan
+罗密欧	luo mi ou
+骡刷怪蛋	luo shua guai dan
 绿宝石	lv bao shi
 绿宝石块	lv bao shi kuai
 绿宝石矿石	lv bao shi kuang shi
+绿底	lv di
+绿色	lv se
+绿色波纹边	lv se bo wen bian
+绿色床	lv se chuang
+绿色带釉陶瓦	lv se dai you tao wa
+绿色底波纹	lv se di bo wen
+绿色地球	lv se di qiu
+绿色地毯	lv se di tan
+绿色顶波纹	lv se ding bo wen
+绿色盾牌	lv se dun pai
+绿色方框边	lv se fang kuang bian
+绿色花朵盾徽	lv se hua duo dun hui
+绿色混凝土	lv se hun ning tu
+绿色混凝土粉末	lv se hun ning tu fen mo
+绿色苦力怕盾徽	lv se ku li pa dun hui
+绿色蜡烛	lv se la zhu
+绿色菱形	lv se ling xing
+绿色爬行者盾徽	lv se pa xing zhe dun hui
+绿色旗帜	lv se qi zhi
+绿色潜影盒	lv se qian ying he
 绿色染料	lv se ran liao
-马铠	ma kai
+绿色染色玻璃	lv se ran se bo li
+绿色染色玻璃板	lv se ran se bo li ban
+绿色上半方形	lv se shang ban fang xing
+绿色陶瓦	lv se tao wa
+绿色头颅盾徽	lv se tou lu dun hui
+绿色下半方形	lv se xia ban fang xing
+绿色羊毛	lv se yang mao
+绿色右半方形	lv se you ban fang xing
+绿色右上三角	lv se you shang san jiao
+绿色右下三角	lv se you xia san jiao
+绿色圆形	lv se yuan xing
+绿色猪鼻	lv se zhu bi
+绿色砖纹	lv se zhuan wen
+绿色自上渐淡	lv se zi shang jian dan
+绿色自下渐淡	lv se zi xia jian dan
+绿色左半方形	lv se zuo ban fang xing
+绿色左上三角	lv se zuo shang san jiao
+绿色左下三角	lv se zuo xia san jiao
+绿竖条纹	lv shu tiao wen
+驴刷怪蛋	lv shua guai dan
+绿斜十字	lv xie shi zi
+绿正十字	lv zheng shi zi
+马鲅	ma ba
 马铃薯	ma ling shu
-马匹更新	ma pi geng xin
-埋藏的宝藏	mai cang de bao zang
-脉冲型命令方块	mai chong xing ming ling fang kuai
-冒险更新	mao xian geng xin
-冒险模式	mao xian mo shi
-玫瑰	mei gui
+马刷怪蛋	ma shua guai dan
+锚没有九条命	mao mei you jiu tiao ming
+猫刷怪蛋	mao shua guai dan
+冒险	mao xian
 玫瑰丛	mei gui cong
 玫瑰红	mei gui hong
 煤矿石	mei kuang shi
 煤炭	mei tan
 煤炭块	mei tan kuai
+美西螈	mei xi yuan
+美西螈刷怪蛋	mei xi yuan shua guai dan
+美西螈桶	mei xi yuan tong
 霉运	mei yun
 蜜蜂	mi feng
-秘密周五更新	mi mi zhou wu geng xin
+蜜蜂刷怪蛋	mi feng shua guai dan
 蜜脾	mi pi
 蜜脾块	mi pi kuai
 迷之炖菜	mi zhi dun cai
 面包	mian bao
-命令	ming ling
+绵羊	mian yang
+绵羊刷怪蛋	mian yang shua guai dan
+瞄准目标	miao zhun mu biao
 命令方块	ming ling fang kuai
 命令方块矿车	ming ling fang kuai kuang che
 命名牌	ming ming pai
+鸣钟次数	ming zhong ci shu
 末地	mo di
-末地城	mo di cheng
-末地传送门方块	mo di chuan song men fang kuai
+末地传送门	mo di chuan song men
 末地传送门框架	mo di chuan song men kuang jia
 末地高岛	mo di gao dao
 末地荒岛	mo di huang dao
@@ -658,7 +1309,6 @@ sort: by_weight
 末地石砖台阶	mo di shi zhuan tai jie
 末地小型岛屿	mo di xiao xing dao yu
 末地折跃门	mo di zhe yue men
-末地折跃门方块	mo di zhe yue men fang kuai
 末地中型岛屿	mo di zhong xing dao yu
 末地烛	mo di zhu
 蘑菇	mo gu
@@ -666,18 +1316,17 @@ sort: by_weight
 蘑菇柄	mo gu bing
 蘑菇岛	mo gu dao
 蘑菇岛岸	mo gu dao an
-蘑菇方块	mo gu fang kuai
-模块	mo kuai
-末路之地	mo lu zhi di
 墨囊	mo nang
-默认	mo ren
-末影更新	mo ying geng xin
+魔女审判	mo nv shen pan
 末影龙	mo ying long
 末影龙火球	mo ying long huo qiu
 末影螨	mo ying man
+末影螨刷怪蛋	mo ying man shua guai dan
 末影人	mo ying ren
+末影人刷怪蛋	mo ying ren shua guai dan
 末影水晶	mo ying shui jing
 末影箱	mo ying xiang
+末影箱打开次数	mo ying xiang da kai ci shu
 末影珍珠	mo ying zhen zhu
 末影之眼	mo ying zhi yan
 磨制安山岩	mo zhi an shan yan
@@ -696,14 +1345,18 @@ sort: by_weight
 磨制花岗岩	mo zhi hua gang yan
 磨制花岗岩楼梯	mo zhi hua gang yan lou ti
 磨制花岗岩台阶	mo zhi hua gang yan tai jie
-磨制花岗岩钟	mo zhi hua gang yan zhong
 磨制闪长岩	mo zhi shan chang yan
 磨制闪长岩楼梯	mo zhi shan chang yan lou ti
 磨制闪长岩台阶	mo zhi shan chang yan tai jie
+磨制深板岩	mo zhi shen ban yan
+磨制深板岩楼梯	mo zhi shen ban yan lou ti
+磨制深板岩墙	mo zhi shen ban yan qiang
+磨制深板岩台阶	mo zhi shen ban yan tai jie
 磨制玄武岩	mo zhi xuan wu yan
+魔咒	mo zhou
 哞菇	mou gu
+哞菇刷怪蛋	mou gu shua guai dan
 木板	mu ban
-模板	mu ban
 木锄	mu chu
 牡丹	mu dan
 木斧	mu fu
@@ -712,57 +1365,79 @@ sort: by_weight
 木剑	mu jian
 木门	mu men
 木锹	mu qiao
+牧师	mu shi
+木台阶	mu tai jie
 木炭	mu tan
 木桶	mu tong
+木桶打开次数	mu tong da kai ci shu
 木头	mu tou
-木头或菌核	mu tou huo jun he
-木质按钮	mu zhi an niu
-木质活板门	mu zhi huo ban men
-木质楼梯	mu zhi lou ti
-木质台阶	mu zhi tai jie
+牧羊人	mu yang ren
 木质压力板	mu zhi ya li ban
-木质栅栏	mu zhi zha lan
+那是飞机吗	na shi fei ji ma
+那是鸟吗	na shi niao ma
+那是气球吗	na shi qi qiu ma
 耐久	nai jiu
+奶桶	nai tong
 南瓜	nan gua
 南瓜灯	nan gua deng
+南瓜梗	nan gua geng
 南瓜茎	nan gua jing
 南瓜派	nan gua pai
 南瓜种子	nan gua zhong zi
 恼鬼	nao gui
+恼鬼刷怪蛋	nao gui shua guai dan
 脑纹珊瑚	nao wen shan hu
 脑纹珊瑚块	nao wen shan hu kuai
 脑纹珊瑚扇	nao wen shan hu shan
+能破坏	neng po huai
 溺尸	ni shi
+溺尸刷怪蛋	ni shi shua guai dan
 泥土	ni tu
-你知道吗	ni zhi dao ma
+拟羊鱼	ni yang yu
+粘土	nian tu
+黏土	nian tu
 粘土块	nian tu kuai
+黏土块	nian tu kuai
 粘土球	nian tu qiu
+黏土球	nian tu qiu
 粘性活塞	nian xing huo sai
+黏性活塞	nian xing huo sai
 粘液块	nian ye kuai
+黏液块	nian ye kuai
 粘液球	nian ye qiu
-酿造	niang zao
+黏液球	nian ye qiu
 酿造台	niang zao tai
+凝灰岩	ning hui yan
 牛奶	niu nai
 牛奶桶	niu nai tong
 牛排	niu pai
+牛刷怪蛋	niu shua guai dan
 浓稠的药水	nong chou de yao shui
+农民	nong min
+农牧业	nong mu ye
+农作物	nong zuo wu
 暖水海洋	nuan shui hai yang
 暖水深海	nuan shui shen hai
 女巫	nv wu
-旁观模式	pang guan mo shi
-配方书	pei fang shu
+女巫刷怪蛋	nv wu shua guai dan
+爬行者	pa xing zhe
+爬行者的头	pa xing zhe de tou
+爬行者盾徽	pa xing zhe dun hui
+爬行者刷怪蛋	pa xing zhe shua guai dan
+爬行者状	pa xing zhe zhuang
+佩特拉	pei te la
+喷溅型不可合成的药水	pen jian xing bu ke he cheng de yao shui
 喷溅型迟缓药水	pen jian xing chi huan yao shui
-喷溅型粗制的药水	pen jian xing cu zhi de yao shui
 喷溅型粗制药水	pen jian xing cu zhi yao shui
 喷溅型缓降药水	pen jian xing huan jiang yao shui
 喷溅型剧毒药水	pen jian xing ju du yao shui
 喷溅型抗火药水	pen jian xing kang huo yao shui
 喷溅型力量药水	pen jian xing li liang yao shui
 喷溅型浓稠的药水	pen jian xing nong chou de yao shui
+喷溅型飘浮药水	pen jian xing piao fu yao shui
 喷溅型平凡的药水	pen jian xing ping fan de yao shui
 喷溅型伤害药水	pen jian xing shang hai yao shui
 喷溅型神龟药水	pen jian xing shen gui yao shui
-喷溅型衰变药水	pen jian xing shuai bian yao shui
 喷溅型水肺药水	pen jian xing shui fei yao shui
 喷溅型水瓶	pen jian xing shui ping
 喷溅型跳跃药水	pen jian xing tiao yue yao shui
@@ -775,17 +1450,65 @@ sort: by_weight
 喷溅型治疗药水	pen jian xing zhi liao yao shui
 喷溅药水	pen jian yao shui
 喷溅之箭	pen jian zhi jian
+盆栽种植数	pen zai zhong zhi shu
+碰撞箱	peng zhuang xiang
 皮革	pi ge
 皮革裤子	pi ge ku zi
-皮革盔甲	pi ge kui jia
 皮革马铠	pi ge ma kai
 皮革帽子	pi ge mao zi
 皮革外套	pi ge wai tao
 皮革靴子	pi ge xue zi
+皮匠	pi jiang
 飘浮	piao fu
+飘浮药水	piao fu yao shui
+飘浮之箭	piao fu zhi jian
+品红底	pin hong di
+品红色	pin hong se
+品红色波纹边	pin hong se bo wen bian
+品红色床	pin hong se chuang
+品红色带釉陶瓦	pin hong se dai you tao wa
+品红色底波纹	pin hong se di bo wen
+品红色地球	pin hong se di qiu
+品红色地毯	pin hong se di tan
+品红色顶波纹	pin hong se ding bo wen
+品红色顶三角	pin hong se ding san jiao
+品红色盾牌	pin hong se dun pai
+品红色方框边	pin hong se fang kuang bian
+品红色花朵盾徽	pin hong se hua duo dun hui
+品红色混凝土	pin hong se hun ning tu
+品红色混凝土粉末	pin hong se hun ning tu fen mo
+品红色苦力怕盾徽	pin hong se ku li pa dun hui
+品红色蜡烛	pin hong se la zhu
+品红色菱形	pin hong se ling xing
+品红色爬行者盾徽	pin hong se pa xing zhe dun hui
+品红色旗帜	pin hong se qi zhi
+品红色潜影盒	pin hong se qian ying he
 品红色染料	pin hong se ran liao
+品红色染色玻璃	pin hong se ran se bo li
+品红色染色玻璃板	pin hong se ran se bo li ban
+品红色上半方形	pin hong se shang ban fang xing
+品红色陶瓦	pin hong se tao wa
+品红色头颅盾徽	pin hong se tou lu dun hui
+品红色下半方形	pin hong se xia ban fang xing
+品红色羊毛	pin hong se yang mao
+品红色右半方形	pin hong se you ban fang xing
+品红色右上三角	pin hong se you shang san jiao
+品红色右下三角	pin hong se you xia san jiao
+品红色圆形	pin hong se yuan xing
+品红色猪鼻	pin hong se zhu bi
+品红色砖纹	pin hong se zhuan wen
+品红色自上渐淡	pin hong se zi shang jian dan
+品红色自下渐淡	pin hong se zi xia jian dan
+品红色左半方形	pin hong se zuo ban fang xing
+品红色左上三角	pin hong se zuo shang san jiao
+品红色左下三角	pin hong se zuo xia san jiao
+品红竖条纹	pin hong shu tiao wen
+品红斜十字	pin hong xie shi zi
+品红正十字	pin hong zheng shi zi
 拼图方块	pin tu fang kuai
-品质	pin zhi
+平顶山	ping ding shan
+平顶山高原	ping ding shan gao yuan
+平顶山岩柱	ping ding shan yan zhu
 平凡的药水	ping fan de yao shui
 苹果	ping guo
 平滑红砂岩	ping hua hong sha yan
@@ -796,57 +1519,129 @@ sort: by_weight
 平滑砂岩台阶	ping hua sha yan tai jie
 平滑石台阶	ping hua shi tai jie
 平滑石头	ping hua shi tou
+平滑石英	ping hua shi ying
 平滑石英块	ping hua shi ying kuai
 平滑石英楼梯	ping hua shi ying lou ti
 平滑石英台阶	ping hua shi ying tai jie
-平视显示器	ping shi xian shi qi
-平原	ping yuan
+平滑玄武岩	ping hua xuan wu yan
 屏障	ping zhang
 破碎的热带草原	po sui de re dai cao yuan
 破碎的热带高原	po sui de re dai gao yuan
 蒲公英	pu gong ying
 蒲公英黄	pu gong ying huang
 蒲公英盆栽	pu gong ying pen zai
-普通	pu tong
-启动器	qi dong qi
+骑炽足兽移动距离	qi chi zu shou yi dong ju li
+骑马移动距离	qi ma yi dong ju li
 气泡珊瑚	qi pao shan hu
 气泡珊瑚块	qi pao shan hu kuai
 气泡珊瑚扇	qi pao shan hu shan
 气泡柱	qi pao zhu
-旗帜	qi zhi
 旗帜图案	qi zhi tu an
+骑猪移动距离	qi zhu yi dong ju li
 茜草花	qian cao hua
-潜行	qian xing
+茜草花盆栽	qian cao hua pen zai
+潜声传感器	qian sheng chuan gan qi
+潜行距离	qian xing ju li
+潜行时间	qian xing shi jian
 潜影贝	qian ying bei
 潜影贝导弹	qian ying bei dao dan
+潜影贝刷怪蛋	qian ying bei shua guai dan
 潜影盒	qian ying he
+潜影盒打开次数	qian ying he da kai ci shu
+潜影盒清洗次数	qian ying he qing xi ci shu
 潜影壳	qian ying ke
+强充能	qiang chong neng
 抢夺	qiang duo
 墙上的白桦木告示牌	qiang shang de bai hua mu gao shi pai
 墙上的丛林木告示牌	qiang shang de cong lin mu gao shi pai
+墙上的凋灵骷髅头颅	qiang shang de diao ling ku lou tou lu
 墙上的绯红木告示牌	qiang shang de fei hong mu gao shi pai
+墙上的告示牌	qiang shang de gao shi pai
+墙上的管珊瑚扇	qiang shang de guan shan hu shan
 墙上的诡异木告示牌	qiang shang de gui yi mu gao shi pai
+墙上的红石火把	qiang shang de hong shi huo ba
+墙上的火把	qiang shang de huo ba
+墙上的火珊瑚扇	qiang shang de huo shan hu shan
+墙上的僵尸头颅	qiang shang de jiang shi tou lu
 墙上的金合欢木告示牌	qiang shang de jin he huan mu gao shi pai
+墙上的苦力怕头颅	qiang shang de ku li pa tou lu
+墙上的骷髅头颅	qiang shang de ku lou tou lu
 墙上的灵魂火把	qiang shang de ling hun huo ba
+墙上的龙首	qiang shang de long shou
+墙上的鹿角珊瑚扇	qiang shang de lu jiao shan hu shan
+墙上的脑纹珊瑚扇	qiang shang de nao wen shan hu shan
+墙上的爬行者头颅	qiang shang de pa xing zhe tou lu
+墙上的气泡珊瑚扇	qiang shang de qi pao shan hu shan
+墙上的旗帜	qiang shang de qi zhi
 墙上的深色橡木告示牌	qiang shang de shen se xiang mu gao shi pai
+墙上的失活管珊瑚扇	qiang shang de shi huo guan shan hu shan
+墙上的失活火珊瑚扇	qiang shang de shi huo huo shan hu shan
+墙上的失活鹿角珊瑚扇	qiang shang de shi huo lu jiao shan hu shan
+墙上的失活脑纹珊瑚扇	qiang shang de shi huo nao wen shan hu shan
+墙上的失活气泡珊瑚扇	qiang shang de shi huo qi pao shan hu shan
+墙上的玩家头颅	qiang shang de wan jia tou lu
 墙上的橡木告示牌	qiang shang de xiang mu gao shi pai
 墙上的云杉木告示牌	qiang shang de yun sha mu gao shi pai
 鞘翅	qiao chi
+鞘翅滑行距离	qiao chi hua xing ju li
 切石机	qie shi ji
 切制红砂岩	qie zhi hong sha yan
 切制红砂岩台阶	qie zhi hong sha yan tai jie
 切制砂岩	qie zhi sha yan
 切制砂岩台阶	qie zhi sha yan tai jie
-清除	qing chu
-青花	qing hua
+切制铜块	qie zhi tong kuai
+切制铜楼梯	qie zhi tong lou ti
+切制铜台阶	qie zhi tong tai jie
+青底	qing di
+轻功雪上飘	qing gong xue shang piao
 青金石	qing jin shi
 青金石块	qing jin shi kuai
 青金石矿石	qing jin shi kuang shi
+青色	qing se
+青色波纹边	qing se bo wen bian
+青色床	qing se chuang
+青色带釉陶瓦	qing se dai you tao wa
+青色底波纹	qing se di bo wen
+青色地球	qing se di qiu
+青色地毯	qing se di tan
+青色顶波纹	qing se ding bo wen
+青色盾牌	qing se dun pai
+青色方框边	qing se fang kuang bian
+青色花朵盾徽	qing se hua duo dun hui
+青色混凝土	qing se hun ning tu
+青色混凝土粉末	qing se hun ning tu fen mo
+青色苦力怕盾徽	qing se ku li pa dun hui
+青色蜡烛	qing se la zhu
+青色菱形	qing se ling xing
+青色爬行者盾徽	qing se pa xing zhe dun hui
+青色旗帜	qing se qi zhi
+青色潜影盒	qing se qian ying he
 青色染料	qing se ran liao
+青色染色玻璃	qing se ran se bo li
+青色染色玻璃板	qing se ran se bo li ban
+青色上半方形	qing se shang ban fang xing
+青色陶瓦	qing se tao wa
+青色头颅盾徽	qing se tou lu dun hui
+青色下半方形	qing se xia ban fang xing
+青色羊毛	qing se yang mao
+青色右半方形	qing se you ban fang xing
+青色右上三角	qing se you shang san jiao
+青色右下三角	qing se you xia san jiao
+青色圆形	qing se yuan xing
+青色猪鼻	qing se zhu bi
+青色砖纹	qing se zhuan wen
+青色自上渐淡	qing se zi shang jian dan
+青色自下渐淡	qing se zi xia jian dan
+青色左半方形	qing se zuo ban fang xing
+青色左上三角	qing se zuo shang san jiao
+青色左下三角	qing se zuo xia san jiao
+青竖条纹	qing shu tiao wen
 轻微损坏的铁砧	qing wei sun huai de tie zhen
+清洗盔甲次数	qing xi kui jia ci shu
+清洗旗帜次数	qing xi qi zhi ci shu
+青斜十字	qing xie shi zi
+青正十字	qing zheng shi zi
 轻质测重压力板	qing zhi ce zhong ya li ban
-丘陵	qiu ling
-区块	qu kuai
 去皮白桦木	qu pi bai hua mu
 去皮白桦原木	qu pi bai hua yuan mu
 去皮丛林木	qu pi cong lin mu
@@ -857,82 +1652,93 @@ sort: by_weight
 去皮诡异菌核	qu pi gui yi jun he
 去皮金合欢木	qu pi jin he huan mu
 去皮金合欢原木	qu pi jin he huan yuan mu
-去皮菌柄	qu pi jun bing
-去皮菌核	qu pi jun he
-去皮木头	qu pi mu tou
-去皮木头或菌核	qu pi mu tou huo jun he
 去皮深色橡木	qu pi shen se xiang mu
 去皮深色橡木原木	qu pi shen se xiang mu yuan mu
 去皮橡木	qu pi xiang mu
 去皮橡木原木	qu pi xiang mu yuan mu
-去皮原木	qu pi yuan mu
-去皮原木或菌柄	qu pi yuan mu huo jun bing
 去皮云杉木	qu pi yun sha mu
 去皮云杉原木	qu pi yun shan yuan mu
 曲奇	qu qi
-染料	ran liao
-燃料	ran liao
+曲速泡	qu su pao
+区域效果云	qu yu xiao guo yun
 染色玻璃	ran se bo li
 染色玻璃板	ran se bo li ban
-染色床	ran se chuang
-染色地毯	ran se di tan
-染色木板	ran se mu ban
 染色陶瓦	ran se tao wa
-染色羊毛	ran se yang mao
 热带草原	re dai cao yuan
 热带高原	re dai gao yuan
 热带鱼	re dai yu
+热带鱼刷怪蛋	re dai yu shua guai dan
 热带鱼桶	re dai yu tong
-热修复	re xiu fu
-人类	ren lei
-人造	ren zao
+热门景点	re men jing dian
+热腾腾的	re teng teng de
+日纹类	ri wen lei
+溶洞	rong dong
 熔炉	rong lu
 绒球葱	rong qiu cong
 绒球葱盆栽	rong qiu cong pen zai
 熔岩	rong yan
-熔岩海	rong yan hai
 熔岩桶	rong yan tong
+弱充能	ruo chong neng
+赛纳	sai na
 三叉戟	san cha ji
 森林	sen lin
-沙盒	sha he
 沙砾	sha li
 沙砾山地	sha li shan di
 砂轮	sha lun
 沙漠	sha mo
 沙漠湖泊	sha mo hu po
 沙漠丘陵	sha mo qiu ling
-沙漠神殿	sha mo shen dian
 杀手兔	sha shou tu
-杀死	sha si
+杀手宅子	sha shou zhai zi
 沙滩	sha tan
 砂土	sha tu
 砂岩	sha yan
 砂岩楼梯	sha yan lou ti
 砂岩墙	sha yan qiang
 砂岩台阶	sha yan tai jie
+傻子	sha zi
 沙子	sha zi
 闪长岩	shan chang yan
 闪长岩楼梯	shan chang yan lou ti
 闪长岩墙	shan chang yan qiang
 闪长岩台阶	shan chang yan tai jie
-闪长岩钟	shan chang yan zhong
 山地	shan di
 山地边缘	shan di bian yuan
-闪电	shan dian
-闪电苦力怕	shan dian ku li pa
-珊瑚	shan hu
-珊瑚礁	shan hu jiao
-珊瑚块	shan hu kuai
-珊瑚扇	shan hu shan
-山脉	shan mai
+闪电束	shan dian shu
+闪鳞类	shan lin lei
+山脉狂魔	shan mai kuang mo
+闪烁	shan shuo
 闪烁标语	shan shuo biao yu
+闪烁的西瓜	shan shuo de xi gua
 闪烁的西瓜片	shan shuo de xi gua pian
+山羊	shan yang
+山羊刷怪蛋	shan yang shua guai dan
 伤害吸收	shang hai xi shou
 伤害药水	shang hai yao shui
 伤害之箭	shang hai zhi jian
 上锁的箱子	shang suo de xiang zi
-烧炼	shao lian
-设置	she zhi
+深板岩	shen ban yan
+深板岩瓦	shen ban yan wa
+深板岩瓦楼梯	shen ban yan wa lou ti
+深板岩瓦墙	shen ban yan wa qiang
+深板岩瓦台阶	shen ban yan wa tai jie
+深板岩圆石	shen ban yan yuan shi
+深板岩圆石楼梯	shen ban yan yuan shi lou ti
+深板岩圆石墙	shen ban yan yuan shi qiang
+深板岩圆石台阶	shen ban yan yuan shi tai jie
+深板岩砖	shen ban yan zhuan
+深板岩砖楼梯	shen ban yan zhuan lou ti
+深板岩砖墙	shen ban yan zhuan qiang
+深板岩砖台阶	shen ban yan zhuan tai jie
+深藏不露	shen cang bu lu
+深层红石矿石	shen ceng hong shi kuang shi
+深层金矿石	shen ceng jin kuang shi
+深层绿宝石矿石	shen ceng lv bao shi kuang shi
+深层煤矿石	shen ceng mei kuang shi
+深层青金石矿石	shen ceng qing jin shi kuang shi
+深层铁矿石	shen ceng tie kuang shi
+深层铜矿石	shen ceng tong kuang shi
+深层钻石矿石	shen ceng zuan shi kuang shi
 神龟药水	shen gui yao shui
 神龟之箭	shen gui zhi jian
 深海	shen hai
@@ -953,20 +1759,17 @@ sort: by_weight
 深色橡树树苗	shen se xiang shu shu miao
 深色橡树树苗盆栽	shen se xiang shu shu miao pen zai
 深色橡树树叶	shen se xiang shu shu ye
-生成	sheng cheng
-生存模式	sheng cun mo shi
 生鲑鱼	sheng gui yu
 生鸡肉	sheng ji rou
-生命	sheng ming
+盛开的杜鹃花丛	sheng kai de du juan hua cong
+盛开的杜鹃花丛盆栽	sheng kai de du juan hua cong pen zai
+盛开的杜鹃树叶	sheng kai de du juan shu ye
 生命恢复	sheng ming hui fu
 生命提升	sheng ming ti sheng
-生命条	sheng ming tiao
 生牛肉	sheng niu rou
-生苔的巨石	sheng tai de ju shi
 生兔肉	sheng tu rou
-生物群系	sheng wu qun xi
-生物容量	sheng wu rong liang
-生物头颅	sheng wu tou lu
+生物	sheng wu
+生物击杀数	sheng wu ji sha shu
 生鳕鱼	sheng xue yu
 生羊肉	sheng yang rou
 生鱼	sheng yu
@@ -981,118 +1784,134 @@ sort: by_weight
 石化橡木台阶	shi hua xiang mu tai jie
 失活的管珊瑚	shi huo de guan shan hu
 失活的管珊瑚块	shi huo de guan shan hu kuai
+失活的管珊瑚扇	shi huo de guan shan hu shan
 失活的火珊瑚	shi huo de huo shan hu
 失活的火珊瑚块	shi huo de huo shan hu kuai
+失活的火珊瑚扇	shi huo de huo shan hu shan
 失活的鹿角珊瑚	shi huo de lu jiao shan hu
 失活的鹿角珊瑚块	shi huo de lu jiao shan hu kuai
+失活的鹿角珊瑚扇	shi huo de lu jiao shan hu shan
 失活的脑纹珊瑚	shi huo de nao wen shan hu
 失活的脑纹珊瑚块	shi huo de nao wen shan hu kuai
+失活的脑纹珊瑚扇	shi huo de nao wen shan hu shan
 失活的气泡珊瑚	shi huo de qi pao shan hu
 失活的气泡珊瑚块	shi huo de qi pao shan hu kuai
-失活的珊瑚	shi huo de shan hu
-失活的珊瑚块	shi huo de shan hu kuai
-失活的珊瑚扇	shi huo de shan hu shan
+失活的气泡珊瑚扇	shi huo de qi pao shan hu shan
 石剑	shi jian
-世界界限	shi jie jie xian
+石匠	shi jiang
+世界打开时间	shi jie da kai shi jian
 尸壳	shi ke
+尸壳刷怪蛋	shi ke shua guai dan
 史莱姆	shi lai mu
+史莱姆刷怪蛋	shi lai mu shua guai dan
 石楼梯	shi lou ti
 失明	shi ming
+石器时代	shi qi shi dai
 石锹	shi qiao
+石首类	shi shou lei
 石台阶	shi tai jie
-实体	shi ti
 石头	shi tou
-实现	shi xian
+石头按钮	shi tou an niu
+石头怪物蛋	shi tou guai wu dan
+食物饱和度	shi wu bao he du
 石英块	shi ying kuai
 石英楼梯	shi ying lou ti
 石英台阶	shi ying tai jie
 石英柱	shi ying zhu
 石英砖	shi ying zhuan
 时运	shi yun
-石质按钮	shi zhi an niu
 石质压力板	shi zhi ya li ban
 时钟	shi zhong
 石砖	shi zhuan
+石砖怪物蛋	shi zhuan guai wu dan
 石砖楼梯	shi zhuan lou ti
 石砖墙	shi zhuan qiang
 石砖台阶	shi zhuan tai jie
-十字准星	shi zi zhun xing
+受到伤害	shou dao shang hai
+收纳袋	shou na dai
 守卫者	shou wei zhe
+守卫者刷怪蛋	shou wei zhe shua guai dan
 熟鲑鱼	shu gui yu
 熟鸡肉	shu ji rou
 书架	shu jia
-数据包	shu ju bao
-数据更新方块	shu ju geng xin fang kuai
-数据值	shu ju zhi
-树苗	shu miao
+树莓派版	shu mei pai ban
 熟兔肉	shu tu rou
+竖纹石英块	shu wen shi ying kuai
+竖纹紫珀块	shu wen zi po kuai
 熟鳕鱼	shu xue yu
 熟羊肉	shu yang rou
-树叶	shu ye
-熟鱼	shu yu
 书与笔	shu yu bi
 熟猪排	shu zhu pai
-刷怪蛋	shua guai dan
 刷怪笼	shua guai long
 刷怪笼矿车	shua guai long kuang che
-衰变药水	shuai bian yao shui
-衰变之箭	shuai bian zhi jian
+刷怪箱	shua guai xiang
+刷怪箱矿车	shua guai xiang kuang che
 摔落保护	shuai luo bao hu
+摔落高度	shuai luo gao du
 拴绳	shuan sheng
+拴绳结	shuan sheng jie
 霜冰	shuang bing
-双持	shuang chi
 霜炙更新	shuang zhi geng xin
 水肺药水	shui fei yao shui
 水肺之箭	shui fei zhi jian
 睡莲	shui lian
+水面行走距离	shui mian xing zou ju li
 水瓶	shui ping
+水世界	shui shi jie
 水桶	shui tong
 水下呼吸	shui xia hu xi
 水下速掘	shui xia su jue
+水下行走距离	shui xia xing zou ju li
 水域更新	shui yu geng xin
+瞬间伤害	shun jian shang hai
+瞬间治疗	shun jian zhi liao
+斯特拉	si te la
+死亡次数	si wang ci shu
+四维碎块	si wei sui kuai
+搜查发射器次数	sou cha fa she qi ci shu
+搜查漏斗次数	sou cha lou dou ci shu
+搜查投掷器次数	sou cha tou zhi qi ci shu
 速度	su du
+速跃类	su yue lei
 燧石	sui shi
 损害值	sun hai zhi
 损坏的铁砧	sun huai de tie zhen
-缩放	suo fang
 锁链	suo lian
 锁链护腿	suo lian hu tui
-锁链盔甲	suo lian kui jia
 锁链头盔	suo lian tou kui
 锁链胸甲	suo lian xiong jia
 锁链靴子	suo lian xue zi
-缩略图	suo lue tu
-台阶	tai jie
 苔石	tai shi
 苔石楼梯	tai shi lou ti
 苔石墙	tai shi qiang
 苔石台阶	tai shi tai jie
 苔石砖	tai shi zhuan
+苔石砖怪物蛋	tai shi zhuan guai wu dan
 苔石砖楼梯	tai shi zhuan lou ti
 苔石砖墙	tai shi zhuan qiang
 苔石砖台阶	tai shi zhuan tai jie
-抬头显示器	tai tou xian shi qi
+苔藓地毯	tai xian di tan
+苔藓块	tai xian kuai
 探测铁轨	tan ce tie gui
-弹射物	tan she wu
+探洞者的喜悦	tan dong zhe de xi yue
 弹射物保护	tan she wu bao hu
-探索更新	tan suo geng xin
-探险更新	tan xian geng xin
-探险家地图	tan xian jia di tu
+探索的时光	tan suo de shi guang
+躺在床上的次数	tang zai chuang shang de ci shu
 陶瓦	tao wa
-特性	te xing
+陶鱼类	tao yu lei
 藤蔓	teng wan
-提及特性	ti ji te xing
 梯子	ti zi
-甜菜	tian cai
 甜菜根	tian cai gen
 甜菜汤	tian cai tang
 甜菜种子	tian cai zhong zi
 甜浆果	tian jiang guo
 甜浆果丛	tian jiang guo cong
-天域	tian yu
+天空即为极限	tian kong ji wei ji xian
+甜蜜的梦	tian mi de meng
+天涯共此石	tian ya gong ci shi
 调试棒	tiao shi bang
-调试界面	tiao shi jie mian
-调试模式	tiao shi mo shi
+条纹类	tiao wen lei
+跳跃次数	tiao yue ci shu
 跳跃提升	tiao yue ti sheng
 跳跃药水	tiao yue yao shui
 跳跃之箭	tiao yue zhi jian
@@ -1116,42 +1935,61 @@ sort: by_weight
 铁胸甲	tie xiong jia
 铁靴子	tie xue zi
 铁砧	tie zhen
-铁质工具	tie zhi gong ju
-铁质盔甲	tie zhi kui jia
-头盔	tou kui
+铜锭	tong ding
+铜块	tong kuai
+铜矿石	tong kuang shi
+通用	tong yong
+头颅盾徽	tou lu dun hui
+透明度	tou ming du
 投掷器	tou zhi qi
-图例	tu li
+屠夫	tu fu
+土径	tu jing
+涂蜡	tu la
+涂蜡切制铜块	tu la qie zhi tong kuai
+涂蜡切制铜楼梯	tu la qie zhi tong lou ti
+涂蜡切制铜台阶	tu la qie zhi tong tai jie
+涂蜡铜块	tu la tong kuai
 兔肉煲	tu rou bao
-图形用户界面	tu xing yong hu jie mian
+图书管理员	tu shu guan li yuan
 兔子	tu zi
 兔子脚	tu zi jiao
 兔子皮	tu zi pi
-推送通知	tui song tong zhi
-挖掘	wa jue
+兔子刷怪蛋	tu zi shua guai dan
+脱蜡	tuo la
+挖掘工的梦想	wa jue gong de meng xiang
 挖掘疲劳	wa jue pi lao
 玩家	wan jia
+玩家击杀数	wan jia ji sha shu
 玩家头颅	wan jia tou lu
 亡灵杀手	wang ling sha shou
+望远镜	wang yuan jing
 卫道士	wei dao shi
-维度	wei du
-伪木台阶	wei mu tai jie
-未使用特性	wei shi yong te xing
+卫道士刷怪蛋	wei dao shi shua guai dan
+未知形状	wei zhi xing zhuang
 温水海洋	wen shui hai yang
 温水深海	wen shui shen hai
-嗡嗡蜂群	weng weng feng qun
-物品栏	wu pin lan
+五彩搏鱼	wu cai bo yu
+无底深渊	wu di shen yuan
+无法破坏	wu fa po huai
+物品	wu pin
+物品掉落	wu pin diao luo
+物品附魔次数	wu pin fu mo ci shu
+物品修复和命名	wu pin xiu fu he ming ming
 物品展示框	wu pin zhan shi kuang
+武器匠	wu qi jiang
+武器商	wu qi shang
 无限	wu xian
+无效果	wu xiao guo
 西瓜	xi gua
 西瓜茎	xi gua jing
 西瓜片	xi gua pian
 西瓜种子	xi gua zhong zi
-袭击	xi ji
-稀有度	xi you du
+袭击胜利次数	xi ji sheng li ci shu
+吸收的伤害	xi shou de shang hai
+细雪	xi xue
+细雪桶	xi xue tong
 下界	xia jie
 下界传送门	xia jie chuan song men
-下界传送门方块	xia jie chuan song men fang kuai
-下界反应器	xia jie fan ying qi
 下界合金锄	xia jie he jin chu
 下界合金锭	xia jie he jin ding
 下界合金斧	xia jie he jin fu
@@ -1167,13 +2005,9 @@ sort: by_weight
 下界荒地	xia jie huang di
 下界金矿石	xia jie jin kuang shi
 下界苗	xia jie miao
-下界木板	xia jie mu ban
-下界木质台阶	xia jie mu zhi tai jie
-下界木质栅栏	xia jie mu zhi zha lan
 下界石英	xia jie shi ying
 下界石英矿石	xia jie shi ying kuang shi
 下界岩	xia jie yan
-下界要塞	xia jie yao sai
 下界疣	xia jie you
 下界疣块	xia jie you kuai
 下界之星	xia jie zhi xing
@@ -1183,10 +2017,14 @@ sort: by_weight
 下界砖墙	xia jie zhuan qiang
 下界砖台阶	xia jie zhuan tai jie
 下界砖栅栏	xia jie zhuan zha lan
+下落的方块	xia luo de fang kuai
+下一世代	xia yi shi dai
 陷阱箱	xian jing xiang
+陷阱箱触发次数	xian jing xiang chu fa ci shu
 仙人掌	xian ren zhang
 仙人掌绿	xian ren zhang lv
 仙人掌盆栽	xian ren zhang pen zai
+咸水类	xian shui lei
 镶金黑石	xiang jin hei shi
 橡木	xiang mu
 橡木按钮	xiang mu an niu
@@ -1202,117 +2040,201 @@ sort: by_weight
 橡木栅栏	xiang mu zha lan
 橡木栅栏门	xiang mu zha lan men
 向日葵	xiang ri kui
-向日葵平原	xiang ri kui ping yuan
+向日葵草原	xiang ri kui cao yuan
 橡树树苗	xiang shu shu miao
 橡树树苗盆栽	xiang shu shu miao pen zai
 橡树树叶	xiang shu shu ye
 箱子	xiang zi
-箱子战利品	xiang zi zhan li pin
+箱子打开次数	xiang zi da kai ci shu
 小丑鱼	xiao chou yu
-效果区域云	xiao guo qu yu yun
+小火球	xiao huo qiu
 效率	xiao lv
 小麦	xiao mai
 小麦种子	xiao mai zhong zi
-消歧义	xiao qi yi
-消失	xiao shi
 消失诅咒	xiao shi zu zhou
-效用型	xiao yong xing
+小型垂滴叶	xiao xing chui di ye
+小型球状	xiao xing qiu zhuang
+小型紫晶芽	xiao xing zi jing ya
 携带版	xie dai ban
 信标	xin biao
-新内容	xin nei rong
-新手	xin shou
-性能	xing neng
+信标工程师	xin biao gong cheng shi
 行商羊驼	xing shang yang tuo
-行为	xing wei
+行商羊驼刷怪蛋	xing shang yang tuo shua guai dan
+腥味十足的生意	xing wei shi zu de sheng yi
+星形	xing xing
 幸运	xing yun
 幸运药水	xing yun yao shui
 幸运之箭	xing yun zhi jian
-胸甲	xiong jia
+行走距离	xing zou ju li
 熊猫	xiong mao
-修复	xiu fu
-修改	xiu gai
+熊猫刷怪蛋	xiong mao shua guai dan
+绣雀鲷	xiu que diao
+锈蚀的切制铜块	xiu shi de qie zhi tong kuai
+锈蚀的切制铜楼梯	xiu shi de qie zhi tong lou ti
+锈蚀的切制铜台阶	xiu shi de qie zhi tong tai jie
+锈蚀的铜块	xiu shi de tong kuai
+锈蚀的涂蜡切制铜块	xiu shi de tu la qie zhi tong kuai
+锈蚀的涂蜡切制铜楼梯	xiu shi de tu la qie zhi tong lou ti
+锈蚀的涂蜡切制铜台阶	xiu shi de tu la qie zhi tong tai jie
+锈蚀的涂蜡铜块	xiu shi de tu la tong kuai
 虚空	xu kong
 虚空空气	xu kong kong qi
-虚拟型	xu ni xing
 虚弱	xu ruo
 虚弱药水	xu ruo yao shui
 虚弱之箭	xu ruo zhi jian
-选定	xuan ding
 玄武岩	xuan wu yan
 玄武岩三角洲	xuan wu yan san jiao zhou
-玄武岩柱	xuan wu yan zhu
-选项	xuan xiang
 雪块	xue kuai
 雪傀儡	xue kui lei
 雪球	xue qiu
 雪山	xue shan
-学徒	xue tu
-雪屋	xue wu
 鳕鱼	xue yu
+鳕鱼刷怪蛋	xue yu shua guai dan
 鳕鱼桶	xue yu tong
-靴子	xue zi
-驯服的狼	xun fu de lang
+雪之王国	xue zhi wang guo
 循环型命令方块	xun huan xing ming ling fang kuai
-循环型命令方块矿车	xun huan xing ming ling fang kuai kuang che
 迅捷药水	xun jie yao shui
 迅捷之箭	xun jie zhi jian
-压力板	ya li ban
 烟花火箭	yan hua huo jian
 烟火之星	yan huo zhi xing
 岩浆膏	yan jiang gao
 岩浆怪	yan jiang guai
+岩浆怪刷怪蛋	yan jiang guai shua guai dan
 岩浆块	yan jiang kuai
-演示版	yan shi ban
-演示模式	yan shi mo shi
 烟熏炉	yan xun lu
 严重损坏的铁砧	yan zhong sun huai de tie zhen
+羊帆起航	yang fan qi hang
+阳光传感器	yang guang chuan gan qi
 阳光探测器	yang guang tan ce qi
+氧化的切制铜块	yang hua de qie zhi tong kuai
+氧化的切制铜楼梯	yang hua de qie zhi tong lou ti
+氧化的切制铜台阶	yang hua de qie zhi tong tai jie
+氧化的铜块	yang hua de tong kuai
+氧化的涂蜡切制铜块	yang hua de tu la qie zhi tong kuai
+氧化的涂蜡切制铜楼梯	yang hua de tu la qie zhi tong lou ti
+氧化的涂蜡切制铜台阶	yang hua de tu la qie zhi tong tai jie
+氧化的涂蜡铜块	yang hua de tu la tong kuai
 羊毛	yang mao
-样式代码	yang shi dai ma
+羊刷怪蛋	yang shua guai dan
 羊驼	yang tuo
+羊驼刷怪蛋	yang tuo shua guai dan
 羊驼唾沫	yang tuo tuo mo
 药箭	yao jian
-要塞	yao sai
 药水	yao shui
 夜视	ye shi
 夜视药水	ye shi yao shui
 夜视之箭	ye shi zhi jian
-移除了	yi chu le
-移动中的方块	yi dong zhong de fang kuai
-移动中的活塞	yi dong zhong de huo sai
-已锁定的地图	yi suo ding de di tu
-已移除特性	yi yi chu te xing
+已创建的世界数	yi chuang jian de shi jie shu
+移动的活塞	yi dong de huo sai
+一箭双雕	yi jian shuang diao
+已攀爬距离	yi pan pa ju li
+已染色	yi ran se
+已设置重生点	yi she zhi chong sheng dian
 音符盒	yin fu he
+音符盒播放次数	yin fu he bo fang ci shu
+音符盒调音次数	yin fu he tiao yin ci shu
 引雷	yin lei
+阴森的要塞	yin sen de yao sai
 隐身	yin shen
 隐身药水	yin shen yao shui
 隐身之箭	yin shen zhi jian
 音乐唱片	yin yue chang pian
+荧光墨囊	ying guang mo nang
+荧光物品展示框	ying guang wu pin zhan shi kuang
 营火	ying huo
 荧石	ying shi
-荧石堆	ying shi dui
 荧石粉	ying shi fen
 鹦鹉	ying wu
 鹦鹉螺壳	ying wu luo ke
-用法	yong fa
-用途	yong tu
-游戏内容	you xi nei rong
+鹦鹉刷怪蛋	ying wu shua guai dan
+鹦嘴鱼	ying zui yu
+永恒的伙伴	yong heng de huo ban
+勇往直下	yong wang zhi xia
+右白竖条	you bai shu tiao
+右白斜条	you bai xie tiao
+右橙竖条	you cheng shu tiao
+右橙斜条	you cheng xie tiao
+右淡灰竖条	you dan hui shu tiao
+右淡灰斜条	you dan hui xie tiao
+右淡蓝竖条	you dan lan shu tiao
+右淡蓝斜条	you dan lan xie tiao
+右底白方	you di bai fang
+右底橙方	you di cheng fang
+右底淡灰方	you di dan hui fang
+右底淡蓝方	you di dan lan fang
+右底粉红方	you di fen hong fang
+右底黑方	you di hei fang
+右底红方	you di hong fang
+右底黄方	you di huang fang
+右底黄绿方	you di huang lv fang
+右底灰方	you di hui fang
+右底蓝方	you di lan fang
+右底绿方	you di lv fang
+右底品红方	you di pin hong fang
+右底青方	you di qing fang
+右底紫方	you di zi fang
+右底棕方	you di zong fang
+右顶白方	you ding bai fang
+右顶橙方	you ding cheng fang
+右顶淡灰方	you ding dan hui fang
+右顶淡蓝方	you ding dan lan fang
+右顶粉红方	you ding fen hong fang
+右顶黑方	you ding hei fang
+右顶红方	you ding hong fang
+右顶黄方	you ding huang fang
+右顶黄绿方	you ding huang lv fang
+右顶灰方	you ding hui fang
+右顶蓝方	you ding lan fang
+右顶绿方	you ding lv fang
+右顶品红方	you ding pin hong fang
+右顶青方	you ding qing fang
+右顶紫方	you ding zi fang
+右顶棕方	you ding zong fang
+右粉红竖条	you fen hong shu tiao
+右粉红斜条	you fen hong xie tiao
+右黑竖条	you hei shu tiao
+右黑斜条	you hei xie tiao
+右红竖条	you hong shu tiao
+右红斜条	you hong xie tiao
+右黄绿竖条	you huang lv shu tiao
+右黄绿斜条	you huang lv xie tiao
+右黄竖条	you huang shu tiao
+右黄斜条	you huang xie tiao
+右灰竖条	you hui shu tiao
+右灰斜条	you hui xie tiao
+右蓝竖条	you lan shu tiao
+右蓝斜条	you lan xie tiao
+右绿竖条	you lv shu tiao
+右绿斜条	you lv xie tiao
+右品红竖条	you pin hong shu tiao
+右品红斜条	you pin hong xie tiao
+右青竖条	you qing shu tiao
+右青斜条	you qing xie tiao
+游戏次数	you xi ci shu
+游戏时间	you xi shi jian
+游戏退出次数	you xi tui chu ci shu
+友谊的治愈力	you yi de zhi yu li
+游泳距离	you yong ju li
 鱿鱼	you yu
+鱿鱼刷怪蛋	you yu shua guai dan
 疣猪兽	you zhu shou
-语法	yu fa
-预发布版	yu fa bu ban
-郁金香	yu jin xiang
+疣猪兽刷怪蛋	you zhu shou shua guai dan
+右紫竖条	you zi shu tiao
+右紫斜条	you zi xie tiao
+右棕竖条	you zong shu tiao
+右棕斜条	you zong xie tiao
+与蜂共舞	yu feng gong wu
+渔夫	yu fu
+与火共舞	yu huo gong wu
 羽毛	yu mao
 虞美人	yu mei ren
 虞美人盆栽	yu mei ren pen zai
-鱼木桶	yu mu tong
-原版	yuan ban
+远程折跃	yuan cheng zhe yue
 远古残骸	yuan gu can hai
 远古守卫者	yuan gu shou wei zhe
-原木	yuan mu
-原木或菌柄	yuan mu huo jun bing
+远古守卫者刷怪蛋	yuan gu shou wei zhe shua guai dan
 圆石	yuan shi
-圆石或黑石	yuan shi huo hei shi
+圆石怪物蛋	yuan shi guai wu dan
 圆石楼梯	yuan shi lou ti
 圆石墙	yuan shi qiang
 圆石台阶	yuan shi tai jie
@@ -1332,49 +2254,61 @@ sort: by_weight
 云杉树苗	yun shan shu miao
 云杉树苗盆栽	yun shan shu miao pen zai
 云杉树叶	yun shan shu ye
+云杉台阶	yun shan tai jie
 云杉原木	yun shan yuan mu
-运输	yun shu
 运输矿车	yun shu kuang che
-灾厄村民	zai e cun min
-灾厄队长	zai e dui zhang
 灾厄旗帜	zai e qi zhi
-灾厄巡逻队	zai e xun luo dui
-载具	zai ju
+在副手时	zai fu shou shi
 再生药水	zai sheng yao shui
 再生之箭	zai sheng zhi jian
+在游戏尽头的城市	zai you xi jin tou de cheng shi
+在主手时	zai zhu shou shi
 錾制红砂岩	zan zhi hong sha yan
 錾制磨制黑石	zan zhi mo zhi hei shi
 錾制砂岩	zan zhi sha yan
+錾制深板岩	zan zhi shen ban yan
 錾制石英块	zan zhi shi ying kuai
 錾制石砖	zan zhi shi zhuan
+錾制石砖怪物蛋	zan zhi shi zhuan guai wu dan
 錾制下界砖块	zan zhi xia jie zhuan kuai
-栅栏	zha lan
-栅栏门	zha lan men
-战利品表	zhan li pin biao
-占位符	zhan wei fu
+造成伤害	zao cheng shang hai
+战术性钓鱼	zhan shu xing diao yu
+战猪	zhan zhu
+招募援兵	zhao mu yuan bing
 沼泽	zhao ze
+沼泽丘陵	zhao ze qiu ling
 沼泽山丘	zhao ze shan qiu
-沼泽小屋	zhao ze xiao wu
+这不是铁镐么	zhe bu shi tie gao me
+遮光玻璃	zhe guang bo li
+这上面的风景不错	zhe shang mian de feng jing bu cuo
+这张床已被占用	zhe zhang chuang yi bei zhan yong
+这张床已被阻挡	zhe zhang chuang yi bei zu dang
 侦测器	zhen ce qi
 针叶林	zhen ye lin
 针叶林丘陵	zhen ye lin qiu ling
 针叶林山地	zhen ye lin shan di
-正式版	zheng shi ban
+正中靶心	zheng zhong ba xin
+整装上阵	zheng zhuang shang zhen
 织布机	zhi bu ji
+掷出的附魔之瓶	zhi chu de fu mo zhi ping
+掷出的鸡蛋	zhi chu de ji dan
+掷出的末影珍珠	zhi chu de mo ying zhen zhu
+制箭师	zhi jian shi
 制箭台	zhi jian tai
 治疗药水	zhi liao yao shui
 治疗之箭	zhi liao zhi jian
+滞留型不可合成的药水	zhi liu xing bu ke he cheng de yao shui
 滞留型迟缓药水	zhi liu xing chi huan yao shui
-滞留型粗制的药水	zhi liu xing cu zhi de yao shui
+滞留型粗制药水	zhi liu xing cu zhi yao shui
 滞留型缓降药水	zhi liu xing huan jiang yao shui
 滞留型剧毒药水	zhi liu xing ju du yao shui
 滞留型抗火药水	zhi liu xing kang huo yao shui
 滞留型力量药水	zhi liu xing li liang yao shui
 滞留型浓稠的药水	zhi liu xing nong chou de yao shui
+滞留型飘浮药水	zhi liu xing piao fu yao shui
 滞留型平凡的药水	zhi liu xing ping fan de yao shui
 滞留型伤害药水	zhi liu xing shang hai yao shui
 滞留型神龟药水	zhi liu xing shen gui yao shui
-滞留型衰变药水	zhi liu xing shuai bian yao shui
 滞留型水肺药水	zhi liu xing shui fei yao shui
 滞留型水瓶	zhi liu xing shui ping
 滞留型跳跃药水	zhi liu xing tiao yue yao shui
@@ -1388,63 +2322,181 @@ sort: by_weight
 滞留药水	zhi liu yao shui
 指南针	zhi nan zhen
 知识之书	zhi shi zhi shu
+制图师	zhi tu shi
 制图台	zhi tu tai
 蜘蛛	zhi zhu
-蜘蛛骑士	zhi zhu qi shi
+蜘蛛刷怪蛋	zhi zhu shua guai dan
 蜘蛛网	zhi zhu wang
 蜘蛛眼	zhi zhu yan
+中白横条	zhong bai heng tiao
+中白竖条	zhong bai shu tiao
 忠诚	zhong cheng
+中橙横条	zhong cheng heng tiao
+中橙竖条	zhong cheng shu tiao
+中淡灰横条	zhong dan hui heng tiao
+中淡灰竖条	zhong dan hui shu tiao
+中淡蓝横条	zhong dan lan heng tiao
+中淡蓝竖条	zhong dan lan shu tiao
 中毒	zhong du
+中粉红横条	zhong fen hong heng tiao
+中粉红竖条	zhong fen hong shu tiao
+中黑横条	zhong hei heng tiao
+中黑竖条	zhong hei shu tiao
+中红横条	zhong hong heng tiao
+中红竖条	zhong hong shu tiao
+中黄横条	zhong huang heng tiao
+中黄绿横条	zhong huang lv heng tiao
+中黄绿竖条	zhong huang lv shu tiao
+中黄竖条	zhong huang shu tiao
+中灰横条	zhong hui heng tiao
+中灰竖条	zhong hui shu tiao
+终极奉献	zhong ji feng xian
+中蓝横条	zhong lan heng tiao
+中蓝竖条	zhong lan shu tiao
+中绿横条	zhong lv heng tiao
+中绿竖条	zhong lv shu tiao
+中品红横条	zhong pin hong heng tiao
+中品红竖条	zhong pin hong shu tiao
+中青横条	zhong qing heng tiao
+中青竖条	zhong qing shu tiao
+中型紫晶芽	zhong xing zi jing ya
 重质测重压力板	zhong zhi ce zhong ya li ban
-种子	zhong zi
+中紫横条	zhong zi heng tiao
+中紫竖条	zhong zi shu tiao
+中棕横条	zhong zong heng tiao
+中棕竖条	zhong zong shu tiao
+猪鼻	zhu bi
 竹林	zhu lin
 竹林丘陵	zhu lin qiu ling
 猪灵	zhu ling
-猪人	zhu ren
+猪灵蛮兵	zhu ling man bing
+猪灵蛮兵刷怪蛋	zhu ling man bing shua guai dan
+猪灵刷怪蛋	zhu ling shua guai dan
+祝你好运	zhu ni hao yun
 主世界	zhu shi jie
-主世界木板	zhu shi jie mu ban
-主世界木头	zhu shi jie mu tou
-主世界木质台阶	zhu shi jie mu zhi tai jie
-主世界木质栅栏	zhu shi jie mu zhi zha lan
-主世界去皮木头	zhu shi jie qu pi mu tou
-主世界去皮原木	zhu shi jie qu pi yuan mu
-主世界原木	zhu shi jie yuan mu
+猪刷怪蛋	zhu shua guai dan
 竹笋	zhu sun
+主效果	zhu xiao guo
 竹子	zhu zi
 竹子盆栽	zhu zi pen zai
-专家	zhuan jia
 砖块	zhuan kuai
 砖块墙	zhuan kuai qiang
 砖楼梯	zhuan lou ti
 砖台阶	zhuan tai jie
-状态效果	zhuang tai xiao guo
-装填箭的弩	zhuang tian jian de nu
-装填烟花的弩	zhuang tian yan hua de nu
-准星	zhun xing
+装有熔岩的炼药锅	zhuang you rong yan de lian yao guo
+装有水的炼药锅	zhuang you shui de lian yao guo
+装有细雪的炼药锅	zhuang you xi xue de lian yao guo
+紫底	zi di
 自定义	zi ding yi
-字段	zi duan
-字符串	zi fu chuan
+子空间泡泡	zi kong jian pao pao
 紫珀块	zi po kuai
 紫珀楼梯	zi po lou ti
 紫珀台阶	zi po tai jie
 紫珀柱	zi po zhu
-自然	zi ran
+紫色	zi se
+紫色波纹边	zi se bo wen bian
+紫色床	zi se chuang
+紫色带釉陶瓦	zi se dai you tao wa
+紫色底波纹	zi se di bo wen
+紫色地球	zi se di qiu
+紫色地毯	zi se di tan
+紫色顶波纹	zi se ding bo wen
+紫色盾牌	zi se dun pai
+紫色方框边	zi se fang kuang bian
+紫色花朵盾徽	zi se hua duo dun hui
+紫色混凝土	zi se hun ning tu
+紫色混凝土粉末	zi se hun ning tu fen mo
+紫色苦力怕盾徽	zi se ku li pa dun hui
+紫色蜡烛	zi se la zhu
+紫色菱形	zi se ling xing
+紫色爬行者盾徽	zi se pa xing zhe dun hui
+紫色旗帜	zi se qi zhi
+紫色潜影盒	zi se qian ying he
 紫色染料	zi se ran liao
+紫色染色玻璃	zi se ran se bo li
+紫色染色玻璃板	zi se ran se bo li ban
+紫色上半方形	zi se shang ban fang xing
+紫色陶瓦	zi se tao wa
+紫色头颅盾徽	zi se tou lu dun hui
+紫色下半方形	zi se xia ban fang xing
+紫色羊毛	zi se yang mao
+紫色右半方形	zi se you ban fang xing
+紫色右上三角	zi se you shang san jiao
+紫色右下三角	zi se you xia san jiao
+紫色圆形	zi se yuan xing
+紫色猪鼻	zi se zhu bi
+紫色砖纹	zi se zhuan wen
+紫色自上渐淡	zi se zi shang jian dan
+紫色自下渐淡	zi se zi xia jian dan
+紫色左半方形	zi se zuo ban fang xing
+紫色左上三角	zi se zuo shang san jiao
+紫色左下三角	zi se zuo xia san jiao
+自上次入眠	zi shang ci ru mian
+自上次死亡	zi shang ci si wang
+资深怪物猎人	zi shen guai wu lie ren
+紫竖条纹	zi shu tiao wen
+紫水晶簇	zi shui jing cu
+紫水晶块	zi shui jing kuai
+紫水晶母岩	zi shui jing mu yan
+紫水晶碎片	zi shui jing sui pian
 紫颂果	zi song guo
 紫颂花	zi song hua
 紫颂植物	zi song zhi wu
-自选	zi xuan
-资源	zi yuan
-棕色巨型蘑菇	zong se ju xing mo gu
+自我放逐	zi wo fang zhu
+紫斜十字	zi xie shi zi
+资源包	zi yuan bao
+紫正十字	zi zheng shi zi
+棕底	zong di
+踪迹	zong ji
+棕色	zong se
+棕色波纹边	zong se bo wen bian
+棕色床	zong se chuang
+棕色带釉陶瓦	zong se dai you tao wa
+棕色底波纹	zong se di bo wen
+棕色地球	zong se di qiu
+棕色地毯	zong se di tan
+棕色顶波纹	zong se ding bo wen
+棕色盾牌	zong se dun pai
+棕色方框边	zong se fang kuang bian
+棕色花朵盾徽	zong se hua duo dun hui
+棕色混凝土	zong se hun ning tu
+棕色混凝土粉末	zong se hun ning tu fen mo
+棕色苦力怕盾徽	zong se ku li pa dun hui
+棕色蜡烛	zong se la zhu
+棕色菱形	zong se ling xing
 棕色蘑菇	zong se mo gu
 棕色蘑菇方块	zong se mo gu fang kuai
 棕色蘑菇盆栽	zong se mo gu pen zai
+棕色爬行者盾徽	zong se pa xing zhe dun hui
+棕色旗帜	zong se qi zhi
+棕色潜影盒	zong se qian ying he
 棕色染料	zong se ran liao
-组件	zu jian
+棕色染色玻璃	zong se ran se bo li
+棕色染色玻璃板	zong se ran se bo li ban
+棕色上半方形	zong se shang ban fang xing
+棕色陶瓦	zong se tao wa
+棕色头颅盾徽	zong se tou lu dun hui
+棕色下半方形	zong se xia ban fang xing
+棕色羊毛	zong se yang mao
+棕色右半方形	zong se you ban fang xing
+棕色右上三角	zong se you shang san jiao
+棕色右下三角	zong se you xia san jiao
+棕色圆形	zong se yuan xing
+棕色猪鼻	zong se zhu bi
+棕色砖纹	zong se zhuan wen
+棕色自上渐淡	zong se zi shang jian dan
+棕色自下渐淡	zong se zi xia jian dan
+棕色左半方形	zong se zuo ban fang xing
+棕色左上三角	zong se zuo shang san jiao
+棕色左下三角	zong se zuo xia san jiao
+棕竖条纹	zong shu tiao wen
+棕斜十字	zong xie shi zi
+棕正十字	zong zheng shi zi
 钻石	zuan shi
 钻石锄	zuan shi chu
 钻石斧	zuan shi fu
 钻石镐	zuan shi gao
+钻石护体	zuan shi hu ti
 钻石护腿	zuan shi hu tui
 钻石剑	zuan shi jian
 钻石块	zuan shi kuai
@@ -1454,3 +2506,70 @@ sort: by_weight
 钻石头盔	zuan shi tou kui
 钻石胸甲	zuan shi xiong jia
 钻石靴子	zuan shi xue zi
+最萌捕食者	zui meng bu shi zhe
+左白竖条	zuo bai shu tiao
+左白斜条	zuo bai xie tiao
+左橙竖条	zuo cheng shu tiao
+左橙斜条	zuo cheng xie tiao
+坐船移动距离	zuo chuan yi dong ju li
+左淡灰竖条	zuo dan hui shu tiao
+左淡灰斜条	zuo dan hui xie tiao
+左淡蓝竖条	zuo dan lan shu tiao
+左淡蓝斜条	zuo dan lan xie tiao
+左底白方	zuo di bai fang
+左底橙方	zuo di cheng fang
+左底淡灰方	zuo di dan hui fang
+左底淡蓝方	zuo di dan lan fang
+左底粉红方	zuo di fen hong fang
+左底黑方	zuo di hei fang
+左底红方	zuo di hong fang
+左底黄方	zuo di huang fang
+左底黄绿方	zuo di huang lv fang
+左底灰方	zuo di hui fang
+左底蓝方	zuo di lan fang
+左底绿方	zuo di lv fang
+左底品红方	zuo di pin hong fang
+左底青方	zuo di qing fang
+左底紫方	zuo di zi fang
+左底棕方	zuo di zong fang
+左顶白方	zuo ding bai fang
+左顶橙方	zuo ding cheng fang
+左顶淡灰方	zuo ding dan hui fang
+左顶淡蓝方	zuo ding dan lan fang
+左顶粉红方	zuo ding fen hong fang
+左顶黑方	zuo ding hei fang
+左顶红方	zuo ding hong fang
+左顶黄方	zuo ding huang fang
+左顶黄绿方	zuo ding huang lv fang
+左顶灰方	zuo ding hui fang
+左顶蓝方	zuo ding lan fang
+左顶绿方	zuo ding lv fang
+左顶品红方	zuo ding pin hong fang
+左顶青方	zuo ding qing fang
+左顶紫方	zuo ding zi fang
+左顶棕方	zuo ding zong fang
+左粉红竖条	zuo fen hong shu tiao
+左粉红斜条	zuo fen hong xie tiao
+左黑竖条	zuo hei shu tiao
+左黑斜条	zuo hei xie tiao
+左红竖条	zuo hong shu tiao
+左红斜条	zuo hong xie tiao
+左黄绿竖条	zuo huang lv shu tiao
+左黄绿斜条	zuo huang lv xie tiao
+左黄竖条	zuo huang shu tiao
+左黄斜条	zuo huang xie tiao
+左灰竖条	zuo hui shu tiao
+左灰斜条	zuo hui xie tiao
+坐矿车移动距离	zuo kuang che yi dong ju li
+左蓝竖条	zuo lan shu tiao
+左蓝斜条	zuo lan xie tiao
+左绿竖条	zuo lv shu tiao
+左绿斜条	zuo lv xie tiao
+左品红竖条	zuo pin hong shu tiao
+左品红斜条	zuo pin hong xie tiao
+左青竖条	zuo qing shu tiao
+左青斜条	zuo qing xie tiao
+左紫竖条	zuo zi shu tiao
+左紫斜条	zuo zi xie tiao
+左棕竖条	zuo zong shu tiao
+左棕斜条	zuo zong xie tiao

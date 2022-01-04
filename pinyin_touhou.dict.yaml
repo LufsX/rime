@@ -4,7 +4,7 @@
 
 ---
 name: pinyin_touhou
-version: "2021-03-13"
+version: "2021-07-22"
 sort: by_weight
 ...
 
@@ -31,6 +31,7 @@ sort: by_weight
 不可思议之国	bu ke si yi zhi guo
 朝仓理香子	chao cang li xiang zi
 赤蛮奇	chi man qi
+纯狐	chun hu
 春之小径	chun zhi xiao jing
 茨木华扇	ci mu hua shan
 村纱水蜜	cun sha shui mi
@@ -85,6 +86,7 @@ sort: by_weight
 二小姐	er xiao jie
 二岩猯藏	er yan tuan cang
 法界	fa jie
+饭纲丸龙	fan gang wan long
 绯想天	fei xiang tian
 废洋馆	fei yang guan
 丰聪耳神子	feng cong er shen zi
@@ -99,6 +101,7 @@ sort: by_weight
 古明地觉	gu ming di jue
 古明地恋	gu ming di lian
 鬼人正邪	gui ren zheng xie
+豪德寺三花	hao de si san hua
 河城荷取	he cheng he qu
 赫恩	he en
 核融合炉	he rong he lu
@@ -117,7 +120,9 @@ sort: by_weight
 霍青娥	huo qing e
 霍瓦特洛克	huo wa te luo ke
 火焰猫燐	huo yan mao lin
+姬虫百百世	ji chong bai bai shi
 姬海棠羽立	ji hai tang yu li
+菅牧典	jian mu dian
 键山雏	jian shan chu
 间歇泉地下中心	jian xie quan di xia zhong xin
 矜羯罗	jin jie luo
@@ -128,6 +133,7 @@ sort: by_weight
 九十九八桥	jiu shi jiu ba qiao
 九十九弁弁	jiu shi jiu bian bian
 九天瀑布	jiu tian pu bu
+驹草山如	ju cao shan ru
 菊理	ju li
 卡娜	ka na
 卡娜安娜贝拉尔	ka na an na bei la er
@@ -216,6 +222,7 @@ sort: by_weight
 桑尼	sang ni
 桑尼米尔克	sang ni mi er ke
 森近霖之助	sen jin lin zhi zhu
+山城高岭	shan cheng gao ling
 上白泽慧音	shang bai ze hui yin
 上海	shang hai
 少名针妙丸	shao ming zhen miao wan
@@ -231,12 +238,14 @@ sort: by_weight
 水桥帕露西	shui qiao pa lu xi
 四季映姬	si ji ying ji
 四季映姬亚玛撒那度	si ji ying ji ya ma sa na du
+四季映姬夜魔仙那度	si ji ying ji ye mo xian na du
 斯卡雷特	si ka lei te
 斯塔萨菲娅	si ta sa fei ya
 苏格拉底	su ge la di
 苏我屠自古	su wo tu zi gu
 太阳花田	tai yang hua tian
 藤原妹红	teng yuan mei hong
+天弓千亦	tian gong qian yi
 天界	tian jie
 维纳的废墟	wei na de fei xu
 未知之花魅知之旅	wei zhi zhi hua mei zhi zhi lv
@@ -275,6 +284,7 @@ sort: by_weight
 幽谷响子	you gu xiang zi
 游戏	you xi
 幽玄魔眼	you xuan mo yan
+玉造魅须丸	yu zao mei xu wan
 宇佐见堇子	yu zuo jian jin zi
 宇佐见莲子	yu zuo jian lian zi
 远松	yuan song
@@ -282,6 +292,7 @@ sort: by_weight
 月夜见	yue ye jian
 云居一轮	yun ju yi lun
 再思之道	zai si zhi dao
+埴安神袿姬	zhi an shen gui ji
 中有之道	zhong you zhi dao
 朱鹭子	zhu lu zi
 灼热地狱迹	zhuo re di yu ji
