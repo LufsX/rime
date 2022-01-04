@@ -20,6 +20,9 @@ switches:
     states: [半角, 全角]
   - name: ascii_punct
     states: [。，, ．，]
+  - name: emoji_suggestion
+    reset: 1
+    states: [ "🈚️️\uFE0E", "🈶️️\uFE0F" ]
 
 engine:
   processors:
@@ -43,9 +46,15 @@ engine:
     - table_translator@custom_phrase
     - script_translator
   filters:
+    - simplifier@emoji_suggestion
     - simplifier
     - uniquifier
     - single_char_filter
+
+emoji_suggestion:
+  opencc_config: emoji.json
+  option_name: emoji_suggestion
+  tips: all
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba/
