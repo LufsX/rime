@@ -6,7 +6,7 @@
 
 - OS: macOS 10.15.7
 - Version: [0.15.2-a9829e8](https://storage.isteed.cc/MacSoftware/Squirrel)
-- Date: 2022-01-03
+- Date: 2022-01-04
 
 ### 下载
 
@@ -27,11 +27,11 @@
 
 # 预览
 
-![](https://cdn.jsdelivr.net/gh/lufsx/res@0.2.4/img/rime/p1.png)
-![](https://cdn.jsdelivr.net/gh/lufsx/res@0.2.4/img/rime/p2.png)
-![](https://cdn.jsdelivr.net/gh/lufsx/res@0.2.4/img/rime/p3.png)
-![](https://cdn.jsdelivr.net/gh/lufsx/res@0.2.4/img/rime/p4.png)
-![](https://cdn.jsdelivr.net/gh/lufsx/res@0.2.4/img/rime/p5.png)
+![](https://cdn.isteed.cc/img/rime/p1.png)
+![](https://cdn.isteed.cc/img/rime/p2.png)
+![](https://cdn.isteed.cc/img/rime/p3.png)
+![](https://cdn.isteed.cc/img/rime/p4.png)
+![](https://cdn.isteed.cc/img/rime/p5.png)
 
 # 安装
 
@@ -41,7 +41,7 @@
 
 小技巧:
 
-- 国内 GitHub 下载缓慢/无法下载可以尝试使用 [Cloudflare 加速下载](https://gh.isteed.cc/)
+- 国内 GitHub 下载缓慢/无法下载可以尝试使用 [Cloudflare 加速下载](https://gh.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)
 - 或使用 [Gitee 镜像](https://gitee.com/LufsX/rime)（须登录，不推荐使用）
 
 # 特性
@@ -63,6 +63,7 @@
 - [x] 更新搜狗词库 Update: 2022-01-04
 - [x] 添加深色主题
 - [x] 添加 Emoji 支持
+- [ ] 添加「[同文输入法](https://github.com/osfans/trime)」支持
 
 # 感谢/参考
 
