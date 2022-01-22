@@ -9,20 +9,20 @@ vocabulary: essay-zh-hans
 use_preset_vocabulary: false
 
 import_tables:
-  - pinyin_animal # 动物
-  - pinyin_caijing # 财经
-  - pinyin_food # 饮食
-  - pinyin_idiom # 成语俗语
-  - pinyin_IT # IT
-  - pinyin_medical # 医学
-  - pinyin_net # 网络流行语
-  - pinyin_renmingdiming # 人名地名
+  - dicts/animal # 动物
+  - dicts/caijing # 财经
+  - dicts/food # 饮食
+  - dicts/idiom # 成语俗语
+  - dicts/IT # IT
+  - dicts/medical # 医学
+  - dicts/net # 网络流行语
+  - dicts/renmingdiming # 人名地名
 
   # 一点点小小的私货，不需要的可以自行关闭呢
-  - pinyin_genshin # 原神
-  - pinyin_minecraft # Minecraft 词条
-  - pinyin_touhou # 东方 Project
+  - dicts/genshin # 原神
+  - dicts/minecraft # Minecraft 词条
+  - dicts/touhou # 东方 Project
 
   # 覆盖词频
-  - pinyin_simp # 最小拼音词典
+  - dicts/simp # 最小拼音词典
 ...
