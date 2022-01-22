@@ -6,7 +6,7 @@
 
 - OS: macOS 10.15.7
 - Version: [0.15.2-a9829e8](https://storage.isteed.cc/MacSoftware/Squirrel)
-- Date: 2022-01-04
+- Date: 2022-01-22
 
 ### 下载
 
@@ -39,7 +39,7 @@
 2. 将本仓库所有文件复制到 `~/Library/Rime/`
 3. 重新部署鼠须管
 
-小技巧:
+## 小技巧
 
 - 国内 GitHub 下载缓慢/无法下载可以尝试使用 [Cloudflare 加速下载](https://gh.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)
 - 或使用 [Gitee 镜像](https://gitee.com/LufsX/rime)（须登录，不推荐使用）
@@ -63,7 +63,10 @@
 - [x] 更新搜狗词库 Update: 2022-01-04
 - [x] 添加深色主题
 - [x] 添加 Emoji 支持
-- [ ] 添加「[同文输入法](https://github.com/osfans/trime)」支持
+- [ ] ~~添加「[同文输入法](https://github.com/osfans/trime)」支持~~（Android 12 似乎不兼容，无法测试）
+- [ ] 添加模糊拼音支持
+- [ ] 更好的词库与词频？
+- [ ] 更加适配小狼毫的配置
 
 # 感谢/参考
 
