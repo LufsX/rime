@@ -61,6 +61,10 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba/
   delimiter: " '"
   algebra:
+    - erase/^hm$/
+    - erase/^m$/
+    - erase/^n$/
+    - erase/^ng$/
     - erase/^xx$/
     - derive/^([jqxy])u$/$1v/
     - derive/^([aoe])([ioun])$/$1$1$2/
