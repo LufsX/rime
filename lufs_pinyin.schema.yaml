@@ -60,6 +60,10 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba/
   delimiter: " '"
   algebra:
+    - erase/^hm$/
+    - erase/^m$/
+    - erase/^n$/
+    - erase/^ng$/
     - abbrev/^(.).+$/$1/
 
 translator:
