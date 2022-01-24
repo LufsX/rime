@@ -23,7 +23,7 @@ switches:
     states: [。，, ．，]
   - name: emoji_suggestion
     reset: 1
-    states: [ "🈚️️\uFE0E", "🈶️️\uFE0F" ]
+    states: ["🈚️️\uFE0E", "🈶️️\uFE0F"]
 
 engine:
   processors:
@@ -96,6 +96,13 @@ speller:
     - xform/in$/B/
     - xlit/QWRTYUIOPSDFGHJKLZXCVBNM/qwrtyuiopsdfghjklzxcvbnm/
     - abbrev/^(.).+$/$1/
+
+    # 模糊音区域
+    # 依据个人情况修改注释～
+    # - derive/^l/n/ # l => n
+    # - derive/^n/l/ # n => l
+    - derive/([abcdfghklmnprstwyz])h$/$1j/ # an => ang, en => eng
+    - derive/([abcdfghklmnprstwyz])j$/$1h/ # ang => an, eng => en
 
 translator:
   dictionary: extended
