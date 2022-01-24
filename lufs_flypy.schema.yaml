@@ -55,7 +55,7 @@ engine:
 emoji_suggestion:
   opencc_config: emoji.json
   option_name: emoji_suggestion
-  tips: all
+  tips: false
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba/
@@ -116,7 +116,6 @@ grammar:
 punctuator:
   import_preset: symbols
   symbols:
-    "/bq": [ 🤣, 😆, 😋, 🤔️, 🎉, 😂️, 🐂🍺️, 😱️, 👌, 😅️, 😇️, 🙃️, 💊️, 💯️, 👍️, 🙈️, 💩️, 😈️]
     "/dn": [ , ⌘, ⌥, ⇧, ⌃, ⎋, ⇪, ⌫, ⌦, ↩︎, ⏎, ↑, ↓, ←, →, ↖, ↘, ⇟, ⇞]
     "/x": [ ＊, ×, ✱, ★, ☆, ✩, ✧, ❋, ❊, ❉, ❈, ❅, ✿, ✲]
     "/sm": [ "《", "》", "〈", "〉", "«", "»", "<", ">"]
