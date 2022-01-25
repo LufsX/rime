@@ -99,8 +99,12 @@ speller:
 
     # 模糊音区域
     # 依据个人情况修改注释～
+
+    # 声母部分
     # - derive/^l/n/ # l => n
     # - derive/^n/l/ # n => l
+
+    # 韵母部分
     - derive/([abcdfghklmnprstwyzuiv])h$/$1j/ # an => ang
     - derive/([abcdfghklmnprstwyzuiv])j$/$1h/ # ang => an
     - derive/([bcdefghkmnprswzuiv])f$/$1g/ # en => eng

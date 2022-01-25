@@ -68,10 +68,16 @@ speller:
 
     # 模糊音区域
     # 依据个人情况修改注释～
+
+    # 声母部分
     # - derive/^l/n/ # l => n
     # - derive/^n/l/ # n => l
-    - derive/([ae])ng$/$1n/ # an => ang, en => eng
-    - derive/([ae])n$/$1ng/ # ang => an, eng => en
+
+    # 韵母部分
+    - derive/([a])ng$/$1n/ # an => ang
+    - derive/([a])n$/$1ng/ # ang => an
+    - derive/([e])ng$/$1n/ # en => eng
+    - derive/([e])n$/$1ng/ # eng => en
 
 translator:
   dictionary: extended
