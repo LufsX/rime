@@ -101,8 +101,10 @@ speller:
     # 依据个人情况修改注释～
     # - derive/^l/n/ # l => n
     # - derive/^n/l/ # n => l
-    - derive/([abcdfghklmnprstwyz])h$/$1j/ # an => ang, en => eng
-    - derive/([abcdfghklmnprstwyz])j$/$1h/ # ang => an, eng => en
+    - derive/([abcdfghklmnprstwyzuiv])h$/$1j/ # an => ang
+    - derive/([abcdfghklmnprstwyzuiv])j$/$1h/ # ang => an
+    - derive/([bcdefghkmnprswzuiv])f$/$1g/ # en => eng
+    - derive/([bcdefghkmnprswzuiv])g$/$1f/ # eng => en
 
 translator:
   dictionary: extended
