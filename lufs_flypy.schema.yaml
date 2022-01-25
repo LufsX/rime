@@ -61,11 +61,47 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba/
   delimiter: " '"
   algebra:
+    - erase/^xx$/
     - erase/^hm$/
     - erase/^m$/
     - erase/^n$/
     - erase/^ng$/
-    - erase/^xx$/
+
+    # 模糊音区域
+    # 依据个人情况修改注释～
+
+    # 声母部分
+    # - derive/^([z])h/$1/ # zh => z
+    # - derive/^([z])([^h])/$1h$2/ # z => zh
+    # - derive/^([c])h/$1/ # ch => c
+    # - derive/^([c])([^h])/$1h$2/ # c => ch
+    # - derive/^([s])h/$1/ # sh => s
+    # - derive/^([s])([^h])/$1h$2/ # s => sh
+    # - derive/^l/n/ # l => n
+    # - derive/^n/l/ # n => l
+    #- derive/^r/l/ # r => l
+    #- derive/^r/y/ # r => y
+    #- derive/^hu$/fu/ # hu => fu
+    #- derive/^fu$/hu/ # fu => hu
+
+    # 韵母部分
+    - derive/([a])n$/$1ng/ # an => ang
+    - derive/([a])ng$/$1n/ # ang => an
+    - derive/([e])n$/$1ng/ # en => eng
+    - derive/([e])ng$/$1n/ # eng => en
+    # - derive/([i])n$/$1ng/ # in => ing
+    # - derive/([i])ng$/$1n/ # ing => in
+    # - derive/([i])an$/$1ang/ # ian => iang
+    # - derive/([i])ang$/$1an/ # iang => ian
+    # 由于小鹤双拼特性，无需 uang <=> iang
+
+    # 其它模糊音
+    #- derive/^hui$/fei/ # hui => fei
+    #- derive/^fei$/hui/ # fei => hui
+    #- derive/^huang$/wang/ # huang => wang
+    #- derive/^wang$/huang/ # wang => huang
+
+    # 小鹤双拼码表
     - derive/^([jqxy])u$/$1v/
     - derive/^([aoe])([ioun])$/$1$1$2/
     - xform/^([aoe])(ng)?$/$1$1$2/
@@ -95,20 +131,9 @@ speller:
     - xform/ui$/V/
     - xform/in$/B/
     - xlit/QWRTYUIOPSDFGHJKLZXCVBNM/qwrtyuiopsdfghjklzxcvbnm/
+
+    # 简拼支持
     - abbrev/^(.).+$/$1/
-
-    # 模糊音区域
-    # 依据个人情况修改注释～
-
-    # 声母部分
-    # - derive/^l/n/ # l => n
-    # - derive/^n/l/ # n => l
-
-    # 韵母部分
-    - derive/([abcdfghklmnprstwyzuiv])h$/$1j/ # an => ang
-    - derive/([abcdfghklmnprstwyzuiv])j$/$1h/ # ang => an
-    - derive/([bcdefghkmnprswzuiv])f$/$1g/ # en => eng
-    - derive/([bcdefghkmnprswzuiv])g$/$1f/ # eng => en
 
 translator:
   dictionary: extended
