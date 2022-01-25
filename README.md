@@ -57,7 +57,8 @@
 - 词库总大小仅 `7.0MB`（包括八股文仅 `9.8MB`）
 - `Caps` 切换英文输入法（小狼毫无法享受）
 - Emoji 支持
-- 模糊音支持（小鹤双拼与朙月拼音均支持）
+- 模糊音（小鹤双拼与朙月拼音均支持）
+- 朙月拼音支持按键纠错与容错拼写
 
 # 待办
 
@@ -73,6 +74,7 @@
 
 - [BlindingDark/rime-lua-select-character](https://github.com/BlindingDark/rime-lua-select-character)
 - [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian/)
+- [lotem/luna_pinyin.custom.yaml](https://gist.github.com/lotem/2320943)
 - [maomiui/rime](https://github.com/maomiui/rime)
 - [placeless/squirrel_config](https://github.com/placeless/squirrel_config)
 - [rime/squirrel](https://github.com/rime/squirrel)
