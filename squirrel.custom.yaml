@@ -23,6 +23,7 @@ patch:
 
       # 颜色
       back_color: 0xAEFFFFFF # 候选条背景色，24位色值，16进制，ABGR顺序
+      border_color: 0xECE4FC # 边框颜色
       candidate_text_color: 0x121212 # 预选项文字颜色
       comment_text_color: 0x8E8E8E # 拼音等提示文字颜色
       hilited_candidate_back_color: 0xECE4FC # 候选文字背景色
@@ -103,6 +104,7 @@ patch:
 
       # 颜色
       back_color: 0xFFFFFF # 候选条背景色，24位色值，16进制，BGR顺序
+      border_color: 0xECE4FC # 边框颜色
       candidate_text_color: 0x121212 # 预选项文字颜色
       comment_text_color: 0x8E8E8E # 拼音等提示文字颜色
       hilited_candidate_back_color: 0xECE4FC # 候选文字背景色
