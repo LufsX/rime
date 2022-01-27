@@ -22,7 +22,7 @@
 > 个人主要使用 macOS，所以这个配置可能会有些小问题～
 
 - OS: Windows 10 20H2
-- Version: [0.14.3.0](htpps://gh.isteed.cc/https://github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe)
+- Version: [0.14.3.0](https://gh.isteed.cc/https://github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe)
 - Date: 2022-01-27
 
 # 预览
