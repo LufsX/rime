@@ -8,8 +8,6 @@
 # 順序爲：文字、編碼、權重（決定重碼的次序、可選）
 #
 # 雖然文本碼表編輯較爲方便，但不適合導入大量條目
-#
-# no comment
 
 中州韻輸入法引擎	rime	2
 https://rime.im/	rime	1
@@ -29,8 +27,8 @@ CSS	css
 Dropbox	dropbox
 GBK	gbk
 GitHub	github
-Google Analytics	ga
 Google	google
+Google Analytics	ga
 GUN/Linux linux
 HTML	html
 iCloud	icloud
@@ -48,14 +46,14 @@ iTunes	itunes
 JavaScript js
 jQuery	jquery
 Linux	linux
-Mac App Store	mas
 Mac	mac
-MacBook Air	mba
+Mac App Store	mas
 MacBook	macbook
+MacBook Air	mba
 MacBook Pro	mbp
+macOS	macos
 macOS Catalina	macos
 macOS High Sierra	macos
-macOS	macos
 macOS Mojave	macos
 Magisk	magisk
 Minecraft	minecraft
@@ -76,9 +74,10 @@ UTF-8	utfba
 U盘	upj
 WeChat	wechat
 Wi-Fi	wifi
+Windows	win
+Windows	windows
 X-Ray	xray
 Xbox One	xbox
-Xʀ	xr
 Youku	youku
 YouTube	youtube
 又双叒叕	yyy
