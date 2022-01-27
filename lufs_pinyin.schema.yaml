@@ -28,7 +28,7 @@ engine:
   processors:
     # - ascii_composer # Windows 用户请解除此行注释，否则将会无法切换到英文输入
     - recognizer
-    - lua_processor@select_character_processor
+    - lua_processor@select_character_processor # lua 选词扩展，如需关闭请注释
     - key_binder
     - speller
     - selector
