@@ -22,7 +22,7 @@
 > 个人主要使用 macOS，所以这个配置可能会有些小问题～
 
 - OS: Windows 10 20H2
-- Version: [0.14.3.0](https://github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe)
+- Version: [0.14.3.0](htpps://gh.isteed.cc/https://github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe)
 - Date: 2022-01-27
 
 # 预览
@@ -66,7 +66,7 @@ Windows 安装步骤：
 - 自定义词典（自造词）
 - 快捷输入（日期，时间，星期）
 - 词库总大小仅 `7.2MB`（包括八股文仅 `10MB`）
-- `Caps` 切换英文输入法（小狼毫无法享受）
+- `Caps` 切换英文输入法
 - Emoji 支持
 - 模糊音（小鹤双拼与朙月拼音均支持）
 - 朙月拼音支持按键纠错与容错拼写
