@@ -8,7 +8,7 @@ schema:
   author:
     - double pinyin layout by 鶴
     - Rime schema by 佛振 <chen.sst@gmail.com>
-    - Modified by Lufs_X
+    - Modified by Lufs_X <i@isteed.cc>
   description: |
     小鹤双拼方案。
     稍微的改了一下（小声
@@ -27,6 +27,7 @@ switches:
 
 engine:
   processors:
+    # - ascii_composer # Windows 用户请解除此行注释，否则将会无法切换到英文输入
     - recognizer
     - lua_processor@select_character_processor
     - key_binder

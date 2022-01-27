@@ -12,7 +12,7 @@ patch:
   ascii_composer/good_old_caps_lock: false
   ascii_composer/switch_key:
     Shift_L: noop
-    Shift_R: noop
+    Shift_R: commit_code # macOS 上此项无效
     Control_L: noop
     Control_R: noop
     Caps_Lock: commit_code

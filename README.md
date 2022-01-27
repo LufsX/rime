@@ -6,7 +6,7 @@
 
 - OS: macOS 10.15.7
 - Version: [0.15.2-a9829e8](https://storage.isteed.cc/MacSoftware/Squirrel)
-- Date: 2022-01-25
+- Date: 2022-01-27
 
 ### 下载
 
@@ -23,7 +23,7 @@
 
 - OS: Windows 10 20H2
 - Version: [0.14.3.0](https://github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe)
-- Date: 2021-02-16
+- Date: 2022-01-27
 
 # 预览
 
@@ -35,9 +35,20 @@
 
 # 安装
 
+macOS 安装步骤：
+
 1. 备份原有配置（如果有的话）
-2. 将本仓库所有文件复制到 `~/Library/Rime/`
-3. 重新部署鼠须管
+2. 打开 `用户设定`
+3. 将本仓库所有文件复制到 `用户设定` 文件夹中
+4. 重新部署鼠须管
+
+Windows 安装步骤：
+
+1. 备份原有配置
+2. 打开 `用户文件夹`
+3. 将本仓库所有文件复制到 `用户文件夹` 中
+4. 取消 `lufs_flypy.schema.yaml` 与 `lufs_pinyin.schema.yaml` 文件中 30 行左右的注释
+5. 重新部署小狼毫
 
 ## 小技巧
 
@@ -68,7 +79,7 @@
 - [ ] ~~添加「[同文输入法](https://github.com/osfans/trime)」支持~~（Android 12 似乎不兼容，无法测试）
 - [x] 添加模糊拼音支持
 - [ ] 更好的词库与词频？
-- [ ] 更加适配小狼毫的配置
+- [x] 更加适配小狼毫的配置
 
 # 感谢/参考
 
