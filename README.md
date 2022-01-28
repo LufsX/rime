@@ -27,11 +27,9 @@
 
 # 预览
 
-![](https://cdn.isteed.cc/img/rime/p1.png)
-![](https://cdn.isteed.cc/img/rime/p2.png)
-![](https://cdn.isteed.cc/img/rime/p3.png)
-![](https://cdn.isteed.cc/img/rime/p4.png)
-![](https://cdn.isteed.cc/img/rime/p5.png)
+![p1](https://cdn.isteed.cc/img/rime-2022/p1.png)![p2](https://cdn.isteed.cc/img/rime-2022/p2.png)![p3](https://cdn.isteed.cc/img/rime-2022/p3.png)![p4](https://cdn.isteed.cc/img/rime-2022/p4.png)![p5](https://cdn.isteed.cc/img/rime-2022/p5.png)
+
+![f1](https://cdn.isteed.cc/img/rime-2022/f1.png)![f2](https://cdn.isteed.cc/img/rime-2022/f2.png)![f3](https://cdn.isteed.cc/img/rime-2022/f3.png)![f4](https://cdn.isteed.cc/img/rime-2022/f4.png)
 
 # 安装
 
