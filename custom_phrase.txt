@@ -9,7 +9,7 @@
 #
 # 雖然文本碼表編輯較爲方便，但不適合導入大量條目
 
-中州韻輸入法引擎	rime	2
+中州韵输入法引擎	rime	2
 https://rime.im/	rime	1
 Rime	rime	3
 ⌘	cmd
