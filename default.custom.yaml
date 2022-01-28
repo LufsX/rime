@@ -8,11 +8,11 @@ patch:
   switcher/save_options:
     - full_shape
     - ascii_punct
-  menu/page_size: 4
+  menu/page_size: 4 # 候选项数
   ascii_composer/good_old_caps_lock: false
   ascii_composer/switch_key:
     Shift_L: noop
-    Shift_R: commit_code # macOS 上此项无效
+    Shift_R: commit_code # macOS 上此项无效，Windows 可用有 Shift 切换中英输入
     Control_L: noop
     Control_R: noop
     Caps_Lock: commit_code
