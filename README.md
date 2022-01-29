@@ -1,6 +1,6 @@
-# [Rime](https://github.com/LufsX/rime)
+# [Rime](https://blog.isteed.cc/post/rime-2022/)
 
-我的 Rime 配置文件～
+[我的 Rime 配置文件～](https://blog.isteed.cc/post/rime-2022/)
 
 ## macOS
 
@@ -10,10 +10,7 @@
 
 ### 下载
 
-最新的鼠须管，按照自己架构下载即可（不要问为啥不编译 Universal 版）
-
-- [X86-64](https://cdn.isteed.cc/file/squirrel/Squirrel-0.15.2-a9829e8-x86.pkg)
-- [ARM64](https://cdn.isteed.cc/file/squirrel/Squirrel-0.15.2-a9829e8-arm64.pkg)
+最新的鼠须管，[点击下载](https://cdn.isteed.cc/file/squirrel/Squirrel-0.15.2-a9829e8.pkg)即可
 
 自己编译的，就合了两 PR，具体源码可以看 [LufsX/squirrel](https://github.com/LufsX/squirrel)
 
@@ -56,18 +53,22 @@ Windows 安装步骤：
 # 特性
 
 - 「小鹤双拼」+「朙月拼音」
-- 长句模型
-- 以词定字
+- 模糊音
+- Emoji 支持
 - 8104 简体字
+- 朙月拼音支持按键纠错与容错拼写
+- `Caps` 切换英文输入法
+- 长句模型
 - THUOCL 词库
 - 搜狗词库（夹带私货）
 - 自定义词典（自造词）
-- 快捷输入（日期，时间，星期）
 - 词库总大小仅 `7.2MB`（包括八股文仅 `10MB`）
-- `Caps` 切换英文输入法
-- Emoji 支持
-- 模糊音（小鹤双拼与朙月拼音均支持）
-- 朙月拼音支持按键纠错与容错拼写
+- 快捷输入（日期，时间，星期）
+- 以词定字
+
+# 使用
+
+详见 [我的 Rime 配置文件～](https://blog.isteed.cc/post/rime-2022/)
 
 # 待办
 
