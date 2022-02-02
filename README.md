@@ -80,6 +80,8 @@ Windows 安装步骤：
 - [ ] 更好的词库与词频？
 - [x] 更加适配小狼毫的配置
 
+欢迎 PR 哈～（虽然我觉得都没人看
+
 # 感谢/参考
 
 - [BlindingDark/rime-lua-select-character](https://github.com/BlindingDark/rime-lua-select-character)
