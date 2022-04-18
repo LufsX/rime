@@ -19,7 +19,7 @@
 > 个人主要使用 macOS，所以这个配置可能会有些小问题～
 
 - OS: Windows 10 20H2
-- Version: [0.14.3.0](https://gh.isteed.cc/https://github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe)
+- Version: [0.14.3.0](https://cors.isteed.cc/https://github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe)
 - Date: 2022-01-27
 
 # 预览
@@ -47,7 +47,7 @@ Windows 安装步骤：
 
 ## 小技巧
 
-- 国内 GitHub 下载缓慢/无法下载可以尝试使用 [Cloudflare 加速下载](https://gh.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)
+- 国内 GitHub 下载缓慢/无法下载可以尝试使用 [Cloudflare 加速下载](https://cors.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)
 - 或使用 [Gitee 镜像](https://gitee.com/LufsX/rime)（须登录，不推荐使用）
 
 # 特性
