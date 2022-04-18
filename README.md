@@ -5,12 +5,12 @@
 ## macOS
 
 - OS: macOS 10.15.7
-- Version: [0.15.2-a9829e8](https://storage.isteed.cc/MacSoftware/Squirrel)
-- Date: 2022-01-27
+- Version: [0.15.2-707ecc0](https://storage.isteed.cc/MacSoftware/Squirrel)
+- Date: 2022-04-18
 
 ### 下载
 
-最新的鼠须管，[点击下载](https://cdn.isteed.cc/file/squirrel/Squirrel-0.15.2-a9829e8.pkg)即可
+最新的鼠须管，[点击下载](https://cdn.isteed.cc/file/squirrel/Squirrel-0.15.2-707ecc0.pkg)即可
 
 自己编译的，就合了两 PR，具体源码可以看 [LufsX/squirrel](https://github.com/LufsX/squirrel)
 
