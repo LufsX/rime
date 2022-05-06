@@ -138,7 +138,9 @@ speller:
 
 translator:
   dictionary: extended
-  prism: double_pinyin_flypy
+  preedit_format:
+    # - xform/ // # 去掉上屏字符间空格
+  prism: lufs_flypy
   contextual_suggestions: true
   max_homophones: 7
 

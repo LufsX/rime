@@ -92,7 +92,7 @@ speller:
     - derive/([e])n$/$1ng/ # en => eng
     - derive/([e])ng$/$1n/ # eng => en
     # - derive/([i])n$/$1ng/ # in => ing
-    # # - derive/([i])ng$/$1n/ # ing => in
+    # - derive/([i])ng$/$1n/ # ing => in
     # - derive/([i])an$/$1ang/ # ian => iang
     # - derive/([i])ang$/$1an/ # iang => ian
     # - derive/([u])an$/$1ang/ # uan => uang
@@ -127,6 +127,7 @@ translator:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
+    # - xform/ // # 去掉上屏字符间空格
   contextual_suggestions: true
   max_homophones: 7
 
