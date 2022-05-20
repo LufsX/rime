@@ -23,6 +23,8 @@ Rime	rime	3
 Android	android
 Apple	apple
 Apple ID	appleid
+Cloudflare cloudflare
+Cloudflare Workers cloudflareworkers
 CSS	css
 Dropbox	dropbox
 GBK	gbk
