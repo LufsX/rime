@@ -48,7 +48,6 @@ Windows 安装步骤：
 ## 小技巧
 
 - 国内 GitHub 下载缓慢/无法下载可以尝试使用 [Cloudflare 加速下载](https://cors.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)
-- 或使用 [Gitee 镜像](https://gitee.com/LufsX/rime)（须登录，不推荐使用）
 
 # 特性
 
