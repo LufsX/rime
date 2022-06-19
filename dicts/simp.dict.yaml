@@ -53,6 +53,9 @@
 # 「贲 ben」没有增加「bi、fei」；有了词组「贲bi临」；「fei」几乎不用，《现汉》没有收录，《现规》表姓氏。
 # 「裨 bi」没有增加「pi」，有了词语「裨pi将」「偏裨pi」
 # 「邲 bi」没有增加「bian」，有了词语「邲bian水」
+
+# 其它修改：
+# 补充「镡 xin」
 ---
 name: 8105
 version: "2022-06-16"
@@ -6958,6 +6961,7 @@ vocabulary: essay-zh-hans
 忻	xin	54838
 伈	xin	39000
 衅	xin	38466
+镡	xin	36000
 囟	xin	35897
 炘	xin	29461
 莘	xin	7141
