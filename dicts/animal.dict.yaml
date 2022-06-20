@@ -7,7 +7,7 @@
 #     https://github.com/mozillazg/python-pinyin
 
 ---
-name: pinyin_animal
+name: animal
 version: "2017-06-01"
 sort: by_weight
 ...

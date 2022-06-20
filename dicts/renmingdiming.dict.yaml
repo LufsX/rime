@@ -9,7 +9,7 @@
 #     https://github.com/mozillazg/python-pinyin
 
 ---
-name: pinyin_renmingdiming
+name: renmingdiming
 version: "2021-04-18"
 sort: by_weight
 ...

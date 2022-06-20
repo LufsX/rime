@@ -3,7 +3,7 @@
 # source: https://pinyin.sogou.com/dict/detail/index/50826
 
 ---
-name: pinyin_touhou
+name: touhou
 version: "2021-07-22"
 sort: by_weight
 ...
