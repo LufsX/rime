@@ -57,8 +57,8 @@
 # 其它修改：
 # 补充「镡 xin」
 ---
-name: 8105
-version: "2022-06-16"
+name: simp
+version: "2022-06-20"
 sort: by_weight
 vocabulary: essay-zh-hans
 ...
@@ -83,7 +83,6 @@ vocabulary: essay-zh-hans
 
 
 # 额外增加一些用于自动注音的，一般都是一些专业名词或地名人名之类的。
-# TODO 把含有这些字的词全部注音放到 main 里，然后在字表里删除
 魮	pi
 鲶	nian
 鵙	ju
@@ -110,6 +109,7 @@ vocabulary: essay-zh-hans
 # 嗯	n	在固顶字改为「那、哪」了
 # 嗯	ng	在固顶字改为「那个、哪个」了
 # 噷	hm	在固顶字里置顶了
+# 呣	m	在固顶字里放到第三位了
 嗯	eng	11561133
 哼	hng	431013
 欸	ei	9999
@@ -118,7 +118,7 @@ vocabulary: essay-zh-hans
 
 
 # 8105
-# TODO 校对进度到 表	biao	2301457
+# TODO 校对进度到 斌	bin	234225
 # +_+
 啊	a	10139710
 阿	a	1906625
@@ -477,26 +477,26 @@ vocabulary: essay-zh-hans
 镖	biao	65061
 膘	biao	49019
 裱	biao	46523
-镳	biao	41643
 婊	biao	40275
-杓	biao	39326
-骠	biao	36472
-脿	biao	30841
-飑	biao	30803
-鳔	biao	28231
 摽	biao	27142
-骉	biao	26701
-藨	biao	24489
-儦	biao	21185
-熛	biao	20401
-瀌	biao	19861
-瘭	biao	18661
-幖	biao	18004
-俵	biao	2469
+俵	biao	1
+儦	biao	1
+幖	biao	1
+杓	biao	1
+瀌	biao	1
+熛	biao	1
+瘭	biao	1
+脿	biao	1
+藨	biao	1
+镳	biao	1
+飑	biao	1
+骉	biao	1
+骠	biao	1
+鳔	biao	1
 别	bie	5887712
 憋	bie	196261
-鳖	bie	70741
 瘪	bie	58377
+鳖	bie	40741
 蹩	bie	36871
 癿	bie	1
 斌	bin	234225
@@ -1183,7 +1183,7 @@ vocabulary: essay-zh-hans
 轪	dai	19561
 大	dai	9421
 骀	dai	10
-但	dan	14029809
+但	dan	9402980999
 单	dan	1551963
 蛋	dan	399182
 丹	dan	342194
@@ -1281,6 +1281,7 @@ vocabulary: essay-zh-hans
 低	di	1958604
 滴	di	1468775
 底	di	721545
+嘀	di	712672
 睇	di	640932
 帝	di	258276
 抵	di	243235
@@ -1296,7 +1297,6 @@ vocabulary: essay-zh-hans
 翟	di	77717
 谛	di	69265
 娣	di	63048
-嘀	di	62672
 涤	di	57960
 邸	di	55894
 荻	di	55133
@@ -4112,7 +4112,6 @@ vocabulary: essay-zh-hans
 䂮	lve	1
 圙	lve	1
 锊	lve	1
-呣	m	28564
 吗	ma	26514365
 嘛	ma	8536397
 马	ma	1602618
@@ -4205,7 +4204,7 @@ vocabulary: essay-zh-hans
 眊	mao	23585
 鄚	mao	22746
 铆	mao	4184
-楙	mao	427
+楙	mao	1
 么	me	13600182
 没	mei	700000
 每	mei	600000
@@ -7036,6 +7035,7 @@ vocabulary: essay-zh-hans
 须	xu	775377
 徐	xu	678165
 许	xu	670361
+吁	xu	333319
 嘘	xu	312881
 虚	xu	296432
 续	xu	215052
@@ -7057,7 +7057,6 @@ vocabulary: essay-zh-hans
 顼	xu	34327
 𦈡	xu	33481
 溆	xu	33420
-吁	xu	33319
 蓿	xu	30987
 盱	xu	30906
 酗	xu	29406
