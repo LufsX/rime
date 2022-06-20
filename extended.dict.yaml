@@ -11,6 +11,7 @@ use_preset_vocabulary: true
 import_tables:
   # 覆盖词频
   - dicts/simp # 最小拼音词典
+  - dicts/simp-ext # 原字表中除单字外部分
 
   - dicts/animal # 动物
   - dicts/caijing # 财经
