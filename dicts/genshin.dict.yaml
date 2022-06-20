@@ -7,13 +7,14 @@
 
 ---
 name: genshin
-version: 2022-06-19
+version: 2022-06-21
 sort: by_weight
 ...
 
 魈	xiao
 安柏	an bo
 白术	bai zhu
+宝匣	bao xia
 北斗	bei dou
 杯皿	bei min
 冰胖	bing pang
@@ -34,15 +35,18 @@ sort: by_weight
 钢脊	gang ji
 弓藏	gong cang
 龟娘	gui niang
+锅巴	guo ba
 鹤观	he guan
 黑剑	hei jian
 护摩	hu mo
 胡桃	hu tao
 花鳉	hua jiang
 火枪	huo qiang
+键纹	jian wen
 箭雨	jian yu
 蒋丽	jiang li
 金船	jin chuan
+堇瓜	jin gua
 菫鹮	jin huan
 金娜	jin na
 晶核	jing he
@@ -120,6 +124,7 @@ sort: by_weight
 星尘	xing chen
 星螺	xing luo
 行秋	xing qiu
+星蕈	xing xun
 须弥	xu mi
 胭儿	yan er
 烟绯	yan fei
@@ -167,6 +172,7 @@ sort: by_weight
 奔狼领	ben lang ling
 碧水原	bi shui yuan
 冰尘弹	bing chen dan
+冰雾花	bing wu hua
 冰巫师	bing wu shi
 冰元素	bing yuan su
 薄红蟹	bo hong xie
@@ -209,6 +215,7 @@ sort: by_weight
 菲谢尔	fei xie er
 绯樱饼	fei ying bing
 粉碎者	fen sui zhe
+风花节	feng hua jie
 烽火台	feng huo tai
 风魔龙	feng mo long
 风起地	feng qi di
@@ -220,14 +227,17 @@ sort: by_weight
 风之翼	feng zhi yi
 风之印	feng zhi yin
 浮空石	fu kong shi
+浮浪记	fu lang ji
 绀田煮	gan tian zhu
 钢轮弓	gang lun gong
 歌仙座	ge xian zuo
 耿铭琳	geng ming lin
 钩钩果	gou gou guo
 古贺葵	gu he kui
+古华剑	gu hua jian
 孤云阁	gu yun ge
 归离原	gui li yuan
+鬼武道	gui wu dou
 果酒湖	guo jiu hu
 海灵芝	hai ling zhi
 海乱鬼	hai luan gui
@@ -254,6 +264,8 @@ sort: by_weight
 绘绮庭	hui qi ting
 火巫师	huo wu shi
 急冻树	ji dong shu
+吉光虫	ji guang chong
+玑衡经	ji heng jing
 祭礼弓	ji li gong
 祭礼剑	ji li jian
 蒋静菊	jiang jing ju
@@ -285,12 +297,15 @@ sort: by_weight
 雷种子	lei zhong zi
 李春胤	li chun yin
 璃沙郊	li sha jiao
-璃月地	li yue di
 璃月港	li yue gang
+连心珠	lian xin zhu
+烈焰花	lie yan hua
+林间风	lin jian feng
 琳妮特	lin ni te
 灵炬关	ling ju guan
 流放者	liu fang zhe
 琉璃袋	liu li dai
+流明石	liu ming shi
 留念镜	liu nian jing
 流月针	liu yue zhen
 卢锅巴	lu guo ba
@@ -321,6 +336,7 @@ sort: by_weight
 擒霞客	qin xia ke
 轻策庄	qing ce zhuang
 清籁岛	qing lai dao
+青雷鼬	qing lei you
 清泉镇	qing quan zhen
 青墟浦	qing xu pu
 庆云顶	qing yun ding
@@ -329,6 +345,7 @@ sort: by_weight
 丘丘王	qiu qiu wang
 拳术家	quan shu jia
 人物池	ren wu chi
+日之台	ri zhi tai
 若雷石	ruo lei shi
 若竹煮	ruo zhu zhu
 三奉行	san feng xing
@@ -351,6 +368,7 @@ sort: by_weight
 水晶宴	shui jing yan
 水萨满	shui sa man
 水巫师	shui wu shi
+水蕈兽	shui xun shou
 水元素	shui yuan su
 宋媛媛	song yuan yuan
 苏子芜	su zi wu
@@ -376,6 +394,7 @@ sort: by_weight
 无锋剑	wu feng jian
 武器池	wu qi chi
 西风剑	xi feng jian
+侠客记	xia ke ji
 险路座	xian lu zuo
 先遣队	xian qian dui
 小艾咪	xiao ai mi
@@ -416,19 +435,23 @@ sort: by_weight
 愚人众	yu ren zhong
 御三家	yu san jia
 羽扇枫	yu shan feng
+余响套	yu xiang tao
 月光鳍	yue guang qi
+月之台	yue zhi tai
 云来海	yun lai hai
 畠中祐	zai zhong you
+赞玛兰	zan ma lan
 摘星崖	zhai xing ya
 张亚珠	zhang ya zhu
 鸩棘鱼	zhen ji yu
 志村屋	zhi cun wu
+执行官	zhi xing guan
 终末番	zhong mo fan
 洲崎绫	zhou qi ling
 逐月节	zhu yue jie
-余响套  yu xiang tao
 阿贾克斯	a jia ke si
 黯淡棱镜	an dan leng jing
+黯色空壳	an se kong ke
 暗巷猎手	an xiang lie shou
 暗巷闪光	an xiang shan guang
 昂藏之月	ang cang zhi yue
@@ -453,9 +476,12 @@ sort: by_weight
 不倒貉貉	bu dao hao hao
 不灭月华	bu mie yue hua
 彩色歌谣	cai se ge yao
+猜先有方	cai xian you fang
+裁雨留虹	cai yu liu hong
 苍白之火	cang bai zhi huo
 苍翠猎弓	cang cui lie gong
 苍风高地	cang feng gao di
+藏镜仕女	cang jing shi nv
 草史莱姆	cao shi lai mu
 长夜守望	chang ye shou wang
 常驻祈愿	chang zhu qi yuan
@@ -474,6 +500,7 @@ sort: by_weight
 楚此渚田	chu ci zhu tian
 串串三味	chuan chuan san wei
 创世结晶	chuang shi jie jing
+垂玉之叶	chui yu zhi ye
 纯水精灵	chun shui jing ling
 纯阳之体	chun yang zhi ti
 纯真羁绊	chun zhen ji ban
@@ -487,6 +514,7 @@ sort: by_weight
 刀剑成梦	dao jian cheng meng
 岛崎信长	dao qi xin chang
 等离子场	deng li zi chang
+迪芙妲鳐	di fu da yao
 低语森林	di yu sen lin
 地中之盐	di zhong zhi yan
 电感余震	dian gan yu zhen
@@ -522,9 +550,11 @@ sort: by_weight
 风啸山坡	feng xiao shan po
 风萤术士	feng ying shu shi
 枫原万叶	feng yuan wan ye
+佛玛洛鳐	fo ma luo yao
 符法之力	fu fa zhi li
 浮空平台	fu kong ping tai
 复燃技能	fu ran ji neng
+浮溯之珏	fu shu zhi jue
 复苏之风	fu su zhi feng
 浮游干核	fu you gan he
 浮云霜天	fu yun shuang tian
@@ -566,6 +596,7 @@ sort: by_weight
 寒冰之国	han bing zhi guo
 寒风剑士	han feng jian shi
 鹤观之行	he guan zhi xing
+黑蛇骑士	hei she qi shi
 黑岩长剑	hei yan chang jian
 黑岩刺枪	hei yan ci qiang
 黑岩绯玉	hei yan fei yu
@@ -581,7 +612,9 @@ sort: by_weight
 胡桃池子	hu tao chi zi
 华馆之羽	hua guan zhi yu
 椛染之庭	hua ran zhi ting
+画雨笼山	hua yu long shan
 华章之翼	hua zhang zhi yi
+鹮巷物语	huan xiang wu yu
 荒泷一斗	huang long yi dou
 黄油松茸	huang you song rong
 黄油蟹蟹	huang you xie xie
@@ -636,6 +669,7 @@ sort: by_weight
 眷恋泠风	juan lian ling feng
 决斗之枪	jue dou zhi qiang
 角色培养	jue se pei yang
+绝云记闻	jue yun ji wen
 开拓心魂	kai tuo xin hun
 抗争暴风	kang zheng bao feng
 可莉特调	ke li te tiao
@@ -649,6 +683,7 @@ sort: by_weight
 狂乱崩岩	kuang luan beng yan
 昆吾断虹	kun wu duan hong
 扩散反应	kuo san fan ying
+来歆余响	lai xin yu xiang
 蓝染花鳉	lan ran hua jiang
 蓝色三星	lan se san xing
 兰生幽谷	lan sheng you gu
@@ -688,6 +723,7 @@ sort: by_weight
 琉金之章	liu jin zhi zhang
 流浪乐章	liu lang yue zhang
 琉璃花鳉	liu li hua jiang
+流明晶石	liu ming jing shi
 六星角色	liu xing jue se
 龙脊雪山	long ji xue shan
 龙头砸地	long tou za di
@@ -709,6 +745,7 @@ sort: by_weight
 茂知之壳	mao zhi zhi ke
 猫爪冻冻	mao zhua dong dong
 美妙旅程	mei miao lv cheng
+蒙德高塔	meng de gao ta
 蒙德往事	meng de wang shi
 梦里生花	meng li sheng hua
 梦醒之瓢	meng xing zhi piao
@@ -716,6 +753,7 @@ sort: by_weight
 米饭布丁	mi fan bu ding
 谜境悬兵	mi jing xuan bing
 眠龙之章	mian long zhi zhang
+妙转随心	miao zhuan sui xin
 明冠山地	ming guan shan di
 鸣雷纯晶	ming lei chun jing
 鸣雷霰子	ming lei xian zi
@@ -766,6 +804,7 @@ sort: by_weight
 庆典一揆	qing dian yi kui
 清籁旧宝	qing lai jiu bao
 清籁旧忆	qing lai jiu yi
+清泉之心	qing quan zhi xin
 晴天鳅鳅	qing tian qiu qiu
 丘丘暴徒	qiu qiu bao tu
 丘丘部族	qiu qiu bu zu
@@ -777,6 +816,7 @@ sort: by_weight
 热情复燃	re qing fu ran
 热情过载	re qing guo zai
 若陀龙王	re tuo long wang
+日月回轮	ri yue hui lun
 融化反应	rong hua fan ying
 荣花之期	rong hua zhi qi
 熔毁之翼	rong hui zhi yi
@@ -787,6 +827,7 @@ sort: by_weight
 三森铃子	san sen ling zi
 森田成一	sen tian cheng yi
 砂流之庭	sha liu zhi ting
+珊瑚宫记	shan hu gong ji
 闪耀偶像	shan yao ou xiang
 闪耀奇迹	shan yao qi ji
 闪耀协奏	shan yao xie zou
@@ -812,6 +853,7 @@ sort: by_weight
 侍奉之心	shi feng zhi xin
 市井杂煮	shi jing za zhu
 释凌咏冰	shi ling yong bing
+石书辑录	shi shu ji lu
 世外洞天	shi wai dong tian
 噬星魔鸦	shi xing mo ya
 石英大剑	shi ying da jian
@@ -835,6 +877,7 @@ sort: by_weight
 四叶草座	si ye cao zuo
 松冈祯丞	song gang zhen cheng
 碎冰反应	sui bing fan ying
+碎梦奇珍	sui meng qi zhen
 踏鞴物语	ta bei wu yu
 踏破绝境	ta po jue jing
 天地刚风	tian di gang feng
@@ -906,6 +949,7 @@ sort: by_weight
 小野贤章	xiao ye xian zhang
 小原好美	xiao yuan hao mei
 小泽亚李	xiao ze ya li
+新六狐传	xin liu hu chuan
 新手长枪	xin shou chang qiang
 形骸之笠	xing hai zhi li
 杏仁豆腐	xing ren dou fu
@@ -936,10 +980,12 @@ sort: by_weight
 野岛健儿	ye dao jian er
 谒索雷痕	ye suo lei hen
 夜巡影翼	ye xun ying yi
+野猪公主	ye zhu gong zhu
 异邦铁风	yi bang tie feng
 异邦岩峰	yi bang yan feng
 仪典剑术	yi dian jian shu
 异国披萨	yi guo pi sa
+遗迹机兵	yi ji ji bing
 遗迹猎手	yi ji lie shou
 遗迹守卫	yi ji shou wei
 遗迹重机	yi ji zhong ji
@@ -954,6 +1000,7 @@ sort: by_weight
 鹰翔海滩	ying xiang hai tan
 佣兵重剑	yong bing zhong jian
 永不休止	yong bu xiu zhi
+涌泉之盏	yong quan zhi zhan
 永世磐岩	yong shi pan yan
 永夜之禽	yong ye zhi qin
 勇者之心	yong zhe zhi xin
@@ -961,6 +1008,7 @@ sort: by_weight
 幽邃鸦眼	you sui ya yan
 幼岩龙蜥	you yan long xi
 鱼龙护体	yu long hu ti
+淤泥涌口	yu ni yong kou
 雨奇晴好	yu qi qing hao
 渔人吐司	yu ren tu si
 雨深闭门	yu shen bi men
@@ -986,6 +1034,7 @@ sort: by_weight
 斋藤千和	zhai teng qian he
 沾露虾仁	zhan lu xia ren
 侦察骑士	zhen cha qi shi
+侦查骑士	zhen cha qi shi
 阵代屋敷	zhen dai wu fu
 真道正理	zhen dao zheng li
 镇守之森	zhen shou zhi sen
@@ -1004,8 +1053,10 @@ sort: by_weight
 众生之谣	zhong sheng zhi yao
 周天运转	zhou tian yun zhuan
 诸国游记	zhu guo you ji
+竹林月夜	zhu lin yue ye
 祝圣秘境	zhu sheng mi jing
 祝圣油膏	zhu sheng you gao
+祝祀之凭	zhu si zhi ping
 庄子裕衣	zhuang zi yu yi
 坠星山谷	zhui xing shan gu
 卓越血脉	zhuo yue xue mai
@@ -1016,17 +1067,14 @@ sort: by_weight
 宗室长剑	zong shi chang jian
 宗室大剑	zong shi da jian
 罪罚裁断	zui fa cai duan
+醉客轶事	zui ke yi shi
 罪灭之矢	zui mie zhi shi
 佐仓绫音	zuo cang ling yin
 佐藤利奈	zuo teng li nai
-垂玉之叶  chui yu zhi ye
-浮溯之珏  fu shu zhi jue
-来歆余响  lai xin yu xiang
-涌泉之盏  yong quan zhi zhan
-祝祀之凭  zhu si zhi ping
 阿莫斯之弓	a mo si zhi gong
 暗巷酒与诗	an xiang jiu yu shi
 奥兹发射器	ao zi fa she qi
+白夜国馆藏	bai ye guo guan cang
 班尼冒险团	ban ni mao xian tuan
 饱腹感凝胶	bao fu gan ning jiao
 北地烟熏鸡	bei di yan xun ji
@@ -1034,12 +1082,13 @@ sort: by_weight
 被遗忘苦心	bei yi wang ku xin
 冰盾丘丘人	bing dun qiu qiu ren
 冰弩丘丘人	bing nu qiu qiu ren
-冰雾花花蕊	bing wu hua hua rui
 茶烟笼白榻	cha yan long bai ta
+沉秋拾剑录	chen qiu shi jian lu
 赤鳍陆鳗鳗	chi qi lu man man
 达达乌帕谷	da da wu pa gu
 大原沙耶香	da yuan sha ye xiang
 戴因斯雷布	dai yin si lei bu
+帝君尘游记	di jun cheng you ji
 第七个武士	di qi ge wu shi
 电气骗骗花	dian qi pian pian hua
 冻冻回魂夜	dong dong hui hun ye
@@ -1067,6 +1116,7 @@ sort: by_weight
 红炉一点雪	hong lu yi dian xue
 花守由美里	hua shou you mei li
 皇女幻绮谭	huang nv huan qi tan
+荒山孤剑录	huang shan gu jian lu
 绘绮之枕印	hui qi zhi zhen yin
 火火肉酱面	huo huo rou jiang mian
 火炬丘丘人	huo ju qiu qiu ren
@@ -1076,6 +1126,7 @@ sort: by_weight
 津田健次郎	jin tian jian ci lang
 金紫定垂座	jin zi ding chui zuo
 精锻用魔矿	jing duan yong mo kuang
+精华受拜处	jing hua shou bai chu
 巨盾牛头人	ju dun niu tou ren
 巨斧牛头人	ju fu niu tou ren
 诀箓阴阳寮	jue lu yin yang liao
@@ -1092,12 +1143,13 @@ sort: by_weight
 雷丘丘萨满	lei qiu qiu sa man
 雷深渊法师	lei shen yuan fa shi
 雷元素浓度	lei yuan su nong du
+璃月风土志	li yue feng tu zhi
 利爪与苍雷	li zhua yu cang lei
 炼金的偏执	lian jin de pian zhi
 烈火与勇气	lie huo yu yong qi
-烈焰花花蕊	lie yan hua hua rui
 六边形战士	liu bian xing zhan shi
 琉金云间草	liu jin yun jian cao
+流明石原矿	liu ming shi yuan kuan
 流纹茶蝶鱼	liu wen cha die yu
 流纹褐蝶鱼	liu wen he die yu
 萝卜时蔬汤	luo bo shi shu tang
@@ -1124,14 +1176,17 @@ sort: by_weight
 染血骑士道	ran xue qi shi dao
 日落鲷鱼烧	ri luo diao yu shao
 塞西莉亚花	sai xi li ya hua
+三界路飨祭	san jie lu xiang ji
 珊瑚宫心海	shan hu gong xin hai
 珊瑚宫之纹	shan hu gong zhi wen
+山与海之书	shan yu hai zhi shu
 神里流冰华	shen li liu bing hua
 神里流霜灭	shen li liu shuang mie
 神里流霰步	shen li liu xian bu
 深林狸囃子	shen lin li za zi
 神射手之誓	shen she shou zhi shi
 神瞳感应石	shen tong gan ying shi
+神霄折戟录	shen xiao zhe ji lu
 石见舞菜香	shi jian wu cai xiang
 树莓水馒头	shu mei shui man tou
 霜见雪关扉	shuang jian xue guan fei
@@ -1148,6 +1203,7 @@ sort: by_weight
 天下人之章	tian xia ren zhi zhang
 万民堂大厨	wan min tang da chu
 未授勋之花	wei shou xun zhi hua
+温妮莎传奇	wen ni sha chuan qi
 雾海悬谜境	wu hai xuan mi jing
 雾切之巴印	wu qie zhi ba yin
 雾切之回光	wu qie zhi hui guang
@@ -1172,6 +1228,7 @@ sort: by_weight
 一箭双丘丘	yi jian shuang qiu qiu
 异世界行记	yi shi jie xing ji
 萦络纵命索	ying luo zong ming suo
+与神性同行	yu shen xing tong xing
 渊图玲珑骰	yuan tu ling long tou
 炸萝卜丸子	zha luo bo wan zi
 执望三千里	zhi wang san qian li
@@ -1199,6 +1256,7 @@ sort: by_weight
 芬德尼尔之顶	fen de ni er zhi ding
 风神巴巴托斯	feng shen ba ba tuo si
 风与牧歌之城	feng yu mu ge zhi cheng
+哈玛瓦兰战记	ha ma wa lan zhan ji
 寒天宣命祝词	han tian xuan ming zhu ci
 恒常机关阵列	heng chang ji guan zhen lie
 护法夜叉大将	hu fa ye cha da jiang
@@ -1213,6 +1271,7 @@ sort: by_weight
 雷斧丘丘暴徒	lei fu qiu qiu bao tu
 雷神瞳共鸣石	lei shen tong gong ming shi
 雷之寻宝罗盘	lei zhi xun bao luo pan
+列王与宗室史	lie wang yu zong shi
 流浪大地乐团	liu lang da di yue tuan
 流纹京紫蝶鱼	liu wen jing zi die yu
 琉焰华舞宵宫	liu yan hua wu xiao gong
@@ -1223,12 +1282,15 @@ sort: by_weight
 破镜循声技能	po jing xun sheng ji neng
 普尔希娜光钉	pu er xi na guang ding
 丘丘人弓箭手	qiu qiu ren gong jian shou
+丘丘人诗歌选	qiu qiu ren shi ge xuan
 曲径通幽之处	qu jing tong you zhi chu
+犬又二分之一	quan you er fen zhi yi
 如梦如电隽永	ru meng ru dian juan yong
 塞西莉亚苗圃	sai xi li ya miao pu
 三眼五显仙人	san yan wu xian xian ren
 涉过未知雷云	she guo wei zhi lei yun
 神变恶曜开眼	shen bian e yao kai yan
+侍从骑士之歌	shi cong qi shi zhi ge
 守护众人坚盾	shou hu zhong ren jian dun
 提神醒脑披萨	ti shen xing nao pi sa
 天赋培养素材	tian fu pei yang su cai
@@ -1237,6 +1299,8 @@ sort: by_weight
 头晕回避术改	tou yun hui bi shu gai
 万国诸海图谱	wan guo zhu hai tu pu
 万千言祝之月	wan qian yan zhu zhi yue
+亡国的美奈姬	wang guo de mei nai ji
+巫女曚云小传	wu nv meng yun xiao chuan
 无限的电回路	wu xian de dian hui lu
 喜多院十文字	xi duo yuan shi wen zi
 西风吹拂之时	xi feng chui fu zhi shi
@@ -1249,14 +1313,12 @@ sort: by_weight
 愚人众先遣队	yu ren zhong xian qian dui
 愚人众执行官	yu ren zhong zhi xing guan
 远吕羽氏遗事	yuan lv yu shi yi shi
-侦查骑士烤肉	zhen cha qi shi kao rou
 征服寒冬勇士	zheng fu han dong yong shi
 终末嗟叹之诗	zhong mo jie tan zhi shi
 诸愿百眼之轮	zhu yuan bai yan zhi lun
+菲谢尔皇女夜谭	fei xie er hong nv ye tan
 风花节纪念气球	feng hua jie ji nian qi qiu
 攻守易形著神机	gong shou yi xing zhu shen ji
-古华剑裁雨留虹	gu hua jian cai yu liu hong
-古华剑画雨笼山	gu hua jian hua yu long shan
 海渊仙草灵验记	hai yuan xian cao ling yan ji
 华馆梦醒形骸记	hua guan meng xing xing hai ji
 今昔剧画之恶尉	jin xi ju hua zhi e wei
@@ -1264,10 +1326,15 @@ sort: by_weight
 烈烧佑命之侍护	lie shao you ming zhi shi hu
 蜜酱胡萝卜煎肉	mi jiang hu luo bo jian rou
 鸣神御灵的欢喜	ming shen yu ling de huan xi
+蒲公英海的狐狸	pu gong ying hai de hu li
 七星璨璨凝流光	qi xing can can ning liu guang
 清算黑暗炎之剑	qing suan hei an yan zhi jian
 琼屏千扇正天衡	qiong ping qian shan zheng tian heng
+丘丘人习俗考察	qiu qiu ren xi shu kao cha
+丘丘语诗歌试作	qiu qiu yu shi ge shi zuo
+少女薇拉的忧郁	shao nv wei la de you yu
 神通空中自在法	shen tong kong zhong zi zai fa
+提瓦特游览指南	ti wa te you lan zhi nan
 天狗咒雷金刚坏	tian gou zhou lei jin gang huai
 雾海云间寻访记	wu hai yun jian xun fang ji
 呜呼流风隐急进	wu hu liu feng yin ji jin
@@ -1277,7 +1344,11 @@ sort: by_weight
 漩涡落星与冰山	xuan wo luo xing yu bing shan
 悬星尽散击云碎	xuan xing jin san ji yun sui
 影向役者三人众	ying xiang yi zhe san ren zhong
-愚人众藏镜仕女	yu ren zhong cang jing shi nv
 远海夷地的玉枝	yuan hai yi di de yu zhi
 昭告黎明火之鸟	zhao gao li ming huo zhi niao
 真红炽火之大铠	zhen hong chi huo zhi da kai
+珍说澄研真影打	zhen shuo cheng yan zhen ying da
+白之公主与六侏儒 bai zhi gong zhu yu liu zhu ru
+拜托了我的狐仙宫司	bai tuo le wo de hu xian gong si
+冒险家罗尔德的日志	mao xian jia luo er de ri zhi
+珊瑚宫民间信仰初勘	shan hu gong min jian xin yang chu kan
