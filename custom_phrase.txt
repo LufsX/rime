@@ -71,7 +71,7 @@ Rust	rust
 SQL	sql
 Swift	swift
 TypeScript ts
-T恤	txu
+T 恤	txu
 UTF-8	utfba
 U盘	upj
 WeChat	wechat
