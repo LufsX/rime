@@ -4,7 +4,7 @@
 #
 # 《通用规范汉字表》8105 字字表
 # https://github.com/iDvel/The-Table-of-General-Standard-Chinese-Characters
-# https://github.com/iDvel/rime-settings
+# https://github.com/iDvel/rime-ice
 #
 #
 # 使用的数据：https://zh.wiktionary.org/wiki/Appendix:%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3%E7%B4%A2%E5%BC%95/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8
@@ -18,18 +18,11 @@
 # 如「都du332701」「都dou48783880」，332701/48783880 = 0.68%（小于 5%），导致「du」无法被自动注音。
 # 如「长chang100」与「长zhang5」，导致无注音的含「长」的词汇用「zhang」打不出来（必须大于 5%，等于也不行）。
 # 修正上述问题，将常用多音字之间的权重比调整为至少在 6% 以上，剩下一些犄角旮旯的发音没有理会。
-# TODO （比如「会 hui kuai」这种经常会重码造成困扰的，就不让「kuai」参与自动注音了，全部手动注音）
 #
 #
 # ü：
-# 「nüe 虐」「lüe 略」使用「nve」「lve」的注音。
-# 「句、去、需、与」使用「ju qu xu yu」的注音。
-# 可以使用以下四行可以同时适配u/v注音：无论注音是u还是v，用「nue nve」「qv qu」都可以打出来。
-# 在 `speller/algebra` 下面：
-# - derive/^([nl])ue$/$1ve/
-# - derive/^([nl])ve$/$1ue/
-# - derive/^([jqxy])u/$1v/
-# - derive/^([jqxy])v/$1u/
+# 「nüe 虐」「lüe 略」使用了「nve」「lve」的注音。
+# 「句、去、需、与」使用「ju qu xu yu」的注音。#
 #
 #
 # 一些说明：
@@ -37,20 +30,13 @@
 # 去重，如「曲 qū qǔ」去掉声调后都是「qu」。
 # 调整大量字频
 # 只有「桔 jie」，没有增加《现汉7》含有的 ju 音，词库中所有的「桔子」都改成了「橘子」（「桔」是「橘」的俗写，书面语一般用「橘」。）
-# 没有增加「这 zhei」「那 nei」，只保留了「这 zhe」「那 na」
 # 「嗯 n ng eng」改为「eng、en」。
 # 「哟 yo」增加「you」
-# 没有增加「育 yo」，以注音的词组「杭育yo」填补
 # 「忒 tui」增加「tei」
-# 没有增加「忒 te」，以注音的词组「差忒te」填补
-# 没有增加「稽 qi」，以注音的词组「稽qi首」填补
-# 没有增加「趵 bo」，以注音的词组「趵bo趵bo」填补
 # 「喔 wo」增加「o」
 # 「欸 e ai」增加「ei」(字表里没有「诶」,《现汉》《现规》都没有收录「诶」)
 # 「孛 bei」增加「bo」（多用于人名）
 # 「椑 bei」增加「pi」（古代盛酒器）
-# 「栟 ben」增加「bing」（栟榈）
-# 「贲 ben」没有增加「bi、fei」；有了词组「贲bi临」；「fei」几乎不用，《现汉》没有收录，《现规》表姓氏。
 # 「裨 bi」没有增加「pi」，有了词语「裨pi将」「偏裨pi」
 # 「邲 bi」没有增加「bian」，有了词语「邲bian水」
 
@@ -58,13 +44,27 @@
 # 补充「镡 xin」
 ---
 name: simp
-version: "2022-06-20"
+version: "2022-06-24"
 sort: by_weight
 vocabulary: essay-zh-hans
 ...
+# 「这 zhe 那 na」没有增加注音「这 zhei」「那 nei」
+#
+# 一些原数据缺失的读音，但几乎只在固定词语中使用的：
+# 「育 yu」没有增加注音「育 yo」，以注音的词组「杭育yo」填补
+# 「忒 tei tui」没有增加注音「忒 te」，以注音的词组「差忒te」填补
+# 「稽 ji」没有增加注音「稽 qi」，以注音的词组「稽qi首」填补
+# 「趵 bao」没有增加注音「趵 bo」，以注音的词组「趵bo趵bo」填补
+# 「栟 ben」没有增加注音「栟 bing」，以注音的词组「栟bing榈lv」填补
+# 「贲 ben」没有增加「bi、fei」；有了词组「贲bi临」；「fei」几乎不用，《现汉》没有收录，《现规》表姓氏。
+# 按需启用
 # 这	zhei	21896611
 # 那	nei	32521150
-
+# 育	yo	1
+# 忒	te	1
+# 稽	qi	1
+# 趵	bo	1
+# 栟	bing	1
 
 # 扩展，不在《通用规范汉字表》的字，注释掉的这几行已经加入到下面并调整到合适的词频了
 # 〇	ling
@@ -118,7 +118,7 @@ vocabulary: essay-zh-hans
 
 
 # 8105
-# TODO 校对进度到 斌	bin	234225
+# TODO 校对进度到 擦	ca	382393
 # +_+
 啊	a	10139710
 阿	a	1906625
@@ -507,15 +507,15 @@ vocabulary: essay-zh-hans
 缤	bin	41327
 濒	bin	40649
 殡	bin	38800
-槟	bin	37704
-镔	bin	37202
-膑	bin	37096
-髌	bin	34774
-摈	bin	33375
-傧	bin	32719
-玢	bin	32410
-豳	bin	31531
-邠	bin	28815
+玢	bin	3
+豳	bin	2
+傧	bin	1
+摈	bin	1
+槟	bin	1
+膑	bin	1
+邠	bin	1
+镔	bin	1
+髌	bin	1
 并	bing	9752008
 病	bing	1034513
 冰	bing	643673
@@ -523,63 +523,62 @@ vocabulary: essay-zh-hans
 饼	bing	202723
 丙	bing	126529
 柄	bing	113399
-炳	bing	92436
 秉	bing	80706
 禀	bing	54320
 摒	bing	38260
-邴	bing	33665
-昺	bing	27804
-蛃	bing	16325
+炳	bing	22436
 屏	bing	15000
-槟	bing	841
-栟	bing	1
+邴	bing	2
+昺	bing	1
+槟	bing	1
+蛃	bing	1
 波	bo	702379
 博	bo	654054
 播	bo	258156
 拨	bo	253129
 伯	bo	239200
-卜	bo	145770
+薄	bo	145301
 啵	bo	136881
 剥	bo	106500
-钵	bo	100112
 搏	bo	98383
 勃	bo	81540
-薄	bo	75301
 驳	bo	73087
 膊	bo	71655
+卜	bo	70770
 铂	bo	64266
 玻	bo	62477
+钵	bo	61112
 脖	bo	60380
 跛	bo	52136
 帛	bo	52009
 渤	bo	51353
 舶	bo	44436
 箔	bo	42133
-亳	bo	37522
 菠	bo	36130
-钹	bo	34636
 簸	bo	33372
-僰	bo	32431
 饽	bo	31781
-鹁	bo	31176
-砵	bo	30062
 礴	bo	28022
-浡	bo	26162
-镈	bo	25092
-檗	bo	24965
-踣	bo	24725
 柏	bo	22801
-嶓	bo	21604
 泊	bo	20341
-哱	bo	19364
-欂	bo	18841
-馞	bo	17881
-袯	bo	17761
-擘	bo	841
-孛	bo	2
+孛	bo	5
+鹁	bo	4
+钹	bo	3
+僰	bo	2
+亳	bo	1
+哱	bo	1
+嶓	bo	1
+擘	bo	1
 桲	bo	1
+檗	bo	1
+欂	bo	1
+浡	bo	1
+砵	bo	1
 艴	bo	1
 蕃	bo	1
+袯	bo	1
+踣	bo	1
+镈	bo	1
+馞	bo	1
 鲌	bo	1
 𬭛	bo	1
 不	bu	71256971
@@ -593,16 +592,16 @@ vocabulary: essay-zh-hans
 卟	bu	59868
 哺	bu	47092
 怖	bu	46407
-逋	bu	34800
-醭	bu	34349
-埗	bu	34289
-瓿	bu	33666
-晡	bu	31218
-蔀	bu	29521
 卜	bu	29221
 钚	bu	3724
 堡	bu	721
-埔	bu	481
+醭	bu	3
+逋	bu	2
+埔	bu	1
+埗	bu	1
+晡	bu	1
+瓿	bu	1
+蔀	bu	1
 𬷕	bu	1
 擦	ca	382393
 嚓	ca	35378
@@ -1535,11 +1534,11 @@ vocabulary: essay-zh-hans
 驮	duo	301
 度	duo	181
 㙍	duo	1
+呃	e	9923491
 额	e	1518684
 俄	e	1436525
 饿	e	1045403
 恶	e	936376
-呃	e	923491
 哦	e	320101
 厄	e	315983
 鹅	e	170582
@@ -3903,8 +3902,8 @@ vocabulary: essay-zh-hans
 姈	ling	21976
 坽	ling	17881
 昤	ling	16321
-棱	ling	1321
 㥄	ling	1
+棱	ling	1
 刘	liu	1439059
 留	liu	1210608
 六	liu	1045532
@@ -6097,7 +6096,8 @@ vocabulary: essay-zh-hans
 唐	tang	598049
 堂	tang	458649
 糖	tang	447110
-趟	tang	237162
+蹚	tang	237162
+耥	tang	231610
 躺	tang	222481
 烫	tang	212184
 塘	tang	171755
@@ -6114,9 +6114,8 @@ vocabulary: essay-zh-hans
 螳	tang	33251
 羰	tang	33157
 傥	tang	33019
-蹚	tang	29897
+趟	tang	29897
 帑	tang	29711
-耥	tang	23161
 螗	tang	22747
 铴	tang	21840
 鄌	tang	19201
