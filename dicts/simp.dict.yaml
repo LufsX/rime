@@ -15,14 +15,12 @@
 #
 # 多音字词频问题：
 # 在 Rime 的自动注音程序中，权重比小于等于 5% 的多音字不会被自动注音，这在引入了没有注音的词库后造成困扰。
-# 如「都du332701」「都dou48783880」，332701/48783880 = 0.68%（小于 5%），导致「du」无法被自动注音。
-# 如「长chang100」与「长zhang5」，导致无注音的含「长」的词汇用「zhang」打不出来（必须大于 5%，等于也不行）。
-# 修正上述问题，将常用多音字之间的权重比调整为至少在 6% 以上，剩下一些犄角旮旯的发音没有理会。
+# 修正这个问题，调整一些常用多音字的权重到合适的数值，或将一些不参与注音的词汇进行注音。
 #
 #
 # ü：
 # 「nüe 虐」「lüe 略」使用了「nve」「lve」的注音。
-# 「句、去、需、与」使用「ju qu xu yu」的注音。#
+# 「句、去、需、与」使用「ju qu xu yu」的注音。
 #
 #
 # 一些说明：
@@ -37,26 +35,24 @@
 # 「欸 e ai」增加「ei」(字表里没有「诶」,《现汉》《现规》都没有收录「诶」)
 # 「孛 bei」增加「bo」（多用于人名）
 # 「椑 bei」增加「pi」（古代盛酒器）
-# 「裨 bi」没有增加「pi」，有了词语「裨pi将」「偏裨pi」
-# 「邲 bi」没有增加「bian」，有了词语「邲bian水」
-
-# 其它修改：
-# 补充「镡 xin」
----
-name: simp
-version: "2022-06-24"
-sort: by_weight
-vocabulary: essay-zh-hans
-...
-# 「这 zhe 那 na」没有增加注音「这 zhei」「那 nei」
 #
 # 一些原数据缺失的读音，但几乎只在固定词语中使用的：
+# 「这 zhe 那 na」没有增加注音「这 zhei」「那 nei」
 # 「育 yu」没有增加注音「育 yo」，以注音的词组「杭育yo」填补
 # 「忒 tei tui」没有增加注音「忒 te」，以注音的词组「差忒te」填补
 # 「稽 ji」没有增加注音「稽 qi」，以注音的词组「稽qi首」填补
 # 「趵 bao」没有增加注音「趵 bo」，以注音的词组「趵bo趵bo」填补
 # 「栟 ben」没有增加注音「栟 bing」，以注音的词组「栟bing榈lv」填补
 # 「贲 ben」没有增加「bi、fei」；有了词组「贲bi临」；「fei」几乎不用，《现汉》没有收录，《现规》表姓氏。
+# 「裨 bi」没有增加「pi」，有了词语「裨pi将」「偏裨pi」
+# 「邲 bi」没有增加「bian」，有了词语「邲bian水」
+
+---
+name: simp
+version: "2022-07-01"
+sort: by_weight
+vocabulary: essay-zh-hans
+...
 # 按需启用
 # 这	zhei	21896611
 # 那	nei	32521150
@@ -65,6 +61,7 @@ vocabulary: essay-zh-hans
 # 稽	qi	1
 # 趵	bo	1
 # 栟	bing	1
+
 
 # 扩展，不在《通用规范汉字表》的字，注释掉的这几行已经加入到下面并调整到合适的词频了
 # 〇	ling
@@ -82,29 +79,6 @@ vocabulary: essay-zh-hans
 # 觍	tian
 
 
-# 额外增加一些用于自动注音的，一般都是一些专业名词或地名人名之类的。
-魮	pi
-鲶	nian
-鵙	ju
-鮨	yi
-磺	huang
-堀	ku
-矽	xi
-憍	jiao
-暐	wei
-碁	ji
-燐	lin
-廻	hui
-咲	xiao
-峇	ba
-珮	pei
-琍	li
-辻	shi
-旼	min
-渕	yuan
-槻	gui
-
-
 # 小时候没学过的拼音。。。
 # 嗯	n	在固顶字改为「那、哪」了
 # 嗯	ng	在固顶字改为「那个、哪个」了
@@ -118,7 +92,7 @@ vocabulary: essay-zh-hans
 
 
 # 8105
-# TODO 校对进度到 擦	ca	382393
+# TODO 校对进度到 曾	ceng	1371247
 # +_+
 啊	a	10139710
 阿	a	1906625
@@ -616,7 +590,7 @@ vocabulary: essay-zh-hans
 材	cai	167371
 裁	cai	108825
 睬	cai	65411
-偲	cai	34807
+偲	cai	1
 惨	can	505011
 残	can	260291
 餐	can	201207
@@ -625,17 +599,17 @@ vocabulary: essay-zh-hans
 蚕	can	78624
 惭	can	46463
 璨	can	42558
-粲	can	41947
-骖	can	30723
-黪	can	22621
-䅟	can	18601
+䅟	can	1
+粲	can	1
+骖	can	1
+黪	can	1
 藏	cang	349859
 仓	cang	304334
 苍	cang	150632
 舱	cang	116284
 沧	cang	92633
-伧	cang	30201
-鸧	cang	19741
+伧	cang	1
+鸧	cang	1
 草	cao	1010959
 操	cao	955473
 曹	cao	388147
@@ -645,15 +619,15 @@ vocabulary: essay-zh-hans
 糙	cao	62299
 漕	cao	50986
 嘈	cao	49498
-艚	cao	32970
-螬	cao	21421
+艚	cao	1
+螬	cao	1
 𥕢	cao	1
 测	ce	436003
 侧	ce	320538
 册	ce	205637
 策	ce	156510
 厕	ce	60081
-恻	ce	38301
+恻	ce	1
 岑	cen	82439
 涔	cen	50876
 参	cen	721
@@ -1252,7 +1226,7 @@ vocabulary: essay-zh-hans
 舠	dao	21061
 鱽	dao	19324
 帱	dao	121
-的	de	2000000
+的	de	999999999
 地	de	1051978
 得	de	1009223
 德	de	922689
@@ -1573,8 +1547,8 @@ vocabulary: essay-zh-hans
 堨	e	1
 𥔲	e	1
 𫫇	e	1
-恩	en	19478035
 嗯	en	11561133
+恩	en	94780
 摁	en	77079
 蒽	en	51696
 而	er	16500253
@@ -1833,10 +1807,10 @@ vocabulary: essay-zh-hans
 㕮	fu	1
 㳇	fu	1
 宓	fu	1
-噶	ga	803630
 嘎	ga	475306
+尬	ga	162962
 伽	ga	84272
-尬	ga	62962
+噶	ga	80363
 尕	ga	47916
 咖	ga	43501
 戛	ga	36199
@@ -2285,7 +2259,7 @@ vocabulary: essay-zh-hans
 淏	hao	28803
 嚆	hao	24121
 鄗	hao	21691
-和	he	80350115
+和	he	999999999
 喝	he	1896993
 何	he	857220
 合	he	806053
@@ -3957,8 +3931,8 @@ vocabulary: essay-zh-hans
 昽	long	23821
 漋	long	17701
 𬕂	long	1
-楼	lou	1595165
-喽	lou	387470
+喽	lou	999999999
+楼	lou	595165
 漏	lou	268537
 搂	lou	115018
 娄	lou	82498
@@ -5172,8 +5146,8 @@ vocabulary: essay-zh-hans
 嵚	qin	23100
 覃	qin	18001
 梣	qin	1
-请	qing	6830483
-清	qing	1099739
+请	qing	999999999
+清	qing	999739
 情	qing	828683
 轻	qing	691259
 青	qing	688661
@@ -6043,7 +6017,7 @@ vocabulary: essay-zh-hans
 铊	ta	2819
 鿎	ta	1
 太	tai	8617439
-台	tai	1817204
+台	tai	817204
 泰	tai	301017
 抬	tai	220096
 胎	tai	162119
@@ -6101,6 +6075,7 @@ vocabulary: essay-zh-hans
 躺	tang	222481
 烫	tang	212184
 塘	tang	171755
+趟	tang	129897
 棠	tang	76471
 淌	tang	74316
 倘	tang	61597
@@ -6114,7 +6089,6 @@ vocabulary: essay-zh-hans
 螳	tang	33251
 羰	tang	33157
 傥	tang	33019
-趟	tang	29897
 帑	tang	29711
 螗	tang	22747
 铴	tang	21840
@@ -7713,6 +7687,7 @@ vocabulary: essay-zh-hans
 逾	yu	183469
 予	yu	182628
 郁	yu	175081
+吁	yu	155681
 育	yu	153416
 渝	yu	139876
 俞	yu	138693
@@ -7738,7 +7713,6 @@ vocabulary: essay-zh-hans
 昱	yu	60936
 瘀	yu	59409
 隅	yu	56327
-吁	yu	55681
 舆	yu	53238
 谕	yu	52490
 驭	yu	51419
