@@ -86,8 +86,8 @@ speller:
     #- derive/^fu$/hu/ # fu => hu
 
     # 韵母部分
-    - derive/([a])n$/$1ng/ # an => ang
-    - derive/([a])ng$/$1n/ # ang => an
+    - derive/([^iu])([a])n$/$1ng/ # an => ang
+    - derive/([^iu])([a])ng$/$1n/ # ang => an
     - derive/([e])n$/$1ng/ # en => eng
     - derive/([e])ng$/$1n/ # eng => en
     # - derive/([i])n$/$1ng/ # in => ing
