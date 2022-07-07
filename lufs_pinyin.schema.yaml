@@ -87,8 +87,8 @@ speller:
     #- derive/^fei$/hui/ # fei => hui
 
     # 韵母部分
-    - derive/([^iu])([a])n$/$1ng/ # an => ang
-    - derive/([^iu])([a])ng$/$1n/ # ang => an
+    - derive/([^iu])([a])n$/$1$2ng/ # an => ang
+    - derive/([^iu])([a])ng$/$1$2n/ # ang => an
     - derive/([e])n$/$1ng/ # en => eng
     - derive/([e])ng$/$1n/ # eng => en
     # - derive/([i])n$/$1ng/ # in => ing
