@@ -57,6 +57,8 @@ macOS	macos
 macOS Catalina	macos
 macOS High Sierra	macos
 macOS Mojave	macos
+macOS Monterey	macos
+macOS Ventura	macos
 Magisk	magisk
 Minecraft	minecraft
 MySQL	mysql
