@@ -54,11 +54,11 @@ MacBook	macbook
 MacBook Air	mba
 MacBook Pro	mbp
 macOS	macos
+macOS Ventura	macos
+macOS Monterey	macos
 macOS Catalina	macos
 macOS High Sierra	macos
 macOS Mojave	macos
-macOS Monterey	macos
-macOS Ventura	macos
 Magisk	magisk
 Minecraft	minecraft
 MySQL	mysql
