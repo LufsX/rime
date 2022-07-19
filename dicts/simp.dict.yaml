@@ -1,10 +1,9 @@
 # Rime dictionary
 # encoding: utf-8
 #
-#
-# 《通用规范汉字表》8105 字字表
 # https://github.com/iDvel/The-Table-of-General-Standard-Chinese-Characters
 # https://github.com/iDvel/rime-ice
+# ------- 《通用规范汉字表》8105 字字表 -------
 #
 #
 # 使用的数据：https://zh.wiktionary.org/wiki/Appendix:%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3%E7%B4%A2%E5%BC%95/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8
@@ -15,7 +14,8 @@
 #
 # 多音字词频问题：
 # 在 Rime 的自动注音程序中，权重比小于等于 5% 的多音字不会被自动注音，这在引入了没有注音的词库后造成困扰。
-# 修正这个问题，调整一些常用多音字的权重到合适的数值，或将一些不参与注音的词汇进行注音。
+# 修正这个问题，调整一些常用多音字的权重到合适的数值。
+# 将一些含有「不参与注音的多音字」的词汇，放到 main.dict 中并进行注音。
 #
 #
 # ü：
@@ -35,9 +35,16 @@
 # 「欸 e ai」增加「ei」(字表里没有「诶」,《现汉》《现规》都没有收录「诶」)
 # 「孛 bei」增加「bo」（多用于人名）
 # 「椑 bei」增加「pi」（古代盛酒器）
-#
-# 一些原数据缺失的读音，但几乎只在固定词语中使用的：
+# 「镡 tan chan」（姓氏）增加「xin」（兵器）
+---
+name: 8105
+version: "2022-07-15"
+sort: by_weight
+vocabulary: essay-zh-hans
+...
+### 按需启用
 # 「这 zhe 那 na」没有增加注音「这 zhei」「那 nei」
+## 其他的一些缺失的但极度冷门的读音，几乎只在单个的固定词语中使用：
 # 「育 yu」没有增加注音「育 yo」，以注音的词组「杭育yo」填补
 # 「忒 tei tui」没有增加注音「忒 te」，以注音的词组「差忒te」填补
 # 「稽 ji」没有增加注音「稽 qi」，以注音的词组「稽qi首」填补
@@ -46,14 +53,7 @@
 # 「贲 ben」没有增加「bi、fei」；有了词组「贲bi临」；「fei」几乎不用，《现汉》没有收录，《现规》表姓氏。
 # 「裨 bi」没有增加「pi」，有了词语「裨pi将」「偏裨pi」
 # 「邲 bi」没有增加「bian」，有了词语「邲bian水」
-
----
-name: simp
-version: "2022-07-01"
-sort: by_weight
-vocabulary: essay-zh-hans
-...
-# 按需启用
+# 「噌 ceng」没有增加「cheng」，有了词语「噌cheng吰hong」
 # 这	zhei	21896611
 # 那	nei	32521150
 # 育	yo	1
@@ -61,6 +61,11 @@ vocabulary: essay-zh-hans
 # 稽	qi	1
 # 趵	bo	1
 # 栟	bing	1
+# 贲	bi	1
+# 贲	fei	1
+# 裨	pi	1
+# 邲	bian	1
+# 噌	cheng	1
 
 
 # 扩展，不在《通用规范汉字表》的字，注释掉的这几行已经加入到下面并调整到合适的词频了
@@ -77,6 +82,7 @@ vocabulary: essay-zh-hans
 # 車	ju
 # 祂	ta
 # 觍	tian
+# 𪨊	song
 
 
 # 小时候没学过的拼音。。。
@@ -92,7 +98,7 @@ vocabulary: essay-zh-hans
 
 
 # 8105
-# TODO 校对进度到 曾	ceng	1371247
+# TODO 校对进度到 唱	chang	995365
 # +_+
 啊	a	10139710
 阿	a	1906625
@@ -635,7 +641,7 @@ vocabulary: essay-zh-hans
 层	ceng	838949
 蹭	ceng	162657
 噌	ceng	47645
-嶒	ceng	29349
+嶒	ceng	1
 差	cha	230000
 查	cha	220000
 茶	cha	210000
@@ -645,35 +651,35 @@ vocabulary: essay-zh-hans
 茬	cha	75347
 搽	cha	70528
 岔	cha	57925
-槎	cha	44784
 碴	cha	42738
 姹	cha	42450
 汊	cha	41550
-檫	cha	41421
 杈	cha	39608
 诧	cha	39325
 衩	cha	34982
-锸	cha	33773
-镲	cha	32766
+檫	cha	31421
 馇	cha	31398
-嵖	cha	29284
-侘	cha	28501
 猹	cha	25681
-垞	cha	24902
 蹅	cha	16982
-嚓	cha	1501
-刹	cha	1261
-喳	cha	181
+刹	cha	4500
+嚓	cha	2222
+镲	cha	2
+侘	cha	1
+喳	cha	1
+垞	cha	1
+嵖	cha	1
+槎	cha	1
+锸	cha	1
 𥻗	cha	1
 拆	chai	356059
 柴	chai	164582
 钗	chai	65395
 豺	chai	36890
-虿	chai	34244
 侪	chai	33439
-瘥	chai	27781
-茝	chai	22802
 差	chai	20000
+瘥	chai	1
+茝	chai	1
+虿	chai	1
 产	chan	376078
 铲	chan	137390
 缠	chan	133359
@@ -684,35 +690,35 @@ vocabulary: essay-zh-hans
 婵	chan	56495
 谗	chan	50328
 搀	chan	49930
-澶	chan	46542
 蟾	chan	45562
 阐	chan	41696
 忏	chan	40800
 谄	chan	38520
 潺	chan	35173
-廛	chan	33072
-觇	chan	31345
-啴	chan	29641
-蒇	chan	28801
-躔	chan	28564
-浐	chan	28499
-巉	chan	28215
-羼	chan	26950
-辿	chan	26041
-瀍	chan	24786
-襜	chan	24734
-韂	chan	23827
-刬	chan	23702
-冁	chan	22980
-镵	chan	22923
-儳	chan	20560
 掺	chan	20221
-旵	chan	18661
-梴	chan	17265
 单	chan	781
 孱	chan	541
-骣	chan	124
-镡	chan	3
+儳	chan	1
+冁	chan	1
+刬	chan	1
+啴	chan	1
+巉	chan	1
+廛	chan	1
+旵	chan	1
+梴	chan	1
+浐	chan	1
+澶	chan	1
+瀍	chan	1
+羼	chan	1
+蒇	chan	1
+襜	chan	1
+觇	chan	1
+躔	chan	1
+辿	chan	1
+镡	chan	1
+镵	chan	1
+韂	chan	1
+骣	chan	1
 𬊤	chan	1
 唱	chang	995365
 常	chang	981142
@@ -2338,13 +2344,13 @@ vocabulary: essay-zh-hans
 竑	hong	29863
 蕻	hong	29221
 訇	hong	28929
-黉	hong	28745
 翃	hong	27122
 讧	hong	23835
 𫟹	hong	22081
 唝	hong	20461
 谼	hong	20341
 玒	hong	19981
+黉	hong	1
 𬭎	hong	1
 后	hou	16720873
 厚	hou	423498
@@ -5882,6 +5888,7 @@ vocabulary: essay-zh-hans
 耸	song	71426
 嵩	song	64262
 怂	song	52997
+𪨊	song	51111
 淞	song	50557
 讼	song	50189
 竦	song	39759
@@ -7987,7 +7994,6 @@ vocabulary: essay-zh-hans
 柞	zha	34182
 砟	zha	33553
 蚱	zha	32981
-馇	zha	31398
 奓	zha	29348
 鲊	zha	26404
 霅	zha	23342
@@ -8004,6 +8010,7 @@ vocabulary: essay-zh-hans
 吒	zha	34
 拃	zha	8
 䃎	zha	1
+馇	zha	1
 鲝	zha	1
 齇	zha	1
 宅	zhai	189164
