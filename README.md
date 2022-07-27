@@ -4,9 +4,17 @@
 
 ## macOS
 
-- OS: macOS 10.15.7
+- OS: macOS Ventura
 - Version: [0.15.2-707ecc0](https://storage.isteed.cc/MacSoftware/Squirrel)
-- Date: 2022-04-18
+- Date: 2022-07-27
+
+### 安装步骤
+
+1. 备份原有配置（如果有的话）
+2. 下载[仓库压缩包](https://cors.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)并解压
+3. 打开 `用户设定`
+4. 将本仓库所有文件复制到 `用户设定` 文件夹中
+5. 重新部署鼠须管
 
 ### 下载
 
@@ -22,28 +30,38 @@
 - Version: [0.14.3.0](https://cors.isteed.cc/https://github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe)
 - Date: 2022-01-27
 
+### 安装步骤
+
+1. 备份原有配置（如果有的话）
+2. 下载[仓库压缩包](https://cors.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)并解压
+3. 打开 `用户文件夹`
+4. 将本仓库所有文件复制到 `用户文件夹` 中
+5. 取消 `lufs_flypy.schema.yaml` 与 `lufs_pinyin.schema.yaml` 文件中 30 行左右的注释
+6. 重新部署小狼毫
+
+## Android
+
+> 个人主要使用 macOS，所以这个配置可能会有些小问题～
+
+- OS: Android 13
+- Version: [652a867](https://github.com/osfans/trime/suites/7541740718/artifacts/311071325)
+- Date: 2022-07-27
+
+推荐下载最新的 CI 版 [TRIME](https://github.com/osfans/trime/actions)，登录 GitHub 后点开 `commit ci`，再点开最新的 `run`，拉到最下面，下载 `trime_arm64_v8a` 解压安装即可
+
+### 安装步骤
+
+1. 备份原有配置（如果有的话）
+2. 下载[仓库压缩包](https://cors.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)并解压
+3. 使用文件管理器打开 `内置存储空间/rime/` 文件夹
+4. 将本仓库所有文件复制到 `内置存储空间/rime/` 中
+5. 打开 `同文输入法` - `方案` 选择对应方案后确定即可
+
 # 预览
 
 ![p1](https://cdn.isteed.cc/img/rime-2022/p1.png)![p2](https://cdn.isteed.cc/img/rime-2022/p2.png)![p3](https://cdn.isteed.cc/img/rime-2022/p3.png)![p4](https://cdn.isteed.cc/img/rime-2022/p4.png)![p5](https://cdn.isteed.cc/img/rime-2022/p5.png)
 
 ![f1](https://cdn.isteed.cc/img/rime-2022/f1.png)![f2](https://cdn.isteed.cc/img/rime-2022/f2.png)![f3](https://cdn.isteed.cc/img/rime-2022/f3.png)![f4](https://cdn.isteed.cc/img/rime-2022/f4.png)
-
-# 安装
-
-macOS 安装步骤：
-
-1. 备份原有配置（如果有的话）
-2. 打开 `用户设定`
-3. 将本仓库所有文件复制到 `用户设定` 文件夹中
-4. 重新部署鼠须管
-
-Windows 安装步骤：
-
-1. 备份原有配置
-2. 打开 `用户文件夹`
-3. 将本仓库所有文件复制到 `用户文件夹` 中
-4. 取消 `lufs_flypy.schema.yaml` 与 `lufs_pinyin.schema.yaml` 文件中 30 行左右的注释
-5. 重新部署小狼毫
 
 ## 小技巧
 
@@ -74,10 +92,10 @@ Windows 安装步骤：
 - [x] 更新搜狗词库 Update: 2022-01-04
 - [x] 添加深色主题
 - [x] 添加 Emoji 支持
-- [ ] ~~添加「[同文输入法](https://github.com/osfans/trime)」支持~~（Android 12 似乎不兼容，无法测试）
+- [x] 添加「[同文输入法](https://github.com/osfans/trime)」支持
 - [x] 添加模糊拼音支持
 - [ ] 更好的词库与词频？
-- [x] 更加适配小狼毫的配置
+- [ ] 更好的适配小狼毫
 - [ ] 脚本自动部署/更新
 
 欢迎 PR 哈～（虽然我觉得都没人看
@@ -89,6 +107,7 @@ Windows 安装步骤：
 - [lotem/luna_pinyin.custom.yaml](https://gist.github.com/lotem/2320943)
 - [maomiui/rime](https://github.com/maomiui/rime)
 - [placeless/squirrel_config](https://github.com/placeless/squirrel_config)
+- [rime/rime-prelude](https://github.com/rime/rime-prelude)
 - [rime/squirrel](https://github.com/rime/squirrel)
 - [thunlp/THUOCL](https://github.com/thunlp/THUOCL)
 - [搜狗词库](https://pinyin.sogou.com/dict/)
