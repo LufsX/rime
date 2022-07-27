@@ -2,11 +2,21 @@
 
 [我的 Rime 配置文件～](https://blog.isteed.cc/post/rime-2022/)
 
+- [macOS](##macOS)
+- [Windows](##Windows)
+- [Android](##Android)
+
 ## macOS
 
 - OS: macOS Ventura
 - Version: [0.15.2-707ecc0](https://storage.isteed.cc/MacSoftware/Squirrel)
 - Date: 2022-07-27
+
+### 下载
+
+最新的鼠须管，[点击下载](https://cdn.isteed.cc/file/squirrel/Squirrel-0.15.2-707ecc0.pkg)即可
+
+自己编译的，就合了两 PR，具体源码可以看 [LufsX/squirrel](https://github.com/LufsX/squirrel)
 
 ### 安装步骤
 
@@ -16,15 +26,9 @@
 4. 将本仓库所有文件复制到 `用户设定` 文件夹中
 5. 重新部署鼠须管
 
-### 下载
-
-最新的鼠须管，[点击下载](https://cdn.isteed.cc/file/squirrel/Squirrel-0.15.2-707ecc0.pkg)即可
-
-自己编译的，就合了两 PR，具体源码可以看 [LufsX/squirrel](https://github.com/LufsX/squirrel)
-
 ## Windows
 
-> 个人主要使用 macOS，所以这个配置可能会有些小问题～
+> 个人主要使用 macOS，所以其它平台的配置可能会有些小问题～
 
 - OS: Windows 10 20H2
 - Version: [0.14.3.0](https://cors.isteed.cc/https://github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe)
@@ -41,7 +45,7 @@
 
 ## Android
 
-> 个人主要使用 macOS，所以这个配置可能会有些小问题～
+> 个人主要使用 macOS，所以其它平台的配置可能会有些小问题～
 
 - OS: Android 13
 - Version: [652a867](https://github.com/osfans/trime/suites/7541740718/artifacts/311071325)
@@ -95,7 +99,8 @@
 - [x] 添加「[同文输入法](https://github.com/osfans/trime)」支持
 - [x] 添加模糊拼音支持
 - [ ] 更好的词库与词频？
-- [ ] 更好的适配小狼毫
+- [ ] 更好的适配「小狼毫」
+- [ ] 更好的适配「同文输入法」
 - [ ] 脚本自动部署/更新
 
 欢迎 PR 哈～（虽然我觉得都没人看
