@@ -24,51 +24,25 @@
 #
 #
 # 一些说明：
-# （「增加」不代表新增不存在的注音，只是维基的这个数据中没有这个注音，可能《现汉》或《现规》有）
-# 去重，如「曲 qū qǔ」去掉声调后都是「qu」。
-# 调整大量字频
-# 只有「桔 jie」，没有增加《现汉7》含有的 ju 音，词库中所有的「桔子」都改成了「橘子」（「桔」是「橘」的俗写，书面语一般用「橘」。）
+# 调整了大量权重。
+# 将一些不常用的字或只在固定词汇中使用的字的权重调到最低。
 # 「嗯 n ng eng」改为「eng、en」。
-# 「哟 yo」增加「you」
-# 「忒 tui」增加「tei」
-# 「喔 wo」增加「o」
-# 「欸 e ai」增加「ei」(字表里没有「诶」,《现汉》《现规》都没有收录「诶」)
-# 「孛 bei」增加「bo」（多用于人名）
-# 「椑 bei」增加「pi」（古代盛酒器）
-# 「镡 tan chan」（姓氏）增加「xin」（兵器）
+# 参照《现汉》增加了一些原数据中没有的读音。
 ---
 name: 8105
-version: "2022-07-15"
+version: "2022-08-01"
 sort: by_weight
 vocabulary: essay-zh-hans
 ...
 ### 按需启用
-# 「这 zhe 那 na」没有增加注音「这 zhei」「那 nei」
-## 其他的一些缺失的但极度冷门的读音，几乎只在单个的固定词语中使用：
-# 「育 yu」没有增加注音「育 yo」，以注音的词组「杭育yo」填补
-# 「忒 tei tui」没有增加注音「忒 te」，以注音的词组「差忒te」填补
-# 「稽 ji」没有增加注音「稽 qi」，以注音的词组「稽qi首」填补
-# 「趵 bao」没有增加注音「趵 bo」，以注音的词组「趵bo趵bo」填补
-# 「栟 ben」没有增加注音「栟 bing」，以注音的词组「栟bing榈lv」填补
-# 「贲 ben」没有增加「bi、fei」；有了词组「贲bi临」；「fei」几乎不用，《现汉》没有收录，《现规》表姓氏。
-# 「裨 bi」没有增加「pi」，有了词语「裨pi将」「偏裨pi」
-# 「邲 bi」没有增加「bian」，有了词语「邲bian水」
-# 「噌 ceng」没有增加「cheng」，有了词语「噌cheng吰hong」
+# 「这 zhe 那 na」的口语读音「这 zhei」「那 nei」
 # 这	zhei	21896611
 # 那	nei	32521150
-# 育	yo	1
-# 忒	te	1
-# 稽	qi	1
-# 趵	bo	1
-# 栟	bing	1
-# 贲	bi	1
+# 「贲 ben bi fei」：fei 音《现汉》没有收录，《现规》表姓氏。
 # 贲	fei	1
-# 裨	pi	1
-# 邲	bian	1
-# 噌	cheng	1
 
 
-# 扩展，不在《通用规范汉字表》的字，注释掉的这几行已经加入到下面并调整到合适的词频了
+### 扩展，不在《通用规范汉字表》的字，注释掉的这几行已经加入到下面并调整到合适的权重了
 # 〇	ling
 # 囧	jiong
 # 屌	diao
@@ -85,7 +59,7 @@ vocabulary: essay-zh-hans
 # 𪨊	song
 
 
-# 小时候没学过的拼音。。。
+### 小时候没学过的拼音。。。
 # 嗯	n	在固顶字改为「那、哪」了
 # 嗯	ng	在固顶字改为「那个、哪个」了
 # 噷	hm	在固顶字里置顶了
@@ -95,10 +69,11 @@ vocabulary: essay-zh-hans
 欸	ei	9999
 哟	yo	993521
 唷	yo	68308
+育	yo	1
 
 
-# 8105
-# TODO 校对进度到 唱	chang	995365
+### 8105
+# TODO 校对进度到 成	cheng	4074240
 # +_+
 啊	a	10139710
 阿	a	1906625
@@ -419,6 +394,7 @@ vocabulary: essay-zh-hans
 薜	bi	1
 裨	bi	1
 诐	bi	1
+贲	bi	1
 赑	bi	1
 跸	bi	1
 馝	bi	1
@@ -448,6 +424,7 @@ vocabulary: essay-zh-hans
 苄	bian	1
 萹	bian	1
 褊	bian	1
+邲	bian	1
 鳊	bian	1
 𨚕	bian	1
 表	biao	2301457
@@ -510,6 +487,7 @@ vocabulary: essay-zh-hans
 屏	bing	15000
 邴	bing	2
 昺	bing	1
+栟	bing	1
 槟	bing	1
 蛃	bing	1
 波	bo	702379
@@ -556,6 +534,7 @@ vocabulary: essay-zh-hans
 艴	bo	1
 蕃	bo	1
 袯	bo	1
+趵	bo	1
 踣	bo	1
 镈	bo	1
 馞	bo	1
@@ -733,20 +712,20 @@ vocabulary: essay-zh-hans
 倡	chang	53359
 娼	chang	52036
 敞	chang	48997
-昶	chang	46876
 怅	chang	42049
-嫦	chang	40121
-苌	chang	39857
-阊	chang	34928
-伥	chang	33726
 猖	chang	31770
-鬯	chang	31706
-鲳	chang	31216
-菖	chang	30672
-氅	chang	30288
-徜	chang	29824
-惝	chang	25384
-鲿	chang	20666
+伥	chang	1
+嫦	chang	1
+徜	chang	1
+惝	chang	1
+昶	chang	1
+氅	chang	1
+苌	chang	1
+菖	chang	1
+阊	chang	1
+鬯	chang	1
+鲳	chang	1
+鲿	chang	1
 𬬮	chang	1
 超	chao	1243350
 炒	chao	686253
@@ -759,20 +738,20 @@ vocabulary: essay-zh-hans
 嘲	chao	53732
 焯	chao	50120
 晁	chao	45862
-耖	chao	22687
-怊	chao	21722
-弨	chao	19442
-绰	chao	9121
+弨	chao	1
+怊	chao	1
+绰	chao	1
+耖	chao	1
 车	che	3225745
 扯	che	320620
 撤	che	233233
 彻	che	84015
 澈	che	72899
 掣	che	45468
-砗	che	32682
-坼	che	32232
-尺	che	241
 㬚	che	1
+坼	che	1
+尺	che	1
+砗	che	1
 趁	chen	251029
 陈	chen	233928
 尘	chen	229469
@@ -781,23 +760,23 @@ vocabulary: essay-zh-hans
 沉	chen	215996
 辰	chen	146957
 衬	chen	84487
-琛	chen	75583
 嗔	chen	63741
 宸	chen	61927
-谌	chen	49302
-郴	chen	46953
 抻	chen	43628
-忱	chen	43394
 称	chen	40000
-谶	chen	39153
-瞋	chen	36009
-碜	chen	35313
-龀	chen	35089
-榇	chen	31234
-疢	chen	20641
-煁	chen	16096
-棽	chen	121
+忱	chen	1
 梣	chen	1
+棽	chen	1
+榇	chen	1
+煁	chen	1
+琛	chen	1
+疢	chen	1
+瞋	chen	1
+碜	chen	1
+谌	chen	1
+谶	chen	1
+郴	chen	1
+龀	chen	1
 𬘭	chen	1
 成	cheng	4074240
 称	cheng	600000
@@ -837,6 +816,7 @@ vocabulary: essay-zh-hans
 庱	cheng	13921
 澂	cheng	881
 铛	cheng	121
+噌	cheng	1
 吃	chi	7940059
 持	chi	508985
 池	chi	286284
@@ -2238,10 +2218,10 @@ vocabulary: essay-zh-hans
 杭	hang	124639
 夯	hang	53714
 绗	hang	33300
-沆	hang	29640
 颃	hang	22921
 吭	hang	2161
 巷	hang	1681
+沆	hang	1
 好	hao	45552183
 号	hao	8557001
 浩	hao	244551
@@ -3128,6 +3108,7 @@ vocabulary: essay-zh-hans
 菊	ju	181666
 俱	ju	172275
 拒	ju	141044
+桔	ju	99999
 矩	ju	81488
 惧	ju	71934
 锯	ju	70770
@@ -4787,6 +4768,7 @@ vocabulary: essay-zh-hans
 陂	pi	1501
 否	pi	1
 椑	pi	1
+裨	pi	1
 𬳵	pi	1
 片	pian	1295388
 篇	pian	886230
@@ -4997,6 +4979,7 @@ vocabulary: essay-zh-hans
 欹	qi	1
 洓	qi	1
 碶	qi	1
+稽	qi	1
 𨙸	qi	1
 𬨂	qi	1
 掐	qia	137205
@@ -5630,10 +5613,10 @@ vocabulary: essay-zh-hans
 矧	shen	27011
 鲹	shen	24125
 侁	shen	23768
-棽	shen	22093
 瞫	shen	17521
 糁	shen	661
 葚	shen	181
+棽	shen	1
 𬬹	shen	1
 𬳽	shen	1
 生	sheng	2510299
@@ -6130,6 +6113,7 @@ vocabulary: essay-zh-hans
 铽	te	29645
 忑	te	29404
 慝	te	28338
+忒	te	1
 忒	tei	9999
 疼	teng	567480
 腾	teng	194284
@@ -6914,7 +6898,6 @@ vocabulary: essay-zh-hans
 澥	xie	30002
 绁	xie	29768
 廨	xie	29056
-瀣	xie	26583
 躞	xie	26281
 薢	xie	26163
 偰	xie	25441
@@ -6923,6 +6906,7 @@ vocabulary: essay-zh-hans
 絜	xie	481
 叶	xie	181
 㙦	xie	1
+瀣	xie	1
 𤫉	xie	1
 𬹼	xie	1
 新	xin	9401246
@@ -8449,6 +8433,7 @@ vocabulary: essay-zh-hans
 著	zhuo	1201
 䓬	zhuo	1
 䦃	zhuo	1
+焯	zhuo	1
 𬸦	zhuo	1
 子	zi	2446029
 字	zi	2084740
