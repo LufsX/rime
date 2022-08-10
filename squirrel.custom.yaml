@@ -10,6 +10,7 @@ patch:
       name: "文文／Ayaya"
       author: "Lufs <i@isteed.cc>"
 
+      alpha: 0.95 # 透明度
       horizontal: true # 水平排列
       inline_preedit: true # 单行显示，false 双行显示
       candidate_format: "%c\u2005%@" # 编号 %c 和候选词 %@ 前后的空间
@@ -22,7 +23,7 @@ patch:
       label_font_point: 12 # 候选编号大小
 
       # 颜色
-      back_color: 0xAEFFFFFF # 候选条背景色，24位色值，16进制，ABGR顺序
+      back_color: 0xFFFFFF # 候选条背景色，24位色值，16进制，ABGR顺序
       border_color: 0xECE4FC # 边框颜色
       candidate_text_color: 0x121212 # 预选项文字颜色
       comment_text_color: 0x8E8E8E # 拼音等提示文字颜色
@@ -35,6 +36,7 @@ patch:
     apathy:
       name: 冷漠／Apathy
       author: LIANG Hai
+      alpha: 0.95 # 透明度
       horizontal: true # 水平排列
       inline_preedit: true #单行显示，false 双行显示
       candidate_format: "%c\u2005%@" # 编号 %c 和候选词 %@ 前后的空间
