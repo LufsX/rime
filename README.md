@@ -9,8 +9,8 @@
 ## macOS
 
 - OS: macOS Ventura
-- Version: [0.15.2-707ecc0](https://storage.isteed.cc/MacSoftware/Squirrel)
-- Date: 2022-07-27
+- Version: [0.15.2-2022-08-10](https://storage.isteed.cc/MacSoftware/Squirrel)
+- Date: 2022-08-10
 
 ### 下载
 
@@ -103,7 +103,7 @@
 - [ ] 更好的适配「同文输入法」
 - [ ] 脚本自动部署/更新
 
-欢迎 PR 哈～（虽然我觉得都没人看
+欢迎提 ISSUE/PR 哈～（虽然我觉得都没人看
 
 # 感谢/参考
 
