@@ -30,16 +30,17 @@
 # 参照《现汉》增加了一些原数据中没有的读音。
 ---
 name: 8105
-version: "2022-08-01"
+version: "2022-08-05"
 sort: by_weight
 vocabulary: essay-zh-hans
 ...
 ### 按需启用
-# 「这 zhe 那 na」的口语读音「这 zhei」「那 nei」
+# 口语读音
 # 这	zhei	21896611
 # 那	nei	32521150
-# 「贲 ben bi fei」：fei 音《现汉》没有收录，《现规》表姓氏。
+# 「贲 ben bi」：fei 音《现汉》没有收录，《现规》表姓氏。
 # 贲	fei	1
+# 呷	ga	1
 
 
 ### 扩展，不在《通用规范汉字表》的字，注释掉的这几行已经加入到下面并调整到合适的权重了
@@ -66,6 +67,7 @@ vocabulary: essay-zh-hans
 # 呣	m	在固顶字里放到第三位了
 嗯	eng	11561133
 哼	hng	431013
+# 表示打招呼或惊诧时的语气词，繁体有个「誒」，但《现汉》《现规》《通用汉字规范表》都没有收录「诶」，大陆用的是「欸」。
 欸	ei	9999
 哟	yo	993521
 唷	yo	68308
@@ -73,7 +75,7 @@ vocabulary: essay-zh-hans
 
 
 ### 8105
-# TODO 校对进度到 成	cheng	4074240
+# TODO 校对进度到 吃	chi	7940059
 # +_+
 啊	a	10139710
 阿	a	1906625
@@ -792,31 +794,31 @@ vocabulary: essay-zh-hans
 澄	cheng	98843
 秤	cheng	89229
 丞	cheng	63225
-晟	cheng	59272
 逞	cheng	53374
 惩	cheng	52852
 骋	cheng	47068
-铖	cheng	39691
-塍	cheng	38285
-枨	cheng	36791
-埕	cheng	35769
-蛏	cheng	35748
-裎	cheng	33256
-宬	cheng	32114
-瞠	cheng	31530
-琤	cheng	31127
-柽	cheng	28391
-酲	cheng	27125
-偁	cheng	26860
-珵	cheng	26319
-赪	cheng	26161
-珹	cheng	25203
-憕	cheng	22501
-牚	cheng	22290
-庱	cheng	13921
-澂	cheng	881
-铛	cheng	121
+晟	cheng	100
+蛏	cheng	2
+偁	cheng	1
 噌	cheng	1
+埕	cheng	1
+塍	cheng	1
+宬	cheng	1
+庱	cheng	1
+憕	cheng	1
+枨	cheng	1
+柽	cheng	1
+澂	cheng	1
+牚	cheng	1
+珵	cheng	1
+珹	cheng	1
+琤	cheng	1
+瞠	cheng	1
+裎	cheng	1
+赪	cheng	1
+酲	cheng	1
+铖	cheng	1
+铛	cheng	1
 吃	chi	7940059
 持	chi	508985
 池	chi	286284
@@ -5634,6 +5636,7 @@ vocabulary: essay-zh-hans
 甥	sheng	34047
 眚	sheng	30248
 昇	sheng	215
+晟	sheng	100
 陞	sheng	5
 是	shi	142460771
 时	shi	14342995
@@ -8003,11 +8006,11 @@ vocabulary: essay-zh-hans
 债	zhai	155821
 斋	zhai	138621
 寨	zhai	137179
-豸	zhai	45947
 翟	zhai	31921
 瘵	zhai	25862
 择	zhai	421
 祭	zhai	1
+豸	zhai	1
 站	zhan	1729454
 占	zhan	1389539
 战	zhan	543884
