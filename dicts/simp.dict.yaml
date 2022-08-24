@@ -30,7 +30,7 @@
 # 参照《现汉》增加了一些原数据中没有的读音。
 ---
 name: 8105
-version: "2022-08-05"
+version: "2022-08-15"
 sort: by_weight
 vocabulary: essay-zh-hans
 ...
@@ -72,6 +72,7 @@ vocabulary: essay-zh-hans
 哟	yo	993521
 唷	yo	68308
 育	yo	1
+欻	chua	9999
 
 
 ### 8105
@@ -841,28 +842,28 @@ vocabulary: essay-zh-hans
 哧	chi	39620
 彳	chi	38955
 魑	chi	37609
-啻	chi	37501
-篪	chi	37445
-笞	chi	37154
-媸	chi	36853
-蚩	chi	36677
 侈	chi	35694
-鸱	chi	33964
-墀	chi	33494
-瘛	chi	33456
-茌	chi	29230
-傺	chi	28929
-褫	chi	27575
-摛	chi	25801
-踟	chi	23763
-眵	chi	23590
-胣	chi	20461
-痓	chi	20341
-漦	chi	18181
-瓻	chi	16561
-匙	chi	2221
-豉	chi	1861
-𫄨	chi	721
+匙	chi	5000
+傺	chi	1
+啻	chi	1
+墀	chi	1
+媸	chi	1
+摛	chi	1
+漦	chi	1
+瓻	chi	1
+痓	chi	1
+瘛	chi	1
+眵	chi	1
+笞	chi	1
+篪	chi	1
+胣	chi	1
+茌	chi	1
+蚩	chi	1
+褫	chi	1
+豉	chi	1
+踟	chi	1
+鸱	chi	1
+𫄨	chi	1
 冲	chong	1139582
 充	chong	396469
 虫	chong	351148
@@ -4992,9 +4993,9 @@ vocabulary: essay-zh-hans
 髂	qia	3
 葜	qia	1
 袷	qia	1
-钱	qian	6785711
 前	qian	5741039
 千	qian	688088
+钱	qian	678571
 签	qian	665934
 欠	qian	385086
 浅	qian	248970
@@ -7042,8 +7043,8 @@ vocabulary: essay-zh-hans
 畜	xu	10000
 圩	xu	3661
 浒	xu	481
-欻	xu	121
 㳚	xu	1
+欻	xu	1
 𬣙	xu	1
 选	xuan	1709812
 玄	xuan	243080
