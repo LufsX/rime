@@ -8,13 +8,12 @@
 
 # 预览
 
-![p1](https://cdn.isteed.cc/img/rime-2022/p1.png)![p2](https://cdn.isteed.cc/img/rime-2022/p2.png)![p3](https://cdn.isteed.cc/img/rime-2022/p3.png)![p4](https://cdn.isteed.cc/img/rime-2022/p4.png)![p5](https://cdn.isteed.cc/img/rime-2022/p5.png)
+<img src="https://cdn.isteed.cc/img/rime-2022/p1.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/p2.png" width="50%" />
+<img src="https://cdn.isteed.cc/img/rime-2022/p3.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/p4.png" width="50%" />
+<img src="https://cdn.isteed.cc/img/rime-2022/p5.png" width="50%" />
 
-![f1](https://cdn.isteed.cc/img/rime-2022/f1.png)![f2](https://cdn.isteed.cc/img/rime-2022/f2.png)![f3](https://cdn.isteed.cc/img/rime-2022/f3.png)![f4](https://cdn.isteed.cc/img/rime-2022/f4.png)
-
-## 小技巧
-
-- 国内 GitHub 下载缓慢/无法下载可以尝试使用 [Cloudflare 加速下载](https://cors.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)
+<img src="https://cdn.isteed.cc/img/rime-2022/f1.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/f2.png" width="50%" />
+<img src="https://cdn.isteed.cc/img/rime-2022/f3.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/f4.png" width="50%" />
 
 # 特性
 
