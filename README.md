@@ -2,64 +2,9 @@
 
 [我的 Rime 配置文件～](https://blog.isteed.cc/post/rime-2022/)
 
-- [macOS](##macOS)
-- [Windows](##Windows)
-- [Android](##Android)
-
-## macOS
-
-- OS: macOS Ventura
-- Version: [0.15.2-2022-08-10](https://storage.isteed.cc/MacSoftware/Squirrel)
-- Date: 2022-08-10
-
-### 下载
-
-最新的鼠须管，[点击下载](https://cdn.isteed.cc/file/squirrel/Squirrel-0.15.2-707ecc0.pkg)即可
-
-自己编译的，就合了两 PR，具体源码可以看 [LufsX/squirrel](https://github.com/LufsX/squirrel)
-
-### 安装步骤
-
-1. 备份原有配置（如果有的话）
-2. 下载[仓库压缩包](https://cors.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)并解压
-3. 打开 `用户设定`
-4. 将本仓库所有文件复制到 `用户设定` 文件夹中
-5. 重新部署鼠须管
-
-## Windows
-
-> 个人主要使用 macOS，所以其它平台的配置可能会有些小问题～
-
-- OS: Windows 10 20H2
-- Version: [0.14.3.0](https://cors.isteed.cc/https://github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe)
-- Date: 2022-01-27
-
-### 安装步骤
-
-1. 备份原有配置（如果有的话）
-2. 下载[仓库压缩包](https://cors.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)并解压
-3. 打开 `用户文件夹`
-4. 将本仓库所有文件复制到 `用户文件夹` 中
-5. 取消 `lufs_flypy.schema.yaml` 与 `lufs_pinyin.schema.yaml` 文件中 30 行左右的注释
-6. 重新部署小狼毫
-
-## Android
-
-> 个人主要使用 macOS，所以其它平台的配置可能会有些小问题～
-
-- OS: Android 13
-- Version: [652a867](https://github.com/osfans/trime/suites/7541740718/artifacts/311071325)
-- Date: 2022-07-27
-
-推荐下载最新的 CI 版 [TRIME](https://github.com/osfans/trime/actions)，登录 GitHub 后点开 `commit ci`，再点开最新的 `run`，拉到最下面，下载 `trime_arm64_v8a` 解压安装即可
-
-### 安装步骤
-
-1. 备份原有配置（如果有的话）
-2. 下载[仓库压缩包](https://cors.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)并解压
-3. 使用文件管理器打开 `内置存储空间/rime/` 文件夹
-4. 将本仓库所有文件复制到 `内置存储空间/rime/` 中
-5. 打开 `同文输入法` - `方案` 选择对应方案后确定即可
+- [macOS 安装说明](##macOS)
+- [Windows 安装说明](##Windows)
+- [Android 安装说明](##Android)
 
 # 预览
 
@@ -104,6 +49,61 @@
 - [ ] 脚本自动部署/更新
 
 欢迎提 ISSUE/PR 哈～（虽然我觉得都没人看
+
+## macOS
+
+- OS: macOS Ventura
+- Version: [2023-01-09(0.15.2)](https://storage.isteed.cc/MacSoftware/Squirrel/Squirrel-2023-01-09.pkg)
+- Date: 2023-01-09
+
+### 下载
+
+最新的鼠须管，[点击下载](https://cdn.isteed.cc/file/squirrel/Squirrel-2023-01-09.pkg)即可
+
+自己编译的，就合了个 PR，具体源码可以看 [LufsX/squirrel](https://github.com/LufsX/squirrel)
+
+### 安装步骤
+
+1. 备份原有配置（如果有的话）
+2. 下载[仓库压缩包](https://cors.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)并解压
+3. 打开 `用户设定`
+4. 将本仓库所有文件复制到 `用户设定` 文件夹中
+5. 重新部署鼠须管
+
+## Windows
+
+> 个人主要使用 macOS，所以其它平台的配置可能会有些小问题～
+
+- OS: Windows 10 20H2
+- Version: [0.14.3.0](https://cors.isteed.cc/https://github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe)
+- Date: 2022-01-27
+
+### 安装步骤
+
+1. 备份原有配置（如果有的话）
+2. 下载[仓库压缩包](https://cors.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)并解压
+3. 打开 `用户文件夹`
+4. 将本仓库所有文件复制到 `用户文件夹` 中
+5. 取消 `lufs_flypy.schema.yaml` 与 `lufs_pinyin.schema.yaml` 文件中 30 行左右的注释
+6. 重新部署小狼毫
+
+## Android
+
+> 个人主要使用 macOS，所以其它平台的配置可能会有些小问题～
+
+- OS: Android 13
+- Version: [652a867](https://github.com/osfans/trime/suites/7541740718/artifacts/311071325)
+- Date: 2022-07-27
+
+推荐下载最新的 CI 版 [TRIME](https://github.com/osfans/trime/actions)，登录 GitHub 后点开 `commit ci`，再点开最新的 `run`，拉到最下面，下载 `trime_arm64_v8a` 解压安装即可
+
+### 安装步骤
+
+1. 备份原有配置（如果有的话）
+2. 下载[仓库压缩包](https://cors.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)并解压
+3. 使用文件管理器打开 `内置存储空间/rime/` 文件夹
+4. 将本仓库所有文件复制到 `内置存储空间/rime/` 中
+5. 打开 `同文输入法` - `方案` 选择对应方案后确定即可
 
 # 感谢/参考
 
