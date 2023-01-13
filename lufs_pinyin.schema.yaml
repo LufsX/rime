@@ -9,7 +9,7 @@ schema:
     - 佛振 <chen.sst@gmail.com>
     - Modified by Lufs_X <i@isteed.cc>
   description: |
-    Rime 預設的拼音輸入方案。
+    Rime 预设的拼音输入方案。
     稍稍的改了一下（小声
 
 switches:
@@ -22,7 +22,7 @@ switches:
     states: [。，, ．，]
   - name: emoji_suggestion
     # reset: 1
-    states: ["🈚️️\uFE0E", "🈶️️\uFE0F"]
+    states: ["🈚️️", "🈶️"]
 
 engine:
   processors:
