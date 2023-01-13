@@ -44,14 +44,14 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - lua_translator@date_translator
-    - table_translator@custom_phrase
+    - lua_translator@date_translator # 动态日期时间输入
+    - table_translator@custom_phrase # 用户自定义词典
     - script_translator
   filters:
     - simplifier@emoji_suggestion
-    - simplifier
-    - uniquifier
-    - single_char_filter
+    # - lua_filter@long_phrase_first # 最长词组和单字在先
+    # - lua_filter@single_char_first # 单字优先
+    # - lua_filter@single_char_only # 只显示单字
 
 emoji_suggestion:
   opencc_config: emoji.json
