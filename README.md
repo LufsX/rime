@@ -1,11 +1,5 @@
 # [Rime](https://blog.isteed.cc/post/rime-2022/)
 
-[我的 Rime 配置文件～](https://blog.isteed.cc/post/rime-2022/)
-
-- [macOS 安装说明](##macOS)
-- [Windows 安装说明](##Windows)
-- [Android 安装说明](##Android)
-
 # 预览
 
 <img src="https://cdn.isteed.cc/img/rime-2022/p1.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/p2.png" width="50%" />
@@ -15,29 +9,47 @@
 <img src="https://cdn.isteed.cc/img/rime-2022/f1.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/f2.png" width="50%" />
 <img src="https://cdn.isteed.cc/img/rime-2022/f3.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/f4.png" width="50%" />
 
+# 使用
+
+安装方法见 [仓库 Wiki](https://github.com/LufsX/rime/wiki/安装输入法方案) 或见 [我的 Rime 配置文件～](https://blog.isteed.cc/post/rime-2022/#安装)
+
 # 特性
 
 - 「小鹤双拼」+「朙月拼音」
-- 模糊音
-- Emoji 支持
-- 8104 简体字
-- 朙月拼音支持按键纠错与容错拼写
-- `Caps` 切换英文输入法
-- 长句模型
-- THUOCL 词库
-- 搜狗词库（夹带私货）
-- 自定义词典（自造词）
-- 词库总大小仅 `7.2MB`（包括八股文仅 `10MB`）
+- 支持常见的模糊音
+- 支持 Emoji 输入
+- 「朙月拼音」支持按键纠错与容错拼写
 - 快捷输入（日期，时间，星期）
 - 以词定字
+- 好看的皮肤～
 
-# 使用
+---
 
-详见 [我的 Rime 配置文件～](https://blog.isteed.cc/post/rime-2022/)
+- macOS 可使用 `Caps_Lock` 切换系统英文输入法
+- Windows 默认 `Shift_R` 切换中英文输入（需按照安装说明取消注释）
+- 默认四候选项，便于选词
+- 按键绑定
+  - <kbd>;</kbd>：二选
+  - <kbd>'</kbd>：三选
+  - <kbd>Tab</kbd> / <kbd>+</kbd>：下一页
+  - <kbd>Shift</kbd> + <kbd>Tab</kbd> / <kbd>-</kbd>：上一页
+  - <kbd>[</kbd>：选中词组的第一个字
+  - <kbd>]</kbd>：选中词组的最后一个字
+- 四种候选排序选择
+  - 详见 [仓库 Wiki](https://github.com/LufsX/rime/wiki/候选排序)
+
+---
+
+- 词库总大小仅 `7.1MB`（包括八股文仅 `9.9MB`）
+- 极简的 8104 简体字典
+- 自带长句模型
+- THUOCL 词库
+- 搜狗词库（夹带私货）
+- 支持自定义词典（自造词）
 
 # 待办
 
-- [x] 更新搜狗词库 Update: 2022-01-04
+- [x] 更新搜狗词库 Update: 2023-01-14
 - [x] 添加深色主题
 - [x] 添加 Emoji 支持
 - [x] 添加「[同文输入法](https://github.com/osfans/trime)」支持
@@ -48,61 +60,6 @@
 - [ ] 脚本自动部署/更新
 
 欢迎提 ISSUE/PR 哈～（虽然我觉得都没人看
-
-## macOS
-
-- OS: macOS Ventura
-- Version: [2023-01-09(0.15.2)](https://storage.isteed.cc/MacSoftware/Squirrel/Squirrel-2023-01-09.pkg)
-- Date: 2023-01-09
-
-### 下载
-
-最新的鼠须管，[点击下载](https://cdn.isteed.cc/file/squirrel/Squirrel-2023-01-09.pkg)即可
-
-自己编译的，就合了个 PR，具体源码可以看 [LufsX/squirrel](https://github.com/LufsX/squirrel)
-
-### 安装步骤
-
-1. 备份原有配置（如果有的话）
-2. 下载[仓库压缩包](https://cors.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)并解压
-3. 打开 `用户设定`
-4. 将本仓库所有文件复制到 `用户设定` 文件夹中
-5. 重新部署鼠须管
-
-## Windows
-
-> 个人主要使用 macOS，所以其它平台的配置可能会有些小问题～
-
-- OS: Windows 10 20H2
-- Version: [0.14.3.0](https://cors.isteed.cc/https://github.com/rime/weasel/releases/download/0.14.3/weasel-0.14.3.0-installer.exe)
-- Date: 2022-01-27
-
-### 安装步骤
-
-1. 备份原有配置（如果有的话）
-2. 下载[仓库压缩包](https://cors.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)并解压
-3. 打开 `用户文件夹`
-4. 将本仓库所有文件复制到 `用户文件夹` 中
-5. 取消 `lufs_flypy.schema.yaml` 与 `lufs_pinyin.schema.yaml` 文件中 30 行左右的注释
-6. 重新部署小狼毫
-
-## Android
-
-> 个人主要使用 macOS，所以其它平台的配置可能会有些小问题～
-
-- OS: Android 13
-- Version: [652a867](https://github.com/osfans/trime/suites/7541740718/artifacts/311071325)
-- Date: 2022-07-27
-
-推荐下载最新的 CI 版 [TRIME](https://github.com/osfans/trime/actions)，登录 GitHub 后点开 `commit ci`，再点开最新的 `run`，拉到最下面，下载 `trime_arm64_v8a` 解压安装即可
-
-### 安装步骤
-
-1. 备份原有配置（如果有的话）
-2. 下载[仓库压缩包](https://cors.isteed.cc/https://github.com/LufsX/rime/archive/refs/heads/master.zip)并解压
-3. 使用文件管理器打开 `内置存储空间/rime/` 文件夹
-4. 将本仓库所有文件复制到 `内置存储空间/rime/` 中
-5. 打开 `同文输入法` - `方案` 选择对应方案后确定即可
 
 # 感谢/参考
 
