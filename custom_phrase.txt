@@ -53,12 +53,12 @@ Mac App Store	mas
 MacBook	macbook
 MacBook Air	mba
 MacBook Pro	mbp
-macOS	macos
-macOS Ventura	macos
-macOS Monterey	macos
-macOS Catalina	macos
-macOS High Sierra	macos
-macOS Mojave	macos
+macOS	macos	6
+macOS Ventura	macos	5
+macOS Monterey	macos	4
+macOS Catalina	macos	3
+macOS Mojave	macos	2
+macOS High Sierra	macos	1
 Magisk	magisk
 Minecraft	minecraft
 MySQL	mysql
