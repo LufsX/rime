@@ -13,17 +13,17 @@ import_tables:
   - dicts/simp # 最小拼音词典
   - dicts/simp-ext # 原字表中除单字外部分
 
-  - dicts/animal # 动物
-  - dicts/caijing # 财经
-  - dicts/food # 饮食
-  - dicts/idiom # 成语俗语
-  - dicts/IT # IT
-  - dicts/medical # 医学
-  - dicts/net # 网络流行语
-  - dicts/renmingdiming # 人名地名
+  - dicts/sogou_net # 网络流行语
+  - dicts/thuocl_animal # 动物
+  - dicts/thuocl_caijing # 财经
+  - dicts/thuocl_food # 饮食
+  - dicts/thuocl_idiom # 成语俗语
+  - dicts/thuocl_IT # IT
+  - dicts/thuocl_medical # 医学
+  - dicts/thuocl_renmingdiming # 人名地名
 
   # 一点点小小的私货，不需要的可以自行关闭呢
-  - dicts/genshin # 原神
-  - dicts/minecraft # Minecraft 词条
-  - dicts/touhou # 东方 Project
+  - dicts/sogou_genshin # 原神
+  - dicts/sogou_minecraft # Minecraft 词条
+  - dicts/sogou_touhou # 东方 Project
 ...

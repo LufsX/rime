@@ -4,7 +4,7 @@
 
 ---
 name: minecraft
-version: "2021-11-04"
+version: "2022-10-26"
 sort: by_weight
 ...
 
@@ -30,6 +30,7 @@ sort: by_weight
 白桦木门	bai hua mu men
 白桦木台阶	bai hua mu tai jie
 白桦木压力板	bai hua mu ya li ban
+白桦木运输船	bai hua mu yun shu chuan
 白桦木栅栏	bai hua mu zha lan
 白桦木栅栏门	bai hua mu zha lan men
 白桦树苗	bai hua shu miao
@@ -124,6 +125,8 @@ sort: by_weight
 滨菊	bin ju
 滨菊盆栽	bin ju pen zai
 冰刺平原	bing ci ping yuan
+冰冻深海	bing dong shen hai
+冰封山峰	bing feng shan feng
 冰霜行者	bing shuang xing zhe
 冰桶挑战	bing tong tiao zhan
 播放唱片数	bo fang chang pian shu
@@ -140,6 +143,7 @@ sort: by_weight
 捕鱼数	bu yu shu
 不战而栗	bu zhan er li
 残骸裹身	can hai guo shen
+草甸	cao dian
 草方块	cao fang kuai
 草径	cao jing
 草原	cao yuan
@@ -163,6 +167,8 @@ sort: by_weight
 缠根泥土	chan gen ni tu
 缠怨藤	chan yuan teng
 缠怨藤植物	chan yuan teng zhi wu
+缠怨藤植株	chan yuan teng zhi zhu
+唱片残片	chang pian can pian
 唱片机	chang pian ji
 潮涌核心	chao yong he xin
 潮涌能量	chao yong neng liang
@@ -211,6 +217,7 @@ sort: by_weight
 橙色左下三角	cheng se zuo xia san jiao
 成书	cheng shu
 橙竖条纹	cheng shu tiao wen
+成双成对	cheng shuang cheng dui
 橙斜十字	cheng xie shi zi
 橙正十字	cheng zheng shi zi
 吃掉的蛋糕片数	chi diao de dan gao pian shu
@@ -232,6 +239,7 @@ sort: by_weight
 垂根	chui gen
 垂泪藤	chui lei teng
 垂泪藤植物	chui lei teng zhi wu
+垂泪藤植株	chui lei teng zhi zhu
 磁石	ci shi
 磁石指针	ci shi zhi zhen
 从炼药锅取水次数	cong lian yao guo qu shui ci shu
@@ -249,6 +257,7 @@ sort: by_weight
 丛林木门	cong lin mu men
 丛林木台阶	cong lin mu tai jie
 丛林木压力板	cong lin mu ya li ban
+丛林木运输船	cong lin mu yun shu chuan
 丛林木栅栏	cong lin mu zha lan
 丛林木栅栏门	cong lin mu zha lan men
 丛林丘陵	cong lin qiu ling
@@ -456,13 +465,16 @@ sort: by_weight
 顶棕三角	ding zong san jiao
 冻河	dong he
 动力矿车	dong li kuang che
+动力铁轨	dong li tie gui
 洞穴空气	dong xue kong qi
 洞穴藤蔓	dong xue teng wan
 洞穴藤蔓植物	dong xue teng wan zhi wu
+洞穴藤蔓植株	dong xue teng wan zhi zhu
 洞穴蜘蛛	dong xue zhi zhu
 洞穴蜘蛛刷怪蛋	dong xue zhi zhu shua guai dan
 冻洋	dong yang
 抖包袱	dou bao fu
+蚪到桶里来	dou dao tong li lai
 蠹虫	du chong
 蠹虫刷怪蛋	du chong shua guai dan
 杜鹃花丛	du juan hua cong
@@ -494,6 +506,7 @@ sort: by_weight
 发酵蛛眼	fa jiao zhu yan
 发射器	fa she qi
 繁花森林	fan hua sen lin
+繁茂的恶地	fan mao de e di
 繁茂的恶地高原	fan mao de e di gao yuan
 繁茂的恶地高原变种	fan mao de e di gao yuan bian zhong
 繁茂的丘陵	fan mao de qiu ling
@@ -575,6 +588,10 @@ sort: by_weight
 锋利	feng li
 蜂蜜块	feng mi kuai
 蜂蜜瓶	feng mi ping
+风袭丘陵	feng xi qiu ling
+风袭热带草原	feng xi re dai cao yuan
+风袭森林	feng xi sen lin
+风袭沙砾丘陵	feng xi sha li qiu ling
 蜂箱	feng xiang
 浮冰	fu bing
 弗雷德	fu lei de
@@ -608,6 +625,7 @@ sort: by_weight
 骨粉	gu fen
 骨块	gu kuai
 骨头	gu tou
+呱呱队出动	gua gua dui chu dong
 怪物猎人	guai wu lie ren
 怪物狩猎完成	guai wu shou lie wan cheng
 管珊瑚	guan shan hu
@@ -615,6 +633,7 @@ sort: by_weight
 管珊瑚扇	guan shan hu shan
 光辉岁月	guang hui sui yue
 光灵箭	guang ling jian
+光源方块	guang yuan fang kuai
 诡异菌	gui yi jun
 诡异菌柄	gui yi jun bing
 诡异菌钓竿	gui yi jun diao gan
@@ -671,6 +690,7 @@ sort: by_weight
 河豚	he tun
 河豚刷怪蛋	he tun shua guai dan
 河豚桶	he tun tong
+黑暗	hei an
 黑刺尾鲷	hei ci wei diao
 黑底	hei di
 黑色	hei se
@@ -792,10 +812,33 @@ sort: by_weight
 红石矿石	hong shi kuang shi
 红石线	hong shi xian
 红石中继器	hong shi zhong ji qi
+红树根	hong shu gen
+红树林沼泽	hong shu lin zhao ze
+红树木	hong shu mu
+红树木按钮	hong shu mu an niu
+红树木板	hong shu mu ban
+红树木船	hong shu mu chuan
+红树木告示牌	hong shu mu gao shi pai
+红树木活板门	hong shu mu huo ban men
+红树木楼梯	hong shu mu lou ti
+红树木门	hong shu mu men
+红树木台阶	hong shu mu tai jie
+红树木压力板	hong shu mu ya li ban
+红树木运输船	hong shu mu yun shu chuan
+红树木栅栏	hong shu mu zha lan
+红树木栅栏门	hong shu mu zha lan men
+红树树叶	hong shu shu ye
+红树胎生苗	hong shu tai sheng miao
+红树胎生苗盆栽	hong shu tai sheng miao pen zai
 红竖条纹	hong shu tiao wen
+红树原木	hong shu yuan mu
 红斜十字	hong xie shi zi
 红正十字	hong zheng shi zi
 红砖	hong zhuan
+红砖块	hong zhuan kuai
+红砖楼梯	hong zhuan lou ti
+红砖墙	hong zhuan qiang
+红砖台阶	hong zhuan tai jie
 蝴蝶鱼	hu die yu
 狐狸	hu li
 狐狸刷怪蛋	hu li shua guai dan
@@ -955,6 +998,7 @@ sort: by_weight
 灰色左上三角	hui se zuo shang san jiao
 灰色左下三角	hui se zuo xia san jiao
 灰竖条纹	hui shu tiao wen
+回响碎片	hui xiang sui pian
 灰斜十字	hui xie shi zi
 灰正十字	hui zheng shi zi
 混沌洞穴	hun dun dong xue
@@ -982,7 +1026,9 @@ sort: by_weight
 击退	ji tui
 极限模式	ji xian mo shi
 积雪的冻原	ji xue de dong yuan
+积雪的平原	ji xue de ping yuan
 积雪的沙滩	ji xue de sha tan
+积雪的山坡	ji xue de shan po
 积雪的针叶林	ji xue de zhen ye lin
 积雪的针叶林丘陵	ji xue de zhen ye lin qiu ling
 积雪的针叶林山地	ji xue de zhen ye lin shan di
@@ -991,6 +1037,9 @@ sort: by_weight
 击中标靶次数	ji zhong biao ba ci shu
 剪刀	jian dao
 见鬼去吧	jian gui qu ba
+尖峭山峰	jian qiao shan feng
+监守者	jian shou zhe
+监守者刷怪蛋	jian shou zhe shua guai dan
 僵尸	jiang shi
 僵尸村民	jiang shi cun min
 僵尸村民刷怪蛋	jiang shi cun min shua guai dan
@@ -1036,6 +1085,7 @@ sort: by_weight
 金合欢木门	jin he huan mu men
 金合欢木台阶	jin he huan mu tai jie
 金合欢木压力板	jin he huan mu ya li ban
+金合欢木运输船	jin he huan mu yun shu chuan
 金合欢木栅栏	jin he huan mu zha lan
 金合欢木栅栏门	jin he huan mu zha lan men
 金合欢树苗	jin he huan shu miao
@@ -1085,6 +1135,9 @@ sort: by_weight
 抗火之箭	kang huo zhi jian
 抗性提升	kang xing ti sheng
 烤马铃薯	kao ma ling shu
+蝌蚪	ke dou
+蝌蚪刷怪蛋	ke dou shua guai dan
+蝌蚪桶	ke dou tong
 可可豆	ke ke dou
 可可果	ke ke guo
 颗粒效果	ke li xiao guo
@@ -1223,6 +1276,7 @@ sort: by_weight
 掠夺者刷怪蛋	lue duo zhe shua guai dan
 罗密欧	luo mi ou
 骡刷怪蛋	luo shua guai dan
+裸岩山峰	luo yan shan feng
 绿宝石	lv bao shi
 绿宝石块	lv bao shi kuai
 绿宝石矿石	lv bao shi kuang shi
@@ -1301,12 +1355,16 @@ sort: by_weight
 末地传送门	mo di chuan song men
 末地传送门框架	mo di chuan song men kuang jia
 末地高岛	mo di gao dao
+末地高地	mo di gao di
 末地荒岛	mo di huang dao
+末地荒地	mo di huang di
+末地内陆	mo di nei lu
 末地石	mo di shi
 末地石砖	mo di shi zhuan
 末地石砖楼梯	mo di shi zhuan lou ti
 末地石砖墙	mo di shi zhuan qiang
 末地石砖台阶	mo di shi zhuan tai jie
+末地水晶	mo di shui jing
 末地小型岛屿	mo di xiao xing dao yu
 末地折跃门	mo di zhe yue men
 末地中型岛屿	mo di zhong xing dao yu
@@ -1390,10 +1448,17 @@ sort: by_weight
 脑纹珊瑚块	nao wen shan hu kuai
 脑纹珊瑚扇	nao wen shan hu shan
 能破坏	neng po huai
+泥巴	ni ba
+泥坯	ni pi
 溺尸	ni shi
 溺尸刷怪蛋	ni shi shua guai dan
 泥土	ni tu
+你需要来点薄荷糖	ni xu yao lai dian bo he tang
 拟羊鱼	ni yang yu
+泥砖	ni zhuan
+泥砖楼梯	ni zhuan lou ti
+泥砖墙	ni zhuan qiang
+泥砖台阶	ni zhuan tai jie
 粘土	nian tu
 黏土	nian tu
 粘土块	nian tu kuai
@@ -1428,6 +1493,7 @@ sort: by_weight
 佩特拉	pei te la
 喷溅型不可合成的药水	pen jian xing bu ke he cheng de yao shui
 喷溅型迟缓药水	pen jian xing chi huan yao shui
+喷溅型粗制的药水	pen jian xing cu zhi de yao shui
 喷溅型粗制药水	pen jian xing cu zhi yao shui
 喷溅型缓降药水	pen jian xing huan jiang yao shui
 喷溅型剧毒药水	pen jian xing ju du yao shui
@@ -1519,11 +1585,13 @@ sort: by_weight
 平滑砂岩台阶	ping hua sha yan tai jie
 平滑石台阶	ping hua shi tai jie
 平滑石头	ping hua shi tou
+平滑石头台阶	ping hua shi tou tai jie
 平滑石英	ping hua shi ying
 平滑石英块	ping hua shi ying kuai
 平滑石英楼梯	ping hua shi ying lou ti
 平滑石英台阶	ping hua shi ying tai jie
 平滑玄武岩	ping hua xuan wu yan
+平原	ping yuan
 屏障	ping zhang
 破碎的热带草原	po sui de re dai cao yuan
 破碎的热带高原	po sui de re dai gao yuan
@@ -1546,12 +1614,14 @@ sort: by_weight
 潜影贝	qian ying bei
 潜影贝导弹	qian ying bei dao dan
 潜影贝刷怪蛋	qian ying bei shua guai dan
+潜影弹	qian ying dan
 潜影盒	qian ying he
 潜影盒打开次数	qian ying he da kai ci shu
 潜影盒清洗次数	qian ying he qing xi ci shu
 潜影壳	qian ying ke
 强充能	qiang chong neng
 抢夺	qiang duo
+强化深板岩	qiang hua shen ban yan
 墙上的白桦木告示牌	qiang shang de bai hua mu gao shi pai
 墙上的丛林木告示牌	qiang shang de cong lin mu gao shi pai
 墙上的凋灵骷髅头颅	qiang shang de diao ling ku lou tou lu
@@ -1560,10 +1630,13 @@ sort: by_weight
 墙上的管珊瑚扇	qiang shang de guan shan hu shan
 墙上的诡异木告示牌	qiang shang de gui yi mu gao shi pai
 墙上的红石火把	qiang shang de hong shi huo ba
+墙上的红树木告示牌	qiang shang de hong shu mu gao shi pai
 墙上的火把	qiang shang de huo ba
 墙上的火珊瑚扇	qiang shang de huo shan hu shan
+墙上的僵尸的头	qiang shang de jiang shi de tou
 墙上的僵尸头颅	qiang shang de jiang shi tou lu
 墙上的金合欢木告示牌	qiang shang de jin he huan mu gao shi pai
+墙上的苦力怕的头	qiang shang de ku li pa de tou
 墙上的苦力怕头颅	qiang shang de ku li pa tou lu
 墙上的骷髅头颅	qiang shang de ku lou tou lu
 墙上的灵魂火把	qiang shang de ling hun huo ba
@@ -1579,6 +1652,7 @@ sort: by_weight
 墙上的失活鹿角珊瑚扇	qiang shang de shi huo lu jiao shan hu shan
 墙上的失活脑纹珊瑚扇	qiang shang de shi huo nao wen shan hu shan
 墙上的失活气泡珊瑚扇	qiang shang de shi huo qi pao shan hu shan
+墙上的玩家的头	qiang shang de wan jia de tou
 墙上的玩家头颅	qiang shang de wan jia tou lu
 墙上的橡木告示牌	qiang shang de xiang mu gao shi pai
 墙上的云杉木告示牌	qiang shang de yun sha mu gao shi pai
@@ -1592,6 +1666,7 @@ sort: by_weight
 切制铜块	qie zhi tong kuai
 切制铜楼梯	qie zhi tong lou ti
 切制铜台阶	qie zhi tong tai jie
+青翠蛙明灯	qing cui wa ming deng
 青底	qing di
 轻功雪上飘	qing gong xue shang piao
 青金石	qing jin shi
@@ -1636,6 +1711,9 @@ sort: by_weight
 青色左上三角	qing se zuo shang san jiao
 青色左下三角	qing se zuo xia san jiao
 青竖条纹	qing shu tiao wen
+青蛙	qing wa
+青蛙卵	qing wa luan
+青蛙刷怪蛋	qing wa shua guai dan
 轻微损坏的铁砧	qing wei sun huai de tie zhen
 清洗盔甲次数	qing xi kui jia ci shu
 清洗旗帜次数	qing xi qi zhi ci shu
@@ -1650,6 +1728,8 @@ sort: by_weight
 去皮绯红菌核	qu pi fei hong jun he
 去皮诡异菌柄	qu pi gui yi jun bing
 去皮诡异菌核	qu pi gui yi jun he
+去皮红树木	qu pi hong shu mu
+去皮红树原木	qu pi hong shu yuan mu
 去皮金合欢木	qu pi jin he huan mu
 去皮金合欢原木	qu pi jin he huan yuan mu
 去皮深色橡木	qu pi shen se xiang mu
@@ -1712,11 +1792,14 @@ sort: by_weight
 闪烁的西瓜	shan shuo de xi gua
 闪烁的西瓜片	shan shuo de xi gua pian
 山羊	shan yang
+山羊角	shan yang jiao
 山羊刷怪蛋	shan yang shua guai dan
 伤害吸收	shang hai xi shou
 伤害药水	shang hai yao shui
 伤害之箭	shang hai zhi jian
 上锁的箱子	shang suo de xiang zi
+上天入地	shang tian ru di
+深暗之域	shen an zhi yu
 深板岩	shen ban yan
 深板岩瓦	shen ban yan wa
 深板岩瓦楼梯	shen ban yan wa lou ti
@@ -1754,6 +1837,7 @@ sort: by_weight
 深色橡木台阶	shen se xiang mu tai jie
 深色橡木压力板	shen se xiang mu ya li ban
 深色橡木原木	shen se xiang mu yuan mu
+深色橡木运输船	shen se xiang mu yun shu chuan
 深色橡木栅栏	shen se xiang mu zha lan
 深色橡木栅栏门	shen se xiang mu zha lan men
 深色橡树树苗	shen se xiang shu shu miao
@@ -1767,6 +1851,7 @@ sort: by_weight
 生命恢复	sheng ming hui fu
 生命提升	sheng ming ti sheng
 生牛肉	sheng niu rou
+生日快乐歌	sheng ri kuai le ge
 生兔肉	sheng tu rou
 生物	sheng wu
 生物击杀数	sheng wu ji sha shu
@@ -1813,6 +1898,9 @@ sort: by_weight
 石头	shi tou
 石头按钮	shi tou an niu
 石头怪物蛋	shi tou guai wu dan
+石头楼梯	shi tou lou ti
+石头台阶	shi tou tai jie
+石头压力板	shi tou ya li ban
 食物饱和度	shi wu bao he du
 石英块	shi ying kuai
 石英楼梯	shi ying lou ti
@@ -1881,6 +1969,7 @@ sort: by_weight
 锁链头盔	suo lian tou kui
 锁链胸甲	suo lian xiong jia
 锁链靴子	suo lian xue zi
+它蔓延了	ta man yan le
 苔石	tai shi
 苔石楼梯	tai shi lou ti
 苔石墙	tai shi qiang
@@ -1959,6 +2048,7 @@ sort: by_weight
 挖掘工的梦想	wa jue gong de meng xiang
 挖掘疲劳	wa jue pi lao
 玩家	wan jia
+玩家的头	wan jia de tou
 玩家击杀数	wan jia ji sha shu
 玩家头颅	wan jia tou lu
 亡灵杀手	wang ling sha shou
@@ -1966,11 +2056,13 @@ sort: by_weight
 卫道士	wei dao shi
 卫道士刷怪蛋	wei dao shi shua guai dan
 未知形状	wei zhi xing zhuang
+温暖如家	wen nuan ru jia
 温水海洋	wen shui hai yang
 温水深海	wen shui shen hai
 五彩搏鱼	wu cai bo yu
 无底深渊	wu di shen yuan
 无法破坏	wu fa po huai
+无法损坏	wu fa sun huai
 物品	wu pin
 物品掉落	wu pin diao luo
 物品附魔次数	wu pin fu mo ci shu
@@ -1986,6 +2078,7 @@ sort: by_weight
 西瓜种子	xi gua zhong zi
 袭击胜利次数	xi ji sheng li ci shu
 吸收的伤害	xi shou de shang hai
+稀疏的丛林	xi shu de cong lin
 细雪	xi xue
 细雪桶	xi xue tong
 下界	xia jie
@@ -2037,10 +2130,12 @@ sort: by_weight
 橡木台阶	xiang mu tai jie
 橡木压力板	xiang mu ya li ban
 橡木原木	xiang mu yuan mu
+橡木运输船	xiang mu yun shu chuan
 橡木栅栏	xiang mu zha lan
 橡木栅栏门	xiang mu zha lan men
 向日葵	xiang ri kui
 向日葵草原	xiang ri kui cao yuan
+向日葵平原	xiang ri kui ping yuan
 橡树树苗	xiang shu shu miao
 橡树树苗盆栽	xiang shu shu miao pen zai
 橡树树叶	xiang shu shu ye
@@ -2058,6 +2153,7 @@ sort: by_weight
 携带版	xie dai ban
 信标	xin biao
 信标工程师	xin biao gong cheng shi
+星际商人	xing ji shang ren
 行商羊驼	xing shang yang tuo
 行商羊驼刷怪蛋	xing shang yang tuo shua guai dan
 腥味十足的生意	xing wei shi zu de sheng yi
@@ -2086,6 +2182,7 @@ sort: by_weight
 玄武岩三角洲	xuan wu yan san jiao zhou
 雪块	xue kuai
 雪傀儡	xue kui lei
+雪林	xue lin
 雪球	xue qiu
 雪山	xue shan
 鳕鱼	xue yu
@@ -2093,6 +2190,7 @@ sort: by_weight
 鳕鱼桶	xue yu tong
 雪之王国	xue zhi wang guo
 循环型命令方块	xun huan xing ming ling fang kuai
+迅捷潜行	xun jie qian xing
 迅捷药水	xun jie yao shui
 迅捷之箭	xun jie zhi jian
 烟花火箭	yan hua huo jian
@@ -2139,6 +2237,7 @@ sort: by_weight
 隐身药水	yin shen yao shui
 隐身之箭	yin shen zhi jian
 音乐唱片	yin yue chang pian
+音乐之声	yin yue zhi sheng
 荧光墨囊	ying guang mo nang
 荧光物品展示框	ying guang wu pin zhan shi kuang
 营火	ying huo
@@ -2206,11 +2305,17 @@ sort: by_weight
 右蓝斜条	you lan xie tiao
 右绿竖条	you lv shu tiao
 右绿斜条	you lv xie tiao
+幽匿催发体	you ni cui fa ti
+幽匿感测体	you ni gan ce ti
+幽匿尖啸体	you ni jian xiao ti
+幽匿块	you ni kuai
+幽匿脉络	you ni mai luo
 右品红竖条	you pin hong shu tiao
 右品红斜条	you pin hong xie tiao
 右青竖条	you qing shu tiao
 右青斜条	you qing xie tiao
 游戏次数	you xi ci shu
+游戏时长	you xi shi chang
 游戏时间	you xi shi jian
 游戏退出次数	you xi tui chu ci shu
 友谊的治愈力	you yi de zhi yu li
@@ -2223,22 +2328,41 @@ sort: by_weight
 右紫斜条	you zi xie tiao
 右棕竖条	you zong shu tiao
 右棕斜条	you zong xie tiao
+与锻造台互动次数	yu duan zao tai hu dong ci shu
 与蜂共舞	yu feng gong wu
 渔夫	yu fu
+与高炉互动次数	yu gao lu hu dong ci shu
+与工作台互动次数	yu gong zuo tai hu dong ci shu
 与火共舞	yu huo gong wu
+与讲台互动次数	yu jiang tai hu dong ci shu
 羽毛	yu mao
 虞美人	yu mei ren
 虞美人盆栽	yu mei ren pen zai
+与酿造台互动次数	yu niang zao tai hu dong ci shu
+与切石机互动次数	yu qie shi ji hu dong ci shu
+与熔炉互动次数	yu rong lu hu dong ci shu
+与砂轮互动次数	yu sha lun hu dong ci shu
+与铁砧互动次数	yu tie zhen hu dong ci shu
+与信标互动次数	yu xin biao hu dong ci shu
+与烟熏炉互动次数	yu yan xun lu hu dong ci shu
+与营火互动次数	yu ying huo hu dong ci shu
+与织布机互动次数	yu zhi bu ji hu dong ci shu
+与制图台互动次数	yu zhi tu tai hu dong ci shu
 远程折跃	yuan cheng zhe yue
 远古残骸	yuan gu can hai
 远古守卫者	yuan gu shou wei zhe
 远古守卫者刷怪蛋	yuan gu shou wei zhe shua guai dan
 圆石	yuan shi
 圆石怪物蛋	yuan shi guai wu dan
+原始桦木森林	yuan shi hua mu sen lin
 圆石楼梯	yuan shi lou ti
 圆石墙	yuan shi qiang
+原始松木针叶林	yuan shi song mu zhen ye lin
 圆石台阶	yuan shi tai jie
+原始云杉针叶林	yuan shi yun shan zhen ye lin
 原主机版	yuan zhu ji ban
+悦灵	yue ling
+悦灵刷怪蛋	yue ling shua guai dan
 云杉木	yun sha mu
 云杉木按钮	yun sha mu an niu
 云杉木告示牌	yun sha mu gao shi pai
@@ -2246,6 +2370,7 @@ sort: by_weight
 云杉木楼梯	yun sha mu lou ti
 云杉木台阶	yun sha mu tai jie
 云杉木压力板	yun sha mu ya li ban
+云杉木运输船	yun sha mu yun shu chuan
 云杉木板	yun shan mu ban
 云杉木船	yun shan mu chuan
 云杉木门	yun shan mu men
@@ -2256,6 +2381,7 @@ sort: by_weight
 云杉树叶	yun shan shu ye
 云杉台阶	yun shan tai jie
 云杉原木	yun shan yuan mu
+运输船	yun shu chuan
 运输矿车	yun shu kuang che
 灾厄旗帜	zai e qi zhi
 在副手时	zai fu shou shi
@@ -2272,14 +2398,17 @@ sort: by_weight
 錾制石砖怪物蛋	zan zhi shi zhuan guai wu dan
 錾制下界砖块	zan zhi xia jie zhuan kuai
 造成伤害	zao cheng shang hai
+沾泥的红树根	zhan ni de hong shu gen
 战术性钓鱼	zhan shu xing diao yu
 战猪	zhan zhu
+找到一个好朋友	zhao dao yi ge hao peng you
 招募援兵	zhao mu yuan bing
 沼泽	zhao ze
 沼泽丘陵	zhao ze qiu ling
 沼泽山丘	zhao ze shan qiu
 这不是铁镐么	zhe bu shi tie gao me
 遮光玻璃	zhe guang bo li
+赭黄蛙明灯	zhe huang wa ming deng
 这上面的风景不错	zhe shang mian de feng jing bu cuo
 这张床已被占用	zhe zhang chuang yi bei zhan yong
 这张床已被阻挡	zhe zhang chuang yi bei zu dang
@@ -2299,6 +2428,7 @@ sort: by_weight
 治疗之箭	zhi liao zhi jian
 滞留型不可合成的药水	zhi liu xing bu ke he cheng de yao shui
 滞留型迟缓药水	zhi liu xing chi huan yao shui
+滞留型粗制的药水	zhi liu xing cu zhi de yao shui
 滞留型粗制药水	zhi liu xing cu zhi yao shui
 滞留型缓降药水	zhi liu xing huan jiang yao shui
 滞留型剧毒药水	zhi liu xing ju du yao shui
@@ -2365,18 +2495,26 @@ sort: by_weight
 中紫竖条	zhong zi shu tiao
 中棕横条	zhong zong heng tiao
 中棕竖条	zhong zong shu tiao
+竹按钮	zhu an niu
+竹板	zhu ban
 猪鼻	zhu bi
+珠光蛙明灯	zhu guang wa ming deng
 竹林	zhu lin
 竹林丘陵	zhu lin qiu ling
 猪灵	zhu ling
 猪灵蛮兵	zhu ling man bing
 猪灵蛮兵刷怪蛋	zhu ling man bing shua guai dan
 猪灵刷怪蛋	zhu ling shua guai dan
+竹楼梯	zhu lou ti
+竹马赛克	zhu ma sai ke
 祝你好运	zhu ni hao yun
 主世界	zhu shi jie
 猪刷怪蛋	zhu shua guai dan
 竹笋	zhu sun
+竹台阶	zhu tai jie
 主效果	zhu xiao guo
+竹压力板	zhu ya li ban
+竹栅栏	zhu zha lan
 竹子	zhu zi
 竹子盆栽	zhu zi pen zai
 砖块	zhuan kuai
@@ -2386,6 +2524,7 @@ sort: by_weight
 装有熔岩的炼药锅	zhuang you rong yan de lian yao guo
 装有水的炼药锅	zhuang you shui de lian yao guo
 装有细雪的炼药锅	zhuang you xi xue de lian yao guo
+追溯指针	zhui su zhi zhen
 紫底	zi di
 自定义	zi ding yi
 子空间泡泡	zi kong jian pao pao
@@ -2442,6 +2581,7 @@ sort: by_weight
 紫颂果	zi song guo
 紫颂花	zi song hua
 紫颂植物	zi song zhi wu
+紫颂植株	zi song zhi zhu
 自我放逐	zi wo fang zhu
 紫斜十字	zi xie shi zi
 资源包	zi yuan bao

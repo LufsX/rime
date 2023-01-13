@@ -4,7 +4,7 @@
 
 ---
 name: touhou
-version: "2021-07-22"
+version: "2022-11-23"
 sort: by_weight
 ...
 
@@ -12,6 +12,7 @@ sort: by_weight
 爱丽丝	ai li si
 爱丽丝玛格特罗伊德	ai li si ma ge te luo yi de
 爱莲	ai lian
+爱塔妮缇拉尔瓦	ai ta ni ti la er wa
 安娜贝拉尔	an na bei la er
 奥莲姬	ao lian ji
 八坂神奈子	ba ban shen nai zi
@@ -22,6 +23,7 @@ sort: by_weight
 八云紫	ba yun zi
 稗田阿求	bai tian a qiu
 白玉楼	bai yu lou
+坂田合欢	ban tian he huan
 北白河千百合	bei bai he qian bai he
 本居小铃	ben ju xiao ling
 彼岸	bi an
@@ -43,6 +45,7 @@ sort: by_weight
 弹幕天邪鬼	dan mu tian xie gui
 地灵殿	di ling dian
 地狱	di yu
+丁礼田舞	ding li tian wu
 东方茨歌仙	dong fang ci ge xian
 东方萃梦想	dong fang cui meng xiang
 东方地灵殿	dong fang di ling dian
@@ -51,11 +54,13 @@ sort: by_weight
 东方封魔录	dong fang feng mo lu
 东方风神录	dong fang feng shen lu
 东方绀珠传	dong fang gan zhu chuan
+东方刚欲异闻	dong fang gang yu yi wen
 东方怪绮谈	dong fang guai qi tan
 东方鬼形兽	dong fang gui xing shou
 东方虹龙洞	dong fang hong long dong
 东方红魔乡	dong fang hong mo xiang
 东方花映冢	dong fang hua ying zhong
+东方花映塚	dong fang hua ying zhong
 东方幻想乡	dong fang huan xiang xiang
 东方黄粱梦	dong fang huang liang meng
 东方辉针城	dong fang hui zhen cheng
@@ -85,6 +90,7 @@ sort: by_weight
 二妹	er mei
 二小姐	er xiao jie
 二岩猯藏	er yan tuan cang
+尔子田里乃	er zi tian li nai
 法界	fa jie
 饭纲丸龙	fan gang wan long
 绯想天	fei xiang tian
@@ -97,6 +103,7 @@ sort: by_weight
 芙兰朵露	fu lan duo lu
 芙兰朵露斯卡雷特	fu lan duo lu si ka lei te
 冈崎梦美	gang qi meng mei
+高丽野阿吽	gao li ye a hong
 宫古芳香	gong gu fang xiang
 古明地觉	gu ming di jue
 古明地恋	gu ming di lian
@@ -121,6 +128,7 @@ sort: by_weight
 霍瓦特洛克	huo wa te luo ke
 火焰猫燐	huo yan mao lin
 姬虫百百世	ji chong bai bai shi
+吉吊八千慧	ji diao ba qian hui
 姬海棠羽立	ji hai tang yu li
 菅牧典	jian mu dian
 键山雏	jian shan chu
@@ -139,6 +147,7 @@ sort: by_weight
 卡娜安娜贝拉尔	ka na an na bei la er
 可能性空间移动船	ke neng xing kong jian yi dong chuan
 堀川雷鼓	ku chuan lei gu
+拉尔瓦	la er wa
 蕾迪	lei di
 蕾迪霍瓦特洛克	lei di huo wa te luo ke
 蕾拉	lei la
@@ -147,6 +156,7 @@ sort: by_weight
 蕾米莉亚斯卡雷特	lei mi li ya si ka lei te
 莉格露	li ge lu
 莉格露奈特巴格	li ge lu nai te ba ge
+骊驹早鬼	li ju zao gui
 莉莉白	li li bai
 莉莉卡	li li ka
 莉莉卡普莉兹姆利巴	li li ka pu li zi mu li ba
@@ -161,7 +171,7 @@ sort: by_weight
 留琴	liu qin
 露米娅	lu mi ya
 露娜	lu na
-露娜洽尔德	lu na qia er de
+露娜切露德	lu na qie lu de
 露娜萨	lu na sa
 露娜萨普莉兹姆利巴	lu na sa pu li zi mu li ba
 露易兹	lu yi zi
@@ -191,6 +201,7 @@ sort: by_weight
 冥界	ming jie
 命莲寺	ming lian si
 明罗	ming luo
+摩多罗隐岐奈	mo duo luo yin qi nai
 魔法森林	mo fa sen lin
 魔界	mo jie
 魔理沙的魔法书	mo li sha de mo fa shu
@@ -198,6 +209,7 @@ sort: by_weight
 纳兹琳	na zi lin
 鸟船	niao chuan
 鸟船遗迹	niao chuan yi ji
+牛崎润美	niu qi run mei
 诺蕾姬	nuo lei ji
 帕秋莉	pa qiu li
 帕秋莉诺蕾姬	pa qiu li nuo lei ji
@@ -215,6 +227,7 @@ sort: by_weight
 秋穰子	qiu rang zi
 犬走椛	quan zou hua
 人间之里	ren jian zhi li
+戎璎花	rong ying hua
 若鹭姬	ruo lu ji
 萨拉	sa la
 萨丽艾尔	sa li ai er
@@ -233,6 +246,7 @@ sort: by_weight
 圣命莲	sheng ming lian
 石长姬	shi chang ji
 十六夜咲夜	shi liu ye xiao ye
+矢田寺成美	shi tian si cheng mei
 守矢神社	shou shi shen she
 水江蒲岛子	shui jiang pu dao zi
 水桥帕露西	shui qiao pa lu xi
@@ -244,9 +258,11 @@ sort: by_weight
 苏格拉底	su ge la di
 苏我屠自古	su wo tu zi gu
 太阳花田	tai yang hua tian
+饕餮尤魔	tao tie you mo
 藤原妹红	teng yuan mei hong
 天弓千亦	tian gong qian yi
 天界	tian jie
+庭渡久侘歌	ting du jiu cha ge
 维纳的废墟	wei na de fei xu
 未知之花魅知之旅	wei zhi zhi hua mei zhi zhi lv
 物部布都	wu bu bu dou
@@ -271,7 +287,7 @@ sort: by_weight
 妖怪狸之森	yao guai li zhi sen
 妖怪之山	yao guai zhi shan
 妖精大战争	yao jing da zhan zheng
-幺乐团之历史	yao yue tuan zhi li shi
+幺乐团的历史	yao yue tuan de li shi
 伊吹萃香	yi chui cui xiang
 一命通关	yi ming tong guan
 伊奘诺物质	yi zang nuo wu zhi
