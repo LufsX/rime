@@ -8,7 +8,7 @@ patch:
   preset_color_schemes:
     ayaya:
       name: "文文／Ayaya"
-      author: "Lufs <i@isteed.cc>"
+      author: "Lufs X <i@isteed.cc>"
 
       alpha: 0.95 # 透明度
       horizontal: true # 水平排列
@@ -23,6 +23,7 @@ patch:
       label_font_point: 12 # 候选编号大小
 
       # 颜色
+      color_space: display_p3
       back_color: 0xFFFFFF # 候选条背景色，24位色值，16进制，ABGR顺序
       border_color: 0xECE4FC # 边框颜色
       candidate_text_color: 0x121212 # 预选项文字颜色
@@ -163,3 +164,69 @@ patch:
       border_height: 4            # 窗口上下高度
       border_width: 4             # 窗口左右宽度
       border_color_width: 0       # 输入条边框宽度
+
+    macos12_light:
+      name: "高仿亮色 macOS"
+      author: "Lufs X <i@isteed.cc>"
+
+      font_face: "PingFangSC-Regular"
+      font_point: 15
+      label_font_face: "PingFangSC-Regular"
+      label_font_point: 12
+      comment_font_face: "PingFangSC-Regular"
+      comment_font_point: 13
+      candidate_format: "%c\u2004%@"
+      horizontal: true
+      inline_preedit: true
+      corner_radius: 7.0
+      hilited_corner_radius: 6.0
+      base_offset: -0.2
+      border_height: 1.0
+      border_width: 2.0
+      border_color_width: 0
+      line_spacing: 1.0
+      color_space: display_p3
+      back_color: 0xFFFFFF
+      border_color: 0xFFFFFF
+      candidate_text_color: 0xD8000000
+      comment_text_color: 0x3F000000
+      label_color: 0x7F7F7F
+      hilited_candidate_back_color: 0xD05925
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_comment_text_color: 0x808080
+      hilited_candidate_label_color: 0xFFFFFF
+      text_color: 0x3F000000
+      hilited_text_color: 0xD8000000
+
+    macos12_dark:
+      name: "高仿暗色 macOS"
+      author: "Lufs X <i@isteed.cc>"
+
+      font_face: "PingFangSC-Regular"
+      font_point: 15
+      label_font_face: "PingFangSC-Regular"
+      label_font_point: 12
+      comment_font_face: "PingFangSC-Regular"
+      comment_font_point: 13
+      candidate_format: "%c\u2004%@"
+      horizontal: true
+      inline_preedit: true
+      corner_radius: 7.0
+      hilited_corner_radius: 6.0
+      base_offset: -0.2
+      border_height: 1.0
+      border_width: 2.0
+      border_color_width: 0
+      line_spacing: 1.0
+      color_space: display_p3
+      back_color: 0x1E1F24
+      border_color: 0x1E1F24
+      candidate_text_color: 0xE8E8E8
+      comment_text_color: 0x3F000000
+      label_color: 0x7C7C7C
+      hilited_candidate_back_color: 0xDA6203
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_comment_text_color: 0x808080
+      hilited_candidate_label_color: 0xFFE7D6
+      text_color: 0x3F000000
+      hilited_text_color: 0xD8000000
