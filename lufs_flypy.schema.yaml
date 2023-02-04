@@ -80,10 +80,10 @@ speller:
     # - derive/^([s])([^h])/$1h$2/ # s => sh
     # - derive/^l/n/ # l => n
     # - derive/^n/l/ # n => l
-    #- derive/^r/l/ # r => l
-    #- derive/^r/y/ # r => y
-    #- derive/^hu$/fu/ # hu => fu
-    #- derive/^fu$/hu/ # fu => hu
+    # - derive/^r/l/ # r => l
+    # - derive/^r/y/ # r => y
+    # - derive/^hu$/fu/ # hu => fu
+    # - derive/^fu$/hu/ # fu => hu
 
     # 韵母部分
     - derive/([^iu])([a])n$/$1$2ng/ # an => ang
@@ -97,10 +97,11 @@ speller:
     # 由于小鹤双拼特性，无需 uang <=> iang
 
     # 其它模糊音
-    #- derive/^hui$/fei/ # hui => fei
-    #- derive/^fei$/hui/ # fei => hui
-    #- derive/^huang$/wang/ # huang => wang
-    #- derive/^wang$/huang/ # wang => huang
+    # - derive/^hui$/fei/ # hui => fei
+    # - derive/^fei$/hui/ # fei => hui
+    # - derive/^huang$/wang/ # huang => wang
+    # - derive/^wang$/huang/ # wang => huang
+    # - derive/^([bpmfw])eng$/$1ong/ # bpmfw 后接 ong => bpmfw 后接 eng
 
     # 小鹤双拼码表
     - derive/^([jqxy])u$/$1v/

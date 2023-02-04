@@ -79,12 +79,12 @@ speller:
     # - derive/^([s])([^h])/$1h$2/ # s => sh
     # - derive/^l/n/ # l => n
     # - derive/^n/l/ # n => l
-    #- derive/^r/l/ # r => l
-    #- derive/^r/y/ # r => y
-    #- derive/^hu$/fu/ # hu => fu
-    #- derive/^fu$/hu/ # fu => hu
-    #- derive/^hui$/fei/ # hui => fei
-    #- derive/^fei$/hui/ # fei => hui
+    # - derive/^r/l/ # r => l
+    # - derive/^r/y/ # r => y
+    # - derive/^hu$/fu/ # hu => fu
+    # - derive/^fu$/hu/ # fu => hu
+    # - derive/^hui$/fei/ # hui => fei
+    # - derive/^fei$/hui/ # fei => hui
 
     # 韵母部分
     - derive/([^iu])([a])n$/$1$2ng/ # an => ang
@@ -99,17 +99,21 @@ speller:
     # - derive/([u])ang$/$1an/ # uang => uan
 
     # 其它模糊音
-    #- derive/^hui$/fei/ # hui => fei
-    #- derive/^fei$/hui/ # fei => hui
-    #- derive/^huang$/wang/ # huang => wang
-    #- derive/^wang$/huang/ # wang => huang
+    # - derive/^hui$/fei/ # hui => fei
+    # - derive/^fei$/hui/ # fei => hui
+    # - derive/^huang$/wang/ # huang => wang
+    # - derive/^wang$/huang/ # wang => huang
+    # - derive/^([bpmfw])eng$/$1ong/ # bpmfw 后接 ong => bpmfw 后接 eng
 
     # 容错拼写，以前者为正
     - derive/^([nl])ve$/$1ue/ # nve = nue, lve = lue
     - derive/^([jqxy])u/$1v/ # ju = jv
-    - derive/un$/uen/ # gun = guen
-    - derive/ui$/uei/ # gui = guei
-    - derive/iu$/iou/ # jiu = jiou
+    # - derive/un$/uen/ # gun = guen
+    # - derive/ui$/uei/ # gui = guei
+    # - derive/iu$/iou/ # jiu = jiou
+
+    # 简拼支持
+    - abbrev/^(.).+$/$1/
 
     # 按键纠错
     - derive/([aeiou])ng$/$1gn/ # dagn => dang 
@@ -117,9 +121,7 @@ speller:
     - derive/ong$/on/ # zhonguo => zhong guo
     - derive/ao$/oa/ # hoa => hao
     - derive/([iu])a(o|ng?)$/a$1$2/ # tain => tian
-
-    # 简拼支持
-    - abbrev/^(.).+$/$1/
+    - derive/([csz])h/h$1/ # hc、hs、hz => ch、sh、zh
 
 translator:
   dictionary: extended
