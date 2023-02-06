@@ -70,38 +70,39 @@ speller:
 
     # 模糊音区域
     # 依据个人情况修改注释～
+    # 注释格式：键盘的输入码 -> 转化后的输入码
 
     # 声母部分
-    # - derive/^([z])h/$1/ # zh => z
-    # - derive/^([z])([^h])/$1h$2/ # z => zh
-    # - derive/^([c])h/$1/ # ch => c
-    # - derive/^([c])([^h])/$1h$2/ # c => ch
-    # - derive/^([s])h/$1/ # sh => s
-    # - derive/^([s])([^h])/$1h$2/ # s => sh
-    # - derive/^l/n/ # l => n
-    # - derive/^n/l/ # n => l
-    # - derive/^r/l/ # r => l
-    # - derive/^r/y/ # r => y
-    # - derive/^hu$/fu/ # hu => fu
-    # - derive/^fu$/hu/ # fu => hu
+    # - derive/^([z])h/$1/ # z -> zh
+    # - derive/^([z])([^h])/$1h$2/ # zh -> z
+    # - derive/^([c])h/$1/ # c -> ch
+    # - derive/^([c])([^h])/$1h$2/ # ch -> c
+    # - derive/^([s])h/$1/ # s -> sh
+    # - derive/^([s])([^h])/$1h$2/ # sh -> s
+    # - derive/^l/n/ # n -> l
+    # - derive/^n/l/ # l -> n
+    # - derive/^r/l/ # l -> r
+    # - derive/^r/y/ # y -> r
+    # - derive/^hu$/fu/ # fu -> hu
+    # - derive/^fu$/hu/ # hu -> fu
 
     # 韵母部分
-    - derive/([^iu])([a])n$/$1$2ng/ # an => ang
-    - derive/([^iu])([a])ng$/$1$2n/ # ang => an
-    - derive/([e])n$/$1ng/ # en => eng
-    - derive/([e])ng$/$1n/ # eng => en
-    # - derive/([i])n$/$1ng/ # in => ing
-    # - derive/([i])ng$/$1n/ # ing => in
-    # - derive/([i])an$/$1ang/ # ian => iang
-    # - derive/([i])ang$/$1an/ # iang => ian
-    # 由于小鹤双拼特性，无需 uang <=> iang
+    - derive/([^iu])([a])n$/$1$2ng/ # ang -> an
+    - derive/([^iu])([a])ng$/$1$2n/ # an -> ang
+    - derive/([e])n$/$1ng/ # eng -> en
+    - derive/([e])ng$/$1n/ # en -> eng
+    # - derive/([i])n$/$1ng/ # ing -> in
+    # - derive/([i])ng$/$1n/ # in -> ing
+    # - derive/([i])an$/$1ang/ # iang -> ian
+    # - derive/([i])ang$/$1an/ # ian -> iang
+    # 由于小鹤双拼特性，无需 uang <-> iang
 
     # 其它模糊音
-    # - derive/^hui$/fei/ # hui => fei
-    # - derive/^fei$/hui/ # fei => hui
-    # - derive/^huang$/wang/ # huang => wang
-    # - derive/^wang$/huang/ # wang => huang
-    # - derive/^([bpmfw])eng$/$1ong/ # bpmfw 后接 ong => bpmfw 后接 eng
+    # - derive/^hui$/fei/ # fei -> hui
+    # - derive/^fei$/hui/ # hui -> fei
+    # - derive/^huang$/wang/ # wang -> huang
+    # - derive/^wang$/huang/ # huang -> wang
+    # - derive/^([bpmfw])eng$/$1ong/ # bpmfw 后接 ong -> bpmfw 后接 eng
 
     # 小鹤双拼码表
     - derive/^([jqxy])u$/$1v/
