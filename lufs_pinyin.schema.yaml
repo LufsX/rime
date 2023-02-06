@@ -120,7 +120,7 @@ speller:
     - derive/ong$/on/ # zhonguo -> zhong guo
     - derive/ao$/oa/ # hoa -> hao
     - derive/([iu])a(o|ng?)$/a$1$2/ # tain -> tian
-    - derive/([csz])h/h$1/ # hc、hs、hz -> ch、sh、zh
+    - derive/^([csz])h/h$1/ # hc、hs、hz -> ch、sh、zh
 
 translator:
   dictionary: extended
