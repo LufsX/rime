@@ -23,8 +23,8 @@ Rime	rime	3
 Android	android
 Apple	apple
 Apple ID	appleid
-Cloudflare cloudflare
-Cloudflare Workers cloudflareworkers
+Cloudflare	cloudflare
+Cloudflare Workers	cloudflareworkers
 CSS	css
 Dropbox	dropbox
 GBK	gbk
@@ -45,7 +45,7 @@ IPTV	iptv
 IPv4	ipv
 IPv6	ipv
 iTunes	itunes
-JavaScript js
+JavaScript	js
 jQuery	jquery
 Linux	linux
 Mac	mac
@@ -72,7 +72,7 @@ Ruby	ruby
 Rust	rust
 SQL	sql
 Swift	swift
-TypeScript ts
+TypeScript	typescript
 T 恤	txu
 UTF-8	utfba
 U盘	upj
@@ -81,8 +81,9 @@ Wi-Fi	wifi
 Windows	win
 Windows	windows
 X-Ray	xray
-Xbox One	xbox
+Xbox	xbox
+Xbox One	xboxone
 Youku	youku
 YouTube	youtube
 又双叒叕	yyy
-又双叒叕	yzyz
+又双叒叕	yzyzyz
