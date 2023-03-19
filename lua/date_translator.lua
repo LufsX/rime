@@ -11,9 +11,14 @@ local function date_translator(input, seg)
         yield(Candidate("time", seg.start, seg._end, os.date("%H时%M分%S秒"), ""))
         yield(Candidate("time", seg.start, seg._end, os.date("%H%M%S"), ""))
     end
+    if (input == "timestamp") then
+        --- Candidate(type, start, end, text, comment)
+        yield(Candidate("time", seg.start, seg._end, os.time(), ""))
+    end
     if (input == "datetime") then
         --- Candidate(type, start, end, text, comment)
         yield(Candidate("datetime", seg.start, seg._end, os.date("%Y-%m-%d %H:%M:%S"), ""))
+        yield(Candidate("datetime", seg.start, seg._end, os.date("%Y-%m-%dT%H:%M:%S+08:00"), ""))
         yield(Candidate("datetime", seg.start, seg._end, os.date("%Y%m%d%H%M"), ""))
     end
 
