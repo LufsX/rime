@@ -65,8 +65,8 @@
 
 - [BlindingDark/rime-lua-select-character](https://github.com/BlindingDark/rime-lua-select-character)
 - [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian/)
+- [iDvel/rime-ice](https://github.com/iDvel/rime-ice)
 - [lotem/luna_pinyin.custom.yaml](https://gist.github.com/lotem/2320943)
-- [maomiui/rime](https://github.com/maomiui/rime)
 - [placeless/squirrel_config](https://github.com/placeless/squirrel_config)
 - [rime/rime-prelude](https://github.com/rime/rime-prelude)
 - [rime/squirrel](https://github.com/rime/squirrel)
