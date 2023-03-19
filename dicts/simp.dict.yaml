@@ -30,7 +30,7 @@
 # 降低一些几乎只在一个固定词汇中使用的读音的权重，不让其参与注音，在 base 中手动注音。
 ---
 name: 8105
-version: "2023-01-03"
+version: "2023-03-19"
 sort: by_weight
 vocabulary: essay-zh-hans
 ...
@@ -6922,9 +6922,9 @@ vocabulary: essay-zh-hans
 偰	xie	0
 𤫉	xie	0
 𬹼	xie	0
-心	xin	6555833
+新	xin	2232035
+心	xin	1555833
 信	xin	1529741
-新	xin	1232035
 欣	xin	253814
 辛	xin	168855
 馨	xin	67101
@@ -8026,6 +8026,7 @@ vocabulary: essay-zh-hans
 占	zhan	246282
 斩	zhan	102461
 沾	zhan	65300
+蘸	zhan	45760
 绽	zhan	44371
 粘	zhan	36321
 栈	zhan	34054
@@ -8036,7 +8037,6 @@ vocabulary: essay-zh-hans
 瞻	zhan	12261
 辗	zhan	11050
 毡	zhan	7222
-蘸	zhan	4576
 旃	zhan	1581
 谵	zhan	273
 搌	zhan	91
@@ -8373,7 +8373,7 @@ vocabulary: essay-zh-hans
 瘃	zhu	8
 术	zhu	1
 𬣞	zhu	0
-抓	zhua	428755
+抓	zhua	82875
 爪	zhua	74674
 髽	zhua	9
 拽	zhuai	45251

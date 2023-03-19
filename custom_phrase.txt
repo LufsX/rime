@@ -30,7 +30,6 @@ Dropbox	dropbox
 GBK	gbk
 GitHub	github
 Google	google
-Google Analytics	ga
 GUN/Linux linux
 HTML	html
 iCloud	icloud
@@ -66,6 +65,7 @@ Objective-C	ojbc
 OneDrive	onedrive
 OS X	osx
 Pixel	pixel
+Python	python
 QQ 邮箱	qqyzxl
 Quantumult	quan
 Ruby	ruby
