@@ -44,7 +44,8 @@ IPTV	iptv
 IPv4	ipv
 IPv6	ipv
 iTunes	itunes
-JavaScript	js
+Java	java
+JavaScript	javascript
 jQuery	jquery
 Linux	linux
 Mac	mac
@@ -67,7 +68,7 @@ OS X	osx
 Pixel	pixel
 Python	python
 QQ 邮箱	qqyzxl
-Quantumult	quan
+Quantumult	quantumult
 Ruby	ruby
 Rust	rust
 SQL	sql
@@ -83,7 +84,6 @@ Windows	windows
 X-Ray	xray
 Xbox	xbox
 Xbox One	xboxone
-Youku	youku
 YouTube	youtube
 又双叒叕	yyy
 又双叒叕	yzyzyz
