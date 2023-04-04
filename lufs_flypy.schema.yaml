@@ -21,8 +21,11 @@ switches:
     states: [半角, 全角]
   - name: ascii_punct
     states: [。，, ．，]
+  - name: traditionalization
+    # reset: 0 # 默认状态: 0 简体 1 繁体
+    states: [ 简, 繁 ]
   - name: emoji_suggestion
-    # reset: 1
+    # reset: 1 # 默认状态: 0 关闭 1 开启
     states: ["🈚️️", "🈶️"]
 
 engine:
@@ -48,10 +51,17 @@ engine:
     - table_translator@custom_phrase # 用户自定义词典
     - script_translator
   filters:
-    - simplifier@emoji_suggestion
+    # - simplifier@emoji_suggestion
+    - simplifier@traditionalize # 简繁转化
+    - uniquifier # 去重
     # - lua_filter@long_phrase_first # 最长词组和单字在先
     # - lua_filter@single_char_first # 单字优先
     # - lua_filter@single_char_only # 只显示单字
+
+traditionalize:
+  option_name: traditionalization
+  opencc_config: s2t.json # s2t.json | s2hk.json | s2tw.json | s2twp.json
+  tips: none # 转换提示: all 显示 | char 仅单字显示 | none 不显示。
 
 emoji_suggestion:
   opencc_config: emoji.json
