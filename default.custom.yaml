@@ -54,5 +54,7 @@ patch:
     # - { accept: "Control+p", send: Up, when: composing}
     # - { accept: "Control+period", toggle: ascii_punct, when: always}
     # - { accept: "Shift+space", toggle: full_shape, when: always } # Shift + 空格 切换全角/半角
-    # - { accept: comma, send: Page_Up, when: paging} # 逗号向上翻页
-    # - { accept: period, send: Page_Down, when: has_menu}
+
+    # 需要注释掉部分冲突的正则匹配才可用，详情见: https://github.com/LufsX/rime/issues/15#issuecomment-1496011933
+    # - { accept: comma, send: Page_Up, when: composing } # 逗号向上翻页
+    # - { accept: period, send: Page_Down, when: composing } # 句号向下翻页
