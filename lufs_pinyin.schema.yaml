@@ -50,7 +50,7 @@ engine:
     - table_translator@custom_phrase # 用户自定义词典
     - script_translator
   filters:
-    # - simplifier@emoji_suggestion
+    - simplifier@emoji_suggestion
     - simplifier@traditionalize # 简繁转化
     - uniquifier # 去重
     # - lua_filter@long_phrase_first # 最长词组和单字在先
