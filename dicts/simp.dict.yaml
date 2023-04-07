@@ -30,9 +30,8 @@
 # 降低一些几乎只在一个固定词汇中使用的读音的权重，不让其参与注音，在 base 中手动注音。
 ---
 name: 8105
-version: "2023-03-29"
+version: "2023-04-06"
 sort: by_weight
-vocabulary: essay-zh-hans
 ...
 ### 按需启用
 # 「这、那」的口语读音
@@ -59,6 +58,7 @@ vocabulary: essay-zh-hans
 # 觍	tian
 # 𪨊	song
 # 磺	huang
+# 嬢	niang
 
 
 ### 小时候没学过的拼音。。。
@@ -107,9 +107,9 @@ vocabulary: essay-zh-hans
 砹	ai	53
 锿	ai	39
 嗌	ai	1
-安	an	1580103
+按	an	3826950
+安	an	980103
 暗	an	891081
-按	an	382695
 案	an	361285
 岸	an	129872
 俺	an	64855
@@ -1156,10 +1156,10 @@ vocabulary: essay-zh-hans
 蛋	dan	255478
 胆	dan	204655
 旦	dan	154394
-石	dan	53135
 诞	dan	44248
 耽	dan	39196
 惮	dan	16732
+石	dan	14278
 眈	dan	12773
 澹	dan	6736
 掸	dan	4870
@@ -1597,10 +1597,10 @@ vocabulary: essay-zh-hans
 墦	fan	13
 𫔍	fan	0
 𬸪	fan	0
-方	fang	3471764
 放	fang	1730745
 房	fang	980289
 防	fang	406226
+方	fang	347176
 仿	fang	313234
 芳	fang	175343
 访	fang	133498
@@ -3298,8 +3298,8 @@ vocabulary: essay-zh-hans
 闶	kang	116
 𡐓	kang	0
 𩾌	kang	0
-考	kao	599063
 靠	kao	486494
+考	kao	59906
 烤	kao	51737
 铐	kao	10235
 拷	kao	8224
@@ -3759,8 +3759,8 @@ vocabulary: essay-zh-hans
 俩	liang	1
 𫟅	liang	0
 𬜯	liang	0
-料	liao	463518
 聊	liao	265573
+料	liao	263518
 了	liao	218874
 疗	liao	94630
 辽	liao	47836
@@ -3837,8 +3837,8 @@ vocabulary: essay-zh-hans
 箖	lin	0
 𬭸	lin	0
 𬴊	lin	0
-灵	ling	978814
-令	ling	842791
+令	ling	942791
+灵	ling	878814
 领	ling	808920
 另	ling	608814
 凌	ling	335556
@@ -4523,6 +4523,7 @@ vocabulary: essay-zh-hans
 粘	nian	1
 娘	niang	603856
 酿	niang	22424
+嬢	niang	1
 鸟	niao	178842
 尿	niao	42861
 袅	niao	16381
@@ -5370,8 +5371,8 @@ vocabulary: essay-zh-hans
 蝾	rong	225
 狨	rong	158
 瑢	rong	116
-柔	rou	384782
 肉	rou	377486
+柔	rou	84782
 揉	rou	67835
 蹂	rou	7440
 糅	rou	1397
@@ -6129,8 +6130,8 @@ vocabulary: essay-zh-hans
 铽	te	53
 忒	te	1
 忒	tei	9833
-腾	teng	219541
 疼	teng	213129
+腾	teng	95410
 藤	teng	61231
 滕	teng	9254
 誊	teng	1318
@@ -6138,9 +6139,9 @@ vocabulary: essay-zh-hans
 縢	teng	19
 熥	teng	9
 䲢	teng	0
-体	ti	1799811
 提	ti	1026285
 题	ti	976178
+体	ti	799811
 替	ti	218469
 踢	ti	115921
 梯	ti	107297
