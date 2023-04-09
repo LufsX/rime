@@ -22,8 +22,11 @@ import_tables:
   - dicts/thuocl_medical # 医学
   - dicts/thuocl_renmingdiming # 人名地名
 
-  # 一点点小小的私货，不需要的可以自行关闭呢
+  # 一点点小小的私货，不需要的可以自行关闭~
   - dicts/sogou_genshin # 原神
   - dicts/sogou_minecraft # Minecraft 词条
   - dicts/sogou_touhou # 东方 Project
+
+  # emoji 中的词库
+  - dicts/emoji
 ...
