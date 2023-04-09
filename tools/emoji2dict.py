@@ -2,7 +2,6 @@ import os, sys, re, datetime
 from pypinyin import pinyin, Style
 
 workDir = os.path.abspath(os.path.dirname(sys.path[0])) + '/'
-print(workDir)
 pattern = re.compile(r'^[\u4e00-\u9fa5]+$')
 
 # now = datetime.datetime.now().strftime("%Y-%m-%d")

@@ -82,6 +82,9 @@ speller:
     # 依据个人情况修改注释～
     # 注释格式：键盘的输入码 -> 转化后的输入码
 
+    # 简拼支持
+    - abbrev/^(.).+$/$1/
+
     # 声母部分
     # - derive/^([z])h/$1/ # z -> zh
     # - derive/^([z])([^h])/$1h$2/ # zh -> z
@@ -144,9 +147,6 @@ speller:
     - xform/ui$/V/
     - xform/in$/B/
     - xlit/QWRTYUIOPSDFGHJKLZXCVBNM/qwrtyuiopsdfghjklzxcvbnm/
-
-    # 简拼支持
-    - abbrev/^(.).+$/$1/
 
 translator:
   dictionary: extended

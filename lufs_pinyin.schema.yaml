@@ -77,6 +77,9 @@ speller:
     - erase/^n$/
     - erase/^ng$/
 
+    # 简拼支持
+    - abbrev/^(.).+$/$1/
+
     # 模糊音区域
     # 依据个人情况修改注释～
     # 注释格式：键盘的输入码 -> 转化后的输入码
@@ -120,9 +123,6 @@ speller:
     # - derive/un$/uen/ # guen -> gun
     # - derive/ui$/uei/ # guei -> gui
     # - derive/iu$/iou/ # jiou -> jiu
-
-    # 简拼支持
-    - abbrev/^(.).+$/$1/
 
     # 按键纠错
     - derive/([aeiou])ng$/$1gn/ # dagn -> dang 
