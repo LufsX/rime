@@ -1,7 +1,7 @@
 import os, sys, re, datetime
 from pypinyin import pinyin, Style
 
-workDir = os.path.abspath(os.path.dirname(sys.path[0])) + '/'
+workDir = os.path.abspath(os.path.dirname(sys.path[0]))
 pattern = re.compile(r'^[\u4e00-\u9fa5]+$')
 
 # now = datetime.datetime.now().strftime("%Y-%m-%d")
@@ -18,13 +18,17 @@ sort: by_weight
 
 """
 
-with open(workDir + "opencc/emoji_word.txt", "r", encoding="utf-8") as f:
+with open(
+    os.path.join(workDir, "opencc", "emoji_word.txt"), "r", encoding="utf-8"
+) as f:
     text = f.read()
 
 lines = text.split("\n")
 
 
-with open(workDir + "dicts/emoji.dict.yaml", "w", encoding="utf-8") as outFile:
+with open(
+    os.path.join(workDir, "dicts", "emoji.dict.yaml"), "w", encoding="utf-8"
+) as outFile:
     outFile.write(infoStr)
     for line in lines:
         if line:
