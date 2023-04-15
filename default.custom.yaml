@@ -6,8 +6,11 @@ patch:
   switcher/hotkeys:
     - F2
   switcher/save_options:
+    - ascii_mode
     - full_shape
     - ascii_punct
+    - traditionalization
+    - emoji_suggestion
   menu/page_size: 4 # 候选项数
   ascii_composer/good_old_caps_lock: false
   ascii_composer/switch_key:
