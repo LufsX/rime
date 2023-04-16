@@ -2,7 +2,8 @@ patch:
   show_notifications_via_notification_center: true
   app_options: {} # 清除应用默认输入法，防止无法输入中文（通过 Caps 切换中英文）
   style:
-    color_scheme: ayaya
+    color_scheme: ayaya # 输入法主题
+    # color_scheme_dark: macos12_dark # 指定深色模式时输入法所使用的主题
     translucency: true # 背景半透明总开关，不需要关掉即可
 
   preset_color_schemes:
