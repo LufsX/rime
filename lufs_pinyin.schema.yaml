@@ -69,7 +69,7 @@ emoji_suggestion:
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba/
-  delimiter: " '"
+  delimiter: "'"
   algebra:
     - erase/^xx$/
     - erase/^hm$/
