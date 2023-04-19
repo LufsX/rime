@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-04-09"
+version: "2023-04-19"
 sort: by_weight
 ...
 
@@ -148,6 +148,7 @@ sort: by_weight
 可能	ke neng
 敬礼	jing li
 致敬	zhi jing
+瑞思拜	rui si bai
 闭嘴	bi zui
 秘密	mi mi
 保密	bao mi
@@ -185,6 +186,7 @@ sort: by_weight
 呼气	hu qi
 叹气	tan qi
 唉	ai
+无奈	wu nai
 长鼻子	zhang bi zi
 匹诺曹	pi nuo cao
 说谎	shuo huang
@@ -232,6 +234,7 @@ sort: by_weight
 缠满绷带	chan man beng dai
 恶心	e xin
 想吐	xiang tu
+反胃	fan wei
 吐	tu
 吐了	tu le
 呕吐	ou tu
@@ -260,13 +263,18 @@ sort: by_weight
 满面寒霜	man mian han shuang
 微醺	wei xun
 醉了	zui le
-头晕	tou yun
-头晕眼花	tou yun yan hua
-头晕目眩	tou yun mu xuan
-晕头	yun tou
-晕头转向	yun tou zhuan xiang
+喝醉	he zui
+喝醉了	he zui le
+喝多	he duo
+喝多了	he duo le
 晕	yun
 晕了	yun le
+我晕	wo yun
+头晕	tou yun
+晕头	yun tou
+头晕目眩	tou yun mu xuan
+晕头转向	yun tou zhuan xiang
+头晕眼花	tou yun yan hua
 爆炸头	bao zha tou
 爆炸脑	bao zha nao
 头爆炸	tou bao zha
@@ -277,7 +285,12 @@ sort: by_weight
 牛仔	niu zai
 牛仔帽	niu zai mao
 牛仔帽脸	niu zai mao lian
+派对	pai dui
 派对脸	pai dui lian
+庆祝	qing zhu
+开趴	kai pa
+开淫趴	kai yin pa
+开银趴	kai yin pa
 伪装	wei zhuang
 伪装的脸	wei zhuang de lian
 隐瞒身份	yin man shen fen
@@ -454,6 +467,7 @@ sort: by_weight
 蒙眼	meng yan
 蒙眼睛	meng yan jing
 蒙住眼睛	meng zhu yan jing
+我不看	wo bu kan
 非礼勿听	fei li wu ting
 不听	bu ting
 堵耳	du er
@@ -468,6 +482,7 @@ sort: by_weight
 捂着耳朵	wu zhe er duo
 我不听	wo bu ting
 非礼勿言	fei li wu yan
+捂嘴巴	wu zui ba
 捂上嘴巴	wu shang zui ba
 捂住嘴巴	wu zhu zui ba
 捂着嘴巴	wu zhe zui ba
@@ -500,6 +515,9 @@ sort: by_weight
 火上之心	huo shang zhi xin
 心火	xin huo
 燃烧的心	ran shao de xin
+心在燃烧	xin zai ran shao
+心在着火	xin zai zhao huo
+爱火	ai huo
 修复受伤的心灵	xiu fu shou shang de xin ling
 治愈的心	zhi yu de xin
 受伤的心	shou shang de xin
@@ -606,6 +624,7 @@ sort: by_weight
 抬起	tai qi
 左推	zuo tui
 向左推	xiang zuo tui
+推手	tui shou
 向左推手	xiang zuo tui shou
 向左推的手	xiang zuo tui de shou
 右推	you tui
@@ -634,6 +653,8 @@ sort: by_weight
 剪刀手	jian dao shou
 赢啦	ying la
 赢咯	ying ge
+两个	liang ge
+第二	di er
 手指交叉	shou zhi jiao cha
 交叉的手指	jiao cha de shou zhi
 食指和拇指交叉的手	shi zhi he mu zhi jiao cha de shou
@@ -657,28 +678,34 @@ sort: by_weight
 向左指	xiang zuo zhi
 向左	xiang zuo
 往左	wang zuo
+往左指	wang zuo zhi
 左面	zuo mian
 左边	zuo bian
 反手食指向右指	fan shou shi zhi xiang you zhi
 向右指	xiang you zhi
 向右	xiang you
 往右	wang you
+往右指	wang you zhi
 右面	you mian
 右边	you bian
 反手食指向上指	fan shou shi zhi xiang shang zhi
 向上指	xiang shang zhi
 向上	xiang shang
 往上	wang shang
+往上指	wang shang zhi
 上面	shang mian
 上边	shang bian
-中指	zhong zhi
-竖中指	shu zhong zhi
 反手食指向下指	fan shou shi zhi xiang xia zhi
 向下指	xiang xia zhi
 向下	xiang xia
 往下	wang xia
+往下指	wang xia zhi
 下面	xia mian
 下边	xia bian
+中指	zhong zhi
+竖中指	shu zhong zhi
+比中指	bi zhong zhi
+举中指	ju zhong zhi
 食指	shi zhi
 一个	yi ge
 第一	di yi
@@ -697,6 +724,7 @@ sort: by_weight
 拇指朝上	mu zhi chao shang
 强	qiang
 棒	bang
+棒啊	bang a
 真棒	zhen bang
 好棒	hao bang
 很棒	hen bang
@@ -734,6 +762,9 @@ sort: by_weight
 出拳	chu quan
 打击	da ji
 重拳出击	zhong quan chu ji
+打你	da ni
+揍你	zou ni
+干你	gan ni
 左向拳	zuo xiang quan
 朝左的拳头	chao zuo de quan tou
 右钩拳	you gou quan
@@ -786,6 +817,7 @@ sort: by_weight
 义体	yi ti
 赛博朋克	sai bo peng ke
 机械手臂	ji xie shou bi
+机械臂	ji xie bi
 机械腿	ji xie tui
 腿	tui
 腿儿	tui er
@@ -850,8 +882,10 @@ sort: by_weight
 儿童	er tong
 小孩	xiao hai
 小孩儿	xiao hai er
+孩子	hai zi
 小孩子	xiao hai zi
 小朋友	xiao peng you
+小盆友	xiao pen you
 男孩	nan hai
 小男孩	xiao nan hai
 儿子	er zi
@@ -962,6 +996,11 @@ sort: by_weight
 捂脸	wu lian
 手掌捂脸	shou zhang wu lian
 扶额	fu e
+服了	fu le
+我服了	wo fu le
+服了你了	fu le ni le
+我服了你	wo fu le ni
+我服了你了	wo fu le ni le
 耸肩	song jian
 不关心	bu guan xin
 不知道	bu zhi dao
@@ -1360,6 +1399,7 @@ sort: by_weight
 好基友	hao ji you
 好兄弟	hao xiong di
 恋爱	lian ai
+谈恋爱	tan lian ai
 相爱	xiang ai
 男同	nan tong
 男同性恋	nan tong xing lian
@@ -1368,6 +1408,7 @@ sort: by_weight
 女同	nv tong
 女同性恋	nv tong xing lian
 拉拉	la la
+一家人	yi jia ren
 一家三口	yi jia san kou
 三口之家	san kou zhi jia
 一家四口	yi jia si kou
@@ -1387,6 +1428,7 @@ sort: by_weight
 双人像	shuang ren xiang
 双人	shuang ren
 拥抱的人	yong bao de ren
+抱在一起	bao zai yi qi
 脚印	jiao yin
 足迹	zu ji
 肤色	fu se
@@ -1435,6 +1477,10 @@ sort: by_weight
 猫脸	mao lian
 猫头	mao tou
 小猫	xiao mao
+喵	miao
+喵喵	miao miao
+喵喵喵	miao miao miao
+喵喵叫	miao miao jiao
 橘猫	ju mao
 黑猫	hei mao
 狮	shi
@@ -1808,9 +1854,15 @@ sort: by_weight
 绿菜花	lv cai hua
 青花菜	qing hua cai
 绿花椰菜	lv hua ye cai
+蒜	suan
 大蒜	da suan
+蒜香	suan xiang
 洋葱	yang cong
+葱头	cong tou
+洋蒜	yang suan
+皮芽子	pi ya zi
 花生	hua sheng
+落花生	luo hua sheng
 豆子	dou zi
 栗子	li zi
 姜	jiang
@@ -1891,6 +1943,8 @@ sort: by_weight
 起司火锅	qi si huo guo
 碗勺	wan shao
 放着勺的碗	fang zhe shao de wan
+碗	wan
+汤	tang
 沙拉	sha la
 绿色沙拉	lv se sha la
 蔬菜沙拉	shu cai sha la
@@ -1908,6 +1962,8 @@ sort: by_weight
 便当盒	bian dang he
 盒饭	he fan
 外卖	wai mai
+快餐	kuai can
+快餐盒	kuai can he
 米饼	mi bing
 米果	mi guo
 饭团	fan tuan
@@ -1936,6 +1992,7 @@ sort: by_weight
 甘薯	gan shu
 烤甘薯	kao gan shu
 关东煮	guan dong zhu
+串串	chuan chuan
 寿司	shou si
 炸虾	zha xia
 天妇罗	tian fu luo
@@ -2174,6 +2231,7 @@ sort: by_weight
 自由女神	zi you nv shen
 圣堂	sheng tang
 清真寺	qing zhen si
+清真	qing zhen
 印度庙	yin du miao
 印度寺庙	yin du si miao
 佛寺	fo si
@@ -2495,6 +2553,7 @@ sort: by_weight
 高压电	gao ya dian
 雪花	xue hua
 雪人	xue ren
+堆雪人	dui xue ren
 彗星	hui xing
 哈雷	ha lei
 哈雷彗星	ha lei hui xing
@@ -2504,8 +2563,11 @@ sort: by_weight
 点燃	dian ran
 着火	zhao huo
 着火了	zhao huo le
+火了	huo le
 波浪	bo lang
 浪花	lang hua
+浪	lang
+大浪	da lang
 万圣节	wan sheng jie
 南瓜灯	nan gua deng
 南瓜头	nan gua tou
@@ -2521,7 +2583,6 @@ sort: by_weight
 闪耀	shan yao
 气球	qi qiu
 庆典	qing dian
-庆祝	qing zhu
 恭喜	gong xi
 祝贺	zhu he
 礼宾花	li bin hua
@@ -3609,6 +3670,9 @@ sort: by_weight
 错	cuo
 错号	cuo hao
 错误	cuo wu
+叉	cha
+叉叉	cha cha
+画叉	hua cha
 卷曲环	juan qu huan
 双卷曲环	shuang juan qu huan
 歌记号	ge ji hao
@@ -3723,13 +3787,19 @@ sort: by_weight
 紫色	zi se
 棕色	zong se
 圆形	yuan xing
-黑色	hei se
 围棋	wei qi
+黑色	hei se
 黑子	hei zi
 黑棋	hei qi
+黑点	hei dian
+小黑点	xiao hei dian
+小黑点儿	xiao hei dian er
 白色	bai se
 白子	bai zi
 白棋	bai qi
+白点	bai dian
+小白点	xiao bai dian
+小白点儿	xiao bai dian er
 元宵	yuan xiao
 汤圆	tang yuan
 雪球	xue qiu
@@ -3737,6 +3807,10 @@ sort: by_weight
 方块	fang kuai
 方形	fang xing
 矩形	ju xing
+黑框	hei kuang
+小黑框	xiao hei kuang
+白框	bai kuang
+小白框	xiao bai kuang
 中方块	zhong fang kuai
 中正方形	zhong zheng fang xing
 白色中方块	bai se zhong fang kuai
@@ -3823,44 +3897,70 @@ sort: by_weight
 阿森松岛	a sen song dao
 阿森松	a sen song
 安道尔	an dao er
+安道尔公国	an dao er gong guo
 阿拉伯联合酋长国	a la bo lian he qiu zhang guo
 阿拉伯	a la bo
 阿富汗	a fu han
 安提瓜和巴布达	an ti gua he ba bu da
+安巴	an ba
 安圭拉	an gui la
 阿尔巴尼亚	a er ba ni ya
+阿尔巴尼亚共和国	a er ba ni ya gong he guo
 亚美尼亚	ya mei ni ya
+亚美尼亚共和国	ya mei ni ya gong he guo
 安哥拉	an ge la
+安哥拉共和国	an ge la gong he guo
 南极洲	nan ji zhou
 阿根廷	a gen ting
+阿根廷共和国	a gen ting gong he guo
 美属萨摩亚	mei shu sa mo ya
+东萨摩亚	dong sa mo ya
 奥地利	ao di li
+奥地利共和国	ao di li gong he guo
 澳大利亚	ao da li ya
 澳大利亚联邦	ao da li ya lian bang
 阿鲁巴	a lu ba
+奥兰	ao lan
 奥兰群岛	ao lan qun dao
+阿赫韦南马	a he wei nan ma
 阿塞拜疆	a sai bai jiang
+阿塞拜疆共和国	a sai bai jiang gong he guo
 波斯尼亚和黑塞哥维那	bo si ni ya he hei sai ge wei na
+波黑	bo hei
 巴巴多斯	ba ba duo si
 孟加拉国	meng jia la guo
 孟加拉	meng jia la
 比利时	bi li shi
+比利时王国	bi li shi wang guo
 布基纳法索	bu ji na fa suo
 保加利亚	bao jia li ya
+保加利亚共和国	bao jia li ya gong he guo
 巴林	ba lin
+巴林王国	ba lin wang guo
 布隆迪	bu long di
+布隆迪共和国	bu long di gong he guo
 贝宁	bei ning
+贝宁共和国	bei ning gong he guo
 圣巴泰勒米	sheng ba tai lei mi
 百慕大	bai mu da
 文莱	wen lai
+文莱达鲁萨兰国	wen lai da lu sa lan guo
 玻利维亚	bo li wei ya
+玻利维亚国	bo li wei ya guo
+多民族玻利维亚国	duo min zu bo li wei ya guo
 荷属加勒比区	he shu jia lei bi qu
 巴西	ba xi
+巴西联邦	ba xi lian bang
+巴西联邦共和国	ba xi lian bang gong he guo
 巴哈马	ba ha ma
+巴哈马国	ba ha ma guo
 不丹	bu dan
+不丹王国	bu dan wang guo
 布韦岛	bu wei dao
 博茨瓦纳	bo ci wa na
+博茨瓦纳共和国	bo ci wa na gong he guo
 白俄罗斯	bai e luo si
+白俄	bai e
 伯利兹	bo li zi
 加拿大	jia na da
 科科斯	ke ke si
@@ -3870,26 +3970,31 @@ sort: by_weight
 中非	zhong fei
 刚果布	gang guo bu
 瑞士	rui shi
+瑞士联邦	rui shi lian bang
 科特迪瓦	ke te di wa
+科特迪瓦共和国	ke te di wa gong he guo
 库克群岛	ku ke qun dao
 智利	zhi li
+智利共和国	zhi li gong he guo
 喀麦隆	ka mai long
+喀麦隆共和国	ka mai long gong he guo
 中国	zhong guo
 中华人民共和国	zhong hua ren min gong he guo
-天朝	tian chao
-拆那	chai na
-中华	zhong hua
-华夏	hua xia
 五星红旗	wu xing hong qi
 红旗	hong qi
 哥伦比亚	ge lun bi ya
+哥伦比亚共和国	ge lun bi ya gong he guo
 克利珀顿岛	ke li po dun dao
 哥斯达黎加	ge si da li jia
+哥斯达黎加共和国	ge si da li jia gong he guo
 古巴	gu ba
+古巴共和国	gu ba gong he guo
 佛得角	fu de jiao
+佛得角共和国	fu de jiao gong he guo
 库拉索	ku la suo
 圣诞岛	sheng dan dao
 塞浦路斯	sai pu lu si
+塞浦路斯共和国	sai pu lu si gong he guo
 捷克	jie ke
 捷克共和国	jie ke gong he guo
 德国	de guo
@@ -3898,22 +4003,37 @@ sort: by_weight
 德意志联邦	de yi zhi lian bang
 迪戈加西亚岛	di ge jia xi ya dao
 吉布提	ji bu ti
+吉布提共和国	ji bu ti gong he guo
 丹麦	dan mai
 多米尼克	duo mi ni ke
+多米尼克国	duo mi ni ke guo
 多米尼加共和国	duo mi ni jia gong he guo
 阿尔及利亚	a er ji li ya
+阿尔及利亚民主人民共和国	a er ji li ya min zhu ren min gong he guo
 休达及梅利利亚	xiu da ji mei li li ya
+休达和梅利利亚	xiu da he mei li li ya
+休达	xiu da
+梅利利亚	mei li li ya
 厄瓜多尔	e gua duo er
+厄瓜多尔共和国	e gua duo er gong he guo
 爱沙尼亚	ai sha ni ya
+爱沙尼亚共和国	ai sha ni ya gong he guo
 埃及	ai ji
 西撒哈拉	xi sa ha la
 厄立特里亚	e li te li ya
+厄立特里亚国	e li te li ya guo
 西班牙	xi ban ya
+西班牙王国	xi ban ya wang guo
 埃塞俄比亚	ai sai e bi ya
+埃塞俄比亚联邦民主共和国	ai sai e bi ya lian bang min zhu gong he guo
 欧盟	ou meng
+欧洲联盟	ou zhou lian meng
 芬兰	fen lan
+芬兰共和国	fen lan gong he guo
 斐济	fei ji
+斐济共和国	fei ji gong he guo
 福克兰群岛	fu ke lan qun dao
+马尔维纳斯群岛	ma er wei na si qun dao
 密克罗尼西亚	mi ke luo ni xi ya
 法罗群岛	fa luo qun dao
 法国	fa guo
@@ -3928,49 +4048,71 @@ sort: by_weight
 法属圭亚那	fa shu gui ya na
 根西岛	gen xi dao
 加纳	jia na
+加纳共和国	jia na gong he guo
 直布罗陀	zhi bu luo tuo
 格陵兰	ge ling lan
 冈比亚	gang bi ya
+冈比亚共和国	gang bi ya gong he guo
 几内亚	ji nei ya
+几内亚共和国	ji nei ya gong he guo
 瓜德罗普	gua de luo pu
 赤道几内亚	chi dao ji nei ya
 希腊	xi la
+希腊共和国	xi la gong he guo
 南乔治亚和南桑威奇群岛	nan qiao zhi ya he nan sang wei qi qun dao
 危地马拉	wei di ma la
 关岛	guan dao
 几内亚比绍	ji nei ya bi shao
+几内亚比绍共和国	ji nei ya bi shao gong he guo
 圭亚那	gui ya na
+圭亚那合作共和国	gui ya na he zuo gong he guo
 中国香港特别行政区	zhong guo xiang gang te bie xing zheng qu
 中国香港	zhong guo xiang gang
 香港	xiang gang
 香港特别行政区	xiang gang te bie xing zheng qu
 赫德岛和麦克唐纳群岛	he de dao he mai ke tang na qun dao
 洪都拉斯	hong dou la si
+洪都拉斯共和国	hong dou la si gong he guo
 克罗地亚	ke luo di ya
+克罗地亚共和国	ke luo di ya gong he guo
 海地	hai di
+海地共和国	hai di gong he guo
 匈牙利	xiong ya li
 加纳利群岛	jia na li qun dao
 印度尼西亚	yin du ni xi ya
+印度尼西亚共和国	yin du ni xi ya gong he guo
 爱尔兰	ai er lan
+爱尔兰共和国	ai er lan gong he guo
 以色列	yi se lie
+以色列国	yi se lie guo
 马恩岛	ma en dao
 印度	yin du
 印度共和国	yin du gong he guo
 英属印度洋领地	ying shu yin du yang ling di
 伊拉克	yi la ke
+伊拉克共和国	yi la ke gong he guo
 伊朗	yi lang
+伊朗伊斯兰共和国	yi lang yi si lan gong he guo
 冰岛	bing dao
 意大利	yi da li
+意大利共和国	yi da li gong he guo
 泽西岛	ze xi dao
+泽西	ze xi
 牙买加	ya mai jia
 约旦	yue dan
+约旦哈希姆王国	yue dan ha xi mu wang guo
 日本	ri ben
 日本国	ri ben guo
 肯尼亚	ken ni ya
+肯尼亚共和国	ken ni ya gong he guo
 吉尔吉斯斯坦	ji er ji si si tan
+吉尔吉斯共和国	ji er ji si gong he guo
 柬埔寨	jian pu zhai
+柬埔寨王国	jian pu zhai wang guo
 基里巴斯	ji li ba si
+基里巴斯共和国	ji li ba si gong he guo
 科摩罗	ke mo luo
+科摩罗联盟	ke mo luo lian meng
 圣基茨和尼维斯	sheng ji ci he ni wei si
 朝鲜	chao xian
 北朝鲜	bei chao xian
@@ -3979,30 +4121,51 @@ sort: by_weight
 南朝鲜	nan chao xian
 南韩	nan han
 科威特	ke wei te
+科威特国	ke wei te guo
 开曼群岛	kai man qun dao
 哈萨克斯坦	ha sa ke si tan
+哈萨克斯坦共和国	ha sa ke si tan gong he guo
 老挝	lao wo
+老挝人民民主共和国	lao wo ren min min zhu gong he guo
 黎巴嫩	li ba nen
+黎巴嫩共和国	li ba nen gong he guo
 圣卢西亚	sheng lu xi ya
 列支敦士登	lie zhi dun shi deng
+列支敦士登公国	lie zhi dun shi deng gong guo
 斯里兰卡	si li lan ka
+斯里兰卡民主社会主义共和国	si li lan ka min zhu she hui zhu yi gong he guo
 利比里亚	li bi li ya
+利比里亚共和国	li bi li ya gong he guo
 莱索托	lai suo tuo
+莱索托王国	lai suo tuo wang guo
 立陶宛	li tao wan
+立陶宛共和国	li tao wan gong he guo
 卢森堡	lu sen bao
+卢森堡大公国	lu sen bao da gong guo
 拉脱维亚	la tuo wei ya
+拉脱维亚共和国	la tuo wei ya gong he guo
 利比亚	li bi ya
+利比亚国	li bi ya guo
 摩洛哥	mo luo ge
+摩洛哥王国	mo luo ge wang guo
 摩纳哥	mo na ge
+摩纳哥公国	mo na ge gong guo
 摩尔多瓦	mo er duo wa
+摩尔多瓦共和国	mo er duo wa gong he guo
 黑山	hei shan
 法属圣马丁	fa shu sheng ma ding
 马达加斯加	ma da jia si jia
+马达加斯加共和国	ma da jia si jia gong he guo
 马绍尔群岛	ma shao er qun dao
 北马其顿	bei ma qi dun
+北马其顿共和国	bei ma qi dun gong he guo
 马里	ma li
+马里共和国	ma li gong he guo
 缅甸	mian dian
+缅甸联邦	mian dian lian bang
+缅甸联邦共和国	mian dian lian bang gong he guo
 蒙古	meng gu
+蒙古国	meng gu guo
 中国澳门特别行政区	zhong guo ao men te bie xing zheng qu
 中国澳门	zhong guo ao men
 澳门	ao men
@@ -4010,89 +4173,150 @@ sort: by_weight
 北马里亚纳群岛	bei ma li ya na qun dao
 马提尼克	ma ti ni ke
 毛里塔尼亚	mao li ta ni ya
+毛里塔尼亚伊斯兰共和国	mao li ta ni ya yi si lan gong he guo
 蒙特塞拉特	meng te sai la te
 马耳他	ma er ta
+马耳他共和国	ma er ta gong he guo
 毛里求斯	mao li qiu si
+毛里求斯共和国	mao li qiu si gong he guo
 马尔代夫	ma er dai fu
+马尔代夫共和国	ma er dai fu gong he guo
 马拉维	ma la wei
+马拉维共和国	ma la wei gong he guo
 墨西哥	mo xi ge
+墨西哥合众国	mo xi ge he zhong guo
 马来西亚	ma lai xi ya
 莫桑比克	mo sang bi ke
+莫桑比克共和国	mo sang bi ke gong he guo
 纳米比亚	na mi bi ya
+纳米比亚共和国	na mi bi ya gong he guo
 新喀里多尼亚	xin ka li duo ni ya
 尼日尔	ni ri er
+尼日尔共和国	ni ri er gong he guo
 诺福克岛	nuo fu ke dao
 尼日利亚	ni ri li ya
+尼日利亚联邦	ni ri li ya lian bang
+尼日利亚联邦共和国	ni ri li ya lian bang gong he guo
 尼加拉瓜	ni jia la gua
+尼加拉瓜共和国	ni jia la gua gong he guo
 荷兰	he lan
 尼德兰	ni de lan
 挪威	nuo wei
+挪威王国	nuo wei wang guo
 尼泊尔	ni po er
 瑙鲁	nao lu
+瑙鲁共和国	nao lu gong he guo
 纽埃	niu ai
 新西兰	xin xi lan
 阿曼	a man
+阿曼苏丹国	a man su dan guo
 巴拿马	ba na ma
+巴拿马共和国	ba na ma gong he guo
 秘鲁	bi lu
+秘鲁共和国	bi lu gong he guo
 法属波利尼西亚	fa shu bo li ni xi ya
 巴布亚新几内亚	ba bu ya xin ji nei ya
+巴布亚新几内亚独立国	ba bu ya xin ji nei ya du li guo
 菲律宾	fei lv bin
+菲律宾共和国	fei lv bin gong he guo
 巴基斯坦	ba ji si tan
+巴基斯坦伊斯兰共和国	ba ji si tan yi si lan gong he guo
 波兰	bo lan
+波兰共和国	bo lan gong he guo
 圣皮埃尔和密克隆群岛	sheng pi ai er he mi ke long qun dao
 皮特凯恩群岛	pi te kai en qun dao
 波多黎各	bo duo li ge
 巴勒斯坦领土	ba le si tan ling tu
 葡萄牙	pu tao ya
+葡萄牙共和国	pu tao ya gong he guo
 帕劳	pa lao
+帕劳共和国	pa lao gong he guo
 巴拉圭	ba la gui
+巴拉圭共和国	ba la gui gong he guo
 卡塔尔	ka ta er
+卡塔尔国	ka ta er guo
 留尼汪	liu ni wang
 罗马尼亚	luo ma ni ya
 塞尔维亚	sai er wei ya
+塞尔维亚共和国	sai er wei ya gong he guo
 俄罗斯	e luo si
 俄国	e guo
+俄罗斯联邦	e luo si lian bang
 卢旺达	lu wang da
-沙特阿拉伯	sha te a la bo
+卢旺达共和国	lu wang da gong he guo
 沙特	sha te
+沙特阿拉伯	sha te a la bo
+沙特阿拉伯王国	sha te a la bo wang guo
 所罗门群岛	suo luo men qun dao
 塞舌尔	sai she er
+塞舌尔共和国	sai she er gong he guo
 苏丹	su dan
+苏丹共和国	su dan gong he guo
 瑞典	rui dian
+瑞典王国	rui dian wang guo
 新加坡	xin jia po
+新加坡共和国	xin jia po gong he guo
 圣赫勒拿	sheng he lei na
 斯洛文尼亚	si luo wen ni ya
+斯洛文尼亚共和国	si luo wen ni ya gong he guo
 斯瓦尔巴和扬马延	si wa er ba he yang ma yan
 斯洛伐克	si luo fa ke
+斯洛伐克共和国	si luo fa ke gong he guo
 塞拉利昂	sai la li ang
+塞拉利昂共和国	sai la li ang gong he guo
 圣马力诺	sheng ma li nuo
+圣马力诺共和国	sheng ma li nuo gong he guo
 塞内加尔	sai nei jia er
+塞内加尔共和国	sai nei jia er gong he guo
 索马里	suo ma li
+索马里联邦	suo ma li lian bang
+索马里联邦共和国	suo ma li lian bang gong he guo
 苏里南	su li nan
+苏里南共和国	su li nan gong he guo
 南苏丹	nan su dan
+南苏丹共和国	nan su dan gong he guo
 圣多美和普林西比	sheng duo mei he pu lin xi bi
+圣多美和普林西比民主共和国	sheng duo mei he pu lin xi bi min zhu gong he guo
 萨尔瓦多	sa er wa duo
+萨尔瓦多共和国	sa er wa duo gong he guo
 荷属圣马丁	he shu sheng ma ding
+圣马丁	sheng ma ding
 叙利亚	xu li ya
+叙利亚共和国	xu li ya gong he guo
+阿拉伯叙利亚共和国	a la bo xu li ya gong he guo
 斯威士兰	si wei shi lan
+斯威士兰王国	si wei shi lan wang guo
 特克斯和凯科斯群岛	te ke si he kai ke si qun dao
 乍得	zha de
+乍得共和国	zha de gong he guo
 法属南部领地	fa shu nan bu ling di
 多哥	duo ge
+多哥共和国	duo ge gong he guo
 泰国	tai guo
+泰王国	tai wang guo
+暹罗	xian luo
 塔吉克斯坦	ta ji ke si tan
+塔吉克斯坦共和国	ta ji ke si tan gong he guo
 托克劳	tuo ke lao
 东帝汶	dong di wen
+东帝汶民主共和国	dong di wen min zhu gong he guo
 土库曼斯坦	tu ku man si tan
 突尼斯	tu ni si
+突尼斯共和国	tu ni si gong he guo
 汤加	tang jia
+汤加王国	tang jia wang guo
 土耳其	tu er qi
+土耳其共和国	tu er qi gong he guo
 特立尼达和多巴哥	te li ni da he duo ba ge
+特立尼达和多巴哥共和国	te li ni da he duo ba ge gong he guo
 图瓦卢	tu wa lu
 台湾	tai wan
+中华民国	zhong hua min guo
 坦桑尼亚	tan sang ni ya
+坦桑尼亚联合共和国	tan sang ni ya lian he gong he guo
 乌克兰	wu ke lan
 乌干达	wu gan da
+乌干达共和国	wu gan da gong he guo
 美国本土外小岛屿	mei guo ben tu wai xiao dao yu
 联合国	lian he guo
 美国	mei guo
@@ -4100,22 +4324,34 @@ sort: by_weight
 美利坚合众国	mei li jian he zhong guo
 星条旗	xing tiao qi
 乌拉圭	wu la gui
+乌拉圭东岸共和国	wu la gui dong an gong he guo
 乌兹别克斯坦	wu zi bie ke si tan
+乌兹别克斯坦共和国	wu zi bie ke si tan gong he guo
 梵蒂冈	fan di gang
+梵蒂冈城国	fan di gang cheng guo
 圣文森特和格林纳丁斯	sheng wen sen te he ge lin na ding si
 委内瑞拉	wei nei rui la
+委内瑞拉玻利瓦尔共和国	wei nei rui la bo li wa er gong he guo
 英属维尔京群岛	ying shu wei er jing qun dao
 美属维尔京群岛	mei shu wei er jing qun dao
 越南	yue nan
+越南社会主义共和国	yue nan she hui zhu yi gong he guo
 瓦努阿图	wa nu a tu
+瓦努阿图共和国	wa nu a tu gong he guo
 瓦利斯和富图纳	wa li si he fu tu na
 萨摩亚	sa mo ya
+萨摩亚独立国	sa mo ya du li guo
 科索沃	ke suo wo
+科索沃共和国	ke suo wo gong he guo
 也门	ye men
+也门共和国	ye men gong he guo
 马约特	ma yue te
 南非	nan fei
+南非共和国	nan fei gong he guo
 赞比亚	zan bi ya
+赞比亚共和国	zan bi ya gong he guo
 津巴布韦	jin ba bu wei
+津巴布韦共和国	jin ba bu wei gong he guo
 英格兰	ying ge lan
 苏格兰	su ge lan
 威尔士	wei er shi
