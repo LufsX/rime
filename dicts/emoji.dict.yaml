@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-04-19"
+version: "2023-04-28"
 sort: by_weight
 ...
 
@@ -133,6 +133,7 @@ sort: by_weight
 小点儿声	xiao dian er sheng
 小声点	xiao sheng dian
 小声点儿	xiao sheng dian er
+别说话	bie shuo hua
 深思的脸	shen si de lian
 深思	shen si
 思考	si kao
@@ -146,6 +147,8 @@ sort: by_weight
 呃	e
 疑问	yi wen
 可能	ke neng
+不理解	bu li jie
+不明白	bu ming bai
 敬礼	jing li
 致敬	zhi jing
 瑞思拜	rui si bai
@@ -252,6 +255,7 @@ sort: by_weight
 辣死了	la si le
 热死	re si
 热死了	re si le
+爆辣	bao la
 冷	leng
 冰冷	bing leng
 好冷	hao leng
@@ -281,6 +285,7 @@ sort: by_weight
 脑子爆炸	nao zi bao zha
 脑袋爆炸	nao dai bao zha
 脑爆炸	nao bao zha
+大脑爆炸	da nao bao zha
 爆头	bao tou
 牛仔	niu zai
 牛仔帽	niu zai mao
@@ -2009,6 +2014,8 @@ sort: by_weight
 外卖包装	wai mai bao zhuang
 外卖桶	wai mai tong
 螃蟹	pang xie
+蟹	xie
+蟹老板	xie lao ban
 龙虾	long xia
 小龙虾	xiao long xia
 虾	xia
@@ -2510,15 +2517,17 @@ sort: by_weight
 有环行星	you huan xing xing
 星球	xing qiu
 五角星	wu jiao xing
+星星	xing xing
 闪耀的星星	shan yao de xing xing
 闪亮的星星	shan liang de xing xing
-星星	xing xing
 流星	liu xing
 许愿	xu yuan
 星空	xing kong
 银河	yin he
 银河系	yin he xi
+云	yun
 云彩	yun cai
+云朵	yun duo
 乌云蔽日	wu yun bi ri
 多云	duo yun
 阴天	yin tian
@@ -2528,6 +2537,7 @@ sort: by_weight
 下雨	xia yu
 下雪	xia xue
 打雷	da lei
+雷云	lei yun
 龙卷风	long juan feng
 雾	wu
 霾	mai
@@ -2535,6 +2545,8 @@ sort: by_weight
 风吹拂的脸	feng chui fu de lian
 风吹拂	feng chui fu
 吹拂	chui fu
+吹风	chui feng
+吹口气	chui kou qi
 台风	tai feng
 旋风	xuan feng
 飓风	ju feng
@@ -2761,6 +2773,8 @@ sort: by_weight
 近视	jin shi
 近视眼	jin shi yan
 护目镜	hu mu jing
+泳镜	yong jing
+游泳镜	you yong jing
 实验室外衣	shi yan shi wai yi
 白大褂	bai da gua
 白大褂儿	bai da gua er
@@ -3788,6 +3802,7 @@ sort: by_weight
 棕色	zong se
 圆形	yuan xing
 围棋	wei qi
+黑白棋	hei bai qi
 黑色	hei se
 黑子	hei zi
 黑棋	hei qi
