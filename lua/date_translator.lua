@@ -1,3 +1,5 @@
+-- date_translator: 时间/日期快捷输入
+
 local function date_translator(input, seg)
     if (input == "date") then
         --- Candidate(type, start, end, text, comment)
