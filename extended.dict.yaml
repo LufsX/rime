@@ -11,9 +11,7 @@ use_preset_vocabulary: true
 import_tables:
   # 覆盖词频
   - dicts/simp # 最小拼音词典
-  - dicts/simp-ext # 原字表中除单字外部分
 
-  - dicts/sogou_net # 网络流行语
   - dicts/thuocl_animal # 动物
   - dicts/thuocl_caijing # 财经
   - dicts/thuocl_food # 饮食
@@ -21,6 +19,9 @@ import_tables:
   - dicts/thuocl_IT # IT
   - dicts/thuocl_medical # 医学
   - dicts/thuocl_renmingdiming # 人名地名
+
+  - dicts/simp-ext # 原字表中除单字外部分
+  - dicts/sogou_net # 网络流行语
 
   # 一点点小小的私货，不需要的可以自行关闭~
   - dicts/sogou_genshin # 原神
