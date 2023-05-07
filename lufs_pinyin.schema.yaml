@@ -31,7 +31,7 @@ engine:
   processors:
     # - ascii_composer # Windows 用户请解除此行注释，否则将会无法切换到英文输入
     - recognizer
-    - lua_processor@*select_character # lua 选词扩展，如需关闭请注释
+    - lua_processor@select_character # lua 选词扩展，如需关闭请注释
     - key_binder
     - speller
     - selector
@@ -46,16 +46,16 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - lua_translator@*date_translator # 动态日期时间输入
-    - table_translator@custom_phrase # 用户自定义词典
     - script_translator
+    - lua_translator@date_translator # 动态日期时间输入
+    - table_translator@custom_phrase # 用户自定义词典
   filters:
     - simplifier@emoji_suggestion
     - simplifier@traditionalize # 简繁转化
     - uniquifier # 去重
-    # - lua_filter@*candidate_sorting.long_phrase_first # 最长词组和单字在先
-    # - lua_filter@*candidate_sorting.single_char_first # 单字优先
-    # - lua_filter@*candidate_sorting.single_char_only # 只显示单字
+    # - lua_filter@long_phrase_first # 最长词组和单字在先
+    # - lua_filter@single_char_first # 单字优先
+    # - lua_filter@single_char_only # 只显示单字
 
 traditionalize:
   option_name: traditionalization
