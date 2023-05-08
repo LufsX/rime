@@ -1,0 +1,311 @@
+# Squirrel settings
+# encoding: utf-8
+# 修改自: https://github.com/rime/squirrel/blob/master/data/squirrel.yaml
+
+config_version: "2023-05-09"
+
+# 选项：last | default | _custom_
+# last：上次使用的拉丁字母键盘布局
+# default：美国（ABC）键盘布局
+# _custom_：选择了的键盘布局，例如 'com.apple.keylayout.USExtended' 或更简单的 'USExtended'
+keyboard_layout: last
+
+# 给打字贼快的家伙们设置的按键持续时间（
+chord_duration: 0.1 # seconds
+
+# options: always | never | appropriate
+show_notifications_when: appropriate
+show_notifications_via_notification_center: true
+
+app_options: {} # 清除应用默认输入法，防止无法输入中文（通过 Caps 切换中英文）
+
+style:
+  color_scheme: ayaya
+  color_scheme_dark: ayaya # 指定深色模式时输入法所使用的主题
+  translucency: true # 背景半透明总开关，不需要关掉即可
+
+  # 以下为鼠须管默认主题设置
+  # candidate_list_layout: stacked  # stacked | linear
+  text_orientation: horizontal # horizontal | vertical
+  inline_preedit: true
+  corner_radius: 10
+  hilited_corner_radius: 0
+  border_height: 0
+  border_width: 0
+  line_spacing: 5
+  spacing: 10
+  # candidate_format: '%c. %@'
+  # base_offset: 6 # 竖排文字的基线调整
+  font_face: "Lucida Grande"
+  font_point: 21
+  # label_font_face: 'Lucida Grande'
+  label_font_point: 18
+  # comment_font_face: 'Lucida Grande'
+  comment_font_point: 18
+
+preset_color_schemes:
+  # 各个设置项的简要作用说明
+  # 以下出现的颜色均为 16 进制色值，(A)BGR顺序
+  ## alpha: 透明度
+  ## back_color: 候选条背景色
+  ## base_offset: 候选框与输入框的垂直偏移量
+  ## border_color: 边框颜色
+  ## border_color_width: 输入条边框宽度
+  ## border_height: 窗口上下高度
+  ## border_width: 窗口左右宽度
+  ## candidate_format: 候选格式
+  ## candidate_spacing: 候选字间隔
+  ## candidate_text_color: 预选项文字颜色
+  ## color_space: 颜色空间
+  ## comment_font_face: 拼音等提示文字字体
+  ## comment_font_point: 拼音等提示文字字号
+  ## comment_text_color: 拼音等提示文字颜色
+  ## corner_radius: 候选条圆角
+  ## font_face: 候选词字体
+  ## font_point: 候选字词大小
+  ## hilite_padding: 候选字背景色色块高度
+  ## hilited_back_color: 第一候选项背景背景色
+  ## hilited_candidate_back_color: 候选文字背景色
+  ## hilited_candidate_label_color: 第一候选项编号颜色
+  ## hilited_candidate_text_color: 第一候选项文字颜色
+  ## hilited_comment_text_color: 注解文字高亮颜色
+  ## hilited_corner_radius: 高亮圆角
+  ## hilited_label_color: 已选字的数字颜色
+  ## hilited_text_color: 高亮拼音颜色
+  ## horizontal: 是否水平排列（鼠须管 0.15 以后已弃用）
+  ## inline_preedit: 是否单行显示
+  ## label_color: 预选栏编号颜色
+  ## label_font_face: 候选词编号字体
+  ## label_font_point: 候选编号大小
+  ## label_format: 候选编号格式
+  ## line_spacing: 行间距
+  ## margin_x: 字左右边距
+  ## margin_y: 字上下边距
+  ## min_height: 最小高度
+  ## min_width: 最小宽度
+  ## round_corner: 候选字背景色块圆角幅度
+  ## spacing: 间距
+  ## text_color: 高亮选中词颜色
+
+  ayaya:
+    name: "文文／Ayaya"
+    author: "Lufs X <i@isteed.cc>"
+
+    alpha: 0.95
+    horizontal: true
+    inline_preedit: true
+    candidate_format: "%c\u2005%@"
+    corner_radius: 5
+    border_height: 0
+    border_width: 0
+    font_face: "LXGWWenKai-Regular,PingFangSC"
+    font_point: 16.5
+    label_font_face: "LXGWWenKai-Regular,PingFangSC"
+    label_font_point: 12
+
+    color_space: display_p3
+    back_color: 0xFFFFFF
+    border_color: 0xECE4FC
+    candidate_text_color: 0x121212
+    comment_text_color: 0x8E8E8E
+    hilited_candidate_back_color: 0xECE4FC
+    hilited_candidate_label_color: 0xB18FF4
+    hilited_candidate_text_color: 0x7A40EC
+    label_color: 0x888785
+    text_color: 0x8100EB
+
+  apathy:
+    name: 冷漠／Apathy
+    author: LIANG Hai
+    alpha: 0.95
+    horizontal: true
+    inline_preedit: true
+    candidate_format: "%c\u2005%@"
+    corner_radius: 5
+    border_height: 0
+    border_width: 0
+    back_color: 0xFFFFFF
+    font_face: "PingFangSC-Regular,HanaMinB"
+    font_point: 16
+    text_color: 0x424242
+    label_font_face: "STHeitiSC-Light"
+    label_font_point: 12
+    hilited_candidate_text_color: 0xEE6E00
+    hilited_candidate_back_color: 0xFFF0E4
+    comment_text_color: 0x999999
+
+  win10:
+    candidate_text_color: 0x000000
+    comment_text_color: 0x888888
+    text_color: 0x000000
+    back_color: 0xffffff
+    hilited_text_color: 0x000000
+    hilited_back_color: 0xffffff
+    hilited_candidate_text_color: 0xffffff
+    hilited_candidate_back_color: 0xcc8f29
+    hilited_comment_text_color: 0xffffff
+    hilited_label_color: 0xffffff
+    label_color: 0x888888
+    label_format: "%s"
+    font_point: 16
+    label_font_point: 12
+    corner_radius: 0
+    inline_preedit: true
+    min_width: 160
+    min_height: 0
+    border_width: 6
+    border_height: 6
+    margin_x: 12
+    margin_y: 12
+    spacing: 10
+    candidate_spacing: 24
+    hilite_spacing: 8
+    hilite_padding: 12
+    round_corner: 0
+    horizontal: true
+    candidate_format: "%c\u2005%@ "
+
+  win10_ayaya:
+    label_format: "%s"
+    font_point: 16
+    label_font_point: 12
+    corner_radius: 0
+    inline_preedit: true
+    min_width: 160
+    min_height: 0
+    border_width: 6
+    border_height: 6
+    margin_x: 12
+    margin_y: 12
+    spacing: 10
+    candidate_spacing: 24
+    hilite_spacing: 8
+    hilite_padding: 12
+    round_corner: 0
+    horizontal: true
+    candidate_format: "%c\u2005%@ "
+
+    back_color: 0xFFFFFF
+    candidate_text_color: 0x121212
+    comment_text_color: 0x8E8E8E
+    hilited_candidate_back_color: 0xECE4FC
+    hilited_candidate_label_color: 0xB18FF4
+    hilited_candidate_text_color: 0x7A40EC
+    label_color: 0x888785
+    text_color: 0x8100EB
+
+  macos_light:
+    author: "一方<liuour@gmail.com>"
+    back_color: 0xFFFFFF
+    border_color: 0xFFFFFF
+    text_color: 0x424242
+    hilited_back_color: 0xD75A00
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_candidate_label_color: 0xFFFFFF
+    hilited_comment_text_color: 0x999999
+    hilited_text_color: 0x999999
+    candidate_text_color: 0x3c3c3c
+    comment_text_color: 0x999999
+    horizontal: true
+    inline_preedit: true
+    label_color: 0x999999
+    candidate_format: "%c\u2005%@"
+    font_face: "PingFangSC"
+    font_point: 16
+    label_font_point: 13
+    corner_radius: 5
+    hilited_corner_radius: 5
+    border_height: 4
+    border_width: 4
+    border_color_width: 0
+
+  macos_dark:
+    author: "一方<liuour@gmail.com>"
+    back_color: 0x252a2e
+    border_color: 0x050505
+    text_color: 0x424242
+    hilited_back_color: 0xD75A00
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_candidate_label_color: 0xFFFFFF
+    hilited_comment_text_color: 0x999999
+    hilited_text_color: 0x999999
+    candidate_text_color: 0xe9e9ea
+    comment_text_color: 0x999999
+    horizontal: true
+    inline_preedit: true
+    label_color: 0x999999
+    candidate_format: "%c\u2005%@"
+    font_face: "PingFangSC"
+    font_point: 16
+    label_font_point: 13
+    corner_radius: 5
+    hilited_corner_radius: 5
+    border_height: 4
+    border_width: 4
+    border_color_width: 0
+
+  macos12_light:
+    name: "高仿亮色 macOS"
+    author: "Lufs X <i@isteed.cc>"
+
+    font_face: "PingFangSC-Regular"
+    font_point: 15
+    label_font_face: "PingFangSC-Regular"
+    label_font_point: 12
+    comment_font_face: "PingFangSC-Regular"
+    comment_font_point: 13
+    candidate_format: "%c\u2004%@"
+    horizontal: true
+    inline_preedit: true
+    corner_radius: 7.0
+    hilited_corner_radius: 6.0
+    base_offset: -0.2
+    border_height: 1.0
+    border_width: 2.0
+    border_color_width: 0
+    line_spacing: 1.0
+    color_space: display_p3
+    back_color: 0xFFFFFF
+    border_color: 0xFFFFFF
+    candidate_text_color: 0xD8000000
+    comment_text_color: 0x3F000000
+    label_color: 0x7F7F7F
+    hilited_candidate_back_color: 0xD05925
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_comment_text_color: 0x808080
+    hilited_candidate_label_color: 0xFFFFFF
+    text_color: 0x3F000000
+    hilited_text_color: 0xD8000000
+
+  macos12_dark:
+    name: "高仿暗色 macOS"
+    author: "Lufs X <i@isteed.cc>"
+
+    font_face: "PingFangSC-Regular"
+    font_point: 15
+    label_font_face: "PingFangSC-Regular"
+    label_font_point: 12
+    comment_font_face: "PingFangSC-Regular"
+    comment_font_point: 13
+    candidate_format: "%c\u2004%@"
+    horizontal: true
+    inline_preedit: true
+    corner_radius: 7.0
+    hilited_corner_radius: 6.0
+    base_offset: -0.2
+    border_height: 1.0
+    border_width: 2.0
+    border_color_width: 0
+    line_spacing: 1.0
+    color_space: display_p3
+    back_color: 0x1E1F24
+    border_color: 0x1E1F24
+    candidate_text_color: 0xE8E8E8
+    comment_text_color: 0x3F000000
+    label_color: 0x7C7C7C
+    hilited_candidate_back_color: 0xDA6203
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_comment_text_color: 0x808080
+    hilited_candidate_label_color: 0xFFE7D6
+    text_color: 0x3F000000
+    hilited_text_color: 0xD8000000
