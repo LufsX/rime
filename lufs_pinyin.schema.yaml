@@ -47,6 +47,7 @@ engine:
   translators:
     - punct_translator
     - lua_translator@date_translator # 动态日期时间输入
+    - lua_translator@unicode_input # Unicode 输入支持
     - table_translator@custom_phrase # 用户自定义词典
     - script_translator
   filters:
@@ -155,6 +156,7 @@ recognizer:
   import_preset: default
   patterns:
     punct: "^/([0-9]0?|[A-Za-z]+)$" # 响应 lufs_symbols.yaml 内的输入
+    unicode: "^U[a-f0-9]+" # 响应 Unicode
 
 custom_phrase:
   dictionary: ""

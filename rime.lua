@@ -17,3 +17,7 @@ single_char_first = require("candidate_sorting.single_char_first")
 -- single_char_only: 只显示单字
 -- 详见 `lua/candidate_sorting/single_char_only.lua`
 single_char_only = require("candidate_sorting.single_char_only")
+
+-- unicode_input: Unicode 输入
+-- 详见 `lua/candidate_sorting/unicode_input.lua`
+unicode_input = require("unicode_input")
