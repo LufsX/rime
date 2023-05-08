@@ -46,9 +46,9 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - script_translator
     - lua_translator@date_translator # 动态日期时间输入
     - table_translator@custom_phrase # 用户自定义词典
+    - script_translator
   filters:
     - simplifier@emoji_suggestion
     - simplifier@traditionalize # 简繁转化
