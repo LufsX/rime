@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-04-28"
+version: "2023-05-09"
 sort: by_weight
 ...
 
@@ -37,6 +37,7 @@ sort: by_weight
 眯眼笑	mi yan xiao
 笑死	xiao si
 好耶	hao ye
+笑晕	xiao yun
 汗	han
 冷汗	leng han
 冒汗	mao han
@@ -758,6 +759,7 @@ sort: by_weight
 垃圾	la ji
 太差	tai cha
 太差了	tai cha le
+太差啦	tai cha la
 差劲	cha jin
 举起拳头	ju qi quan tou
 举起的拳头	ju qi de quan tou
@@ -1721,7 +1723,9 @@ sort: by_weight
 蛛网	zhu wang
 蜘蛛网	zhi zhu wang
 蝎子	xie zi
+蚊蝇	wen ying
 蚊子	wen zi
+蚊虻	wen meng
 苍蝇	cang ying
 蠕虫	ru chong
 寄生虫	ji sheng chong
@@ -2187,6 +2191,7 @@ sort: by_weight
 居民区	ju min qu
 废弃的房屋	fei qi de fang wu
 荒宅	huang zhai
+危楼	wei lou
 家	jia
 住宅楼	zhu zhai lou
 房子	fang zi
@@ -2323,6 +2328,7 @@ sort: by_weight
 无轨电车	wu gui dian che
 电车	dian che
 面包车	mian bao che
+小巴	xiao ba
 救护车	jiu hu che
 急救车	ji jiu che
 消防车	xiao fang che
@@ -3230,6 +3236,7 @@ sort: by_weight
 回旋镖	hui xuan biao
 飞旋镖	fei xuan biao
 回力棒	hui li bang
+回力镖	hui li biao
 弓箭	gong jian
 弓和箭	gong he jian
 盾牌	dun pai
@@ -3259,9 +3266,14 @@ sort: by_weight
 工具箱	gong ju xiang
 磁铁	ci tie
 吸铁石	xi tie shi
+磁力	ci li
+磁石	ci shi
 梯子	ti zi
 爬梯	pa ti
 爬梯子	pa ti zi
+翻墙	fan qiang
+科学上网	ke xue shang wang
+魔法上网	mo fa shang wang
 蒸馏器	zheng liu qi
 试管	shi guan
 培养皿	pei yang min
