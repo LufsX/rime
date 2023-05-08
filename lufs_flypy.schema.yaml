@@ -70,7 +70,7 @@ emoji_suggestion:
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba/
-  delimiter: "'"
+  delimiter: " '"
   algebra:
     - erase/^xx$/
     - erase/^hm$/
@@ -168,23 +168,6 @@ punctuator:
     "/tab": "	"
     "/kg": [ "　","　　" ]
     "/help": [ 符号：/fh, 单位：/dw, 标点：/bd, 数学：/sx, 拼音：/py, 星号：/xh, 方块：/fk, 几何：/jh, 箭头：/jt, 电脑：/dn, 罗马数字：/lm, 大写罗马数字：/lmd, 拉丁：/ld, 上标：/sb, 下标：/xb, 希腊字母：/xl, 大写希腊字母：/xld, 数字：/0到/9, 分数：/fs, いろは順：/iro, 假名：/jm或/pjm或/jmk到/jmo, 假名+圈：/jmq, 假名+半角：/jmbj, 俄语：/ey, 大写俄语：/eyd, 韩文：/hw, 韩文+圈：/hwq, 韩文+弧：/hwh, 结构：/jg, 偏旁：/pp, 康熙（部首）：/kx, 笔画：/bh, 注音：/zy, 声调：/sd, 汉字+圈：/hzq, 汉字+弧：/hzh, 数字+圈：/szq, 数字+弧：/szh, 数字+点：/szd, 字母+圈：/zmq, 字母+弧：/zmh, 表情：/bq, 音乐：/yy, 月份：/yf, 日期：/rq, 曜日：/yr, 时间：/sj, 天干：/tg, 地支：/dz, 干支：/gz, 节气：/jq, 象棋：/xq, 麻将：/mj, 色子：/sz, 扑克：/pk, 八卦：/bg, 八卦名：/bgm, 六十四卦：/lssg, 六十四卦名：/lssgm, 太玄经：/txj, 天体：/tt, 星座：/xz, 星座名：/xzm, 十二宫：/seg, 苏州码：/szm ]
-  full_shape:
-    "@": "＠"
-  half_shape:
-    "/": "/"
-    '\': "、"
-    "`": "`"
-    "~": ～
-    "@": "@"
-    "#": "#"
-    "-": "-"
-    "_": "——"
-    "+": "+"
-    "=": "="
-    "[": "「"
-    "]": "」"
-    "{": "『"
-    "}": "』"
 
 key_binder:
   import_preset: default
