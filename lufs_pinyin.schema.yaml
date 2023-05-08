@@ -4,7 +4,7 @@
 schema:
   schema_id: lufs_pinyin
   name: 朙月拼音
-  version: "0.26"
+  version: "2023-05-08"
   author:
     - 佛振 <chen.sst@gmail.com>
     - Modified by Lufs_X <i@isteed.cc>
@@ -22,10 +22,10 @@ switches:
     states: [。，, ．，]
   - name: traditionalization
     # reset: 0 # 默认状态: 0 简体 1 繁体
-    states: [ 简, 繁 ]
+    states: [简, 繁]
   - name: emoji_suggestion
     # reset: 1 # 默认状态: 0 关闭 1 开启
-    states: ["🈚️️", "🈶️"]
+    states: [🈚️️, 🈶️]
 
 engine:
   processors:
@@ -125,7 +125,7 @@ speller:
     # - derive/iu$/iou/ # jiou -> jiu
 
     # 按键纠错
-    - derive/([aeiou])ng$/$1gn/ # dagn -> dang 
+    - derive/([aeiou])ng$/$1gn/ # dagn -> dang
     - derive/([dtngkhrzcs])o(u|ng)$/$1o/ # zho -> zhong|zhou
     - derive/ong$/on/ # zhonguo -> zhong guo
     - derive/ao$/oa/ # hoa -> hao
@@ -146,31 +146,7 @@ grammar:
   language: zh-hans-t-essay-bgw
 
 punctuator:
-  import_preset: symbols
-  symbols:
-    "/dn": [ , ⌘, ⌥, ⇧, ⌃, ⎋, ⇪, ⌫, ⌦, ↩︎, ⏎, ↑, ↓, ←, →, ↖, ↘, ⇟, ⇞]
-    "/x": [ ＊, ×, ✱, ★, ☆, ✩, ✧, ❋, ❊, ❉, ❈, ❅, ✿, ✲]
-    "/sm": [ "《", "》", "〈", "〉", "«", "»", "<", ">"]
-    "/tab": "	"
-    "/kg": [ "　","　　" ]
-    "/help": [ 符号：/fh, 单位：/dw, 标点：/bd, 数学：/sx, 拼音：/py, 星号：/xh, 方块：/fk, 几何：/jh, 箭头：/jt, 电脑：/dn, 罗马数字：/lm, 大写罗马数字：/lmd, 拉丁：/ld, 上标：/sb, 下标：/xb, 希腊字母：/xl, 大写希腊字母：/xld, 数字：/0到/9, 分数：/fs, いろは順：/iro, 假名：/jm或/pjm或/jmk到/jmo, 假名+圈：/jmq, 假名+半角：/jmbj, 俄语：/ey, 大写俄语：/eyd, 韩文：/hw, 韩文+圈：/hwq, 韩文+弧：/hwh, 结构：/jg, 偏旁：/pp, 康熙（部首）：/kx, 笔画：/bh, 注音：/zy, 声调：/sd, 汉字+圈：/hzq, 汉字+弧：/hzh, 数字+圈：/szq, 数字+弧：/szh, 数字+点：/szd, 字母+圈：/zmq, 字母+弧：/zmh, 表情：/bq, 音乐：/yy, 月份：/yf, 日期：/rq, 曜日：/yr, 时间：/sj, 天干：/tg, 地支：/dz, 干支：/gz, 节气：/jq, 象棋：/xq, 麻将：/mj, 色子：/sz, 扑克：/pk, 八卦：/bg, 八卦名：/bgm, 六十四卦：/lssg, 六十四卦名：/lssgm, 太玄经：/txj, 天体：/tt, 星座：/xz, 星座名：/xzm, 十二宫：/seg, 苏州码：/szm ]
-  full_shape:
-    "@": "＠"
-  half_shape:
-    "/": "/"
-    '\': "、"
-    "`": "`"
-    "~": ～
-    "@": "@"
-    "#": "#"
-    "-": "-"
-    "_": "——"
-    "+": "+"
-    "=": "="
-    "[": "「"
-    "]": "」"
-    "{": "『"
-    "}": "』"
+  import_preset: lufs_symbols
 
 key_binder:
   import_preset: default
@@ -178,12 +154,7 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
-    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
-    punct: "^/([0-9]0?|[A-Za-z]+)$"
-    html: "^<[a-z]+>$"
-    camel: "[a-z]+[A-Z].*$"
-    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]{1,11}[.:_].*$"
+    punct: "^/([0-9]0?|[A-Za-z]+)$" # 响应 lufs_symbols.yaml 内的输入
 
 custom_phrase:
   dictionary: ""

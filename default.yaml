@@ -1,66 +1,104 @@
 # Rime default settings
 # encoding: utf-8
 
-config_version: '0.40'
+config_version: "2023-05-08"
 
 schema_list:
-  - schema: luna_pinyin
-  - schema: luna_pinyin_simp
-  - schema: luna_pinyin_fluency
-  - schema: bopomofo
-  - schema: bopomofo_tw
-  - schema: cangjie5
-  - schema: stroke
-  - schema: terra_pinyin
+  - schema: lufs_flypy # 小鹤双拼
+  - schema: lufs_pinyin # 朙月拼音
 
 switcher:
-  caption: 〔方案選單〕
+  caption: "[方案菜单]"
   hotkeys:
-    - Control+grave
-    - Control+Shift+grave
-    - F4
+    - F2
   save_options:
+    - ascii_mode
     - full_shape
     - ascii_punct
-    - simplification
-    - extended_charset
-    - zh_hant
-    - zh_hans
-    - zh_hant_tw
+    - traditionalization
+    - emoji_suggestion
   fold_options: true
   abbreviate_options: true
-  option_list_separator: '／'
+  option_list_separator: "/"
 
 menu:
-  page_size: 5
+  page_size: 4
 
 punctuator:
   full_shape:
-    __include: punctuation:/full_shape
+    __include: lufs_symbols:/punctuator/full_shape
   half_shape:
-    __include: punctuation:/half_shape
-
-key_binder:
-  bindings:
-    __patch:
-      - key_bindings:/emacs_editing
-      - key_bindings:/move_by_word_with_tab
-      - key_bindings:/paging_with_minus_equal
-      - key_bindings:/paging_with_comma_period
-      - key_bindings:/numbered_mode_switch
+    __include: lufs_symbols:/punctuator/half_shape
 
 recognizer:
   patterns:
+    camel: "[a-z]+[A-Z].*$"
     email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
+    html: "^<[a-z]+>$"
     uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
 
 ascii_composer:
   good_old_caps_lock: true
   switch_key:
-    Shift_L: inline_ascii
-    Shift_R: commit_text
+    Shift_L: noop
+    Shift_R: commit_code # macOS 上此项无效，Windows 可用右 Shift 切换中英输入
     Control_L: noop
-    Control_R: noop
-    Caps_Lock: clear
+    Control_R: noop # macOS 上此项无效，Windows 上可自行定义
+    Caps_Lock: commit_code
     Eisu_toggle: clear
+
+key_binder:
+  select_first_character: "bracketleft" # lua 选词快捷键，选第一个字
+  select_last_character: "bracketright" # lua 选词快捷键，选最后一个字
+  bindings:
+    # Tab / Shift + Tab 翻页
+    # - { when: composing, accept: Tab, send: Page_Down } # Tab 向下翻页
+    # - { when: composing, accept: Shift+Tab, send: Page_Up } # Shift + Tab 向上翻页
+
+    - { when: composing, accept: Tab, send: Page_Down } # Tab 向下翻页
+    - { when: composing, accept: Shift+Tab, send: Page_Up } # Shift + Tab 向上翻页
+
+    # = / - 翻页
+    - { when: has_menu, accept: equal, send: Page_Down } # = 向下翻页
+    - { when: has_menu, accept: minus, send: Page_Up } # - 向上翻页
+
+    # . / , 翻页
+    # 需要注释掉部分冲突的正则匹配才可用，详情见: https://github.com/LufsX/rime/issues/15#issuecomment-1496011933
+    # - { when: paging, accept: period, send: Page_Down } # 句号向下翻页
+    # - { when: paging, accept: comma, send: Page_Up } # 逗号向上翻页
+
+    # ] / [ 翻页
+    # 失效设置，可通过关闭/更改 lua 选词的快捷键恢复
+    # - { when: paging, accept: bracketright, send: Page_Down } # 右括号向下翻页
+    # - { when: paging, accept: bracketleft, send: Page_Up } # 左括号向上翻页
+
+    # 候选操作
+    # ; 二选 ' 三选
+    - { when: has_menu, accept: semicolon, send: 2 } # 输入时「;」二选
+    # - { when: has_menu, accept: apostrophe, send: 3 } # 输入时「'」三选
+
+    # Rime key bindings
+    # numbered mode switch
+    # - { when: always, accept: Control+Shift+1, select: .next } # 切换下一个方案
+    # - { when: always, accept: Control+Shift+2, toggle: ascii_mode } # 切换中英
+    # - { when: always, accept: Control+Shift+3, toggle: full_shape } # 切换全角半角
+    # - { when: always, accept: Control+Shift+4, toggle: simplification } # 切换简繁
+    # - { when: always, accept: Control+Shift+5, toggle: emoji_suggestion } # 切换是否显示 Emoji
+
+    # Rime key bindings
+    # emacs_editing
+    # - { when: composing, accept: Control+p, send: Up }
+    # - { when: composing, accept: Control+n, send: Down }
+    # - { when: composing, accept: Control+b, send: Left }
+    # - { when: composing, accept: Control+f, send: Right }
+    # - { when: composing, accept: Control+a, send: Home }
+    # - { when: composing, accept: Control+e, send: End }
+    # - { when: composing, accept: Control+d, send: Delete }
+    # - { when: composing, accept: Control+k, send: Shift+Delete }
+    # - { when: composing, accept: Control+h, send: BackSpace }
+    # - { when: composing, accept: Control+g, send: Escape }
+    # - { when: composing, accept: Control+bracketleft, send: Escape }
+    # - { when: composing, accept: Control+y, send: Page_Up }
+    # - { when: composing, accept: Alt+v, send: Page_Up }
+    # - { when: composing, accept: Control+v, send: Page_Down }
