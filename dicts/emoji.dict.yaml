@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-05-09"
+version: "2023-06-11"
 sort: by_weight
 ...
 
@@ -152,6 +152,8 @@ sort: by_weight
 不明白	bu ming bai
 敬礼	jing li
 致敬	zhi jing
+尊敬	zun jing
+尊重	zun zhong
 瑞思拜	rui si bai
 闭嘴	bi zui
 秘密	mi mi
@@ -374,6 +376,7 @@ sort: by_weight
 忍耐	ren nai
 失望	shi wang
 难过	nan guo
+倒霉	dao mei
 疲倦	pi juan
 疲劳	pi lao
 疲惫	pi bei
@@ -817,6 +820,7 @@ sort: by_weight
 肱二头	gong er tou
 强壮	qiang zhuang
 肌肉	ji rou
+秀肌肉	xiu ji rou
 健身	jian shen
 奋斗	fen dou
 努力	nu li
@@ -1459,6 +1463,8 @@ sort: by_weight
 狗脸	gou lian
 狗头	gou tou
 小狗	xiao gou
+旺柴	wang chai
+旺财	wang cai
 犬	quan
 狗子	gou zi
 狗狗	gou gou
@@ -2022,8 +2028,10 @@ sort: by_weight
 蟹老板	xie lao ban
 龙虾	long xia
 小龙虾	xiao long xia
+麻辣小龙虾	ma la xiao long xia
 虾	xia
 大虾	da xia
+对虾	dui xia
 鱿鱼	you yu
 乌贼	wu zei
 墨鱼	mo yu
@@ -2348,6 +2356,7 @@ sort: by_weight
 皮卡车	pi ka che
 送货车	song huo che
 货车	huo che
+物流	wu liu
 拖车	tuo che
 卡车	ka che
 大卡车	da ka che
@@ -2358,6 +2367,7 @@ sort: by_weight
 摩托车	mo tuo che
 小型摩托车	xiao xing mo tuo che
 电动车	dian dong che
+小电驴	xiao dian lv
 轮椅	lun yi
 嘟嘟车	du du che
 三蹦子	san beng zi
@@ -2538,10 +2548,16 @@ sort: by_weight
 多云	duo yun
 阴天	yin tian
 雷阵雨	lei zhen yu
+大雨	da yu
+下大雨	xia da yu
 少云	shao yun
 晴偶有云	qing ou you yun
+白日小云	bai ri xiao yun
 下雨	xia yu
+雨	yu
+雨云	yu yun
 下雪	xia xue
+雪云	xue yun
 打雷	da lei
 雷云	lei yun
 龙卷风	long juan feng
@@ -2569,6 +2585,7 @@ sort: by_weight
 遮阳伞	zhe yang san
 闪电	shan dian
 高压电	gao ya dian
+雪	xue
 雪花	xue hua
 雪人	xue ren
 堆雪人	dui xue ren
@@ -2618,6 +2635,7 @@ sort: by_weight
 风铃	feng ling
 中秋	zhong qiu
 中秋节	zhong qiu jie
+中秋佳节	zhong qiu jia jie
 观月	guan yue
 赏月	shang yue
 红包	hong bao
@@ -2728,6 +2746,8 @@ sort: by_weight
 酒桌游戏	jiu zhuo you xi
 拼图	pin tu
 拼图块	pin tu kuai
+拼块	pin kuai
+拼块儿	pin kuai er
 泰迪熊	tai di xiong
 泰迪	tai di
 皮纳塔	pi na ta
@@ -2738,6 +2758,9 @@ sort: by_weight
 扑克	pu ke
 黑桃	hei tao
 红桃	hong tao
+爱	ai
+红心	hong xin
+心形	xin xing
 方片	fang pian
 方板	fang ban
 梅花	mei hua
@@ -3102,6 +3125,7 @@ sort: by_weight
 硬币	ying bi
 钢镚	gang beng
 钢镚儿	gang beng er
+钱币	qian bi
 日元钞票	ri yuan chao piao
 美元钞票	mei yuan chao piao
 钞票	chao piao
@@ -3128,9 +3152,12 @@ sort: by_weight
 来信	lai xin
 收到来信	shou dao lai xin
 收到邮件	shou dao you jian
+新邮件	xin you jian
+发件	fa jian
 发件箱	fa jian xiang
 发信	fa xin
 发邮件	fa you jian
+收件	shou jian
 收件箱	shou jian xiang
 收信	shou xin
 收邮件	shou you jian
@@ -3138,6 +3165,8 @@ sort: by_weight
 快递	kuai di
 纸箱	zhi xiang
 纸箱子	zhi xiang zi
+箱子	xiang zi
+打包	da bao
 信箱	xin xiang
 邮筒	you tong
 邮箱	you xiang
@@ -3259,6 +3288,7 @@ sort: by_weight
 铁链	tie lian
 锁链	suo lian
 链子	lian zi
+铁链子	tie lian zi
 钩子	gou zi
 挂钩	gua gou
 铁钩	tie gou
@@ -3540,6 +3570,7 @@ sort: by_weight
 六角星	liu jiao xing
 六芒星	liu mang xing
 魔法阵	mo fa zhen
+锡克	xi ke
 锡克教	xi ke jiao
 坎达	kan da
 坎达符号	kan da fu hao
@@ -3641,15 +3672,15 @@ sort: by_weight
 问号	wen hao
 白色问号	bai se wen hao
 白问号	bai wen hao
+感叹号	gan tan hao
+惊叹号	jing tan hao
+叹号	tan hao
 白色感叹号	bai se gan tan hao
 白色惊叹号	bai se jing tan hao
 白色叹号	bai se tan hao
 白感叹号	bai gan tan hao
 白惊叹号	bai jing tan hao
 白叹号	bai tan hao
-感叹号	gan tan hao
-惊叹号	jing tan hao
-叹号	tan hao
 波浪型破折号	bo lang xing po zhe hao
 波浪线	bo lang xian
 兑换	dui huan
@@ -3682,6 +3713,8 @@ sort: by_weight
 日本新手驾驶标志	ri ben xin shou jia shi biao zhi
 日本初学者标志	ri ben chu xue zhe biao zhi
 对	dui
+答对	da dui
+答对了	da dui le
 正确	zheng que
 圆圈	yuan quan
 对号	dui hao
@@ -3694,6 +3727,8 @@ sort: by_weight
 打钩	da gou
 打对钩	da dui gou
 错	cuo
+答错	da cuo
+答错了	da cuo le
 错号	cuo hao
 错误	cuo wu
 叉	cha
