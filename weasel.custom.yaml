@@ -208,7 +208,7 @@ patch:
 
      win11_weasel:
       author: "luminosa"
-      back_color: 0xF9F9F9                      # 背景颜色 颜色均取色自 Windows 10 默认
+      back_color: 0xF9F9F9                      # 背景颜色 颜色均取色自 Windows 11 默认
       border_color: 0xE7E7E7                    # 边框颜色
       candidate_text_color: 0x000000            # 候选文字颜色
       hilited_candidate_back_color: 0xF0F0F0    # 高亮颜色
