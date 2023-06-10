@@ -186,7 +186,7 @@ patch:
       label_color: 0x6F6F6F                     # 候选数字颜色
       shadow_color: 0x40FDFDFD                  # 阴影颜色
       text_color: 0x000000                      # 拼音文字颜色
-      
+
       "style/capture_by_click": true            # 若无法生效，请将以下均复制到最上面。引号可以不加，小狼毫在应用配置后会自动加上
       "style/font_point": 14                    # 字号，若太大可以自行调整
       "style/horizontal": true                  # 水平排列
@@ -217,7 +217,7 @@ patch:
       label_color: 0x727272                     # 候选数字颜色
       shadow_color: 0x40FDFDFD                  # 阴影颜色
       text_color: 0x000000                      # 拼音文字颜色
-      
+
       "style/capture_by_click": true            # 若无法生效，请将以下均复制到最上面。引号可以不加，小狼毫在应用配置后会自动加上
       "style/font_point": 14                    # 字号，若太大可以自行调整
       "style/horizontal": true                  # 水平排列
@@ -227,7 +227,7 @@ patch:
       "style/layout/border_width": 2            # 候选条边框宽度
       "style/layout/candidate_spacing": 50      # 候选间距
       "style/layout/corner_radius": 14          # 候选条圆角
-      "style/layout/hilite_padding": 6         `# 高亮高度
+      "style/layout/hilite_padding": 6          # 高亮高度
       "style/layout/hilite_spacing": 17         # 候选数字与文字间距，也可在 lable_format 中调整
       "style/layout/margin_x": 17               # x 横向方向边距
       "style/layout/margin_y": 17               # y 纵向方向边距
