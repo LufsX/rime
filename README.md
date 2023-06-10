@@ -22,6 +22,7 @@
 - 快捷输入（日期，星期，时间，timestamp）
 - 以词定字
 - 好看的皮肤～
+  - 详见 [仓库 Wiki](<https://github.com/LufsX/rime/wiki/皮肤预览(macOS)>)
 
 ---
 
@@ -55,8 +56,8 @@
 - [x] 添加 Emoji 支持
 - [x] 添加「[同文输入法](https://github.com/osfans/trime)」支持
 - [x] 添加模糊拼音支持
+- [x] 更好的适配「小狼毫」（Thanks [@luminosara](https://github.com/LufsX/rime/pull/22)
 - [ ] 更好的词库与词频？
-- [ ] 更好的适配「小狼毫」
 - [ ] 更好的适配「同文输入法」
 - [ ] 脚本自动部署/更新
 - [ ] 更多双拼方案的支持
