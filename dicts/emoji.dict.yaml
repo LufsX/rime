@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-06-11"
+version: "2023-06-29"
 sort: by_weight
 ...
 
@@ -720,11 +720,13 @@ sort: by_weight
 第一	di yi
 食指指向观察者	shi zhi zhi xiang guan cha zhe
 指向观察者的食指	zhi xiang guan cha zhe de shi zhi
-你	ni
 你自己	ni zi ji
 就是你	jiu shi ni
 指着	zhi zhe
 指着你	zhi zhe ni
+指你	zhi ni
+指我	zhi wo
+指人	zhi ren
 拇指	mu zhi
 大拇指	da mu zhi
 大拇指向上	da mu zhi xiang shang
@@ -835,6 +837,7 @@ sort: by_weight
 大腿	da tui
 练腿	lian tui
 脚	jiao
+足	zu
 踢	ti
 踩	cai
 脚丫	jiao ya
@@ -862,6 +865,7 @@ sort: by_weight
 呼吸作用	hu xi zuo yong
 牙	ya
 牙齿	ya chi
+牙牙	ya ya
 骨头	gu tou
 骨骼	gu ge
 眼	yan
@@ -2126,6 +2130,8 @@ sort: by_weight
 玻璃瓶	bo li ping
 双耳瓶	shuang er ping
 地球	di qiu
+子午线	zi wu xian
+经纬线	jing wei xian
 地球仪	di qiu yi
 欧洲	ou zhou
 非洲	fei zhou
@@ -2145,8 +2151,6 @@ sort: by_weight
 澳洲地球仪	ao zhou di qiu yi
 亚澳地球仪	ya ao di qiu yi
 澳亚地球仪	ao ya di qiu yi
-子午线	zi wu xian
-经纬线	jing wei xian
 世界地图	shi jie di tu
 日本剪影	ri ben jian ying
 日本地图	ri ben di tu
@@ -2282,6 +2286,8 @@ sort: by_weight
 山顶日出	shan ding ri chu
 山中日出	shan zhong ri chu
 日出	ri chu
+旭日	xu ri
+旭日东升	xu ri dong sheng
 暮色中的城市	mu se zhong de cheng shi
 暮色	mu se
 黄昏	huang hun
@@ -2369,6 +2375,7 @@ sort: by_weight
 电动车	dian dong che
 小电驴	xiao dian lv
 轮椅	lun yi
+残疾人	can ji ren
 嘟嘟车	du du che
 三蹦子	san beng zi
 三脚鸡	san jiao ji
@@ -2408,6 +2415,7 @@ sort: by_weight
 红绿灯	hong lv deng
 八边形	ba bian xing
 施工符号	shi gong fu hao
+施工中	shi gong zhong
 前方施工	qian fang shi gong
 路障	lu zhang
 锚	mao
@@ -2941,7 +2949,7 @@ sort: by_weight
 大喇叭	da la ba
 邮政喇叭	you zheng la ba
 铃铛	ling dang
-镜音铃铛	jing yin ling dang
+静音铃铛	jing yin ling dang
 响铃关闭	xiang ling guan bi
 禁止响铃	jin zhi xiang ling
 乐谱	yue pu
@@ -3087,6 +3095,8 @@ sort: by_weight
 小红书	xiao hong shu
 第一卷	di yi juan
 书	shu
+书本	shu ben
+打开的书	da kai de shu
 打开的书本	da kai de shu ben
 绿色的书	lv se de shu
 绿色书本	lv se shu ben
@@ -3101,7 +3111,6 @@ sort: by_weight
 橘色书本	ju se shu ben
 第四卷	di si juan
 图书	tu shu
-书本	shu ben
 账簿	zhang bu
 带卷边的纸	dai juan bian de zhi
 卷边的纸	juan bian de zhi
@@ -3115,6 +3124,7 @@ sort: by_weight
 报纸卷	bao zhi juan
 书签标签	shu qian biao qian
 标签页	biao qian ye
+页签	ye qian
 书签	shu qian
 标签	biao qian
 吊牌	diao pai
@@ -3589,6 +3599,7 @@ sort: by_weight
 蛇夫座	she fu zuo
 随机播放	sui ji bo fang
 随机	sui ji
+交叉箭头	jiao cha jian tou
 循环播放	xun huan bo fang
 单曲循环	dan qu xun huan
 播放	bo fang
@@ -3789,6 +3800,7 @@ sort: by_weight
 新	xin
 新的	xin de
 新建	xin jian
+全新	quan xin
 重拍	chong pai
 停车	ting che
 停车场	ting che chang
