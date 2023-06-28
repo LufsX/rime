@@ -1,0 +1,178 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: lufs_pyjj
+  name: 拼音加加双拼
+  version: "2023-06-29"
+  author:
+    - Modified by Lufs_X <i@isteed.cc>
+  description: |
+    拼音加加双拼方案
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [中文, 西文]
+  - name: full_shape
+    states: [半角, 全角]
+  - name: ascii_punct
+    states: [。，, ．，]
+  - name: traditionalization
+    # reset: 0 # 默认状态: 0 简体 1 繁体
+    states: [简, 繁]
+  - name: emoji_suggestion
+    # reset: 1 # 默认状态: 0 关闭 1 开启
+    states: [🈚️️, 🈶️]
+
+engine:
+  processors:
+    # - ascii_composer # Windows 用户请解除此行注释，否则将会无法切换到英文输入
+    - recognizer
+    - lua_processor@select_character # lua 选词扩展，如需关闭请注释
+    - key_binder
+    - speller
+    - selector
+    - punctuator
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - lua_translator@date_translator # 动态日期时间输入
+    - lua_translator@unicode_input # Unicode 输入支持
+    - table_translator@custom_phrase # 用户自定义词典
+    - script_translator
+  filters:
+    - simplifier@emoji_suggestion
+    - simplifier@traditionalize # 简繁转化
+    - uniquifier # 去重
+    # - lua_filter@long_phrase_first # 最长词组和单字在先
+    # - lua_filter@single_char_first # 单字优先
+    # - lua_filter@single_char_only # 只显示单字
+
+traditionalize:
+  option_name: traditionalization
+  opencc_config: s2t.json # s2t.json | s2hk.json | s2tw.json | s2twp.json
+  tips: none # 转换提示: all 显示 | char 仅单字显示 | none 不显示。
+
+emoji_suggestion:
+  opencc_config: emoji.json
+  option_name: emoji_suggestion
+  tips: false
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba/
+  delimiter: " '"
+  algebra:
+    - erase/^xx$/
+    - erase/^hm$/
+    - erase/^m$/
+    - erase/^n$/
+    - erase/^ng$/
+
+    # 模糊音区域
+    # 依据个人情况修改注释～
+    # 注释格式：键盘的输入码 -> 转化后的输入码
+
+    # 声母部分
+    # - derive/^([z])h/$1/ # z -> zh
+    # - derive/^([z])([^h])/$1h$2/ # zh -> z
+    # - derive/^([c])h/$1/ # c -> ch
+    # - derive/^([c])([^h])/$1h$2/ # ch -> c
+    # - derive/^([s])h/$1/ # s -> sh
+    # - derive/^([s])([^h])/$1h$2/ # sh -> s
+    # - derive/^l/n/ # n -> l
+    # - derive/^n/l/ # l -> n
+    # - derive/^r/l/ # l -> r
+    # - derive/^r/y/ # y -> r
+    # - derive/^hu$/fu/ # fu -> hu
+    # - derive/^fu$/hu/ # hu -> fu
+
+    # 韵母部分
+    - derive/([^iu])([a])n$/$1$2ng/ # ang -> an
+    - derive/([^iu])([a])ng$/$1$2n/ # an -> ang
+    - derive/([e])n$/$1ng/ # eng -> en
+    - derive/([e])ng$/$1n/ # en -> eng
+    # - derive/([i])n$/$1ng/ # ing -> in
+    # - derive/([i])ng$/$1n/ # in -> ing
+    # - derive/([i])an$/$1ang/ # iang -> ian
+    # - derive/([i])ang$/$1an/ # ian -> iang
+    # 由于双拼特性，无需 uang <-> iang
+
+    # 其它模糊音
+    # - derive/^hui$/fei/ # fei -> hui
+    # - derive/^fei$/hui/ # hui -> fei
+    # - derive/^huang$/wang/ # wang -> huang
+    # - derive/^wang$/huang/ # huang -> wang
+    # - derive/^([bpmfw])eng$/$1ong/ # bpmfw 后接 ong -> bpmfw 后接 eng
+
+    # 拼音加加双拼码表
+    - derive/^([jqxy])u$/$1v/
+    - derive/^([aoe])([ioun])$/$1$1$2/
+    - xform/^([aoe])(ng)?$/$1$1$2/
+    - xform/iu$/N/
+    - xform/[iu]a$/B/
+    - xform/er$|ing$/Q/
+    - xform/[uv]an$/C/
+    - xform/[uv]e$|uai$/X/
+    - xform/^sh/I/
+    - xform/^ch/U/
+    - xform/^zh/V/
+    - xform/uo$/O/
+    - xform/[uv]n$/Z/
+    - xform/i?ong$/Y/
+    - xform/[iu]ang$/H/
+    - xform/(.)en$/$1R/
+    - xform/(.)eng$/$1T/
+    - xform/(.)ang$/$1G/
+    - xform/ian$/J/
+    - xform/(.)an$/$1F/
+    - xform/iao$/K/
+    - xform/(.)ao$/$1D/
+    - xform/(.)ai$/$1S/
+    - xform/(.)ei$/$1W/
+    - xform/ie$/M/
+    - xform/ui$/V/
+    - xform/(.)ou$/$1P/
+    - xform/in$/L/
+    - xlit/QWRTYUIOPSDFGHJKLZXCVBNM/qwrtyuiopsdfghjklzxcvbnm/
+
+    # 简拼支持
+    - abbrev/^(.).+$/$1/
+
+translator:
+  dictionary: extended
+  preedit_format:
+    # - xform/ // # 去掉上屏字符间空格
+  prism: lufs_dpy
+  contextual_suggestions: true
+  max_homophones: 7
+
+grammar:
+  language: zh-hans-t-essay-bgw
+
+punctuator:
+  import_preset: lufs_symbols
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([0-9]0?|[A-Za-z]+)$" # 响应 lufs_symbols.yaml 内的输入
+    unicode: "^U[a-f0-9]+" # 响应 Unicode
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: true
+  initial_quality: 1

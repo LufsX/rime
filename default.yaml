@@ -6,6 +6,9 @@ config_version: "2023-05-08"
 schema_list:
   - schema: lufs_flypy # 小鹤双拼
   - schema: lufs_pinyin # 朙月拼音
+  - schema: lufs_mspy # 微软双拼
+  - schema: lufs_dpy # 自然码双拼
+  - schema: lufs_pyjj # 拼音加加双拼
 
 switcher:
   caption: "[方案菜单]"
