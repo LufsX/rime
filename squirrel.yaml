@@ -44,6 +44,7 @@ style:
   comment_font_point: 18
 
 preset_color_schemes:
+  # 关于主题中的各个参数说明，详见文件末尾
   ayaya:
     name: "文文／Ayaya"
     author: "Lufs X <i@isteed.cc>"
