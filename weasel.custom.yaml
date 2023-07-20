@@ -13,7 +13,8 @@ patch:
       candidate_spacing: 24
       round_corner: 0
     color_scheme: ayaya
-  # "style/horizontal": true 小狼毫主题设置中除颜色外的设置可能不生效，复制到这里后就可以，只需要复制带引号的那些行
+  # "style/horizontal": true 小狼毫主题设置中除颜色外的设置（layout 相关）需要复制到这里生效，只需要复制带引号的那些行，缩进为两个空格。
+  # 由于 win11_weasel 和 win10_weasel layout 参数不同，所以先不复制到这上面来了
 
   preset_color_schemes:
     ayaya:
@@ -184,10 +185,10 @@ patch:
       hilited_label_color: 0x6F6F6F             # 高亮序号颜色
       hilited_mark_color: 0x00000000            # 此项不生效
       label_color: 0x6F6F6F                     # 候选数字颜色
-      shadow_color: 0x40FDFDFD                  # 阴影颜色
+      shadow_color: 0x20000000                  # 阴影颜色，新版小狼毫 CI 更改了绘制，若无法看到阴影，请更改为 000000，观察是否能正常绘制阴影 
       text_color: 0x000000                      # 拼音文字颜色
 
-      "style/capture_by_click": true            # 若无法生效，请将以下均复制到最上面。引号可以不加，小狼毫在应用配置后会自动加上
+      "style/enable_mouse": true                # 请将以下均复制到最上面 layout 处。引号可以不加，小狼毫在应用配置后会自动加上。"style/enable_mouse"这个参数在我本地测试无法生效，可以自行测试
       "style/font_point": 14                    # 字号，若太大可以自行调整
       "style/horizontal": true                  # 水平排列
       "style/inline_preedit": true              # 内嵌编码
@@ -200,6 +201,8 @@ patch:
       "style/layout/hilite_spacing": 17         # 候选数字与文字间距，也可在 lable_format 中调整
       "style/layout/margin_x": 17               # x 横向方向边距
       "style/layout/margin_y": 17               # y 纵向方向边距
+      "style/layout/hilite_padding_x": 18       # 高亮 x 横向方向边距，可以自行调整
+      "style/layout/hilite_padding_x": 18       # 高亮 y 纵向方向边距
       "style/layout/round_corner": 0            # 高亮圆角，小狼毫天圆地方此项可设置为 0，也可自行调整
       "style/layout/shadow_offset_x": 5         # 阴影横向偏离
       "style/layout/shadow_offset_y": 4         # 阴影纵向偏离
@@ -215,10 +218,10 @@ patch:
       hilited_label_color: 0x727272             # 高亮序号颜色
       hilited_mark_color: 0xFFD8A6              # 此项生效，前面那|的颜色
       label_color: 0x727272                     # 候选数字颜色
-      shadow_color: 0x40FDFDFD                  # 阴影颜色
+      shadow_color: 0x20000000                  # 阴影颜色，新版小狼毫 CI 更改了绘制，若无法看到阴影，请更改为 000000，观察是否能正常绘制阴影
       text_color: 0x000000                      # 拼音文字颜色
 
-      "style/capture_by_click": true            # 若无法生效，请将以下均复制到最上面。引号可以不加，小狼毫在应用配置后会自动加上
+      "style/enable_mouse": true                # 请将以下均复制到最上面 layout 处。引号可以不加，小狼毫在应用配置后会自动加上。"style/enable_mouse"这个参数在我本地测试无法生效，可以自行测试
       "style/font_point": 14                    # 字号，若太大可以自行调整
       "style/horizontal": true                  # 水平排列
       "style/inline_preedit": true              # 内嵌编码
@@ -231,6 +234,8 @@ patch:
       "style/layout/hilite_spacing": 17         # 候选数字与文字间距，也可在 lable_format 中调整
       "style/layout/margin_x": 17               # x 横向方向边距
       "style/layout/margin_y": 17               # y 纵向方向边距
+      "style/layout/hilite_padding_x": 17       # 高亮 x 横向方向边距，可以自行调整
+      "style/layout/hilite_padding_y": 17       # 高亮 y 纵向方向边距
       "style/layout/round_corner": 14           # 高亮圆角
       "style/layout/shadow_offset_x": 5         # 阴影横向偏离
       "style/layout/shadow_offset_y": 6         # 阴影纵向偏离
