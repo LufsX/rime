@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-06-29"
+version: "2023-07-21"
 sort: by_weight
 ...
 
@@ -194,6 +194,7 @@ sort: by_weight
 唉	ai
 无奈	wu nai
 长鼻子	zhang bi zi
+长鼻	zhang bi
 匹诺曹	pi nuo cao
 说谎	shuo huang
 撒谎	sa huang
@@ -201,6 +202,7 @@ sort: by_weight
 胡说	hu shuo
 骗人	pian ren
 骗人布	pian ren bu
+乌索普	wu suo pu
 摇头	yao tou
 晃脑	huang nao
 摇头晃脑	yao tou huang nao
@@ -235,6 +237,7 @@ sort: by_weight
 量体温	liang ti wen
 发烧	fa shao
 受伤	shou shang
+负伤	fu shang
 绷带	beng dai
 缠绷带	chan beng dai
 缠满绷带	chan man beng dai
@@ -755,6 +758,7 @@ sort: by_weight
 厉害	li hai
 赞	zan
 点赞	dian zan
+绝了	jue le
 大拇指向下	da mu zhi xiang xia
 大拇指朝下	da mu zhi chao xia
 拇指朝下	mu zhi chao xia
@@ -1737,6 +1741,7 @@ sort: by_weight
 蚊子	wen zi
 蚊虻	wen meng
 苍蝇	cang ying
+家蝇	jia ying
 蠕虫	ru chong
 寄生虫	ji sheng chong
 蚯蚓	qiu yin
@@ -2607,6 +2612,9 @@ sort: by_weight
 着火	zhao huo
 着火了	zhao huo le
 火了	huo le
+汗滴	han di
+一滴水	yi di shui
+一滴	yi di
 波浪	bo lang
 浪花	lang hua
 浪	lang
@@ -3877,6 +3885,8 @@ sort: by_weight
 元宵	yuan xiao
 汤圆	tang yuan
 雪球	xue qiu
+小圆点	xiao yuan dian
+小圆点儿	xiao yuan dian er
 正方形	zheng fang xing
 方块	fang kuai
 方形	fang xing
