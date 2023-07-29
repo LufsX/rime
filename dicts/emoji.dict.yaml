@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-07-21"
+version: "2023-07-29"
 sort: by_weight
 ...
 
@@ -200,6 +200,7 @@ sort: by_weight
 撒谎	sa huang
 乱讲	luan jiang
 胡说	hu shuo
+骗子	pian zi
 骗人	pian ren
 骗人布	pian ren bu
 乌索普	wu suo pu
@@ -383,6 +384,7 @@ sort: by_weight
 疲倦	pi juan
 疲劳	pi lao
 疲惫	pi bei
+焦躁	jiao zao
 抓狂	zhua kuang
 呵欠	he qian
 哈欠	ha qian
@@ -765,7 +767,6 @@ sort: by_weight
 不好	bu hao
 不强	bu qiang
 不棒	bu bang
-垃圾	la ji
 太差	tai cha
 太差了	tai cha le
 太差啦	tai cha la
@@ -1005,6 +1006,7 @@ sort: by_weight
 我知道	wo zhi dao
 这个我知道	zhe ge wo zhi dao
 失聪者	shi cong zhe
+失聪	shi cong
 耳聋	er long
 聋子	long zi
 不好意思	bu hao yi si
@@ -1473,6 +1475,7 @@ sort: by_weight
 小狗	xiao gou
 旺柴	wang chai
 旺财	wang cai
+狗仔	gou zai
 犬	quan
 狗子	gou zi
 狗狗	gou gou
@@ -2726,6 +2729,7 @@ sort: by_weight
 驾雪橇	jia xue qiao
 坐雪橇	zuo xue qiao
 冰上溜石	bing shang liu shi
+溜石	liu shi
 冰壶	bing hu
 靶心	ba xin
 正中靶心的飞镖	zheng zhong ba xin de fei biao
@@ -3086,6 +3090,8 @@ sort: by_weight
 灯泡	deng pao
 电灯泡	dian deng pao
 白炽灯	bai chi deng
+灯	deng
+电灯	dian deng
 手电	shou dian
 手电筒	shou dian tong
 电筒	dian tong
@@ -3238,6 +3244,7 @@ sort: by_weight
 废纸篓	fei zhi lou
 垃圾桶	la ji tong
 垃圾篓	la ji lou
+垃圾	la ji
 锁	suo
 合上的锁	he shang de suo
 门锁	men suo
