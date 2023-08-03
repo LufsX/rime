@@ -216,7 +216,7 @@ patch:
       candidate_text_color: 0x000000            # 候选文字颜色
       hilited_candidate_back_color: 0xF0F0F0    # 高亮颜色
       hilited_label_color: 0x727272             # 高亮序号颜色
-      hilited_mark_color: 0xFFD8A6              # 此项生效，前面那|的颜色
+      hilited_mark_color: 0xFFD8A6              # 此项生效，前面那|的颜色，更新到支持的小狼毫 CI 版本才会生效
       label_color: 0x727272                     # 候选数字颜色
       shadow_color: 0x20000000                  # 阴影颜色，新版小狼毫 CI 更改了绘制，若无法看到阴影，请更改为 000000，观察是否能正常绘制阴影
       text_color: 0x000000                      # 拼音文字颜色
