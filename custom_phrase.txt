@@ -23,6 +23,7 @@ Rime	rime	3
 Android	android
 Apple	apple
 Apple ID	appleid
+Clash	clash
 Cloudflare	cloudflare
 Cloudflare Workers	cloudflareworkers
 CSS	css
@@ -30,7 +31,7 @@ Dropbox	dropbox
 GBK	gbk
 GitHub	github
 Google	google
-GUN/Linux linux
+Linux linux
 HTML	html
 iCloud	icloud
 iMac	imac
@@ -73,9 +74,12 @@ Quantumult	quantumult
 Ruby	ruby
 Rust	rust
 SQL	sql
+Stash	stash
+Surge	surge
 Swift	swift
+Tailscale	tailscale
 TypeScript	typescript
-T 恤	txu
+T恤	txu
 UTF-8	utfba
 U盘	upj
 WeChat	wechat
@@ -86,5 +90,6 @@ X-Ray	xray
 Xbox	xbox
 Xbox One	xboxone
 YouTube	youtube
+ZeroTier	zerotier
 又双叒叕	yyy
 又双叒叕	yzyzyz

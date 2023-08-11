@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-07-29"
+version: "2023-08-11"
 sort: by_weight
 ...
 
@@ -406,6 +406,7 @@ sort: by_weight
 骂人	ma ren
 咒骂	zhou ma
 脏话	zang hua
+说脏话	shuo zang hua
 你妈死了	ni ma si le
 肏你妈	cao ni ma
 操你妈	cao ni ma
@@ -814,6 +815,8 @@ sort: by_weight
 祈求	qi qiu
 祈祷	qi dao
 谢谢	xie xie
+超度	chao du
+阿弥陀佛	e mi tuo fo
 写字	xie zi
 手写	shou xie
 指甲油	zhi jia you
@@ -950,6 +953,7 @@ sort: by_weight
 秃头	tu tou
 头秃	tou tu
 脱发	tuo fa
+和尚	he shang
 女人	nv ren
 成年女人	cheng nian nv ren
 成年女性	cheng nian nv xing
@@ -1498,6 +1502,8 @@ sort: by_weight
 干脆面	gan cui mian
 干脆面君	gan cui mian jun
 猫	mao
+猫咪	mao mi
+小猫咪	xiao mao mi
 猫脸	mao lian
 猫头	mao tou
 小猫	xiao mao
@@ -1507,6 +1513,7 @@ sort: by_weight
 喵喵叫	miao miao jiao
 橘猫	ju mao
 黑猫	hei mao
+小黑猫	xiao hei mao
 狮	shi
 狮子	shi zi
 狮脸	shi lian
@@ -1876,6 +1883,7 @@ sort: by_weight
 圆白菜	yuan bai cai
 小白菜	xiao bai cai
 白菜	bai cai
+蔬菜	shu cai
 西兰花	xi lan hua
 花椰菜	hua ye cai
 绿菜花	lv cai hua
@@ -2070,6 +2078,7 @@ sort: by_weight
 纸杯蛋糕	zhi bei dan gao
 派	pai
 油酥点心	you su dian xin
+点心	dian xin
 巧克力	qiao ke li
 巧克力棒	qiao ke li bang
 朱古力	zhu gu li
@@ -2079,6 +2088,7 @@ sort: by_weight
 蛋奶糕	dan nai gao
 甜品	tian pin
 甜点	tian dian
+布丁	bu ding
 蜜罐	mi guan
 蜂蜜	feng mi
 奶瓶	nai ping
@@ -2650,6 +2660,8 @@ sort: by_weight
 七夕节	qi xi jie
 门松	men song
 日本娃娃	ri ben wa wa
+日本人形	ri ben ren xing
+日本人偶	ri ben ren ou
 鲤鱼旗	li yu qi
 风铃	feng ling
 中秋	zhong qiu
@@ -2658,6 +2670,7 @@ sort: by_weight
 观月	guan yue
 赏月	shang yue
 红包	hong bao
+发红包	fa hong bao
 蝴蝶结	hu die jie
 礼物	li wu
 礼品	li pin
@@ -3143,6 +3156,7 @@ sort: by_weight
 标签	biao qian
 吊牌	diao pai
 钱	qian
+金钱	jin qian
 钱袋	qian dai
 工资	gong zi
 奖金	jiang jin
@@ -3718,7 +3732,6 @@ sort: by_weight
 出国	chu guo
 粗美元符号	cu mei yuan fu hao
 货币	huo bi
-金钱	jin qian
 价钱	jia qian
 医疗标志	yi liao biao zhi
 医疗符号	yi liao fu hao
