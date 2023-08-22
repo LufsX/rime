@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-08-11"
+version: "2023-08-23"
 sort: by_weight
 ...
 
@@ -255,6 +255,9 @@ sort: by_weight
 擤鼻涕	xing bi ti
 擤鼻子	xing bi zi
 鼻炎	bi yan
+热	re
+很热	hen re
+好热	hao re
 发热	fa re
 脸发烧	lian fa shao
 辣	la
@@ -264,9 +267,9 @@ sort: by_weight
 热死了	re si le
 爆辣	bao la
 冷	leng
+很冷	hen leng
 冰冷	bing leng
 好冷	hao leng
-很冷	hen leng
 冷冰冰	leng bing bing
 冷脸	leng lian
 冻僵	dong jiang
@@ -2108,9 +2111,12 @@ sort: by_weight
 香槟	xiang bin
 葡萄酒	pu tao jiu
 酒杯	jiu bei
+酒	jiu
 鸡尾酒	ji wei jiu
 热带饮料	re dai yin liao
 热带水果饮料	re dai shui guo yin liao
+水果饮料	shui guo yin liao
+果饮	guo yin
 啤酒	pi jiu
 干杯	gan bei
 碰杯	peng bei
@@ -2126,6 +2132,7 @@ sort: by_weight
 波霸奶茶	bo ba nai cha
 珍珠奶茶	zhen zhu nai cha
 奶茶	nai cha
+一杯奶茶	yi bei nai cha
 果汁盒	guo zhi he
 果汁	guo zhi
 马黛茶	ma dai cha
@@ -2570,6 +2577,7 @@ sort: by_weight
 云	yun
 云彩	yun cai
 云朵	yun duo
+天气	tian qi
 乌云蔽日	wu yun bi ri
 多云	duo yun
 阴天	yin tian
@@ -3632,6 +3640,7 @@ sort: by_weight
 循环播放	xun huan bo fang
 单曲循环	dan qu xun huan
 播放	bo fang
+开始	kai shi
 开始播放	kai shi bo fang
 快进	kuai jin
 快进符号	kuai jin fu hao
@@ -3673,6 +3682,7 @@ sort: by_weight
 无线局域网	wu xian ju yu wang
 无线网	wu xian wang
 无线网络	wu xian wang luo
+网络	wang luo
 震动	zhen dong
 振动模式	zhen dong mo shi
 关机	guan ji
