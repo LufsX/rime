@@ -3,10 +3,7 @@
 
 ---
 name: extended
-version: "2020.12.30"
-sort: by_weight
-vocabulary: essay-zh-hans
-use_preset_vocabulary: true
+version: "2023-08-28"
 
 import_tables:
   # 覆盖词频
