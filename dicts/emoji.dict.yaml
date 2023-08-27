@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-08-23"
+version: "2023-08-28"
 sort: by_weight
 ...
 
@@ -1533,12 +1533,15 @@ sort: by_weight
 豹	bao
 豹子	bao zi
 马	ma
+马儿	ma er
 马脸	ma lian
 马头	ma tou
 驼鹿	tuo lu
 驼鹿脸	tuo lu lian
 驼鹿头	tuo lu tou
 驴	lv
+小驴	xiao lv
+驴儿	lv er
 小马	xiao ma
 骏马	jun ma
 独角兽	du jiao shou
