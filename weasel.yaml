@@ -25,7 +25,7 @@ style:
   preedit_type: composition # 预编辑文本类型
   display_tray_icon: false # 显示系统托盘图标
   mark_text: "" # 标记文本
-  mouse_hover_ms: 0 # 鼠标悬停选词响应时间，若设置过低，鼠标在候选框上时会影响选词，也可将这行注释禁用该功能
+  mouse_hover_ms: 0 # 鼠标悬停选词响应时间，若设置过低，鼠标在候选框上时会影响选词，值为 0 或将这行注释禁用此功能
   paging_on_scroll: false # 鼠标滚轮翻页候选词
   vertical_auto_reverse: false # 垂直排列时自动反转顺序
   vertical_text: false # 垂直文本显示
