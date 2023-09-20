@@ -63,7 +63,7 @@ style:
     shadow_offset_y: 6 # 阴影 Y 轴偏移
     shadow_radius: 13 # 阴影半径
 
-    # Win10 主题差异配置，也可以用于 Win11
+    # Win10 主题差异配置，也可以用于 Win11，但需要把高亮圆角改为 14
     # corner_radius: 10 # 候选条圆角，不需要圆角设置为 0
     # hilite_padding: 18 # 高亮高度
     # hilite_padding_x: 18 # 高亮 x 横向方向边距，可以自行调整
