@@ -26,7 +26,7 @@ style:
   display_tray_icon: false # 显示系统托盘图标
   label_format: "%s" # 候选词标签格式
   mark_text: "" # 标记文本
-  mouse_hover_ms: 0 # 鼠标悬停等待时间
+  mouse_hover_ms: 0 # 鼠标悬停选词响应时间，若设置过低，鼠标在候选框上时会影响选词，也可将这行注释禁用该功能
   paging_on_scroll: false # 鼠标滚轮翻页候选词
   vertical_auto_reverse: false # 垂直排列时自动反转顺序
   vertical_text: false # 垂直文本显示
@@ -51,8 +51,8 @@ style:
     # Win11 主题差异配置
     corner_radius: 14 # 候选圆角半径
     hilite_padding: 6 # 高亮高度
-    hilite_padding_x: 17 # 高亮 X 横向方向边距
-    hilite_padding_y: 17 # 高亮 Y 纵向方向边距
+    hilite_padding_x: 7 # 高亮 X 横向方向边距
+    hilite_padding_y: 7 # 高亮 Y 纵向方向边距
     round_corner: 14 # 高亮圆角
     shadow_offset_y: 6 # 阴影 Y 轴偏移
     shadow_radius: 13 # 阴影半径
@@ -65,6 +65,7 @@ style:
     # round_corner: 0 # 高亮圆角，小狼毫天圆地方此项可设置为 0，也可自行调整
     # shadow_offset_y: 4 # 阴影 Y 轴偏移
     # shadow_radius: 10 # 阴影半径
+    
 
   color_scheme: win11_weasel # 颜色方案
 
