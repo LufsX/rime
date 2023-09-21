@@ -24,14 +24,18 @@ style:
   inline_preedit: true # 在光标位置显示预编辑文本
   preedit_type: composition # 预编辑文本类型
   display_tray_icon: false # 显示系统托盘图标
-  label_format: "%s" # 候选词标签格式
   mark_text: "" # 标记文本
-  mouse_hover_ms: 0 # 鼠标悬停等待时间
+  mouse_hover_ms: 0 # 鼠标悬停选词响应时间，若设置过低，鼠标在候选框上时会影响选词，值为 0 或将这行注释禁用此功能
   paging_on_scroll: false # 鼠标滚轮翻页候选词
   vertical_auto_reverse: false # 垂直排列时自动反转顺序
   vertical_text: false # 垂直文本显示
   vertical_text_left_to_right: false # 垂直文本从左到右显示
   vertical_text_with_wrap: false # 垂直文本自动换行
+  label_format: "%s" # 候选词标签格式
+
+  # win11 主题可选差异配置，让高亮的那一竖线和候选数字有距离：
+  # label_format: "\u2004%s" # 候选词标签格式
+
   layout:
     align_type: center # 布局对齐方式
     max_width: 0 # 最大宽度限制
@@ -43,6 +47,8 @@ style:
     margin_y: 17 # 窗口上下边距
     spacing: 10 # 候选词间距
     candidate_spacing: 50 # 候选词内部间距
+    # 若label_format: "\u2004%s"，使用：
+    # candidate_spacing: 35
     hilite_spacing: 17 # 高亮显示间距
     shadow_offset_x: 5 # 阴影 X 轴偏移
 
@@ -51,13 +57,13 @@ style:
     # Win11 主题差异配置
     corner_radius: 14 # 候选圆角半径
     hilite_padding: 6 # 高亮高度
-    hilite_padding_x: 17 # 高亮 X 横向方向边距
-    hilite_padding_y: 17 # 高亮 Y 纵向方向边距
+    hilite_padding_x: 7 # 高亮 X 横向方向边距
+    hilite_padding_y: 7 # 高亮 Y 纵向方向边距
     round_corner: 14 # 高亮圆角
     shadow_offset_y: 6 # 阴影 Y 轴偏移
     shadow_radius: 13 # 阴影半径
 
-    # Win10 主题差异配置
+    # Win10 主题差异配置，也可以用于 Win11，但需要把高亮圆角改为 14
     # corner_radius: 10 # 候选条圆角，不需要圆角设置为 0
     # hilite_padding: 18 # 高亮高度
     # hilite_padding_x: 18 # 高亮 x 横向方向边距，可以自行调整
@@ -65,6 +71,7 @@ style:
     # round_corner: 0 # 高亮圆角，小狼毫天圆地方此项可设置为 0，也可自行调整
     # shadow_offset_y: 4 # 阴影 Y 轴偏移
     # shadow_radius: 10 # 阴影半径
+
 
   color_scheme: win11_weasel # 颜色方案
 
