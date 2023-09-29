@@ -1,7 +1,7 @@
 import os, sys, re
 
 workDir = os.path.abspath(os.path.dirname(sys.path[0]))
-pattern = re.compile(r'^[\u4e00-\u9fa5]+$')
+pattern = re.compile(r"^[\u4e00-\u9fa5]+$")
 
 with open(
     os.path.join(workDir, "opencc", "emoji_word.txt"), "r", encoding="utf-8"

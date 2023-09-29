@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-08-28"
+version: "2023-09-29"
 sort: by_weight
 ...
 
@@ -112,7 +112,10 @@ sort: by_weight
 抱抱	bao bao
 拥抱	yong bao
 捂嘴	wu zui
-捂着嘴	wu zhe zui
+捂嘴巴	wu zui ba
+捂上嘴巴	wu shang zui ba
+捂住嘴巴	wu zhu zui ba
+捂着嘴巴	wu zhe zui ba
 捂嘴笑	wu zui xiao
 捂着嘴笑	wu zhe zui xiao
 好笑	hao xiao
@@ -210,16 +213,19 @@ sort: by_weight
 颤抖的脸	chan dou de lian
 猛摇头	meng yao tou
 如释重负	ru shi zhong fu
-松了口气	song le kou qi
 松口气	song kou qi
+松了口气	song le kou qi
+松了一口气	song le yi kou qi
 释然	shi ran
 低头忧伤	di tou you shang
 心事重重	xin shi chong chong
 忧虑	you lv
 忧伤	you shang
 困	kun
+困困	kun kun
 困了	kun le
 困倦	kun juan
+困乏	kun fa
 瞌睡	ke shui
 打瞌睡	da ke shui
 口水	kou shui
@@ -263,6 +269,8 @@ sort: by_weight
 辣	la
 辣死	la si
 辣死了	la si le
+超辣	chao la
+超级辣	chao ji la
 热死	re si
 热死了	re si le
 爆辣	bao la
@@ -405,6 +413,7 @@ sort: by_weight
 烦死	fan si
 烦死人	fan si ren
 烦死了	fan si le
+烦死啦	fan si la
 微怒	wei nu
 骂人	ma ren
 咒骂	zhou ma
@@ -500,10 +509,6 @@ sort: by_weight
 捂着耳朵	wu zhe er duo
 我不听	wo bu ting
 非礼勿言	fei li wu yan
-捂嘴巴	wu zui ba
-捂上嘴巴	wu shang zui ba
-捂住嘴巴	wu zhu zui ba
-捂着嘴巴	wu zhe zui ba
 情书	qing shu
 一箭穿心	yi jian chuan xin
 丘比特	qiu bi te
@@ -514,6 +519,8 @@ sort: by_weight
 送你一颗心	song ni yi ke xin
 闪亮的心	shan liang de xin
 爱心	ai xin
+感谢	gan xie
+谢谢	xie xie
 膨胀的心	peng zhang de xin
 膨胀的爱心	peng zhang de ai xin
 搏动的心	bo dong de xin
@@ -585,6 +592,9 @@ sort: by_weight
 唇印	chun yin
 红唇	hong chun
 吻痕	wen hen
+么么	me me
+么么哒	me me da
+一百	yi bai
 一百分	yi bai fen
 满分	man fen
 火大	huo da
@@ -817,7 +827,6 @@ sort: by_weight
 拜托	bai tuo
 祈求	qi qiu
 祈祷	qi dao
-谢谢	xie xie
 超度	chao du
 阿弥陀佛	e mi tuo fo
 写字	xie zi
@@ -1663,6 +1672,8 @@ sort: by_weight
 鹰	ying
 鸭	ya
 鸭子	ya zi
+小鸭子	xiao ya zi
+嘎嘎	ga ga
 天鹅	tian e
 白天鹅	bai tian e
 丑小鸭	chou xiao ya
@@ -2041,6 +2052,9 @@ sort: by_weight
 鱼饼	yu bing
 鱼板	yu ban
 月饼	yue bing
+月团	yue tuan
+丰收饼	feng shou bing
+团圆饼	tuan yuan bing
 团子	tuan zi
 糯米团	nuo mi tuan
 饺子	jiao zi
@@ -2090,6 +2104,8 @@ sort: by_weight
 朱古力	zhu gu li
 朱古力棒	zhu gu li bang
 糖果	tang guo
+糖	tang
+吃糖	chi tang
 棒棒糖	bang bang tang
 蛋奶糕	dan nai gao
 甜品	tian pin
@@ -2098,14 +2114,17 @@ sort: by_weight
 蜜罐	mi guan
 蜂蜜	feng mi
 奶瓶	nai ping
+喝奶	he nai
 一杯奶	yi bei nai
 牛奶杯	niu nai bei
 牛奶	niu nai
 杯子	bei zi
-玻璃杯	bo li bei
 咖啡	ka fei
 咖啡杯	ka fei bei
+喝咖啡	he ka fei
 茶壶	cha hu
+一壶茶	yi hu cha
+一壶	yi hu
 茶	cha
 茶水	cha shui
 茶杯	cha bei
@@ -2120,11 +2139,15 @@ sort: by_weight
 热带水果饮料	re dai shui guo yin liao
 水果饮料	shui guo yin liao
 果饮	guo yin
+冷饮	leng yin
 啤酒	pi jiu
 干杯	gan bei
 碰杯	peng bei
 威士忌	wei shi ji
 平底杯	ping di bei
+一杯酒	yi bei jiu
+一杯	yi bei
+玻璃杯	bo li bei
 倾倒液体	qing dao ye ti
 倾倒	qing dao
 流出	liu chu
@@ -2968,6 +2991,7 @@ sort: by_weight
 钻戒	zuan jie
 求婚戒	qiu hun jie
 订婚戒	ding hun jie
+星钻	xing zuan
 宝石	bao shi
 钻石	zuan shi
 已静音的扬声器	yi jing yin de yang sheng qi
