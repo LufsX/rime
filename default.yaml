@@ -56,9 +56,6 @@ key_binder:
   select_last_character: "bracketright" # lua 选词快捷键，选最后一个字
   bindings:
     # Tab / Shift + Tab 翻页
-    # - { when: composing, accept: Tab, send: Page_Down } # Tab 向下翻页
-    # - { when: composing, accept: Shift+Tab, send: Page_Up } # Shift + Tab 向上翻页
-
     - { when: composing, accept: Tab, send: Page_Down } # Tab 向下翻页
     - { when: composing, accept: Shift+Tab, send: Page_Up } # Shift + Tab 向上翻页
 
