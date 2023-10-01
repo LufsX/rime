@@ -53,24 +53,36 @@ local function last_character(s)
     return utf8_sub(s, -1, -1)
 end
 
+local function get_commit_text(context, fun)
+    local candidate_text = context:get_selected_candidate().text
+    local selected_character = fun(candidate_text)
+
+    context:clear_previous_segment()
+    local commit_text = context:get_commit_text()
+
+    context:clear()
+
+    return commit_text .. selected_character
+end
+
 local function select_character(key, env)
     local engine = env.engine
     local context = engine.context
-    local commit_text = context:get_commit_text()
     local config = engine.schema.config
+
     local first_key = config:get_string('key_binder/select_first_character') or 'bracketleft'
     local last_key = config:get_string('key_binder/select_last_character') or 'bracketright'
 
+    local commit_text = context:get_commit_text()
+
     if (key:repr() == first_key and commit_text ~= "") then
-        engine:commit_text(first_character(commit_text))
-        context:clear()
+        engine:commit_text(get_commit_text(context, first_character))
 
         return 1 -- kAccepted
     end
 
     if (key:repr() == last_key and commit_text ~= "") then
-        engine:commit_text(last_character(commit_text))
-        context:clear()
+        engine:commit_text(get_commit_text(context, last_character))
 
         return 1 -- kAccepted
     end
