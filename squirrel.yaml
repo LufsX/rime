@@ -56,9 +56,9 @@ preset_color_schemes:
     corner_radius: 5
     border_height: 0
     border_width: 0
-    font_face: "LXGWWenKai-Regular,PingFangSC"
+    font_face: "LXGWWenKai-Regular, PingFangSC"
     font_point: 16.5
-    label_font_face: "LXGWWenKai-Regular,PingFangSC"
+    label_font_face: "LXGWWenKai-Regular, PingFangSC"
     label_font_point: 12
 
     color_space: display_p3
@@ -83,7 +83,7 @@ preset_color_schemes:
     border_height: 0
     border_width: 0
     back_color: 0xFFFFFF
-    font_face: "PingFangSC-Regular,HanaMinB"
+    font_face: "PingFangSC-Regular, HanaMinB"
     font_point: 16
     text_color: 0x424242
     label_font_face: "STHeitiSC-Light"

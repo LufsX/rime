@@ -2,7 +2,7 @@
 # encoding: utf-8
 # 修改自: https://github.com/rime/weasel/blob/master/output/data/weasel.yaml
 
-config_version: "2023-09-29"
+config_version: "2023-10-10"
 
 app_options:
   cmd.exe:
@@ -22,7 +22,7 @@ style:
   paging_on_scroll: false # 鼠标滚轮翻页候选词
 
   horizontal: true # 水平排列候选词
-  font_face: Microsoft YaHei # 主要字体
+  font_face: Segoe UI Emoji:30:39, Noto Color Emoji, Microsoft YaHei # 主要字体
   label_font_face: Microsoft YaHei # 标签字体
   comment_font_face: Microsoft YaHei # 注释字体
   font_point: 14 # 主要字体大小
@@ -51,13 +51,15 @@ preset_color_schemes:
     name: "文文／Ayaya"
     author: "Lufs X <i@isteed.cc>"
 
-    back_color: 0xFFFFFF
-    border_color: 0xECE4FC
+    back_color: 0xF9F9F9
+    border_color: 0xE7E7E7
     candidate_text_color: 0x121212
     comment_text_color: 0x8E8E8E
     hilited_candidate_back_color: 0xECE4FC
     hilited_candidate_label_color: 0xB18FF4
     hilited_candidate_text_color: 0x7A40EC
+    hilited_label_color: 0xA483EC
+    hilited_mark_color: 0x7A40EC
     label_color: 0x888785
     text_color: 0x8100EB
 
