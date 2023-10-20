@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-09-29"
+version: "2023-10-20"
 sort: by_weight
 ...
 
@@ -94,6 +94,7 @@ sort: by_weight
 津津有味	jin jin you wei
 美味	mei wei
 吐舌	tu she
+吐舌头	tu she tou
 略略略	lve lve lve
 单眼吐舌	dan yan tu she
 调皮	tiao pi
@@ -192,6 +193,8 @@ sort: by_weight
 翻白眼儿	fan bai yan er
 咬牙切齿	yao ya qie chi
 龇牙咧嘴	zi ya lie zui
+龇牙	zi ya
+咬牙	yao ya
 呼气	hu qi
 叹气	tan qi
 唉	ai
@@ -519,8 +522,6 @@ sort: by_weight
 送你一颗心	song ni yi ke xin
 闪亮的心	shan liang de xin
 爱心	ai xin
-感谢	gan xie
-谢谢	xie xie
 膨胀的心	peng zhang de xin
 膨胀的爱心	peng zhang de ai xin
 搏动的心	bo dong de xin
@@ -827,6 +828,8 @@ sort: by_weight
 拜托	bai tuo
 祈求	qi qiu
 祈祷	qi dao
+感谢	gan xie
+谢谢	xie xie
 超度	chao du
 阿弥陀佛	e mi tuo fo
 写字	xie zi
@@ -2826,6 +2829,7 @@ sort: by_weight
 黑桃	hei tao
 红桃	hong tao
 爱	ai
+心	xin
 红心	hong xin
 心形	xin xing
 方片	fang pian
