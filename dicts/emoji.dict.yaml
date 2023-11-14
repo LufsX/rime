@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-10-20"
+version: "2023-11-14"
 sort: by_weight
 ...
 
@@ -668,6 +668,7 @@ sort: by_weight
 捏合	nie he
 兰花指	lan hua zhi
 捏手指	nie shou zhi
+手指	shou zhi
 一点	yi dian
 一点儿	yi dian er
 一点点	yi dian dian
@@ -703,6 +704,7 @@ sort: by_weight
 打给我	da gei wo
 给我打电话	gei wo da dian hua
 打电话给我	da dian hua gei wo
+六六六	liu liu liu
 反手食指向左指	fan shou shi zhi xiang zuo zhi
 向左指	xiang zuo zhi
 向左	xiang zuo
@@ -1373,6 +1375,7 @@ sort: by_weight
 泛舟	fan zhou
 游泳者	you yong zhe
 游泳	you yong
+泳客	yong ke
 男生游泳	nan sheng you yong
 女生游泳	nv sheng you yong
 篮球运动员	lan qiu yun dong yuan
@@ -2457,6 +2460,7 @@ sort: by_weight
 油桶	you tong
 加油站	jia you zhan
 加油	jia you
+石油	shi you
 车轮	che lun
 轮胎	lun tai
 轮子	lun zi
@@ -2947,6 +2951,7 @@ sort: by_weight
 板鞋	ban xie
 板儿鞋	ban er xie
 休闲鞋	xiu xian xie
+鞋子	xie zi
 登山鞋	deng shan xie
 平底鞋	ping di xie
 高跟鞋	gao gen xie
@@ -3056,6 +3061,7 @@ sort: by_weight
 沙锤	sha chui
 笛子	di zi
 长笛	chang di
+竖笛	shu di
 移动电话	yi dong dian hua
 手机	shou ji
 智能手机	zhi neng shou ji
@@ -3161,7 +3167,9 @@ sort: by_weight
 小红书	xiao hong shu
 第一卷	di yi juan
 书	shu
+图书	tu shu
 书本	shu ben
+书籍	shu ji
 打开的书	da kai de shu
 打开的书本	da kai de shu ben
 绿色的书	lv se de shu
@@ -3176,7 +3184,6 @@ sort: by_weight
 橘色的书	ju se de shu
 橘色书本	ju se shu ben
 第四卷	di si juan
-图书	tu shu
 账簿	zhang bu
 带卷边的纸	dai juan bian de zhi
 卷边的纸	juan bian de zhi
@@ -3244,6 +3251,7 @@ sort: by_weight
 纸箱子	zhi xiang zi
 箱子	xiang zi
 打包	da bao
+盒子	he zi
 信箱	xin xiang
 邮筒	you tong
 邮箱	you xiang
