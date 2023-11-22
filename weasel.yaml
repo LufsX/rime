@@ -2,7 +2,7 @@
 # encoding: utf-8
 # 修改自: https://github.com/rime/weasel/blob/master/output/data/weasel.yaml
 
-config_version: "2023-10-10"
+config_version: "2023-11-23"
 
 app_options:
   cmd.exe:
@@ -35,14 +35,20 @@ style:
   vertical_text_left_to_right: false # 垂直文本从左到右显示
   vertical_text_with_wrap: false # 垂直文本自动换行
 
-  # 这里提供两种不同主题配置，自行切换注释即可
+  # 这里提供三种不同主题预设，自行切换注释即可
   # 必须启用其中一种预设！
 
   # Windows 11 风格预设
-  __include: "weasel:/win11_preset"
+  # 感谢 luminosara https://github.com/LufsX/rime/pull/22、https://github.com/LufsX/rime/pull/26
+  __include: "win11_preset"
+
+  # Windows 10 MDL2 风格预设
+  # 此项风格建议使用 win10_MDL 为前缀的配色方案
+  # 感谢 fbewivpjsbsby https://github.com/LufsX/rime/discussions/29
+  # __include: "win10_MDL_preset"
 
   # Windows 10 风格预设
-  # __include: "weasel:/win10_preset"
+  # __include: "win10_preset"
 
   color_scheme: win11_weasel # 颜色方案
 
@@ -169,6 +175,67 @@ preset_color_schemes:
     shadow_color: 0x20000000 # 阴影颜色，新版小狼毫 CI 更改了绘制，若无法看到阴影，请更改为 000000，观察是否能正常绘制阴影
     text_color: 0x000000 # 拼音文字颜色
 
+  win10_MDL_ayaya:
+    name: "Windows10 文文／Ayaya"
+    author: "Lufs X <i@isteed.cc>"
+
+    back_color: 0xFFFFFF
+    candidate_text_color: 0x121212
+    comment_text_color: 0x8E8E8E
+    hilited_candidate_back_color: 0xECE4FC
+    hilited_label_color: 0xB18FF4
+    hilited_candidate_text_color: 0x7A40EC
+    label_color: 0x888785
+    text_color: 0x8100EB
+
+  win10_MDL_deepgrey:
+    name: "Windows10 Deepgrey"
+    author: fbewivpjsbsby
+
+    text_color: 0x000000
+    candidate_text_color: 0x000000
+    back_color: 0xFFFFFF
+    border_color: 0x7E7969
+    hilited_text_color: 0xFFFFFF
+    hilited_back_color: 0x7E7969
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_candidate_back_color: 0x7E7969
+    hilited_label_color: 0xffffff
+    comment_text_color: 0x888888
+    hilited_comment_text_color: 0xffffff
+
+  win10_MDL_blue:
+    name: "Windows 10 Blue"
+    author: fbewivpjsbsby
+    candidate_text_color: 0x000000
+    comment_text_color: 0x888888
+    text_color: 0x000000
+    back_color: 0xffffff
+    border_color: 0xcc8f29
+    hilited_text_color: 0x000000
+    hilited_back_color: 0xffffff
+    hilited_candidate_text_color: 0xffffff
+    hilited_candidate_back_color: 0xcc8f29
+    hilited_comment_text_color: 0xffffff
+    hilited_label_color: 0xffffff
+    label_color: 0x888888
+
+  win10_MDL_darkblue:
+    name: "Windows 10 Dark Blue"
+    author: fbewivpjsbsby
+    candidate_text_color: 0xf2f2f2
+    comment_text_color: 0x888888
+    text_color: 0xffffff
+    back_color: 0x1f1f1f
+    border_color: 0xa37220
+    hilited_text_color: 0xffffff
+    hilited_back_color: 0x1f1f1f
+    hilited_candidate_text_color: 0xf2f2f2
+    hilited_candidate_back_color: 0xa37220
+    hilited_comment_text_color: 0xffffff
+    hilited_label_color: 0xf2f2f2
+    label_color: 0x888888
+
 win11_preset:
   label_format: "\u2005\u2006%s" # 候选词标签格式
   layout:
@@ -216,3 +283,19 @@ win10_preset:
     round_corner: 0 # 高亮圆角，小狼毫天圆地方此项可设置为 0，也可自行调整
     shadow_offset_y: 4 # 阴影 Y 轴偏移
     shadow_radius: 10 # 阴影半径
+
+win10_MDL_preset:
+  label_format: "%s"
+  font_point: 13
+  label_font_point: 9
+  layout:
+    border_width: 1
+    margin_x: 15
+    margin_y: 10
+    spacing: 10
+    candidate_spacing: 30
+    corner_radius: 0
+    round_corner: 0
+    hilite_spacing: 5
+    hilite_padding_x: 27
+    hilite_padding_y: 15
