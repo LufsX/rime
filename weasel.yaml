@@ -2,7 +2,7 @@
 # encoding: utf-8
 # 修改自: https://github.com/rime/weasel/blob/master/output/data/weasel.yaml
 
-config_version: "2023-11-23"
+config_version: "2023-11-24"
 
 app_options:
   cmd.exe:
@@ -48,6 +48,7 @@ style:
   # __include: "win10_MDL_preset"
 
   # Windows 10 风格预设
+  # 感谢 luminosara https://github.com/LufsX/rime/pull/22、https://github.com/LufsX/rime/pull/26
   # __include: "win10_preset"
 
   color_scheme: win11_weasel # 颜色方案
@@ -291,7 +292,7 @@ win10_MDL_preset:
   layout:
     border_width: 1
     margin_x: 15
-    margin_y: 10
+    margin_y: 2
     spacing: 10
     candidate_spacing: 30
     corner_radius: 0
