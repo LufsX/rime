@@ -41,7 +41,7 @@
 
 ---
 
-- 词库总大小仅 `7.3MB`
+- 词库总大小仅 `7.6MB`
 - 极简的 8105 简体字典
 - 自带长句模型
 - 全简体词库
@@ -51,15 +51,15 @@
 
 # 待办
 
-- [x] 更新搜狗词库 Update: 2023-06-29
+- [x] 更新搜狗词库 Update: 2023-11-29
 - [x] 添加深色主题
 - [x] 添加 Emoji 支持
 - [x] 添加「[同文输入法](https://github.com/osfans/trime)」支持
 - [x] 添加模糊拼音支持
-- [x] 更好的适配「小狼毫」（Thanks [@luminosara](https://github.com/LufsX/rime/pull/22)
+- [x] 更好的适配「小狼毫」（Thanks [@luminosara](https://github.com/LufsX/rime/pull/22)、[@fbewivpjsbsby](https://github.com/LufsX/rime/discussions/29)）
 - [x] 更多双拼方案的支持
+- [x] ~~更好的适配「同文输入法」~~ [fcitx5](https://github.com/fcitx5-android/fcitx5-android) 支持～
 - [ ] 更好的词库与词频？
-- [ ] 更好的适配「同文输入法」
 - [ ] 脚本自动部署/更新
 - [ ] 已有主题的深色支持
 - [ ] 反查支持
