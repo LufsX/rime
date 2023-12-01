@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-11-14"
+version: "2023-12-01"
 sort: by_weight
 ...
 
@@ -210,11 +210,11 @@ sort: by_weight
 骗人	pian ren
 骗人布	pian ren bu
 乌索普	wu suo pu
-摇头	yao tou
 晃脑	huang nao
 摇头晃脑	yao tou huang nao
 颤抖的脸	chan dou de lian
 猛摇头	meng yao tou
+甩头	shuai tou
 如释重负	ru shi zhong fu
 松口气	song kou qi
 松了口气	song le kou qi
@@ -292,6 +292,8 @@ sort: by_weight
 喝醉了	he zui le
 喝多	he duo
 喝多了	he duo le
+昏昏沉沉	hun hun chen chen
+酒醉	jiu zui
 晕	yun
 晕了	yun le
 我晕	wo yun
@@ -756,6 +758,7 @@ sort: by_weight
 大拇指朝上	da mu zhi chao shang
 拇指朝上	mu zhi chao shang
 强	qiang
+好强	hao qiang
 棒	bang
 棒啊	bang a
 真棒	zhen bang
@@ -1684,6 +1687,7 @@ sort: by_weight
 白天鹅	bai tian e
 丑小鸭	chou xiao ya
 猫头鹰	mao tou ying
+鸮	xiao
 渡渡鸟	du du niao
 羽毛	yu mao
 火烈鸟	huo lie niao
@@ -2328,6 +2332,7 @@ sort: by_weight
 雾气笼罩的桥	wu qi long zhao de qiao
 雾蒙蒙	wu meng meng
 雾气	wu qi
+雾都	wu dou
 星光闪闪的夜晚	xing guang shan shan de ye wan
 夜晚	ye wan
 晚上	wan shang
@@ -2462,8 +2467,11 @@ sort: by_weight
 加油	jia you
 石油	shi you
 车轮	che lun
+车轮子	che lun zi
 轮胎	lun tai
 轮子	lun zi
+轱辘	gu lu
+车轱辘	che gu lu
 警车旋转灯	jing che xuan zhuan deng
 警灯	jing deng
 警车灯	jing che deng
@@ -3158,6 +3166,8 @@ sort: by_weight
 居酒屋	ju jiu wu
 灯笼	deng long
 红灯笼	hong deng long
+大红灯笼	da hong deng long
+大红灯笼高高挂	da hong deng long gao gao gua
 油灯	you deng
 笔记本	bi ji ben
 记事本	ji shi ben
