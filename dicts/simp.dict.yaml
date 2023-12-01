@@ -44,16 +44,16 @@ sort: by_weight
 
 ### 扩展，不在《通用规范汉字表》的字:
 𰻝	biang	1
-嬢	niang	1
-薙	ti	1
-菈	la	1
-卻	que	1
-濛	meng	1
-诶	ei	1
-凃	tu	1
-咲	xiao	1
 𤭢	cei	1000
 𤭢了	cei le	1000
+诶	ei	1
+菈	la	1
+濛	meng	1
+嬢	niang	1
+卻	que	1
+薙	ti	1
+凃	tu	1
+咲	xiao	1
 # 注释掉的这几行已经加入到下面并调整到合适的权重了
 # 〇	ling
 # 囧	jiong
@@ -81,8 +81,8 @@ sort: by_weight
 # 噷	hm	在 custom_phrase.txt 里置顶了
 # 呣	m	在 custom_phrase.txt 里放到第三位了
 # 哼	hng	    放到 custom_phrase.txt 里置顶了
-嗯	eng	9179528
 欸	ei	534
+嗯	eng	9179528
 哟	yo	59051
 唷	yo	1
 育	yo	0
