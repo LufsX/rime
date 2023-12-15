@@ -11,10 +11,15 @@ with open(
 lines = text.split("\n")
 
 with open(
-    os.path.join(workDir, "opencc", "emoji_word.txt"), "w", encoding="utf-8"
+    os.path.join(workDir, "opencc", "emoji_word.txt"),
+    "w",
+    encoding="utf-8",
+    newline="\n",
 ) as outFile:
     for line in lines:
         if line:
             parts = line.split("\t")
             if pattern.match(parts[0]):
                 outFile.write(line + "\n")
+
+print("Clear non-Chinese characters successfully")

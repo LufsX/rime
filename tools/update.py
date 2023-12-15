@@ -19,3 +19,5 @@ for path, link in update_url.items():
                 f.write(response.content)
     except Exception as e:
         print(f"{path} 报错: {str(e)}")
+
+print("Update successful")

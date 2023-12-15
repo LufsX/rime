@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-12-01"
+version: "2023-12-15"
 sort: by_weight
 ...
 
@@ -675,6 +675,7 @@ sort: by_weight
 当心儿童	dang xin er tong
 刀	dao
 刀叉	dao cha
+捣蛋	dao dan
 祷告	dao gao
 倒垃圾	dao la ji
 倒脸	dao lian
@@ -1315,6 +1316,7 @@ sort: by_weight
 黑色旗帜	hei se qi zhi
 黑色旗子	hei se qi zi
 黑色小方块	hei se xiao fang kuai
+黑色小鸟	hei se xiao niao
 黑色心	hei se xin
 黑色正方形按钮	hei se zheng fang xing an niu
 黑色中等方块	hei se zhong deng fang kuai
@@ -2216,6 +2218,7 @@ sort: by_weight
 美容	mei rong
 美容美发	mei rong mei fa
 美式橄榄球	mei shi gan lan qiu
+美式足球	mei shi zu qiu
 美属萨摩亚	mei shu sa mo ya
 美属维尔京群岛	mei shu wei er jing qun dao
 美味	mei wei
@@ -2719,6 +2722,7 @@ sort: by_weight
 旗杆上的三角旗	qi gan shang de san jiao qi
 奇怪	qi guai
 奇怪了	qi guai le
+麒麟鹿	qi lin lu
 骑马	qi ma
 气泡	qi pao
 祈求	qi qiu
@@ -4001,6 +4005,7 @@ sort: by_weight
 扬手欢呼	yang shou huan hu
 洋蒜	yang suan
 羊驼	yang tuo
+羊羊	yang yang
 洋芋	yang yu
 药草	yao cao
 摇杆	yao gan

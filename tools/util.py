@@ -14,7 +14,7 @@ def deduplicate(src_file, dest_file):
                 if stripped_line != "":
                     lines_seen.add(stripped_line)
 
-    with open(dest_file, "w", encoding="utf-8") as file:
+    with open(dest_file, "w", encoding="utf-8", newline="\n") as file:
         file.writelines(output_lines)
 
 
@@ -80,7 +80,7 @@ def sort(src_file, dest_file):
                 part_to_sort,
                 key=lambda x: x.split("\t")[1] if len(x.split("\t")) > 1 else "",
             )
-        with open(dest_file, "w", encoding="utf-8") as f:
+        with open(dest_file, "w", encoding="utf-8", newline="\n") as f:
             f.writelines(info + wait_to_write)
     elif format_type == 3:
         wait_to_write = []
@@ -114,7 +114,7 @@ def sort(src_file, dest_file):
                     else 0,
                 ),
             )
-        with open(dest_file, "w", encoding="utf-8") as f:
+        with open(dest_file, "w", encoding="utf-8", newline="\n") as f:
             f.writelines(info + wait_to_write)
 
 
@@ -131,3 +131,5 @@ if __name__ == "__main__":
                 print(f"Processing {file_path}")
                 deduplicate(file_path, file_path)
                 sort(file_path, file_path)
+
+    print("Processing completed")

@@ -2,7 +2,7 @@ import os, sys, re, datetime
 from pypinyin import pinyin, Style
 
 workDir = os.path.abspath(os.path.dirname(sys.path[0]))
-pattern = re.compile(r'^[\u4e00-\u9fa5]+$')
+pattern = re.compile(r"^[\u4e00-\u9fa5]+$")
 
 # now = datetime.datetime.now().strftime("%Y-%m-%d")
 # dateStr = now.strftime("%Y-%m-%d")
@@ -27,7 +27,10 @@ lines = text.split("\n")
 
 
 with open(
-    os.path.join(workDir, "dicts", "emoji.dict.yaml"), "w", encoding="utf-8"
+    os.path.join(workDir, "dicts", "emoji.dict.yaml"),
+    "w",
+    encoding="utf-8",
+    newline="\n",
 ) as outFile:
     outFile.write(infoStr)
     for line in lines:
@@ -39,3 +42,5 @@ with open(
             if pattern.match(name):
                 # print(f"{name}\t{pinyin_name}")
                 outFile.write(f"{name}\t{pinyin_name}\n")
+
+print("Emoji to dictionary successfully")
