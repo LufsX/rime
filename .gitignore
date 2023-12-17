@@ -1,11 +1,10 @@
 
+*.custom.yaml
 .DS_Store
 /*.userdb/
 /build/
 /rime.wiki/
 /sync/
 /test/
-default.custom.yaml
 installation.yaml
 user.yaml
-weasel.custom.yaml
