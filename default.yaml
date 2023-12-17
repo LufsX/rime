@@ -35,11 +35,16 @@ punctuator:
 
 recognizer:
   patterns:
-    camel: "[a-z]+[A-Z].*$"
-    email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
-    html: "^<[a-z]+>$"
-    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
-    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
+    # 禁止部分输入的自动上屏
+    camel: "[a-z]+[A-Z].*$" # 驼峰命名
+    email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$" # email 地址
+    html: "^<[a-z]+>$" # HTML TAG
+    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$" # 大写开头
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$" # URL 输入
+
+    # 响应功能
+    punct: "^/([0-9]0?|[A-Za-z]+)$" # 响应 lufs_symbols.yaml 内的输入
+    unicode: "^U[a-f0-9]+" # 响应 Unicode
 
 ascii_composer:
   good_old_caps_lock: true

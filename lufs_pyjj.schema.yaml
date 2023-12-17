@@ -4,15 +4,15 @@
 schema:
   schema_id: lufs_pyjj
   name: 拼音加加双拼
-  version: "2023-06-29"
+  version: "2023-12-18"
   author:
     - Modified by Lufs_X <i@isteed.cc>
   description: |
     拼音加加双拼方案
 
 switches:
-  - name: ascii_mode
-    reset: 0
+  - name: ascii_mode # 未启用 ascii_composer 时，该项无意义
+    reset: 0 # 默认状态: 0 中文输入 1 英文输入
     states: [中文, 西文]
   - name: full_shape
     states: [半角, 全角]
@@ -165,9 +165,6 @@ key_binder:
 
 recognizer:
   import_preset: default
-  patterns:
-    punct: "^/([0-9]0?|[A-Za-z]+)$" # 响应 lufs_symbols.yaml 内的输入
-    unicode: "^U[a-f0-9]+" # 响应 Unicode
 
 custom_phrase:
   dictionary: ""
