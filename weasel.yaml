@@ -2,13 +2,18 @@
 # encoding: utf-8
 # 修改自: https://github.com/rime/weasel/blob/master/output/data/weasel.yaml
 
-config_version: "2023-11-24"
+config_version: "2023-12-17"
 
 app_options:
   cmd.exe:
     ascii_mode: true
   conhost.exe:
     ascii_mode: true
+
+# 在何时会显示切换通知
+# 可用选项: always, never, 或 ascii_mode, ascii_punct, shape, simplification, schema 的任意组合
+# 例如 ascii_mode+shape+schema
+show_notifications_when: always
 
 style:
   antialias_mode: default # 抗锯齿模式
@@ -20,6 +25,8 @@ style:
   preedit_type: composition # 预编辑文本类型
   mouse_hover_ms: 0 # 鼠标悬停选词响应时间，若设置过低，鼠标在候选框上时会影响选词，值为 0 或将这行注释禁用此功能
   paging_on_scroll: false # 鼠标滚轮翻页候选词
+  click_to_capture: false # 点击候选窗口时进行捕获操作
+  candidate_abbreviate_length: 0 # 最长候选长度，值为 0 或将这行注释禁用此功能
 
   horizontal: true # 水平排列候选词
   font_face: Segoe UI Emoji:30:39, Noto Color Emoji, Microsoft YaHei # 主要字体
@@ -52,6 +59,7 @@ style:
   # __include: "win10_preset"
 
   color_scheme: win11_weasel # 颜色方案
+  color_scheme_dark: win11_weasel # 暗色模式下的颜色方案
 
 preset_color_schemes:
   ayaya:
@@ -238,7 +246,7 @@ preset_color_schemes:
     label_color: 0x888888
 
 win11_preset:
-  label_format: "\u2005\u2006%s" # 候选词标签格式
+  label_format: "\u2006%s" # 候选词标签格式
   layout:
     align_type: center # 布局对齐方式
     max_width: 0 # 最大宽度限制
