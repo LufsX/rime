@@ -1,7 +1,7 @@
 # Rime default settings
 # encoding: utf-8
 
-config_version: "2023-05-08"
+config_version: "2023-12-18"
 
 schema_list:
   - schema: lufs_flypy # 小鹤双拼

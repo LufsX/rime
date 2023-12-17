@@ -1,13 +1,15 @@
 # Squirrel settings
 # encoding: utf-8
 # 修改自: https://github.com/rime/squirrel/blob/master/data/squirrel.yaml
+#
+# COMMIT SHA: 7c399be5d6d07d76dfdba3ba9f7f5639fc01284a
 
 config_version: "2023-05-09"
 
-# 选项：last | default | _custom_
+# 可用选项：last | default | _custom_
 # last：上次使用的拉丁字母键盘布局
 # default：美国（ABC）键盘布局
-# _custom_：选择了的键盘布局，例如 'com.apple.keylayout.USExtended' 或更简单的 'USExtended'
+# _custom_：键盘布局，例如 'com.apple.keylayout.USExtended' 或简写的 'USExtended'
 keyboard_layout: last
 
 # 给打字贼快的家伙们设置的按键持续时间（
@@ -17,14 +19,14 @@ chord_duration: 0.1 # seconds
 show_notifications_when: appropriate
 show_notifications_via_notification_center: true
 
-app_options: {} # 清除应用默认输入法，防止无法输入中文（通过 Caps 切换中英文）
+app_options: {} # 清除应用默认输入法，防止无法输入中文（建议通过 Caps 切换中英文）
 
 style:
-  color_scheme: ayaya
-  color_scheme_dark: ayaya # 指定深色模式时输入法所使用的主题
+  color_scheme: ayaya # 主题方案
+  color_scheme_dark: ayaya # 指定深色模式时输入法所使用的主题方案
   translucency: true # 背景半透明总开关，不需要关掉即可
 
-  # 以下为鼠须管默认主题设置
+  # 以下为鼠须管默认设置
   # candidate_list_layout: stacked  # stacked | linear
   text_orientation: horizontal # horizontal | vertical
   inline_preedit: true
@@ -44,7 +46,7 @@ style:
   comment_font_point: 18
 
 preset_color_schemes:
-  # 关于主题中的各个参数说明，详见文件末尾
+  # 关于主题中的各个设置项的说明，详见文件末尾
   ayaya:
     name: "文文／Ayaya"
     author: "Lufs X <i@isteed.cc>"

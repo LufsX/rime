@@ -1,8 +1,10 @@
 # Weasel settings
 # encoding: utf-8
 # 修改自: https://github.com/rime/weasel/blob/master/output/data/weasel.yaml
+#
+# COMMIT SHA: bed5a19b360225ca466a1ad252a48c440d4daf79
 
-config_version: "2023-12-17"
+config_version: "2023-12-18"
 
 app_options:
   cmd.exe:
@@ -16,31 +18,8 @@ app_options:
 show_notifications_when: always
 
 style:
-  antialias_mode: default # 抗锯齿模式
-  ascii_tip_follow_cursor: false # ASCII提示跟随光标
-  display_tray_icon: false # 显示系统托盘图标
-
-  fullscreen: false # 全屏候选词窗口
-  inline_preedit: true # 在光标位置显示预编辑文本
-  preedit_type: composition # 预编辑文本类型
-  mouse_hover_ms: 0 # 鼠标悬停选词响应时间，若设置过低，鼠标在候选框上时会影响选词，值为 0 或将这行注释禁用此功能
-  paging_on_scroll: false # 鼠标滚轮翻页候选词
-  click_to_capture: false # 点击候选窗口时进行捕获操作
-  candidate_abbreviate_length: 0 # 最长候选长度，值为 0 或将这行注释禁用此功能
-
-  horizontal: true # 水平排列候选词
-  font_face: Segoe UI Emoji:30:39, Noto Color Emoji, Microsoft YaHei # 主要字体
-  label_font_face: Microsoft YaHei # 标签字体
-  comment_font_face: Microsoft YaHei # 注释字体
-  font_point: 14 # 主要字体大小
-  label_font_point: 14 # 标签字体大小
-  comment_font_point: 14 # 注释字体大小
-  mark_text: "" # 标记文本
-
-  vertical_auto_reverse: false # 垂直排列时自动反转顺序
-  vertical_text: false # 垂直文本显示
-  vertical_text_left_to_right: false # 垂直文本从左到右显示
-  vertical_text_with_wrap: false # 垂直文本自动换行
+  color_scheme: win11_weasel # 主题方案
+  color_scheme_dark: win11_weasel # 暗色模式下的主题方案
 
   # 这里提供三种不同主题预设，自行切换注释即可
   # 必须启用其中一种预设！
@@ -50,7 +29,7 @@ style:
   __include: "win11_preset"
 
   # Windows 10 MDL2 风格预设
-  # 此项风格建议使用 win10_MDL 为前缀的配色方案
+  # 此项风格建议使用 win10_MDL 为前缀的主题方案
   # 感谢 fbewivpjsbsby https://github.com/LufsX/rime/discussions/29
   # __include: "win10_MDL_preset"
 
@@ -58,8 +37,34 @@ style:
   # 感谢 luminosara https://github.com/LufsX/rime/pull/22、https://github.com/LufsX/rime/pull/26
   # __include: "win10_preset"
 
-  color_scheme: win11_weasel # 颜色方案
-  color_scheme_dark: win11_weasel # 暗色模式下的颜色方案
+  # 以下是其它的设置
+
+  antialias_mode: default # 抗锯齿模式
+  ascii_tip_follow_cursor: false # 切换 ASCII 模式时，提示跟随光标
+  display_tray_icon: false # 显示系统托盘图标
+  fullscreen: false # 演示模式（全屏的輸入窗口）
+
+  click_to_capture: false # 点击输入法时捕获截图到剪贴板
+  mouse_hover_ms: 0 # 鼠标悬停选词响应时间，若设置过低，鼠标在候选框上时会影响选词，值为 0 或将这行注释禁用此功能
+  paging_on_scroll: false # 鼠标滚轮翻页候选栏
+
+  inline_preedit: true # 在光标位置显示预编辑文本
+  preedit_type: composition # 预编辑文本类型 composition(编码); preview(高亮候选); preview_all(全部候选)
+  candidate_abbreviate_length: 0 # 最长候选长度，多出来的将被…代替，值为 0 或将这行注释禁用此功能
+
+  horizontal: true # 水平排列候选栏
+  font_face: Segoe UI Emoji:30:39, Noto Color Emoji, Microsoft YaHei # 主要字体
+  label_font_face: Microsoft YaHei # 标签字体
+  comment_font_face: Microsoft YaHei # 注释字体
+  font_point: 14 # 主要字体大小
+  label_font_point: 14 # 标签字体大小
+  comment_font_point: 14 # 注释字体大小
+  mark_text: "" # 高亮标记字符，显示在选中的候选标签前
+
+  vertical_auto_reverse: false # 垂直排列时自动反转顺序
+  vertical_text: false # 垂直文本显示
+  vertical_text_left_to_right: false # 垂直文本从左到右显示
+  vertical_text_with_wrap: false # 垂直文本自动换行
 
 preset_color_schemes:
   ayaya:
@@ -246,7 +251,7 @@ preset_color_schemes:
     label_color: 0x888888
 
 win11_preset:
-  label_format: "\u2006%s" # 候选词标签格式
+  label_format: "\u2006%s" # 候选栏标签格式
   layout:
     align_type: center # 布局对齐方式
     max_width: 0 # 最大宽度限制
@@ -256,11 +261,11 @@ win11_preset:
     border_width: 1 # 窗口边框宽度
     margin_x: 16 # 窗口左右边距
     margin_y: 14 # 窗口上下边距
-    spacing: 18 # 候选词间距
+    spacing: 18 # 候选栏间距
     hilite_spacing: 14 # 高亮显示间距
     shadow_offset_x: 6 # 阴影 X 轴偏移
 
-    candidate_spacing: 25 # 候选词内部间距
+    candidate_spacing: 25 # 候选栏内部间距
     corner_radius: 12 # 候选圆角半径
     hilite_padding: 5 # 高亮高度
     hilite_padding_x: 7 # 高亮 X 横向方向边距
@@ -270,7 +275,7 @@ win11_preset:
     shadow_radius: 13 # 阴影半径
 
 win10_preset:
-  label_format: "%s" # 候选词标签格式
+  label_format: "%s" # 候选栏标签格式
   layout:
     align_type: center # 布局对齐方式
     max_width: 0 # 最大宽度限制
@@ -280,11 +285,11 @@ win10_preset:
     border_width: 2 # 窗口边框宽度
     margin_x: 17 # 窗口左右边距
     margin_y: 17 # 窗口上下边距
-    spacing: 10 # 候选词间距
+    spacing: 10 # 候选栏间距
     hilite_spacing: 17 # 高亮显示间距
     shadow_offset_x: 5 # 阴影 X 轴偏移
 
-    candidate_spacing: 50 # 候选词内部间距
+    candidate_spacing: 50 # 候选栏内部间距
     corner_radius: 10 # 候选条圆角，不需要圆角设置为 0
     hilite_padding: 18 # 高亮高度
     hilite_padding_x: 18 # 高亮 x 横向方向边距，可以自行调整
