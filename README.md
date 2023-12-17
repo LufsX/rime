@@ -13,6 +13,10 @@
 
 安装方法见 [仓库 Wiki](https://github.com/LufsX/rime/wiki/安装输入法方案) 或见 [我的 Rime 配置文件～](https://blog.isteed.cc/post/rime-2022/#安装)
 
+# 定制
+
+定制方法见 [仓库 Wiki](https://github.com/LufsX/rime/wiki/定制指南) 及 [鼠须管配置使用～](https://blog.isteed.cc/post/squirrel-customization-2022/)
+
 # 特性
 
 - 全拼 + 常见双拼
@@ -59,8 +63,8 @@
 - [x] 更好的适配「小狼毫」（Thanks [@luminosara](https://github.com/LufsX/rime/pull/22)、[@fbewivpjsbsby](https://github.com/LufsX/rime/discussions/29)）
 - [x] 更多双拼方案的支持
 - [x] ~~更好的适配「同文输入法」~~ [fcitx5](https://github.com/fcitx5-android/fcitx5-android) 支持～
+- [x] 脚本自动部署/更新（使用 [东风破 /plum/](https://github.com/rime/plum)）
 - [ ] 更好的词库与词频？
-- [ ] 脚本自动部署/更新
 - [ ] 已有主题的深色支持
 - [ ] 反查支持
 
