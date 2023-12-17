@@ -1,0 +1,19 @@
+# encoding: utf-8
+---
+recipe:
+  Rx: tools/recipes/install
+  description: >-
+    Full install LufsX/rime
+install_files: >-
+  custom_phrase.txt
+  default.yaml
+  dicts/*.*
+  extended.dict.yaml
+  lua/*.*
+  lua/*/*.*
+  lufs*.yaml
+  opencc/*.*
+  rime.lua
+  squirrel.yaml
+  weasel.yaml
+  zh-hans-t-essay-bgw.gram

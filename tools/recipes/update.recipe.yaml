@@ -1,0 +1,9 @@
+# encoding: utf-8
+---
+recipe:
+  Rx: tools/recipes/update
+  description: >-
+    Update dicts and opencc only
+install_files: >-
+  dicts/*.*
+  opencc/*.*

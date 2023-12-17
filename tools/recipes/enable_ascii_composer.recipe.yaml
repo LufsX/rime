@@ -1,0 +1,20 @@
+# encoding: utf-8
+---
+recipe:
+  Rx: tools/recipes/enable_ascii_composer
+  description: >-
+    Enable ascii composer for all schema
+patch:
+  engine/processors/@before 0: ascii_composer
+
+patch_files:
+  lufs_dpy.schema.yaml:
+    - engine/processors/@before 0: ascii_composer
+  lufs_flypy.schema.yaml:
+    - engine/processors/@before 0: ascii_composer
+  lufs_mspy.schema.yaml:
+    - engine/processors/@before 0: ascii_composer
+  lufs_pinyin.schema.yaml:
+    - engine/processors/@before 0: ascii_composer
+  lufs_pyjj.schema.yaml:
+    - engine/processors/@before 0: ascii_composer
