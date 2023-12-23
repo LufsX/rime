@@ -22,8 +22,8 @@ show_notifications_via_notification_center: true
 app_options: {} # 清除应用默认输入法，防止无法输入中文（建议通过 Caps 切换中英文）
 
 style:
-  color_scheme: ayaya # 主题方案
-  color_scheme_dark: ayaya # 指定深色模式时输入法所使用的主题方案
+  color_scheme: reimu # 主题方案
+  color_scheme_dark: reimu_dark # 指定深色模式时输入法所使用的主题方案
   translucency: true # 背景半透明总开关，不需要关掉即可
 
   # 以下为鼠须管默认设置
@@ -51,50 +51,171 @@ preset_color_schemes:
     name: "文文／Ayaya"
     author: "Lufs X <i@isteed.cc>"
 
-    alpha: 0.95
-    horizontal: true
-    inline_preedit: true
+    font_face: "LXGWWenKai-Regular"
+    font_point: 16.5
+    label_font_face: "LXGWWenKai-Regular"
+    label_font_point: 12
+
     candidate_format: "%c\u2005%@"
+    candidate_list_layout: linear
+    text_orientation: horizontal
+    inline_preedit: true
+
     corner_radius: 5
+    hilited_corner_radius: 0
     border_height: 0
     border_width: 0
-    font_face: "LXGWWenKai-Regular, PingFangSC"
-    font_point: 16.5
-    label_font_face: "LXGWWenKai-Regular, PingFangSC"
-    label_font_point: 12
+    alpha: 0.95
+    shadow_size: 0
 
     color_space: display_p3
     back_color: 0xFFFFFF
     border_color: 0xECE4FC
     candidate_text_color: 0x121212
     comment_text_color: 0x8E8E8E
-    hilited_candidate_back_color: 0xECE4FC
-    hilited_candidate_label_color: 0xB18FF4
-    hilited_candidate_text_color: 0x7A40EC
     label_color: 0x888785
+    hilited_candidate_back_color: 0xECE4FC
+    hilited_candidate_text_color: 0x7A40EC
+    hilited_comment_text_color: 0x8E8E8E
+    hilited_candidate_label_color: 0xB18FF4
     text_color: 0x8100EB
+    hilited_text_color: 0xD8000000
 
-  apathy:
-    name: 冷漠／Apathy
-    author: LIANG Hai
-    alpha: 0.95
-    horizontal: true
-    inline_preedit: true
+  ayaya_dark:
+    name: "文文／Ayaya"
+    author: "Lufs X <i@isteed.cc>"
+
+    font_face: "LXGWWenKai-Regular"
+    font_point: 16.5
+    label_font_face: "LXGWWenKai-Regular"
+    label_font_point: 12
+
     candidate_format: "%c\u2005%@"
+    candidate_list_layout: linear
+    text_orientation: horizontal
+    inline_preedit: true
+
     corner_radius: 5
+    hilited_corner_radius: 0
     border_height: 0
     border_width: 0
-    back_color: 0xFFFFFF
-    font_face: "PingFangSC-Regular, HanaMinB"
+    alpha: 0.95
+    shadow_size: 0
+
+    color_space: display_p3
+    back_color: 0x000000
+    border_color: 0xECE4FC
+    candidate_text_color: 0xD2D2D2
+    comment_text_color: 0x8E8E8E
+    label_color: 0x888785
+    hilited_candidate_back_color: 0x2C1E3C
+    hilited_candidate_text_color: 0x7036E2
+    hilited_comment_text_color: 0x8E8E8E
+    hilited_candidate_label_color: 0x7036E2
+    text_color: 0x8100EB
+    hilited_text_color: 0xD8000000
+
+  reimu:
+    name: "灵梦／Reimu"
+    author: "Lufs X <i@isteed.cc>"
+
+    font_face: "LXGWWenKai-Regular"
+    font_point: 17
+    label_font_face: "LXGWWenKai-Regular"
+    label_font_point: 14
+
+    candidate_format: "%c\u2005%@"
+    candidate_list_layout: linear
+    text_orientation: horizontal
+    inline_preedit: true
+
+    corner_radius: 7
+    hilited_corner_radius: 6
+    border_height: 1
+    border_width: 1
+    alpha: 0.95
+    shadow_size: 2
+
+    color_space: display_p3
+    back_color: 0xF5FCFD
+    back_color: 0xF5FCFD
+    candidate_text_color: 0x282C32
+    comment_text_color: 0x717172
+    label_color: 0x888785
+    hilited_candidate_back_color: 0xF5FCFD
+    hilited_candidate_text_color: 0x4F00E5
+    hilited_comment_text_color: 0x9F9CF2
+    hilited_candidate_label_color: 0x4F00E5
+    text_color: 0x6B54E9
+    hilited_text_color: 0xD8000000
+
+  reimu_dark:
+    name: "灵梦／Reimu"
+    author: "Lufs X <i@isteed.cc>"
+
+    font_face: "LXGWWenKai-Regular"
+    font_point: 17
+    label_font_face: "LXGWWenKai-Regular"
+    label_font_point: 14
+
+    candidate_format: "%c\u2005%@"
+    candidate_list_layout: linear
+    text_orientation: horizontal
+    inline_preedit: true
+
+    corner_radius: 7
+    hilited_corner_radius: 6
+    border_height: 1
+    border_width: 1
+    alpha: 0.95
+    shadow_size: 2
+
+    color_space: display_p3
+    back_color: 0x020A00
+    border_color: 0x020A00
+    candidate_text_color: 0xC0C0C0
+    comment_text_color: 0x717172
+    label_color: 0x717172
+    hilited_candidate_back_color: 0x0C140A
+    hilited_candidate_text_color: 0x3100C7
+    hilited_comment_text_color: 0x7772AF
+    hilited_candidate_label_color: 0x3100C7
+    text_color: 0x6B54E9
+    hilited_text_color: 0xD8000000
+
+  apathy:
+    name: "冷漠／Apathy"
+    author: LIANG Hai
+
+    font_face: "PingFangSC-Regular"
     font_point: 16
-    text_color: 0x424242
     label_font_face: "STHeitiSC-Light"
     label_font_point: 12
-    hilited_candidate_text_color: 0xEE6E00
-    hilited_candidate_back_color: 0xFFF0E4
+
+    candidate_format: "%c\u2005%@"
+    candidate_list_layout: linear
+    text_orientation: horizontal
+    inline_preedit: true
+
+    corner_radius: 5
+
+    alpha: 0.95
+    color_space: srgb
+    back_color: 0xFFFFFF
+    candidate_text_color: 0xD8000000
     comment_text_color: 0x999999
+    label_color: 0xE5555555
+    hilited_candidate_back_color: 0xFFF0E4
+    hilited_candidate_text_color: 0xEE6E00
+    hilited_comment_text_color: 0x999999
+    hilited_candidate_label_color: 0xF4994C
+    text_color: 0x424242
+    hilited_text_color: 0xD8000000
 
   win10:
+    name: "WIN10"
+    author: "Lufs X <i@isteed.cc>"
+
     candidate_text_color: 0x000000
     comment_text_color: 0x888888
     text_color: 0x000000
@@ -126,6 +247,9 @@ preset_color_schemes:
     candidate_format: "%c\u2005%@ "
 
   win10_ayaya:
+    name: "WIN10／文文／Ayaya"
+    author: "Lufs X <i@isteed.cc>"
+
     label_format: "%s"
     font_point: 16
     label_font_point: 12
@@ -217,13 +341,13 @@ preset_color_schemes:
     candidate_format: "%c\u2004%@"
     horizontal: true
     inline_preedit: true
-    corner_radius: 7.0
-    hilited_corner_radius: 6.0
+    corner_radius: 7
+    hilited_corner_radius: 6
     base_offset: -0.2
-    border_height: 1.0
-    border_width: 2.0
+    border_height: 1
+    border_width: 2
     border_color_width: 0
-    line_spacing: 1.0
+    line_spacing: 1
     color_space: display_p3
     back_color: 0xFFFFFF
     border_color: 0xFFFFFF
@@ -250,13 +374,13 @@ preset_color_schemes:
     candidate_format: "%c\u2004%@"
     horizontal: true
     inline_preedit: true
-    corner_radius: 7.0
-    hilited_corner_radius: 6.0
+    corner_radius: 7
+    hilited_corner_radius: 6
     base_offset: -0.2
-    border_height: 1.0
-    border_width: 2.0
+    border_height: 1
+    border_width: 2
     border_color_width: 0
-    line_spacing: 1.0
+    line_spacing: 1
     color_space: display_p3
     back_color: 0x1E1F24
     border_color: 0x1E1F24
