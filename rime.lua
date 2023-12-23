@@ -21,3 +21,7 @@ single_char_only = require("candidate_sorting.single_char_only")
 -- unicode_input: Unicode 输入
 -- 详见 `lua/candidate_sorting/unicode_input.lua`
 unicode_input = require("unicode_input")
+
+-- 降低部分英语单词在候选项的位置
+-- 详见 `lua/reduce_english_filter`
+reduce_english_filter = require("reduce_english_filter")

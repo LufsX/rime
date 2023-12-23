@@ -175,3 +175,19 @@ custom_phrase:
   enable_completion: false
   enable_sentence: true
   initial_quality: 1
+
+# melt_eng 的 patch
+__patch:
+  - schema/dependencies: melt_eng
+  - engine/filters/@before last: lua_filter@reduce_english_filter # 降低部分英语单词在候选项的位置
+  - engine/translators/@after 0: table_translator@melt_eng # 英文输入
+  - speller/alphabet: zyxwvutsrqponmlkjihgfedcba/ZYXWVUTSRQPONMLKJIHGFEDCBA
+  - melt_eng/dictionary: melt_eng # 挂载词库 melt_eng.dict.yaml
+  - melt_eng/enable_sentence: false # 禁止造句
+  - melt_eng/enable_user_dict: false # 禁用用户词典
+  - melt_eng/initial_quality: 1.1 # 初始权重
+  - melt_eng/comment_format: xform/.*// # 清空提示码
+  - reduce_english_filter/mode: custom # all | none | custom
+  - reduce_english_filter/idx: 2 # 降低到第 idx 个位置
+  - reduce_english_filter/words: [aid, ann, bail, bait, bam, band, bans, bat, bay, bend, bent, benz, bib, bid, bien, biz, boc, bop, bos, bud, buf, cab, cad, cain, cam, cans, cap, cas, cef, chad, chan, chap, chef, cher, chew, chic, chin, chip, chit, coup, cum, cunt, cur, dab, dag, dal, dam, dent, dew, dial, diet, dim, din, dip, dis, dit, doug, dub, dug, dunn, fab, fax, fob, fog, foul, fur, gag, gail, gain, gal, gam, gaol, ged, gel, ger, guam, gus, gut, hail, ham, hank, hans, hat, hay, heil, heir, hem, hep, hud, hum, hung, hunk, hut, jim, jug, kat, lab, lad, lag, laid, lam, laos, lap, lat, lax, lay, led, leg, lex, liam, lib, lid, lied, lien, lies, linn, lip, lit, liz, lob, lug, lund, lung, lux, mag, maid, mann, mar, mat, med, mel, mend, mens, ment, mil, mins, mint, mob, moc, mod, mop, mos, mot, mud, mug, mum, nail, nap, nat, nay, neil, nib, nip, noun, nous, nun, nut, pac, paid, pail, pain, pair, pak, pal, pam, pans, pant, pap, par, pat, paw, pax, pens, pic, pier, pies, pins, pint, pit, pix, pod, pop, pos, pot, pour, pow, pub, rand, rant, rent, rep, res, ret, rex, rib, rid, rig, rim, rub, rug, rum, runs, sac, sail, sal, sam, sans, sap, saw, sax, sew, sham, shaw, shin, sig, sin, sip, sis, suit, sung, suns, sup, sur, sus, tad, tail, taj, tar, tax, tec, ted, tel, ter, tex, tic, tied, tier, ties, tim, tin, tit, tour, tout, tum, wag, wand, womens, wap, wax, weir, won, yan, yen]
+  - translator/initial_quality: 1.2

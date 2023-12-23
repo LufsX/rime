@@ -1,0 +1,21 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 挂载英文输入方案的词库
+#
+
+---
+name: melt_eng
+version: "2023-05-09"
+import_tables:
+  - dicts/en/en_ext # 补充（里面有些许带权重的，且和 en 重复，需要把 en_ext 放在上面）
+  - dicts/en/en # 英文主词库
+
+  # 中英混输词库
+  # - dicts/en/cn_en # 全拼
+  # - dicts/en/cn_en_double_pinyin # 自然码双拼
+  - dicts/en/cn_en_double_pinyin_flypy # 小鹤双拼
+  # - dicts/en/cn_en_double_pinyin_mspy # 微软双拼
+  # - dicts/en/cn_en_double_pinyin_sogou # 搜狗双拼
+  # - dicts/en/cn_en_double_pinyin_ziguang # 紫光双拼
+  # - dicts/en/cn_en_double_pinyin_abc # 智能 ABC 双拼
