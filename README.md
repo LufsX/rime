@@ -26,7 +26,7 @@
 - 快捷输入（日期，星期，时间，timestamp）
 - 以词定字
 - 好看的皮肤～
-  - 详见 [仓库 Wiki](<https://github.com/LufsX/rime/wiki/皮肤预览(macOS)>)
+  - 详见 [仓库 Wiki](<https://github.com/LufsX/rime/wiki/皮肤预览(macOS)>) 或 [我的 Rime 配置文件～](https://blog.isteed.cc/post/rime-2022/#皮肤)
 
 ---
 
@@ -64,8 +64,8 @@
 - [x] 更多双拼方案的支持
 - [x] ~~更好的适配「同文输入法」~~ [fcitx5](https://github.com/fcitx5-android/fcitx5-android) 支持～
 - [x] 脚本自动部署/更新（使用 [东风破 /plum/](https://github.com/rime/plum)）
+- [x] 已有主题的深色支持
 - [ ] 更好的词库与词频？
-- [ ] 已有主题的深色支持
 - [ ] 反查支持
 
 欢迎提 ISSUE/PR 哈～（虽然我觉得都没人看
