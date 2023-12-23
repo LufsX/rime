@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-12-15"
+version: "2023-12-23"
 sort: by_weight
 ...
 
@@ -253,6 +253,7 @@ sort: by_weight
 鼻	bi
 比	bi
 笔电	bi dian
+壁虎	bi hu
 笔记本	bi ji ben
 笔记本电脑	bi ji ben dian nao
 比基尼	bi ji ni
@@ -1265,6 +1266,7 @@ sort: by_weight
 耗子	hao zi
 合	he
 荷包	he bao
+喝茶	he cha
 赫德岛和麦克唐纳群岛	he de dao he mai ke tang na qun dao
 喝多	he duo
 喝多了	he duo le
@@ -1332,6 +1334,7 @@ sort: by_weight
 很酷	hen ku
 很冷	hen leng
 很热	hen re
+哼	heng
 红包	hong bao
 烘焙	hong bei
 红唇	hong chun
@@ -2147,6 +2150,7 @@ sort: by_weight
 马里共和国	ma li gong he guo
 马脸	ma lian
 马铃薯	ma ling shu
+马骝	ma liu
 妈妈	ma ma
 码农	ma nong
 骂人	ma ren
@@ -2219,6 +2223,7 @@ sort: by_weight
 美容美发	mei rong mei fa
 美式橄榄球	mei shi gan lan qiu
 美式足球	mei shi zu qiu
+美术	mei shu
 美属萨摩亚	mei shu sa mo ya
 美属维尔京群岛	mei shu wei er jing qun dao
 美味	mei wei
@@ -2642,6 +2647,7 @@ sort: by_weight
 螃蟹	pang xie
 跑步	pao bu
 跑步者	pao bu zhe
+泡茶	pao cha
 抛接	pao jie
 抛接杂耍	pao jie za shua
 抛媚眼	pao mei yan
@@ -3520,6 +3526,7 @@ sort: by_weight
 委内瑞拉玻利瓦尔共和国	wei nei rui la bo li wa er gong he guo
 微怒	wei nu
 围棋	wei qi
+委屈	wei qu
 卫生间	wei sheng jian
 微生物	wei sheng wu
 卫生纸	wei sheng zhi
@@ -3873,7 +3880,7 @@ sort: by_weight
 新西兰	xin xi lan
 信箱	xin xiang
 心形	xin xing
-心型装饰	xin xing zhuang shi
+心形装饰	xin xing zhuang shi
 信用卡	xin yong ka
 新邮件	xin you jian
 新月	xin yue
