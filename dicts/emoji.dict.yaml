@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-12-23"
+version: "2023-12-28"
 sort: by_weight
 ...
 
@@ -3394,6 +3394,7 @@ sort: by_weight
 听力障碍	ting li zhang ai
 听诊器	ting zhen qi
 停止	ting zhi
+瞳孔	tong kong
 痛哭	tong ku
 铜牌	tong pai
 通通乐	tong tong le
