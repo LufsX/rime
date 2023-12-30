@@ -354,6 +354,7 @@ preset_color_schemes:
     comment_font_face: "PingFangSC-Regular"
     comment_font_point: 12
 
+    candidate_format: "%c\u2005%@"
     candidate_list_layout: linear
     text_orientation: horizontal
     inline_preedit: true
@@ -386,6 +387,7 @@ preset_color_schemes:
     comment_font_face: "PingFangSC-Regular"
     comment_font_point: 12
 
+    candidate_format: "%c\u2005%@"
     candidate_list_layout: linear
     text_orientation: horizontal
     inline_preedit: true
