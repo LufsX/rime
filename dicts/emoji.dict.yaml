@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2023-12-28"
+version: "2024-01-04"
 sort: by_weight
 ...
 
@@ -789,6 +789,8 @@ sort: by_weight
 冻僵了	dong jiang le
 东京塔	dong jing ta
 东萨摩亚	dong sa mo ya
+冻死	dong si
+冻死了	dong si le
 东正教	dong zheng jiao
 东正教十字架	dong zheng jiao shi zi jia
 豆荚	dou jia
@@ -954,6 +956,7 @@ sort: by_weight
 菲律宾共和国	fei lv bin gong he guo
 飞盘	fei pan
 废弃的房屋	fei qi de fang wu
+飞去来器	fei qu lai qi
 飞吻	fei wen
 飞行员	fei xing yuan
 飞旋镖	fei xuan biao
@@ -976,6 +979,7 @@ sort: by_weight
 粉心	fen xin
 风吹拂	feng chui fu
 风吹拂的脸	feng chui fu de lian
+奉金瓮	feng jin weng
 封口	feng kou
 凤梨	feng li
 风铃	feng ling
@@ -1142,7 +1146,9 @@ sort: by_weight
 古建筑	gu jian zhu
 古老的钥匙	gu lao de yao shi
 轱辘	gu lu
+骨坛	gu tan
 骨头	gu tou
+骨瓮	gu weng
 鼓掌	gu zhang
 瓜德罗普	gua de luo pu
 挂钩	gua gou
@@ -1439,6 +1445,7 @@ sort: by_weight
 黄瓜	huang gua
 皇冠	huang guan
 黄昏	huang hun
+黄金瓮	huang jin weng
 黄榄	huang lan
 荒漠	huang mo
 晃脑	huang nao
@@ -1453,6 +1460,7 @@ sort: by_weight
 皇族	huang zu
 回车	hui che
 回电话	hui dian hua
+回飞棒	hui fei bang
 回力棒	hui li bang
 回力镖	hui li biao
 汇率	hui lv
@@ -1634,6 +1642,8 @@ sort: by_weight
 近视	jin shi
 近视眼	jin shi yan
 金属礼	jin shu li
+金塔	jin ta
+金瓮	jin weng
 禁言	jin yan
 禁烟	jin yan
 紧张	jin zhang
@@ -1977,6 +1987,8 @@ sort: by_weight
 冷冰冰	leng bing bing
 冷汗	leng han
 冷脸	leng lian
+冷死	leng si
+冷死了	leng si le
 冷饮	leng yin
 愣住	leng zhu
 梨	li
@@ -3333,6 +3345,7 @@ sort: by_weight
 汤加	tang jia
 汤加王国	tang jia wang guo
 汤勺	tang shao
+汤碗	tang wan
 汤圆	tang yuan
 躺在床上的人	tang zai chuang shang de ren
 桃	tao
