@@ -2,9 +2,9 @@
 # encoding: utf-8
 # 修改自: https://github.com/rime/weasel/blob/master/output/data/weasel.yaml
 #
-# COMMIT SHA: bed5a19b360225ca466a1ad252a48c440d4daf79
+# COMMIT SHA: fda8a105c2166860064562c33eea562a7c811022
 
-config_version: "2023-12-18"
+config_version: "2024-01-04"
 
 app_options:
   cmd.exe:
@@ -12,10 +12,11 @@ app_options:
   conhost.exe:
     ascii_mode: true
 
-# 在何时会显示切换通知
-# 可用选项: always, never, 或 ascii_mode, ascii_punct, shape, simplification, schema 的任意组合
-# 例如 ascii_mode+shape+schema
-show_notifications_when: always
+show_notifications: true
+# 通知显示多长时间
+show_notifications_time: 1200
+# 使用全局 ascii 状态
+global_ascii: false
 
 style:
   color_scheme: win11_weasel # 主题方案
