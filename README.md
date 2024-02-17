@@ -62,11 +62,11 @@
 - [x] 添加模糊拼音支持
 - [x] 更好的适配「小狼毫」（Thanks [@luminosara](https://github.com/LufsX/rime/pull/22)、[@fbewivpjsbsby](https://github.com/LufsX/rime/discussions/29)）
 - [x] 更多双拼方案的支持
-- [x] ~~更好的适配「同文输入法」~~ [fcitx5](https://github.com/fcitx5-android/fcitx5-android) 支持～
+- [x] ~~更好的适配「同文输入法」~~ [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) 支持～
 - [x] 脚本自动部署/更新（使用 [东风破 /plum/](https://github.com/rime/plum)）
 - [x] 已有主题的深色支持（Windows 的忙完在搞～）
-- [ ] 优化中文单字字典可能的缺字
-- [ ] fcitx5-rime 支持
+- [x] fcitx5-rime 支持（发现本来就适配的很完善，不需要改东西）
+- [ ] 优化中文单字词库可能的缺字
 - [ ] 更好的词库与词频？
 - [ ] 反查支持
 

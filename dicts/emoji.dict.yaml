@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2024-01-04"
+version: "2024-02-17"
 sort: by_weight
 ...
 
@@ -168,6 +168,7 @@ sort: by_weight
 白十字头盔	bai shi zi tou kui
 摆手	bai shou
 白手杖	bai shou zhang
+白鼠	bai shu
 白叹号	bai tan hao
 白天鹅	bai tian e
 拜托	bai tuo
@@ -213,6 +214,8 @@ sort: by_weight
 保加利亚	bao jia li ya
 保加利亚共和国	bao jia li ya gong he guo
 薄煎饼	bao jian bing
+报警	bao jing
+报警灯	bao jing deng
 爆辣	bao la
 保龄球	bao ling qiu
 保龄球瓶	bao ling qiu ping
@@ -316,6 +319,7 @@ sort: by_weight
 博茨瓦纳共和国	bo ci wa na gong he guo
 搏动的心	bo dong de xin
 波多黎各	bo duo li ge
+啵儿一个	bo er yi ge
 播放	bo fang
 播放暂停	bo fang zan ting
 波黑	bo hei
@@ -334,13 +338,13 @@ sort: by_weight
 波斯菊	bo si ju
 波斯尼亚和黑塞哥维那	bo si ni ya he hei sai ge wei na
 博物馆	bo wu guan
+啵一个	bo yi ge
 不	bu
 不棒	bu bang
 不错	bu cuo
 不丹	bu dan
 不丹王国	bu dan wang guo
 布丁	bu ding
-不懂	bu dong
 不敢看	bu gan kan
 不敢相信	bu gan xiang xin
 布告	bu gao
@@ -370,6 +374,7 @@ sort: by_weight
 不听	bu ting
 不同意	bu tong yi
 布韦岛	bu wei dao
+不屑	bu xie
 不行	bu xing
 不许	bu xu
 不要说	bu yao shuo
@@ -440,6 +445,7 @@ sort: by_weight
 朝左	chao zuo
 朝左的对话气泡	chao zuo de dui hua qi pao
 朝左的拳头	chao zuo de quan tou
+车	che
 车轱辘	che gu lu
 车轮	che lun
 车轮子	che lun zi
@@ -478,6 +484,7 @@ sort: by_weight
 吃比萨饼	chi bi sa bing
 赤道几内亚	chi dao ji nei ya
 赤发	chi fa
+吃瓜	chi gua
 吃惊	chi jing
 齿轮	chi lun
 吃面	chi mian
@@ -497,9 +504,11 @@ sort: by_weight
 除	chu
 出国	chu guo
 除号	chu hao
+雏菊	chu ju
 出口成脏	chu kou cheng zang
 处女座	chu nv zuo
 出拳	chu quan
+出生	chu sheng
 厨师	chu shi
 锄头	chu tou
 除以	chu yi
@@ -605,6 +614,7 @@ sort: by_weight
 大树	da shu
 大蒜	da suan
 打算盘	da suan pan
+搭梯子	da ti zi
 大头针	da tou zhen
 大腿	da tui
 大卫之星	da wei zhi xing
@@ -716,6 +726,7 @@ sort: by_weight
 第二卷	di er juan
 迪戈加西亚岛	di ge jia xi ya dao
 地瓜	di gua
+底裤	di ku
 低亮度	di liang du
 地球	di qiu
 地球仪	di qiu yi
@@ -752,6 +763,7 @@ sort: by_weight
 电脑光盘	dian nao guang pan
 电脑键盘	dian nao jian pan
 电脑鼠标	dian nao shu biao
+电瓶车	dian ping che
 电平滑块	dian ping hua kuai
 点燃	dian ran
 电视	dian shi
@@ -760,6 +772,7 @@ sort: by_weight
 电梯	dian ti
 电筒	dian tong
 点心	dian xin
+点烟	dian yan
 电影	dian ying
 电影放映机	dian ying fang ying ji
 电影胶片	dian ying jiao pian
@@ -793,7 +806,9 @@ sort: by_weight
 冻死了	dong si le
 东正教	dong zheng jiao
 东正教十字架	dong zheng jiao shi zi jia
+豆	dou
 豆荚	dou jia
+豆类	dou lei
 豆子	dou zi
 赌博	du bo
 赌场	du chang
@@ -1017,6 +1032,7 @@ sort: by_weight
 服务费	fu wu fei
 服务铃	fu wu ling
 服务犬	fu wu quan
+服务生	fu wu sheng
 服务员	fu wu yuan
 复选	fu xuan
 复选按钮	fu xuan an niu
@@ -1123,6 +1139,7 @@ sort: by_weight
 公园	gong yuan
 公主	gong zhu
 工资	gong zi
+工作	gong zuo
 工作犬	gong zuo quan
 狗	gou
 狗狗	gou gou
@@ -1233,6 +1250,7 @@ sort: by_weight
 海狮	hai shi
 海獭	hai ta
 海豚	hai tun
+海王	hai wang
 害羞	hai xiu
 海运	hai yun
 海贼	hai zei
@@ -1341,6 +1359,7 @@ sort: by_weight
 很冷	hen leng
 很热	hen re
 哼	heng
+哼哼	heng heng
 红包	hong bao
 烘焙	hong bei
 红唇	hong chun
@@ -1420,6 +1439,7 @@ sort: by_weight
 画框	hua kuang
 花栗鼠	hua li shu
 画面太美我不敢看	hua mian tai mei wo bu gan kan
+花盆	hua pen
 花扑克牌	hua pu ke pai
 花钱	hua qian
 花生	hua sheng
@@ -1782,6 +1802,7 @@ sort: by_weight
 卡塔尔国	ka ta er guo
 开发人员	kai fa ren yuan
 开花	kai hua
+开花了	kai hua le
 开曼群岛	kai man qun dao
 开门营业	kai men ying ye
 开趴	kai pa
@@ -1898,7 +1919,6 @@ sort: by_weight
 困	kun
 昆虫	kun chong
 困乏	kun fa
-困惑	kun huo
 困倦	kun juan
 困困	kun kun
 困了	kun le
@@ -1928,7 +1948,6 @@ sort: by_weight
 拉脱维亚共和国	la tuo wei ya gong he guo
 蜡烛	la zhu
 来电	lai dian
-来电了	lai dian le
 莱索托	lai suo tuo
 莱索托王国	lai suo tuo wang guo
 来信	lai xin
@@ -2048,6 +2067,7 @@ sort: by_weight
 凉鞋	liang xie
 猎豹	lie bao
 列车	lie che
+烈酒	lie jiu
 列支敦士登	lie zhi dun shi deng
 列支敦士登公国	lie zhi dun shi deng gong guo
 咧嘴笑	lie zui xiao
@@ -2062,7 +2082,6 @@ sort: by_weight
 六	liu
 溜冰	liu bing
 溜冰鞋	liu bing xie
-流出	liu chu
 六点	liu dian
 六点半	liu dian ban
 六点钟	liu dian zhong
@@ -2085,6 +2104,7 @@ sort: by_weight
 聋子	long zi
 鹿	lu
 露齿笑	lu chi xiao
+鹿角	lu jiao
 卢森堡	lu sen bao
 卢森堡大公国	lu sen bao da gong guo
 卢旺达	lu wang da
@@ -2138,6 +2158,7 @@ sort: by_weight
 绿色书本	lv se shu ben
 绿色心	lv se xin
 绿心	lv xin
+旅行	lv xing
 绿叶蔬菜	lv ye shu cai
 略略略	lve lve lve
 马	ma
@@ -2163,6 +2184,7 @@ sort: by_weight
 马脸	ma lian
 马铃薯	ma ling shu
 马骝	ma liu
+马鹿	ma lu
 妈妈	ma ma
 码农	ma nong
 骂人	ma ren
@@ -2171,6 +2193,7 @@ sort: by_weight
 马提尼克	ma ti ni ke
 马桶	ma tong
 马桶抽子	ma tong chou zi
+马桶搋	ma tong chuai
 马桶搋子	ma tong chuai zi
 马桶塞	ma tong sai
 马桶疏通器	ma tong shu tong qi
@@ -2250,6 +2273,7 @@ sort: by_weight
 眉月	mei yue
 美洲	mei zhou
 美洲地球仪	mei zhou di qiu yi
+没嘴	mei zui
 门	men
 门票	men piao
 门松	men song
@@ -2393,6 +2417,7 @@ sort: by_weight
 南非	nan fei
 南非共和国	nan fei gong he guo
 男飞行员	nan fei xing yuan
+男服务生	nan fu wu sheng
 男服务员	nan fu wu yuan
 男歌手	nan ge shou
 男工厂工人	nan gong chang gong ren
@@ -2508,6 +2533,7 @@ sort: by_weight
 牛脸	niu lian
 牛奶	niu nai
 牛奶杯	niu nai bei
+牛牛	niu niu
 牛排	niu pai
 牛头	niu tou
 牛油果	niu you guo
@@ -2547,6 +2573,7 @@ sort: by_weight
 女法师	nv fa shi
 女反派	nv fan pai
 女飞行员	nv fei xing yuan
+女服务生	nv fu wu sheng
 女服务员	nv fu wu yuan
 女歌手	nv ge shou
 女工厂工人	nv gong chang gong ren
@@ -2745,6 +2772,7 @@ sort: by_weight
 气泡	qi pao
 祈求	qi qiu
 气球	qi qiu
+气人	qi ren
 骑山地车	qi shan di che
 起司	qi si
 起司火锅	qi si huo guo
@@ -2785,6 +2813,8 @@ sort: by_weight
 亲亲猫	qin qin mao
 亲亲猫脸	qin qin mao lian
 亲吻	qin wen
+亲一个	qin yi ge
+亲一下	qin yi xia
 亲嘴	qin zui
 清除	qing chu
 倾倒	qing dao
@@ -2897,6 +2927,7 @@ sort: by_weight
 肉	rou
 柔道服	rou dao fu
 肉排	rou pai
+肉肉	rou rou
 肉丸	rou wan
 肉丸子	rou wan zi
 入场券	ru chang quan
@@ -2983,6 +3014,7 @@ sort: by_weight
 山地车	shan di che
 山地自行车	shan di zi xing che
 闪电	shan dian
+山顶	shan ding
 山顶日出	shan ding ri chu
 山峰	shan feng
 闪光	shan guang
@@ -3001,6 +3033,7 @@ sort: by_weight
 山中日出	shan zhong ri chu
 扇子	shan zi
 上	shang
+上班	shang ban
 上边	shang bian
 商标	shang biao
 商标符号	shang biao fu hao
@@ -3029,6 +3062,7 @@ sort: by_weight
 蛇	she
 蛇夫座	she fu zuo
 摄录机	she lu ji
+蛇蛇	she she
 射手座	she shou zuo
 舌头	she tou
 摄像机	she xiang ji
@@ -3097,6 +3131,7 @@ sort: by_weight
 施工符号	shi gong fu hao
 施工中	shi gong zhong
 试管	shi guan
+时间	shi jian
 世界地图	shi jie di tu
 世界和平	shi jie he ping
 失恋	shi lian
@@ -3139,6 +3174,7 @@ sort: by_weight
 手风琴	shou feng qin
 手机	shou ji
 手机关机	shou ji guan ji
+手机来电	shou ji lai dian
 手机信号	shou ji xin hao
 收件	shou jian
 收件箱	shou jian xiang
@@ -3582,6 +3618,7 @@ sort: by_weight
 温泉	wen quan
 文书	wen shu
 蚊香	wen xiang
+瘟疫公司	wen yi gong si
 蚊蝇	wen ying
 蚊子	wen zi
 我爱你	wo ai ni
@@ -3621,6 +3658,8 @@ sort: by_weight
 乌拉圭	wu la gui
 乌拉圭东岸共和国	wu la gui dong an gong he guo
 捂脸	wu lian
+五菱	wu ling
+五菱宏光	wu ling hong guang
 物流	wu liu
 雾霾	wu mai
 雾蒙蒙	wu meng meng
@@ -3657,6 +3696,7 @@ sort: by_weight
 捂嘴	wu zui
 捂嘴巴	wu zui ba
 捂嘴笑	wu zui xiao
+吸把	xi ba
 西班牙	xi ban ya
 西班牙王国	xi ban ya wang guo
 洗发露	xi fa lu
@@ -3688,6 +3728,7 @@ sort: by_weight
 系有缎带的心	xi you duan dai de xin
 洗澡	xi zao
 洗澡的人	xi zao de ren
+西装	xi zhuang
 虾	xia
 下	xia
 下边	xia bian
@@ -3805,6 +3846,7 @@ sort: by_weight
 小精灵	xiao jing ling
 笑哭	xiao ku
 笑哭了	xiao ku le
+小老鼠	xiao lao shu
 笑脸	xiao lian
 小菱形	xiao ling xing
 小龙虾	xiao long xia
@@ -3816,12 +3858,14 @@ sort: by_weight
 小蘑菇	xiao mo gu
 小男孩	xiao nan hai
 小鸟	xiao niao
+小牛	xiao niu
 小女孩	xiao nv hai
 小盆友	xiao pen you
 小朋友	xiao peng you
 小苹果	xiao ping guo
 小汽车	xiao qi che
 小强	xiao qiang
+小商店	xiao shang dian
 小蛇	xiao she
 小声	xiao sheng
 小声点	xiao sheng dian
@@ -3928,6 +3972,7 @@ sort: by_weight
 星星眼	xing xing yan
 星月	xing yue
 幸运饼干	xing yun bing gan
+幸运草	xing yun cao
 行走	xing zou
 星钻	xing zuan
 熊	xiong
@@ -4036,6 +4081,7 @@ sort: by_weight
 摇滚男歌手	yao gun nan ge shou
 摇滚女歌手	yao gun nv ge shou
 摇滚手势	yao gun shou shi
+妖精	yao jing
 要哭了	yao ku le
 钥匙	yao shi
 摇头晃脑	yao tou huang nao
@@ -4118,6 +4164,7 @@ sort: by_weight
 医院	yi yuan
 义肢	yi zhi
 一只眼	yi zhi yan
+一支烟	yi zhi yan
 一只眼睛	yi zhi yan jing
 椅子	yi zi
 隐藏	yin cang
@@ -4175,6 +4222,7 @@ sort: by_weight
 拥抱的人	yong bao de ren
 泳镜	yong jing
 泳客	yong ke
+泳圈	yong quan
 泳衣	yong yi
 泳装	yong zhuang
 鼬	you
@@ -4246,6 +4294,7 @@ sort: by_weight
 郁闷	yu men
 玉米	yu mi
 雨伞	yu san
+与我无关	yu wo wu guan
 羽翼	yu yi
 浴衣	yu yi
 雨云	yu yun
@@ -4352,6 +4401,7 @@ sort: by_weight
 震惊	zhen jing
 侦探	zhen tan
 珍珠奶茶	zhen zhu nai cha
+榛子	zhen zi
 蒸房	zheng fang
 蒸房里的男人	zheng fang li de nan ren
 蒸房里的女人	zheng fang li de nv ren
@@ -4464,6 +4514,7 @@ sort: by_weight
 注意	zhu yi
 注意儿童	zhu yi er tong
 住宅楼	zhu zhai lou
+猪猪	zhu zhu
 柱状图	zhu zhuang tu
 抓狂	zhua kuang
 砖块	zhuan kuai
