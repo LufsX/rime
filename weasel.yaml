@@ -4,7 +4,7 @@
 #
 # COMMIT SHA: fda8a105c2166860064562c33eea562a7c811022
 
-config_version: "2024-01-04"
+config_version: "2024-02-17"
 
 app_options:
   cmd.exe:
@@ -20,7 +20,7 @@ global_ascii: false
 
 style:
   color_scheme: win11_weasel # 主题方案
-  color_scheme_dark: win11_weasel # 暗色模式下的主题方案
+  color_scheme_dark: win11_weasel_dark # 暗色模式下的主题方案
 
   # 这里提供三种不同主题预设，自行切换注释即可
   # 必须启用其中一种预设！
@@ -83,6 +83,22 @@ preset_color_schemes:
     hilited_mark_color: 0x7A40EC
     label_color: 0x888785
     text_color: 0x8100EB
+
+  ayaya_dark:
+    name: "文文／Ayaya／深色"
+    author: "Lufs X <i@isteed.cc>"
+
+    back_color: 0x000000
+    border_color: 0x000000
+    candidate_text_color: 0xD2D2D2
+    comment_text_color: 0x8E8E8E
+    hilited_candidate_back_color: 0x2C1E3C
+    hilited_candidate_label_color: 0x7036E2
+    hilited_candidate_text_color: 0x7036E2
+    hilited_comment_text_color: 0x8E8E8E
+    hilited_label_color: 0xA483EC
+    hilited_mark_color: 0x7A40EC
+    label_color: 0x888785
 
   apathy:
     name: 冷漠／Apathy
@@ -179,6 +195,7 @@ preset_color_schemes:
     text_color: 0x000000 # 拼音文字颜色
 
   win11_weasel:
+    name: "Windows 11 默认"
     author: "luminosa"
     back_color: 0xF9F9F9 # 背景颜色 颜色均取色自 Windows 11 默认
     border_color: 0xE7E7E7 # 边框颜色
@@ -190,6 +207,19 @@ preset_color_schemes:
     shadow_color: 0x20000000 # 阴影颜色，新版小狼毫 CI 更改了绘制，若无法看到阴影，请更改为 000000，观察是否能正常绘制阴影
     text_color: 0x000000 # 拼音文字颜色
 
+  win11_weasel_dark:
+    name: "Windows 11 默认／深色"
+    author: "Lufs X <i@isteed.cc>"
+    back_color: 0x2C2C2C # 背景颜色 颜色均取色自 Windows 11 默认
+    border_color: 0x333333 # 边框颜色
+    candidate_text_color: 0xFFFFFF # 候选文字颜色
+    hilited_candidate_back_color: 0x383838 # 高亮颜色
+    hilited_label_color: 0xCFCFCF # 高亮序号颜色
+    hilited_mark_color: 0x595959 # 此项生效，前面那|的颜色，更新到支持的小狼毫 CI 版本才会生效
+    label_color: 0x727272 # 候选数字颜色
+    shadow_color: 0x20000000 # 阴影颜色，新版小狼毫 CI 更改了绘制，若无法看到阴影，请更改为 000000，观察是否能正常绘制阴影
+    text_color: 0xFFFFFF # 拼音文字颜色
+
   win10_MDL_ayaya:
     name: "Windows10 文文／Ayaya"
     author: "Lufs X <i@isteed.cc>"
@@ -200,6 +230,19 @@ preset_color_schemes:
     hilited_candidate_back_color: 0xECE4FC
     hilited_label_color: 0xB18FF4
     hilited_candidate_text_color: 0x7A40EC
+    label_color: 0x888785
+    text_color: 0x8100EB
+
+  win10_MDL_ayaya_dark:
+    name: "Windows10 文文／Ayaya／深色"
+    author: "Lufs X <i@isteed.cc>"
+
+    back_color: 0x000000
+    candidate_text_color: 0xD2D2D2
+    comment_text_color: 0x8E8E8E
+    hilited_candidate_back_color: 0x2C1E3C
+    hilited_label_color: 0xA483EC
+    hilited_candidate_text_color: 0x7036E2
     label_color: 0x888785
     text_color: 0x8100EB
 
