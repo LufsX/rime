@@ -28,12 +28,12 @@ switches:
     # reset: 1 # 默认状态: 0 关闭 1 开启
     states: [🈚️️, 🈶️]
   - name: prediction
-    abbrev: [止, 联]
-    states: [不联想, 联想]
-    reset: 0 #根据需要调整联想默认状态
-  - name: predict_simp_switch #参考fxliang大佬的方案，由于联想词库为繁体，可能是因为没有繁体转简体所以才需要这个开关
+    abbrev: [止, 预]
+    states: [关闭预测, 开启预测]
+    reset: 0 #根据需要调整预测默认状态，0 关闭 1 开启
+  - name: predict_simp_switch #参考fxliang大佬的方案，由于预测词库为繁体，可能是因为没有繁体转简体所以才需要这个开关
     abbrev: [繁, 简]
-    states: [繁体联想, 简体联想]
+    states: [繁体预测, 简体预测]
     reset: 1
 
 engine:
@@ -85,7 +85,7 @@ predict_simp:
   option_name: predict_simp_switch
 
 predictor:
-  db: predict.db # predict db file in user directory/shared directory
+  db: predict.db # 文件名，predict db file in user directory/shared directory
   max_candidates: 5 #每次预测的最大候选项数量，0表示全部候选项
   max_iterations: 1 #最大预测次数，0表示不限制
 
