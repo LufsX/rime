@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2024-02-17"
+version: "2024-04-10"
 sort: by_weight
 ...
 
@@ -249,6 +249,7 @@ sort: by_weight
 背囊	bei nang
 贝宁	bei ning
 贝宁共和国	bei ning gong he guo
+备忘	bei wang
 备忘录	bei wang lu
 杯子	bei zi
 本科生	ben ke sheng
@@ -523,6 +524,7 @@ sort: by_weight
 床	chuang
 窗户	chuang hu
 创可贴	chuang ke tie
+创口贴	chuang kou tie
 床上休息	chuang shang xiu xi
 吹风	chui feng
 吹拂	chui fu
@@ -595,6 +597,7 @@ sort: by_weight
 大菱形	da ling xing
 大米	da mi
 大米饭	da mi fan
+打咩	da mie
 大母鸡	da mu ji
 大拇指	da mu zhi
 大拇指朝上	da mu zhi chao shang
@@ -758,6 +761,7 @@ sort: by_weight
 电话筒	dian hua tong
 电吉他	dian ji ta
 电量	dian liang
+电量不足	dian liang bu zu
 电量低	dian liang di
 电脑	dian nao
 电脑光盘	dian nao guang pan
@@ -804,6 +808,7 @@ sort: by_weight
 东萨摩亚	dong sa mo ya
 冻死	dong si
 冻死了	dong si le
+动物脚印	dong wu jiao yin
 东正教	dong zheng jiao
 东正教十字架	dong zheng jiao shi zi jia
 豆	dou
@@ -1268,6 +1273,7 @@ sort: by_weight
 含泪的笑脸	han lei de xiao lian
 含泪笑脸	han lei xiao lian
 汉堡包	han pu bao
+汗衫	han shan
 航班降落	hang ban jiang luo
 航班起飞	hang ban qi fei
 好	hao
@@ -1580,6 +1586,7 @@ sort: by_weight
 煎蛋	jian dan
 剪刀	jian dao
 剪刀手	jian dao shou
+剑斗	jian dou
 剪发	jian fa
 减号	jian hao
 尖叫	jian jiao
@@ -1651,6 +1658,7 @@ sort: by_weight
 金发女	jin fa nv
 金发女人	jin fa nv ren
 金发女子	jin fa nv zi
+金光闪闪	jin guang shan shan
 津津有味	jin jin you wei
 金毛	jin mao
 金毛犬	jin mao quan
@@ -1659,6 +1667,7 @@ sort: by_weight
 金牌	jin pai
 金钱	jin qian
 金色头发	jin se tou fa
+金闪闪	jin shan shan
 近视	jin shi
 近视眼	jin shi yan
 金属礼	jin shu li
@@ -2792,6 +2801,7 @@ sort: by_weight
 铅笔	qian bi
 钱袋	qian dai
 前方施工	qian fang shi gong
+钱飞了	qian fei le
 浅肤色	qian fu se
 牵手	qian shou
 牵手的情侣	qian shou de qing lv
@@ -2851,6 +2861,7 @@ sort: by_weight
 请勿驶入	qing wu shi ru
 请勿吸烟	qing wu xi yan
 请勿饮用	qing wu yin yong
+清洗	qing xi
 清真	qing zhen
 清真寺	qing zhen si
 庆祝	qing zhu
@@ -3412,6 +3423,7 @@ sort: by_weight
 甜品	tian pin
 天平	tian ping
 天气	tian qi
+天使	tian shi
 天使宝宝	tian shi bao bao
 天使的翅膀	tian shi de chi bang
 甜甜圈	tian tian quan
@@ -3756,6 +3768,7 @@ sort: by_weight
 陷入爱河	xian ru ai he
 显示屏	xian shi ping
 显示器	xian shi qi
+仙桃	xian tao
 线团	xian tuan
 显微镜	xian wei jing
 线轴	xian zhou
@@ -3996,6 +4009,7 @@ sort: by_weight
 修理工	xiu li gong
 羞涩	xiu se
 羞涩亲亲	xiu se qin qin
+休息	xiu xi
 休闲车	xiu xian che
 休闲鞋	xiu xian xie
 嘘	xu
