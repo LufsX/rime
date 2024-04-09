@@ -135,13 +135,15 @@ speller:
 
 translator:
   dictionary: extended
+  contextual_suggestions: true
+  enable_completion: false
+  max_homophones: 7
+
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
     # - xform/ // # 去掉上屏字符间空格
-  contextual_suggestions: true
-  max_homophones: 7
 
 grammar:
   language: zh-hans-t-essay-bgw
