@@ -30,11 +30,9 @@ switches:
   - name: prediction
     abbrev: [止, 预]
     states: [关闭预测, 开启预测]
-    reset: 0 #根据需要调整预测默认状态，0 关闭 1 开启
   - name: predict_simp_switch #参考fxliang大佬的方案，由于预测词库为繁体，可能是因为没有繁体转简体所以才需要这个开关
     abbrev: [繁, 简]
     states: [繁体预测, 简体预测]
-    reset: 1
 
 engine:
   processors:
