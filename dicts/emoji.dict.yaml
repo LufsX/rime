@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2024-04-10"
+version: "2024-05-09"
 sort: by_weight
 ...
 
@@ -1360,6 +1360,7 @@ sort: by_weight
 黑心	hei xin
 黑子	hei zi
 很棒	hen bang
+很差	hen cha
 很好	hen hao
 很酷	hen ku
 很冷	hen leng
@@ -2812,6 +2813,7 @@ sort: by_weight
 强	qiang
 强忍泪水	qiang ren lei shui
 强壮	qiang zhuang
+桥	qiao
 敲鼓	qiao gu
 巧克力	qiao ke li
 巧克力棒	qiao ke li bang
