@@ -28,6 +28,7 @@ Cloudflare	cloudflare
 Cloudflare Workers	cloudflareworkers
 CSS	css
 Dropbox	dropbox
+Docker	docker
 GBK	gbk
 GitHub	github
 Google	google

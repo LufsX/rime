@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2024-05-09"
+version: "2024-06-08"
 sort: by_weight
 ...
 
@@ -639,7 +639,7 @@ sort: by_weight
 打针	da zhen
 大正方形	da zheng fang xing
 打坐	da zuo
-带单片眼镜的脸	dai dan pian yan jing de lian
+戴单片眼镜的脸	dai dan pian yan jing de lian
 大夫	dai fu
 带骨肉	dai gu rou
 袋棍球	dai gun qiu
@@ -2765,6 +2765,7 @@ sort: by_weight
 七	qi
 骑车	qi che
 汽车	qi che
+汽车尾气	qi che wei qi
 骑单车	qi dan che
 祈祷	qi dao
 七点	qi dian
@@ -3589,6 +3590,7 @@ sort: by_weight
 委内瑞拉	wei nei rui la
 委内瑞拉玻利瓦尔共和国	wei nei rui la bo li wa er gong he guo
 微怒	wei nu
+尾气	wei qi
 围棋	wei qi
 委屈	wei qu
 卫生间	wei sheng jian
