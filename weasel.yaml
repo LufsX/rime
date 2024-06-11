@@ -48,7 +48,7 @@ style:
   fullscreen: false # 演示模式（全屏的輸入窗口）
 
   click_to_capture: false # 点击输入法时捕获截图到剪贴板
-  hover_type: hilite # 鼠标悬停行为 none(无动作); hilite(选中鼠标下的候选); semi_hilite(高亮鼠标下的候选)
+  hover_type: semi_hilite # 鼠标悬停行为 none(无动作); hilite(选中鼠标下的候选); semi_hilite(高亮鼠标下的候选)
   paging_on_scroll: false # 鼠标滚轮翻页候选栏
 
   inline_preedit: true # 在光标位置显示预编辑文本
