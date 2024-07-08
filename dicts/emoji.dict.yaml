@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2024-06-08"
+version: "2024-07-08"
 sort: by_weight
 ...
 
@@ -529,6 +529,7 @@ sort: by_weight
 吹风	chui feng
 吹拂	chui fu
 吹口气	chui kou qi
+吹气	chui qi
 垂涎三尺	chui xian san chi
 锤子	chui zi
 锤子扳手	chui zi ban shou
