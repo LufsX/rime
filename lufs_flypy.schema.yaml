@@ -27,10 +27,17 @@ switches:
   - name: emoji_suggestion
     # reset: 1 # 默认状态: 0 关闭 1 开启
     states: [🈚️️, 🈶️]
+  - name: prediction
+    abbrev: [止, 预]
+    states: [关闭预测, 开启预测]
+  - name: predict_simp_switch #参考fxliang大佬的方案，由于预测词库为繁体，可能是因为没有繁体转简体所以才需要这个开关
+    abbrev: [繁, 简]
+    states: [繁体预测, 简体预测]
 
 engine:
   processors:
     # - ascii_composer # Windows 用户请解除此行注释，否则将会无法切换到英文输入
+    - predictor
     - recognizer
     - lua_processor@select_character # lua 选词扩展，如需关闭请注释
     - key_binder
@@ -46,6 +53,7 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
+    - predict_translator
     - punct_translator
     - lua_translator@date_translator # 动态日期时间输入
     - lua_translator@unicode_input # Unicode 输入支持
@@ -53,6 +61,7 @@ engine:
     - script_translator
   filters:
     - simplifier@emoji_suggestion
+    - simplifier@predict_simp # 繁体转换为简体
     - simplifier@traditionalize # 简繁转化
     - uniquifier # 去重
     # - lua_filter@long_phrase_first # 最长词组和单字在先
@@ -68,6 +77,15 @@ emoji_suggestion:
   opencc_config: emoji.json
   option_name: emoji_suggestion
   tips: false
+
+predict_simp:
+  opencc_config: t2s.json
+  option_name: predict_simp_switch
+
+predictor:
+  db: predict.db # 文件名，predict db file in user directory/shared directory
+  max_candidates: 5 #每次预测的最大候选项数量，0表示全部候选项
+  max_iterations: 1 #最大预测次数，0表示不限制
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba/
