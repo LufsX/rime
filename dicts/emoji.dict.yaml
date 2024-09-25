@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2024-07-08"
+version: "2024-09-25"
 sort: by_weight
 ...
 
@@ -195,6 +195,7 @@ sort: by_weight
 半夜	ban ye
 板砖	ban zhuan
 班卓琴	ban zhuo qin
+镑	bang
 棒	bang
 棒啊	bang a
 棒棒	bang bang
@@ -271,6 +272,7 @@ sort: by_weight
 比赛	bi sai
 鄙视	bi shi
 匕首	bi shou
+比特币	bi te bi
 鼻涕	bi ti
 比心	bi xin
 比心手势	bi xin shou shi
@@ -2114,6 +2116,7 @@ sort: by_weight
 龙虾	long xia
 聋子	long zi
 鹿	lu
+卢比	lu bi
 露齿笑	lu chi xiao
 鹿角	lu jiao
 卢森堡	lu sen bao
@@ -3380,6 +3383,7 @@ sort: by_weight
 太阳镜	tai yang jing
 太阳伞	tai yang san
 台钟	tai zhong
+泰铢	tai zhu
 叹号	tan hao
 叹号问号	tan hao wen hao
 探究	tan jiu
@@ -4189,6 +4193,7 @@ sort: by_weight
 隐藏	yin cang
 印度	yin du
 印度共和国	yin du gong he guo
+印度卢比	yin du lu bi
 印度庙	yin du miao
 印度尼西亚	yin du ni xi ya
 印度尼西亚共和国	yin du ni xi ya gong he guo
@@ -4504,6 +4509,7 @@ sort: by_weight
 咒骂	zhou ma
 皱着眉头	zhou zhe mei tou
 皱着眉头的人	zhou zhe mei tou de ren
+铢	zhu
 猪	zhu
 祝	zhu
 猪鼻	zhu bi
