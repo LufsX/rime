@@ -150,7 +150,7 @@ translator:
   dictionary: extended
   preedit_format:
     # - xform/ // # 去掉上屏字符间空格
-  prism: lufs_dpy
+  prism: lufs_pyjj
   contextual_suggestions: true
   max_homophones: 7
 
