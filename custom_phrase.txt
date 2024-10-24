@@ -55,7 +55,8 @@ Mac App Store	mas
 MacBook	macbook
 MacBook Air	mba
 MacBook Pro	mbp
-macOS	macos	7
+macOS	macos	8
+macOS Sequoia	macos	7
 macOS Sonoma	macos	6
 macOS Ventura	macos	5
 macOS Monterey	macos	4
