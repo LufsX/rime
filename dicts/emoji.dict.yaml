@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2024-09-25"
+version: "2024-11-06"
 sort: by_weight
 ...
 
@@ -2825,6 +2825,7 @@ sort: by_weight
 茄子	qie zi
 亲	qin
 琴键	qin jian
+亲你	qin ni
 亲亲	qin qin
 亲亲的猫	qin qin de mao
 亲亲猫	qin qin mao
