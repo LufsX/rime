@@ -2,9 +2,9 @@
 # encoding: utf-8
 # 修改自: https://github.com/rime/squirrel/blob/master/data/squirrel.yaml
 #
-# COMMIT SHA: 7c399be5d6d07d76dfdba3ba9f7f5639fc01284a
+# COMMIT SHA: f2d16719fc4bff74abfb5ece8d3dec8c71bc500d
 
-config_version: "2023-12-30"
+config_version: "2024-11-06"
 
 # 可用选项：last | default | _custom_
 # last：上次使用的拉丁字母键盘布局
@@ -26,24 +26,38 @@ style:
   color_scheme_dark: reimu_dark # 指定深色模式时输入法所使用的主题方案
   translucency: true # 背景半透明总开关，不需要关掉即可
 
+  # 是否将选定的候选项作为文本嵌入到输入框中
+  inline_candidate: false
+  # 是否将候选栏贴附到屏幕边缘来减少跳动
+  memorize_size: true
+  # 是否允许透明颜色之间的堆叠
+  mutual_exclusive: true
+  # 启用小箭头来看能否上下翻页
+  show_paging: false
+
   # 以下为鼠须管默认设置
   # candidate_list_layout: stacked  # stacked | linear
   text_orientation: horizontal # horizontal | vertical
   inline_preedit: true
-  corner_radius: 10
+  corner_radius: 7
   hilited_corner_radius: 0
-  border_height: 0
-  border_width: 0
+  border_height: -2
+  border_width: -2
   line_spacing: 5
-  spacing: 10
-  # candidate_format: '%c. %@'
-  # base_offset: 6 # 竖排文字的基线调整
+  spacing: 8
+  # 大于 0 则会在高亮的候选项周围绘制阴影
+  shadow_size: 0
+  # 控制非高亮候选背景大小，相对于高亮
+  # surrounding_extra_expansion: 0
+  # 候选项的格式
+  candidate_format: "[label]. [candidate] [comment]"
+  # base_offset: 0 # 竖排文字的基线调整
   font_face: "Lucida Grande"
-  font_point: 21
+  font_point: 16
   # label_font_face: 'Lucida Grande'
-  label_font_point: 18
+  label_font_point: 12
   # comment_font_face: 'Lucida Grande'
-  comment_font_point: 18
+  comment_font_point: 16
 
 preset_color_schemes:
   # 关于主题中的各个设置项的说明，详见文件末尾
@@ -56,7 +70,7 @@ preset_color_schemes:
     label_font_face: "LXGWWenKai-Regular, PingFangSC"
     label_font_point: 12
 
-    candidate_format: "%c\u2005%@"
+    candidate_format: "[label]\u2005[candidate] [comment]"
     candidate_list_layout: linear
     text_orientation: horizontal
     inline_preedit: true
@@ -90,7 +104,7 @@ preset_color_schemes:
     label_font_face: "LXGWWenKai-Regular, PingFangSC"
     label_font_point: 12
 
-    candidate_format: "%c\u2005%@"
+    candidate_format: "[label]\u2005[candidate] [comment]"
     candidate_list_layout: linear
     text_orientation: horizontal
     inline_preedit: true
@@ -124,7 +138,7 @@ preset_color_schemes:
     label_font_face: "LXGWWenKai-Regular, PingFangSC"
     label_font_point: 14
 
-    candidate_format: "%c\u2005%@"
+    candidate_format: "[label]\u2005[candidate] [comment]"
     candidate_list_layout: linear
     text_orientation: horizontal
     inline_preedit: true
@@ -157,7 +171,7 @@ preset_color_schemes:
     label_font_face: "LXGWWenKai-Regular, PingFangSC"
     label_font_point: 14
 
-    candidate_format: "%c\u2005%@"
+    candidate_format: "[label]\u2005[candidate] [comment]"
     candidate_list_layout: linear
     text_orientation: horizontal
     inline_preedit: true
@@ -191,7 +205,7 @@ preset_color_schemes:
     label_font_face: "STHeitiSC-Light"
     label_font_point: 12
 
-    candidate_format: "%c\u2005%@"
+    candidate_format: "[label]\u2005[candidate] [comment]"
     candidate_list_layout: linear
     text_orientation: horizontal
     inline_preedit: true
@@ -286,7 +300,7 @@ preset_color_schemes:
     comment_font_face: "PingFangSC-Regular"
     comment_font_point: 13
 
-    candidate_format: "%c\u2004%@"
+    candidate_format: "[label]\u2004[candidate] [comment]"
     candidate_list_layout: linear
     text_orientation: horizontal
     inline_preedit: true
@@ -320,7 +334,7 @@ preset_color_schemes:
     comment_font_face: "PingFangSC-Regular"
     comment_font_point: 13
 
-    candidate_format: "%c\u2004%@"
+    candidate_format: "[label]\u2004[candidate] [comment]"
     candidate_list_layout: linear
     text_orientation: horizontal
     inline_preedit: true
@@ -354,7 +368,7 @@ preset_color_schemes:
     comment_font_face: "PingFangSC-Regular"
     comment_font_point: 12
 
-    candidate_format: "%c\u2005%@"
+    candidate_format: "[label]\u2005[candidate] [comment]"
     candidate_list_layout: linear
     text_orientation: horizontal
     inline_preedit: true
@@ -387,7 +401,7 @@ preset_color_schemes:
     comment_font_face: "PingFangSC-Regular"
     comment_font_point: 12
 
-    candidate_format: "%c\u2005%@"
+    candidate_format: "[label]\u2005[candidate] [comment]"
     candidate_list_layout: linear
     text_orientation: horizontal
     inline_preedit: true
@@ -420,7 +434,7 @@ preset_color_schemes:
     comment_font_face: "PingFangSC-Regular"
     comment_font_point: 13
 
-    candidate_format: "%c\u2003\u2003\u2003%@\u2004\u2001"
+    candidate_format: "[label]\u2003\u2003\u2003[candidate] [comment]\u2004\u2001"
     candidate_list_layout: linear
     text_orientation: horizontal
     inline_preedit: true
@@ -454,7 +468,7 @@ preset_color_schemes:
     comment_font_face: "PingFangSC-Regular"
     comment_font_point: 13
 
-    candidate_format: "%c\u2003\u2003\u2003%@\u2004\u2001"
+    candidate_format: "[label]\u2003\u2003\u2003[candidate] [comment]\u2004\u2001"
     candidate_list_layout: linear
     text_orientation: horizontal
     inline_preedit: true
