@@ -1,0 +1,45 @@
+name: Update Dicts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - id: release
+        name: Get moegirl dict latest release
+        uses: pozetroninc/github-action-get-latest-release@master
+        with:
+          owner: outloudvi
+          repo: mw2fcitx
+
+      - name: Download release
+        run: |
+          wget https://github.com/outloudvi/mw2fcitx/releases/download/${{ steps.release.outputs.release }}/moegirl.dict.yaml -O ./dicts/moegirl.dict.yaml
+
+      - name: Setup GIT user
+        uses: fregante/setup-git-user@v1
+
+      - id: commit
+        name: Commit
+        run: |
+          git add ./dicts/moegirl.dict.yaml
+          git commit -m "ci: auto update dicts: $(date +'%Y-%m-%d')"
+          if git diff --quiet HEAD origin/master; then
+            echo "No changes detected"
+            echo "changes_detected=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected"
+            echo "changes_detected=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Push
+        if: steps.commit.outputs.changes_detected
+        run: |
+          git push
