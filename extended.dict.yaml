@@ -3,7 +3,7 @@
 
 ---
 name: extended
-version: "2023-08-28"
+version: "2025-01-11"
 
 import_tables:
   # 覆盖词频
@@ -24,6 +24,7 @@ import_tables:
   - dicts/sogou_genshin # 原神
   - dicts/sogou_minecraft # Minecraft 词条
   - dicts/sogou_touhou # 东方 Project
+  - dicts/moegirl # 萌娘百科
 
   # emoji 中的词库
   - dicts/emoji
