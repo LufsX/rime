@@ -16,13 +16,6 @@
 # 注音：
 # 「nüe 虐」「lüe 略」使用「nve」「lve」的注音。
 # 「句、去、需、与」使用「ju qu xu yu」的注音。
-# 删除原数据的「桲bo」音，没有这个音。
-# 删除「呷ga」（呷呷），《现汉》推荐「嘎嘎」。
-# 删除「芥gai」，《现汉》未收录。
-# 删除「著zhuo」（执著zhuo），《现汉》推荐「执着zhuo」。
-# 删除「虾ha」（虾蟆ha ma），《现汉》推荐「蛤蟆」，保留地名「虾蟆陵ha ma ling」。
-# 「嬛」xuan → huan
-# 删除「夹ga」，使用「胳肢窝ga zhi wo」。
 #
 #
 # 多音字的注音问题：
@@ -34,33 +27,39 @@
 # 需要注音的字词设定在 others/script/rime/需要注音.txt
 ---
 name: 8105
-version: "2024-10-30"
+version: "2025-01-08"
 sort: by_weight
 ...
 ### 按需启用
 # 「这、那」的口语读音
-# 这	zhei	17648808
+这	zhei	17648808
 # 那	nei	9929703
 
 
 ### 扩展，不在《通用规范汉字表》的字:
+鿫	ao	1
 𰻝	biang	1
 𤭢	cei	1000
 㨃	dui	1
 诶	ei	1
+鿔	ge	1
 睆	huan	1
 菈	la	1
+𫟷	li	1
 濛	meng	1
+鿭	ni	1
 嬢	niang	1
 珮	pei	0
 螓	qin	1
+䞍	qing	1
 卻	que	1
 挼	rua	1
+朊	ruan	1
 牠	ta	1
 薙	ti	1
+鿬	tian	1
 凃	tu	1
 咲	xiao	1
-
 # 注释掉的这几行已经加入到下面并调整到合适的权重了
 # 〇	ling
 # 囧	jiong
@@ -1072,6 +1071,7 @@ sort: by_weight
 蹴	cu	1919
 卒	cu	600
 徂	cu	560
+酢	cu	371
 殂	cu	248
 蔟	cu	192
 窜	cuan	65974
@@ -1494,6 +1494,7 @@ sort: by_weight
 趸	dun	623
 礅	dun	270
 蹾	dun	224
+楯	dun	136
 砘	dun	53
 镦	dun	25
 囤	dun	1
@@ -2153,6 +2154,7 @@ sort: by_weight
 匦	gui	123
 邽	gui	102
 鬶	gui	2
+匮	gui	1
 炅	gui	1
 筀	gui	0
 滚	gun	203922
@@ -4119,6 +4121,7 @@ sort: by_weight
 蟆	ma	9205
 犸	ma	1633
 杩	ma	70
+孖	ma	58
 祃	ma	4
 摩	ma	1
 买	mai	477539
@@ -4437,6 +4440,7 @@ sort: by_weight
 钼	mu	180
 毪	mu	94
 仫	mu	27
+姥	mu	1
 牟	mu	1
 𧿹	mu	0
 𬭁	mu	0
@@ -5592,6 +5596,7 @@ sort: by_weight
 蛸	shao	37
 睄	shao	16
 召	shao	1
+杓	shao	1
 鞘	shao	1
 柖	shao	0
 玿	shao	0
@@ -6744,6 +6749,7 @@ sort: by_weight
 觿	xi	3
 嶍	xi	2
 暿	xi	1
+栖	xi	1
 俙	xi	0
 熻	xi	0
 饻	xi	0
@@ -7178,6 +7184,7 @@ sort: by_weight
 噀	xun	37
 栒	xun	22
 浚	xun	1
+窨	xun	1
 𫄸	xun	0
 𬊈	xun	0
 𬍤	xun	0
@@ -8519,7 +8526,6 @@ sort: by_weight
 嵫	zi	150
 趑	zi	99
 茈	zi	92
-孖	zi	58
 粢	zi	57
 鲻	zi	39
 镃	zi	22
