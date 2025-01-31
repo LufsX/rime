@@ -65,9 +65,9 @@ def sort(src_file, dest_file):
                 if part_to_sort:
                     sorted_lines = sorted(
                         part_to_sort,
-                        key=lambda x: x.split("\t")[1]
-                        if len(x.split("\t")) > 1
-                        else "",
+                        key=lambda x: (
+                            x.split("\t")[1] if len(x.split("\t")) > 1 else ""
+                        ),
                     )
                     wait_to_write += sorted_lines
                     part_to_sort.clear()
@@ -93,9 +93,11 @@ def sort(src_file, dest_file):
                         part_to_sort,
                         key=lambda x: (
                             x.split("\t")[1] if len(x.split("\t")) > 1 else "",
-                            int(x.split("\t")[2])
-                            if len(x.split("\t")) > 2 and x.split("\t")[2].isdigit()
-                            else 0,
+                            (
+                                int(x.split("\t")[2])
+                                if len(x.split("\t")) > 2 and x.split("\t")[2].isdigit()
+                                else 0
+                            ),
                         ),
                     )
                     wait_to_write += sorted_lines
@@ -109,9 +111,11 @@ def sort(src_file, dest_file):
                 part_to_sort,
                 key=lambda x: (
                     x.split("\t")[1] if len(x.split("\t")) > 1 else "",
-                    int(x.split("\t")[2])
-                    if len(x.split("\t")) > 2 and x.split("\t")[2].isdigit()
-                    else 0,
+                    (
+                        int(x.split("\t")[2])
+                        if len(x.split("\t")) > 2 and x.split("\t")[2].isdigit()
+                        else 0
+                    ),
                 ),
             )
         with open(dest_file, "w", encoding="utf-8", newline="\n") as f:
@@ -128,8 +132,8 @@ if __name__ == "__main__":
         for file in files:
             if file.endswith(".yaml"):
                 file_path = os.path.join(root, file)
-                print(f"Processing {file_path}")
+                print(f"[Dict] Deduplicate and sort {file_path}")
                 deduplicate(file_path, file_path)
                 sort(file_path, file_path)
 
-    print("Processing completed")
+    print("[Dict] All completed")

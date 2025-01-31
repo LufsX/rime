@@ -22,4 +22,4 @@ with open(
             if pattern.match(parts[0]):
                 outFile.write(line + "\n")
 
-print("Clear non-Chinese characters successfully")
+print("[Emoji](OpenCC) Clear non-Chinese characters successfully")
