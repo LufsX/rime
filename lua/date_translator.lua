@@ -1,11 +1,11 @@
 -- date_translator: 时间/日期快捷输入
-
 local function date_translator(input, seg)
     if (input == "date") then
         --- Candidate(type, start, end, text, comment)
         yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d"), ""))
         yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月%d日"), ""))
         yield(Candidate("date", seg.start, seg._end, os.date("%Y%m%d"), ""))
+        yield(Candidate("date", seg.start, seg._end, string.upper(os.date("%d%b%y")), ""))
     end
     if (input == "time") then
         --- Candidate(type, start, end, text, comment)
