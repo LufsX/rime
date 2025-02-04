@@ -4,18 +4,17 @@
 
 <img src="https://cdn.isteed.cc/img/rime-2022/p1.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/p2.png" width="50%" />
 <img src="https://cdn.isteed.cc/img/rime-2022/p3.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/p4.png" width="50%" />
-<img src="https://cdn.isteed.cc/img/rime-2022/p5.png" width="50%" />
 
 <img src="https://cdn.isteed.cc/img/rime-2022/f1.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/f2.png" width="50%" />
 <img src="https://cdn.isteed.cc/img/rime-2022/f3.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/f4.png" width="50%" />
 
 # 使用
 
-安装方法见 [仓库 Wiki](https://github.com/LufsX/rime/wiki/安装输入法方案) 或见 [我的 Rime 配置文件～](https://blog.isteed.cc/post/rime-2022/#安装)
+安装方法见 [仓库 Wiki](https://github.com/LufsX/rime/wiki/安装输入法方案) 或见 [我的 Rime 配置文件](https://blog.isteed.cc/post/rime-2022/#安装)～
 
 # 定制
 
-定制方法见 [仓库 Wiki](https://github.com/LufsX/rime/wiki/定制指南) 及 [鼠须管配置使用～](https://blog.isteed.cc/post/squirrel-customization-2022/)
+定制方法见 [仓库 Wiki](https://github.com/LufsX/rime/wiki/定制指南) 及 [鼠须管配置使用](https://blog.isteed.cc/post/squirrel-customization-2022/)～
 
 # 特性
 
@@ -23,10 +22,21 @@
 - 支持常见的模糊音
 - 支持 Emoji 输入
 - 「朙月拼音」支持按键纠错与容错拼写
-- 快捷输入（日期，星期，时间，timestamp）
+- 快捷输入（日期 `date`，星期 `week`，时间 `time`，时间戳 `timestamp` 等）
 - 以词定字
 - 好看的皮肤～
   - 详见 [仓库 Wiki](<https://github.com/LufsX/rime/wiki/皮肤预览(macOS)>) 或 [我的 Rime 配置文件～](https://blog.isteed.cc/post/rime-2022/#皮肤)
+
+---
+
+- 词库总大小仅 `11.3MB`
+- 极简的 8105 简体字典
+- 自带长句模型
+- 全简体词库
+- THUOCL 词库
+- 萌娘百科词库
+- 部分搜狗词库
+- 支持自定义词典（自造词）
 
 ---
 
@@ -43,19 +53,9 @@
 - 四种候选排序选择
   - 详见 [仓库 Wiki](https://github.com/LufsX/rime/wiki/候选排序)
 
----
-
-- 词库总大小仅 `7.6MB`
-- 极简的 8105 简体字典
-- 自带长句模型
-- 全简体词库
-- THUOCL 词库
-- 部分搜狗词库
-- 支持自定义词典（自造词）
-
 # 待办
 
-- [x] 更新搜狗词库 Update: 2023-11-29
+- [x] 更新搜狗词库 Update: 2025-02-03
 - [x] 添加深色主题
 - [x] 添加 Emoji 支持
 - [x] 添加「[同文输入法](https://github.com/osfans/trime)」支持

@@ -4,7 +4,7 @@
 
 ---
 name: net
-version: "2024-07-06"
+version: "2025-02-03"
 sort: by_weight
 ...
 
@@ -14,6 +14,7 @@ sort: by_weight
 阿敖	a ao
 阿巴巴	a ba ba
 阿巴巴巴	a ba ba ba
+阿爸的刀	a ba de dao
 阿坝师范	a ba shi fan
 阿拜多斯	a bai duo si
 阿贝贝	a bei bei
@@ -32,6 +33,7 @@ sort: by_weight
 阿蝉	a chan
 阿潮	a chao
 阿船	a chuan
+阿脆	a cui
 阿达娃	a da wa
 阿黛拉	a dai la
 阿旦	a dan
@@ -55,12 +57,14 @@ sort: by_weight
 阿尔达马	a er da ma
 阿尔代尔	a er dai er
 阿尔丹	a er dan
+阿尔古斯	a er gu si
 阿尔勒	a er le
 阿尔马达	a er ma da
 阿尔梅达	a er mei da
 阿尔梅勒	a er mei le
 阿尔梅里亚	a er mei li ya
 阿尔米隆	a er mi long
+阿尔塞	a er sai
 阿尔泰尔	a er tai er
 阿尔特塔	a er te ta
 阿尔图罗	a er tu luo
@@ -78,6 +82,8 @@ sort: by_weight
 阿甘左	a gan zuo
 阿戈尔	a ge er
 阿格拉玛	a ge la ma
+阿格莱亚	a ge lai ya
+阿格莱雅	a ge lai ya
 阿根廷女足	a gen ting nv zu
 阿根廷人	a gen ting ren
 阿哈湖	a ha hu
@@ -89,24 +95,37 @@ sort: by_weight
 阿基蕾拉	a ji lei la
 阿吉野马	a ji ye ma
 阿贾青年	a jia qing nian
+阿娇复胖	a jiao fu pang
+阿娇锁骨	a jiao suo gu
+阿娇演的怨女	a jiao yan de yuan nv
+阿姐又放粮了	a jie you fang liang le
 阿金斯	a jin si
 阿舅奈斯	a jiu nai si
 阿卡多	a ka duo
+阿卡丽来了	a ka li lai le
 阿坎吉	a kan ji
 阿克伦	a ke lun
 阿克塞尔	a ke sai er
 阿克尚	a ke shang
+阿枯	a ku
+阿夸毕业	a kua bi ye
 阿拉曼	a la man
 阿拉梅	a la mei
+阿拉米扬	a la mi yang
 阿拉山	a la shan
 阿拉斯托	a la si tuo
 阿拉维斯	a la wei si
 阿莱格里	a lai ge li
 阿来路亚	a lai lu ya
 阿兰德龙	a lan de long
+阿兰德龙去世	a lan de long qu shi
 阿兰娜	a lan na
 阿劳霍	a lao huo
+阿勒颇	a le po
 阿勒泰	a le tai
+阿勒泰暴雪	a le tai bao xue
+阿勒泰的秋天	a le tai de qiu tian
+阿勒泰下雪了	a le tai xia xue le
 阿肋路亚	a lei lu ya
 阿蕾奇诺	a lei qi nuo
 阿璃	a li
@@ -132,16 +151,20 @@ sort: by_weight
 阿洛娜	a luo na
 阿洛伊	a luo yi
 阿驴	a lv
+阿玛德绝杀	a ma de jue sha
 阿马杜	a ma du
 阿马多拉	a ma duo la
+阿玛特拉斯	a ma te la si
 阿妈粽	a ma zong
 阿帽	a mao
 阿茂	a mao
 阿美莉卡	a mei li ka
 阿米狗	a mi gou
 阿米诺斯	a mi nuo si
+啊米诺斯	a mi nuo si
 阿妙	a miao
 阿莫罗芬	a mo luo fen
+阿莫斯	a mo si
 阿莫斯之弓	a mo si zhi gong
 阿姆拉巴特	a mu la ba te
 阿尼甲	a ni jia
@@ -149,12 +172,15 @@ sort: by_weight
 阿妮亚	a ni ya
 阿尼亚	a ni ya
 阿涅利	a nie li
+阿诺拉	a nuo la
 阿诺斯	a nuo si
+阿帕特	a pa te
 阿佩普	a pei pu
 阿婆克烈	a po ke lie
 阿其那	a qi na
 阿前	a qian
 阿晴	a qing
+阿求	a qiu
 阿丘瓦	a qiu wa
 阿区	a qu
 阿刃	a ren
@@ -162,6 +188,8 @@ sort: by_weight
 阿日	a ri
 阿如村	a ru cun
 阿如那	a ru na
+阿如那圈粉	a ru na quan fen
+阿如那淘汰	a ru na tao tai
 阿箬	a ruo
 阿萨尔	a sa er
 阿萨塔	a sa ta
@@ -172,16 +200,21 @@ sort: by_weight
 阿诗勒隼	a shi le sun
 阿兽	a shou
 阿数	a shu
+阿术	a shu
 阿署达	a shu da
 阿巳	a si
 阿斯卡隆	a si ka long
 阿斯卡纶	a si ka lun
 阿斯拉达	a si la da
 阿斯拉尼	a si la ni
+阿斯帕斯	a si pa si
 阿斯皮利奎塔	a si pi li kui ta
 阿索卡	a suo ka
+阿汤哥骑摩托	a tang ge qi mo tuo
 阿特金森	a te jin sen
 阿特苏	a te su
+阿条姐领奖	a tiao jie ling jiang
+阿条姐太稳了	a tiao jie tai wen le
 阿铁	a tie
 阿图尔	a tu er
 阿瓦达啃大瓜	a wa da ken da gua
@@ -194,9 +227,12 @@ sort: by_weight
 阿细跳月	a xi tiao yue
 阿湘	a xiang
 阿谢姆	a xie mu
+阿信好会写	a xin hao hui xie
 阿絮	a xu
 阿崖	a ya
+阿雅好温柔	a ya hao wen rou
 啊呀啦嗦	a ya la suo
+阿厌	a yan
 阿垚	a yao
 阿也	a ye
 阿依多斯	a yi duo si
@@ -206,8 +242,12 @@ sort: by_weight
 阿俞	a yu
 阿鸢	a yuan
 阿赞	a zan
+阿瓒	a zan
+阿瓒我爱你	a zan wo ai ni
 啊泽	a ze
+啊泽回应转辅	a ze hui ying zhuan fu
 阿宅的恋爱真难	a zhai de lian ai zhen nan
+阿哲生日会	a zhe sheng ri hui
 阿纸	a zhi
 阿宙斯	a zhou si
 阿兹夫定	a zi fu ding
@@ -222,14 +262,17 @@ sort: by_weight
 爱宝	ai bao
 爱宝乐园	ai bao le yuan
 艾北	ai bei
+爱本质无异	ai ben zhi wu yi
 埃比	ai bi
 艾比安	ai bi an
 挨不得	ai bu de
 爱不会绝迹	ai bu hui jue ji
 爱不止步	ai bu zhi bu
 爱财爱己	ai cai ai ji
+爱藏	ai cang
 艾草香	ai cao xiang
 艾绰	ai chuo
+爱错翻唱挑战	ai cuo fan chang tiao zhan
 爱搭搭	ai da da
 艾达丝	ai da si
 爱达未来	ai da wei lai
@@ -246,13 +289,16 @@ sort: by_weight
 艾德曼	ai de man
 埃德米尔森	ai de mi er sen
 爱的恰恰	ai de qia qia
+爱的三部曲	ai de san bu qu
 埃德森	ai de sen
+爱的颂歌	ai de song ge
 爱德朱	ai de zhu
 艾迪卡	ai di ka
 艾迪生	ai di sheng
 爱豆传媒	ai dou chuan mei
 爱豆驿站	ai dou yi zhan
 爱都爱了	ai du ai le
+爱读书的女人	ai du shu de nv ren
 爱对了人	ai dui le ren
 爱对人	ai dui ren
 爱耳	ai er
@@ -308,15 +354,20 @@ sort: by_weight
 爱护自然	ai hu zi ran
 爱华镇	ai hua zhen
 哀黄	ai huang
+爱黄金	ai huang jin
 艾回	ai hui
 爱辉路	ai hui lu
 爱会消失	ai hui xiao shi
 艾火	ai huo
 艾姬多娜	ai ji duo na
 埃吉尔	ai ji er
+埃及风	ai ji feng
 埃及金字塔	ai ji jin zi ta
 埃及猫	ai ji mao
+埃吉齐奥博物馆	ai ji qi ao bo wu guan
+埃及游船沉没	ai ji you chuan chen mo
 爱家人	ai jia ren
+爱家月子中心	ai jia yue zi zhong xin
 爱健身	ai jian shen
 哀江头	ai jiang tou
 矮脚马	ai jiao ma
@@ -327,6 +378,7 @@ sort: by_weight
 爱久见人心	ai jiu jian ren xin
 爱就一个	ai jiu yi ge
 艾卡西亚	ai ka xi ya
+爱看短剧	ai kan duan ju
 爱康科技	ai kang ke ji
 艾克斯	ai ke si
 爱科学	ai ke xue
@@ -337,7 +389,13 @@ sort: by_weight
 埃拉托	ai la tuo
 艾岚	ai lan
 埃兰加	ai lan jia
+哀牢古国	ai lao gu guo
 爱老敬老	ai lao jing lao
+哀牢山	ai lao shan
+哀牢山摆拍	ai lao shan bai pai
+哀牢山堵车	ai lao shan du che
+哀牢山危险性	ai lao shan wei xian xing
+哀牢山野游	ai lao shan ye you
 埃利奥特	ai li ao te
 艾里迪布斯	ai li di bu si
 爱立刻有	ai li ke you
@@ -351,6 +409,7 @@ sort: by_weight
 艾莉西亚	ai li xi ya
 艾莉亚	ai li ya
 艾力扎提	ai li zha ti
+爱丽状态	ai li zhuang tai
 艾莉兹	ai li zi
 艾莲	ai lian
 艾莲娜	ai lian na
@@ -362,12 +421,15 @@ sort: by_weight
 艾露达	ai lu da
 艾露露	ai lu lu
 艾露猫	ai lu mao
+艾伦宋亚轩	ai lun song ya xuan
 艾伦耶格尔	ai lun ye ge er
 埃洛伊	ai luo yi
 爱绿	ai lv
+爱玛科技	ai ma ke ji
 艾玛斯通	ai ma si tong
 艾梅伯	ai mei bo
 暧昧关系	ai mei guan xi
+暧昧拉扯	ai mei la che
 埃梅里	ai mei li
 爱梅斯	ai mei si
 爱梅特赛尔克	ai mei te sai er ke
@@ -389,7 +451,9 @@ sort: by_weight
 爱你孤身走暗巷	ai ni gu shen zou an xiang
 爱你官宣杀青	ai ni guan xuan sha qing
 爱你很久	ai ni hen jiu
+爱你很久很久	ai ni hen jiu hen jiu
 爱你们呦	ai ni men you
+爱你首发预告	ai ni shou fa yu gao
 爱你所爱	ai ni suo ai
 艾尼维亚	ai ni wei ya
 爱你无罪	ai ni wu zui
@@ -399,22 +463,38 @@ sort: by_weight
 爱欧	ai ou
 艾欧尼亚维护	ai ou ni ya wei hu
 爱拍照	ai pai zhao
+爱胖达	ai pang da
 爱拼会赢	ai pin hui ying
 爱泼斯坦案	ai po si tan an
 爱普诗	ai pu shi
+爱奇艺排播	ai qi yi pai bo
+爱奇艺漂白	ai qi yi piao bai
+爱奇艺破万墙	ai qi yi po wan qiang
+爱奇艺卧底	ai qi yi wo di
+爱奇艺新规	ai qi yi xin gui
+爱奇艺选秀	ai qi yi xuan xiu
+爱奇艺已退款	ai qi yi yi tui kuan
 挨枪子	ai qiang zi
 爱情宝典	ai qing bao dian
 爱情长跑	ai qing chang pao
 爱青城	ai qing cheng
+爱情广场	ai qing guang chang
 爱情呼叫转移	ai qing hu jiao zhuan yi
 爱情理论	ai qing li lun
 爱情麻辣烫	ai qing ma la tang
+爱情美满	ai qing mei man
 爱情魔发师	ai qing mo fa shi
+爱情启蒙	ai qing qi meng
 爱情神话	ai qing shen hua
+爱情甜蜜	ai qing tian mi
 爱情与灵药	ai qing yu ling yao
+爱让人像小孩	ai rang ren xiang xiao hai
+艾热舞台好燃	ai re wu tai hao ran
+爱人不见了	ai ren bu jian le
 爱人节	ai ren jie
 矮人面具	ai ren mian ju
 爱人如养花	ai ren ru yang hua
+爱人像小孩	ai ren xiang xiao hai
 爱融荟城	ai rong hui cheng
 爱榕园	ai rong yuan
 爱如往昔	ai ru wang xi
@@ -422,6 +502,7 @@ sort: by_weight
 爱啥样	ai sha yang
 爱上火车	ai shang huo che
 爱上她的理由	ai shang ta de li you
+爱上伍鹏	ai shang wu peng
 爱上学习	ai shang xue xi
 爱社会主义	ai she hui zhu yi
 爱射佳怡	ai she jia yi
@@ -432,6 +513,7 @@ sort: by_weight
 埃斯蒂尼安	ai si di ni an
 爱死机	ai si ji
 埃斯佩	ai si pei
+埃斯特雷	ai si te lei
 艾斯提	ai si ti
 埃斯托里尔	ai si tuo li er
 艾酸氏	ai suan shi
@@ -444,8 +526,11 @@ sort: by_weight
 哀王孙	ai wang sun
 艾薇塔	ai wei ta
 艾维亚	ai wei ya
+埃文凯尔	ai wen kai er
+埃文凯尔回国	ai wen kai er hui guo
 爱我的话	ai wo de hua
 爱我多深	ai wo duo shen
+爱我没有如果	ai wo mei you ru guo
 爱我所爱	ai wo suo ai
 爱无结果	ai wu jie guo
 艾西亚	ai xi ya
@@ -454,7 +539,9 @@ sort: by_weight
 爱心车	ai xin che
 爱心传递	ai xin chuan di
 爱信等	ai xin deng
+爱心发型	ai xin fa xing
 爱心湖	ai xin hu
+爱心还给我	ai xin huan gei wo
 爱心接力	ai xin jie li
 爱心路	ai xin lu
 爱心码	ai xin ma
@@ -465,13 +552,16 @@ sort: by_weight
 爱心早餐	ai xin zao can
 爱心值	ai xin zhi
 艾许	ai xu
+爱徐艺洋	ai xu yi yang
 爱丫	ai ya
 爱眼护眼	ai yan hu yan
 爱意疯长	ai yi feng zhang
+爱一个具体的人	ai yi ge ju ti de ren
 爱意满满	ai yi man man
 爱意随风起	ai yi sui feng qi
 埃因霍温	ai yin huo wen
 埃因青年	ai yin qing nian
+爱赢才会拼	ai ying cai hui pin
 爱幽的密室	ai you de mi shi
 爱有来生	ai you lai sheng
 爱与被爱	ai yu bei ai
@@ -484,17 +574,23 @@ sort: by_weight
 爱悦堡	ai yue bao
 爱乐达	ai yue da
 爱在马赛	ai zai ma sai
+爱在吸烟前	ai zai xi yan qian
 爱在终局之前	ai zai zhong ju zhi qian
 艾泽里	ai ze li
+艾扎克	ai zha ke
 挨着坐	ai zhe zuo
 癌症患者	ai zheng huan zhe
 癌症率	ai zheng lv
+爱值班的校猫	ai zhi ban de xiao mao
+爱之巢	ai zhi chao
 爱之梦	ai zhi meng
 爱知名古屋	ai zhi ming gu wu
 爱之切	ai zhi qie
+爱之深责之切	ai zhi shen ze zhi qie
 爱之翼	ai zhi yi
 癌中之王	ai zhong zhi wang
 艾朱	ai zhu
+艾滋病阻断	ai zi bing zu duan
 爱字幕	ai zi mu
 爱自拍	ai zi pai
 爱子心无尽	ai zi xin wu jin
@@ -507,11 +603,15 @@ sort: by_weight
 安保人员	an bao ren yuan
 安保压力	an bao ya li
 按背	an bei
+安倍撒	an bei sa
 暗冰	an bing
+岸波白野	an bo bai ye
 安波里欧	an bo li ou
 俺不过	an bu guo
 俺不累	an bu lei
 安布罗西尼	an bu luo xi ni
+俺不中了	an bu zhong le
+俺不中嘞	an bu zhong le
 安彩高科	an cai gao ke
 安成民	an cheng min
 安初夏	an chu xia
@@ -528,7 +628,10 @@ sort: by_weight
 安德利	an de li
 安德罗波夫	an de luo bo fu
 按栋	an dong
+安东尼奥车祸	an dong ni ao che huo
 安东诺夫	an dong nuo fu
+安东森	an dong sen
+安东森球品	an dong sen qiu pin
 岸兜	an dou
 暗独	an du
 安多恩	an duo en
@@ -546,13 +649,18 @@ sort: by_weight
 安工业	an gong ye
 按规则	an gui ze
 安果	an guo
+暗河长明	an he chang ming
 暗河传	an he chuan
 暗河传	an he zhuan
 暗黑娇妻	an hei jiao qi
+暗黑魔女	an hei mo nv
 暗黑四	an hei si
+暗黑向	an hei xiang
 暗黑之猫	an hei zhi mao
 安化街	an hua jie
 暗绘	an hui
+安徽地震	an hui di zhen
+安徽地震了	an hui di zhen le
 安徽二建	an hui er jian
 安徽高考录取	an hui gao kao lu qu
 安徽公安	an hui gong an
@@ -561,6 +669,7 @@ sort: by_weight
 安徽建筑	an hui jian zhu
 安徽码上线	an hui ma shang xian
 安徽省考	an hui sheng kao
+安徽省考公告	an hui sheng kao gong gao
 安徽师大	an hui shi da
 安徽泗县	an hui si xian
 安徽投档线	an hui tou dang xian
@@ -582,23 +691,30 @@ sort: by_weight
 安警	an jing
 暗经	an jing
 黯晶	an jing
+安静公主	an jing gong zhu
+安静公主直播	an jing gong zhu zhi bo
 安局	an ju
 安居卡	an ju ka
 案卡	an ka
 暗凯	an kai
+安康幸福	an kang xing fu
 安可场	an ke chang
 安可儿	an ke er
+暗壳科技	an ke ke ji
 安可乐	an ke le
 安蓝	an lan
 暗狼	an lang
+安乐死胶囊舱	an le si jiao nang cang
 安乐传	an le zhuan
 安理	an li
 按两下	an liang xia
+安陵公主	an ling gong zhu
 黯灵龙	an ling long
 暗萝	an luo
 唵嘛呢叭咪吽	an ma ne ba mi hong
 暗猫	an mao
 安茂元	an mao yuan
+俺没相过亲	an mei xiang guo qin
 暗面包	an mian bao
 按秒	an miao
 按名次	an ming ci
@@ -618,13 +734,17 @@ sort: by_weight
 安瓶面膜	an ping mian mo
 安溥	an pu
 安普贤	an pu xian
+安期	an qi
 安切洛蒂	an qie luo di
+安擎科技	an qing ke ji
 安庆师范	an qing shi fan
 安庆西	an qing xi
+安卿鱼	an qing yu
 安丘教育	an qiu jiao yu
 暗区突围	an qu tu wei
 安全保护	an quan bao hu
 安全保障	an quan bao zhang
+安全车	an quan che
 安全承德	an quan cheng de
 安全出行	an quan chu xing
 安全词	an quan ci
@@ -638,6 +758,7 @@ sort: by_weight
 安全教育课	an quan jiao yu ke
 安全警示	an quan jing shi
 安全课	an quan ke
+安全扣没扣好	an quan kou mei kou hao
 安全利用	an quan li yong
 安全落地	an quan luo di
 安全率	an quan lv
@@ -645,7 +766,9 @@ sort: by_weight
 安全食材	an quan shi cai
 安全体系	an quan ti xi
 安全退出	an quan tui chu
+安全退役	an quan tui yi
 安全为主	an quan wei zhu
+安全箱	an quan xiang
 安全椅	an quan yi
 安全最重要	an quan zui zhong yao
 安忍	an ren
@@ -655,10 +778,13 @@ sort: by_weight
 安三胖	an san pang
 暗杀风暴	an sha feng bao
 暗杀名单	an sha ming dan
+暗杀未遂	an sha wei sui
 暗扇	an shan
 鞍山师范	an shan shi fan
+鞍山小马	an shan xiao ma
 鞍山职业技术学院	an shan zhi ye ji shu xue yuan
 暗神	an shen
+安身法	an shen fa
 鞍师	an shi
 按时到校	an shi dao xiao
 按时返校	an shi fan xiao
@@ -666,10 +792,12 @@ sort: by_weight
 按时上班	an shi shang ban
 暗示一下	an shi yi xia
 按时足额	an shi zu e
+安睡裤价格	an shui ku jia ge
 安顺学院	an shun xue yuan
 安顺职业技术学院	an shun zhi ye ji shu xue yuan
 暗算蛋	an suan dan
 安踏的	an ta de
+安踏太神了	an ta tai shen le
 安藤樱	an teng ying
 岸田	an tian
 暗天	an tian
@@ -678,6 +806,7 @@ sort: by_weight
 岸田文雄	an tian wen xiong
 暗铁剑	an tie jian
 安土	an tu
+安万	an wan
 安危冷暖	an wei leng nuan
 按我心意	an wo xin yi
 安洗莹	an xi ying
@@ -685,8 +814,10 @@ sort: by_weight
 安享百万	an xiang bai wan
 暗巷闪光	an xiang shan guang
 安香怡	an xiang yi
+安香怡卫冕	an xiang yi wei mian
 安小慧	an xiao hui
 俺小舅	an xiao jiu
+安小鸟保胎	an xiao niao bao tai
 安孝燮	an xiao xie
 安馨家园	an xin jia yuan
 岸信介	an xin jie
@@ -704,6 +835,7 @@ sort: by_weight
 安阳职业	an yang zhi ye
 安阳职业技术学院	an yang zhi ye ji shu xue yuan
 暗夜猫娘	an ye mao niang
+暗夜迷局	an ye mi ju
 暗夜审判	an ye shen pan
 暗夜危机	an ye wei ji
 暗夜行者	an ye xing zhe
@@ -713,6 +845,8 @@ sort: by_weight
 安艺恩	an yi en
 安医二附院	an yi er fu yuan
 安忆谷	an yi gu
+安以夏	an yi xia
+安以轩老公	an yi xuan lao gong
 暗瘾	an yin
 暗影刺客	an ying ci ke
 暗影会	an ying hui
@@ -721,6 +855,8 @@ sort: by_weight
 暗影双匕	an ying shuang bi
 暗影游猎	an ying you lie
 安宥真	an you zhen
+安宥真好会跳	an you zhen hao hui tiao
+暗喻幻想	an yu huan xiang
 暗域狂潮	an yu kuang chao
 暗域天子	an yu tian zi
 暗渊魔法	an yuan mo fa
@@ -733,50 +869,73 @@ sort: by_weight
 安哲拉	an zhe la
 暗镇魂	an zhen hun
 安贞街道	an zhen jie dao
+俺正得发邪	an zheng dei fa xie
 安知我意	an zhi wo yi
 案中案	an zhong an
 鞍重股份	an zhong gu fen
 俺主任	an zhu ren
 安装资源包	an zhuang zi yuan bao
+安卓妹	an zhuo mei
 安卓平板	an zhuo ping ban
 鞍子山	an zi shan
 昂扬不灭	ang yang bu mie
 昂扬斗志	ang yang dou zhi
 嗷嗷冷	ao ao leng
+奥巴马秀饶舌	ao ba ma xiu rao she
 澳杯	ao bei
 奥北公元	ao bei gong yuan
 奥本海默	ao ben hai mo
 奥比斯	ao bi si
+敖丙爸爸硬帅	ao bing ba ba ying shuai
+敖丙开门	ao bing kai men
+敖丙他爸出场	ao bing ta ba chu chang
+敖丙他爸好帅	ao bing ta ba hao shuai
 奥伯龙	ao bo long
 奥藏	ao cang
 奥藏山	ao cang shan
+熬穿	ao chuan
+熬穿了	ao chuan le
+奥创光子	ao chuang guang zi
+奥茨玛	ao ci ma
+奥村春	ao cun chun
+澳大利亚联邦	ao da li ya lian bang
+澳大利亚领先	ao da li ya ling xian
 澳大利亚女足	ao da li ya nv zu
 熬到最后	ao dao zui hou
 奥德彪	ao de biao
+奥德诺	ao de nuo
 敖德萨	ao de sa
+傲得我很爽	ao de wo hen shuang
+傲弟	ao di
 奥爹	ao die
+奥丁战	ao ding zhan
 熬冬	ao dong
 澳尔滨	ao er bin
 奥尔菲斯	ao er fei si
 奥尔芬斯	ao er fen si
 奥尔莫	ao er mo
 奥尔特加	ao er te jia
+奥菲欧	ao fei ou
 奥飞数据	ao fei shu ju
 奥飞娱乐	ao fei yu le
 澳服	ao fu
 奥格斯堡	ao ge si bao
 奥姑	ao gu
+敖光	ao guang
+敖光敖闰	ao guang ao run
 澳国立	ao guo li
 奥会	ao hui
 傲魂	ao hun
 奥迹	ao ji
 熬鸡汤	ao ji tang
+澳假	ao jia
 凹酱	ao jiang
 傲娇美	ao jiao mei
 傲娇妹	ao jiao mei
 奥科吉	ao ke ji
 奥兰多城	ao lan duo cheng
 奥兰花园	ao lan hua yuan
+熬老汤	ao lao tang
 熬老头	ao lao tou
 凹了	ao le
 澳乐乳	ao le ru
@@ -784,6 +943,7 @@ sort: by_weight
 澳乐维他	ao le wei ta
 奥蕾莉亚	ao lei li ya
 奥利巴	ao li ba
+奥莉花	ao li hua
 奥里吉	ao li ji
 奥莉娜	ao li na
 奥利绒	ao li rong
@@ -796,8 +956,14 @@ sort: by_weight
 奥马尔	ao ma er
 傲慢之罪	ao man zhi zui
 奥美医疗	ao mei yi liao
+澳门场	ao men chang
 澳门赌场	ao men du chang
 澳门回归	ao men hui gui
+澳门机遇巨大	ao men ji yu ju da
+澳门来信	ao men lai xin
+澳门葡记月饼	ao men pu ji yue bing
+澳门特区	ao men te qu
+澳门演唱会	ao men yan chang hui
 奥密	ao mi
 奥米加兽	ao mi jia shou
 奥密克戎	ao mi ke rong
@@ -807,30 +973,49 @@ sort: by_weight
 鏖灭	ao mie
 奥摩斯港	ao mo si gang
 奥纳纳	ao na na
+奥奇坎	ao qi kan
 奥恰	ao qia
 奥恰洛夫	ao qia luo fu
 敖潜	ao qian
 奥巧	ao qiao
 奥乔亚	ao qiao ya
 奥切	ao qie
+敖犬领证	ao quan ling zheng
 澳人治澳	ao ren zhi ao
 奥瑞德	ao rui de
+敖瑞鹏好帅	ao rui peng hao shuai
+敖瑞鹏红温了	ao rui peng hong wen le
+敖瑞鹏金丝猴	ao rui peng jin si hou
+敖瑞鹏看看腰	ao rui peng kan kan yao
+敖瑞鹏男模	ao rui peng nan mo
+敖瑞鹏收官文	ao rui peng shou guan wen
+敖瑞鹏写真	ao rui peng xie zhen
+敖瑞鹏演技	ao rui peng yan ji
+敖瑞鹏直播	ao rui peng zhi bo
+敖闰	ao run
 奥萨苏纳	ao sa su na
 奥赛尔	ao sai er
 傲神	ao shen
 奥司	ao si
+奥斯卡宁荣荣	ao si ka ning rong rong
 奥斯梅恩	ao si mei en
 奥斯塔	ao si ta
 奥司他韦	ao si ta wei
 奥斯汀格里芬	ao si ting ge li fen
 奥塔维奥	ao ta wei ao
 奥太娜	ao tai na
+鳌太线	ao tai xian
+奥特曼来了	ao te man lai le
 奥特曼联动	ao te man lian dong
 奥特曼之日	ao te man zhi ri
+奥特灭伽	ao te mie jia
 奥特兄弟	ao te xiong di
+奥特迅	ao te xun
 奥特银河格斗	ao te yin he ge dou
 凹凸电波	ao tu dian bo
 奥托波特	ao tuo bo te
+澳网今日开幕	ao wang jin ri kai mu
+澳网女单	ao wang nv dan
 奥维尔	ao wei er
 奥维尔号	ao wei er hao
 奥西姆亨	ao xi mu heng
@@ -846,20 +1031,53 @@ sort: by_weight
 傲夜	ao ye
 熬夜打游戏	ao ye da you xi
 熬夜伤身	ao ye shang shen
+傲意科技	ao yi ke ji
 傲因	ao yin
 凹音	ao yin
 敖隐	ao yin
+熬隐	ao yin
 遨游令	ao you ling
 遨游神秘洋	ao you shen mi yang
 奥园美谷	ao yuan mei gu
+奥运闭幕	ao yun bi mu
+奥运闭幕日	ao yun bi mu ri
+奥运闭幕式	ao yun bi mu shi
+奥运比赛	ao yun bi sai
 奥运钞	ao yun chao
+奥运村守村人	ao yun cun shou cun ren
+奥运会闭幕式	ao yun hui bi mu shi
+奥运会冲浪	ao yun hui chong lang
+奥运会了	ao yun hui le
+奥运会霹雳舞	ao yun hui pi li wu
+奥运会收视率	ao yun hui shou shi lv
+奥运会摔跤	ao yun hui shuai jiao
 奥运火炬	ao yun huo ju
+奥运记录	ao yun ji lu
 奥运健儿	ao yun jian er
+奥运奖牌	ao yun jiang pai
+奥运奖牌榜	ao yun jiang pai bang
 奥运金牌	ao yun jin pai
+奥运经济学	ao yun jing ji xue
 奥运精神	ao yun jing shen
+奥运开幕式	ao yun kai mu shi
+奥运马拉松	ao yun ma la song
+奥运男篮决赛	ao yun nan lan jue sai
+奥运期间	ao yun qi jian
+奥运群像	ao yun qun xiang
+奥运赛	ao yun sai
 奥运圣火	ao yun sheng huo
 奥运项目	ao yun xiang mu
+奥运选手	ao yun xuan shou
+奥运要闭幕了	ao yun yao bi mu le
+奥运预言	ao yun yu yan
+奥运早晚报	ao yun zao wan bao
+奥运直播	ao yun zhi bo
+奥运妆容大赏	ao yun zhuang rong da shang
+奥扎	ao zha
+澳洲包邮	ao zhou bao you
+澳洲大老鼠	ao zhou da lao shu
 澳洲劳务	ao zhou lao wu
+敖子	ao zi
 澳足总	ao zu zong
 巴阿	ba a
 疤疤	ba ba
@@ -867,7 +1085,10 @@ sort: by_weight
 爸爸当家	ba ba dang jia
 爸爸当家第二季	ba ba dang jia di er ji
 拔拔灯	ba ba deng
+把把壶	ba ba hu
+把把胡	ba ba hu
 爸爸妈妈们	ba ba ma ma men
+爸爸牌米糊	ba ba pai mi hu
 粑粑人	ba ba ren
 爸爸是外星人	ba ba shi wai xing ren
 巴巴塔	ba ba ta
@@ -880,7 +1101,9 @@ sort: by_weight
 八百亿	ba bai yi
 八百壮士	ba bai zhuang shi
 八坂	ba ban
+八坂之勾玉	ba ban zhi gou yu
 霸榜了	ba bang le
+扒棒子	ba bang zi
 八宝鸡	ba bao ji
 八宝罗盘	ba bao luo pan
 扒苞米	ba bao mi
