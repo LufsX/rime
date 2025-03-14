@@ -6,6 +6,8 @@
 /rime.wiki/
 /sync/
 /test/
+__pycache__
+cache*
 installation.yaml
-user.yaml
 sync
+user.yaml
