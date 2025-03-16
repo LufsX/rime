@@ -147,7 +147,7 @@ class SougouScelDownloader:
             raise ValueError("No URL provided")
 
         # 下载文件
-        print(f"Downloading {url} to {output_path}")
+        print(f"[scel2txt] Downloading {url} to {output_path}")
         headers = {
             "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 Edg/134.0.0.0"
         }
@@ -212,7 +212,7 @@ class RimeDictConverter:
                 freq = word_info.get("freq", 10)
                 f.write(f"{word}\t{pinyin}\t{freq}\n")
 
-        print(f"Converted {len(words)} words to {output_file}")
+        print(f"[scel2txt] Converted {len(words)} words to {output_file}")
 
 
 def main():
@@ -226,7 +226,7 @@ def main():
 
     # 检查参数
     if not args.input and not args.url:
-        parser.error("需要提供输入文件路径或下载 URL")
+        parser.error("[scel2txt] 需要提供输入文件路径或下载 URL")
 
     # 如果提供了 URL，先下载
     if args.url:
@@ -237,7 +237,7 @@ def main():
             else:
                 scel_file, temp_flag = downloader.download(args.url)
         except Exception as e:
-            print(f"下载失败: {e}")
+            print(f"[scel2txt] 下载失败: {e}")
             return 1
     else:
         scel_file = args.input
@@ -254,18 +254,18 @@ def main():
     try:
         reader = SougouScelReader(scel_file)
         info = reader.read_scel_info()
-        print(f"词库名称: {info.get('Name')}")
-        print(f"词库类型: {info.get('Type')}")
-        print(f"词条数量: {info.get('CountWord')}")
-        print(f"词库描述: {info.get('Info')}")
+        print(f"[scel2txt] 词库名称: {info.get('Name')}")
+        print(f"[scel2txt] 词库类型: {info.get('Type')}")
+        print(f"[scel2txt] 词条数量: {info.get('CountWord')}")
+        print(f"[scel2txt] 词库描述: {info.get('Info')}")
         print(
-            f"词库示例: {info.get('Sample').replace('\u3000', '').replace('\r', '|')}"
+            f"[scel2txt] 词库示例: {info.get('Sample').replace('\u3000', '').replace('\r', '|')}"
         )
 
         words = reader.read_scel()
-        print(f"实际解析词条: {len(words)}")
+        print(f"[scel2txt] 实际解析词条: {len(words)}")
     except Exception as e:
-        print(f"读取词库失败: {e}")
+        print(f"[scel2txt] 读取词库失败: {e}")
         return 1
 
     # 转换为 RIME 词典
@@ -285,13 +285,13 @@ def main():
 
 if __name__ == "__main__":
     # 测试参数
-    # sys.argv = [
-    #     "scel2dict.py",
-    #     "-i",
-    #     "test.scel",
-    #     "-o",
-    #     "test.dict.yaml",
-    #     "-u",
-    #     "https://pinyin.sogou.com/d/dict/download_cell.php?id=4&name=%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E6%96%B0%E8%AF%8D",
-    # ]
+    sys.argv = [
+        "scel2dict.py",
+        "-i",
+        "test.scel",
+        "-o",
+        "test.dict.yaml",
+        "-u",
+        "https://pinyin.sogou.com/d/dict/download_cell.php?id=4&name=%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E6%96%B0%E8%AF%8D",
+    ]
     sys.exit(main())
