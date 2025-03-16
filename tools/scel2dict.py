@@ -147,7 +147,6 @@ class SougouScelDownloader:
             raise ValueError("No URL provided")
 
         # 下载文件
-        print(f"[scel2txt] Downloading {url} to {output_path}")
         headers = {
             "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 Edg/134.0.0.0"
         }
@@ -176,6 +175,8 @@ class SougouScelDownloader:
                     filename += f"_{timestamp}.scel"
                 output_path = os.path.join(temp_dir, filename)
             temp_flag[0], temp_flag[1], temp_flag[2] = True, temp_dir, output_path
+
+        print(f"[scel2txt] Downloading {url} to {output_path}")
 
         # 保存文件
         with open(output_path, "wb") as f:
