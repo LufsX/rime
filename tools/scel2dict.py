@@ -286,13 +286,13 @@ def main():
 
 if __name__ == "__main__":
     # 测试参数
-    sys.argv = [
-        "scel2dict.py",
-        "-i",
-        "test.scel",
-        "-o",
-        "test.dict.yaml",
-        "-u",
-        "https://pinyin.sogou.com/d/dict/download_cell.php?id=4&name=%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E6%96%B0%E8%AF%8D",
-    ]
+    # sys.argv = [
+    #     "scel2dict.py",
+    #     "-i",
+    #     "test.scel",
+    #     "-o",
+    #     "test.dict.yaml",
+    #     "-u",
+    #     "https://pinyin.sogou.com/d/dict/download_cell.php?id=4&name=%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E6%96%B0%E8%AF%8D",
+    # ]
     sys.exit(main())
