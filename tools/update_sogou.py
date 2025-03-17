@@ -8,7 +8,7 @@ import re
 
 workDir = os.path.abspath(os.path.dirname(sys.path[0]))
 dict_list = {
-    "sogou_net.dict.yaml": {"id": 4, "name": "网络流行新词"},
+    "sogou_net.dict.yaml": {"id": 4, "name": "网络流行新词", "increment": True},
     "sogou_minecraft.dict.yaml": {
         "id": 124017,
         "name": "Minecraft最全词库（更新至1.16.2）",
@@ -42,8 +42,8 @@ def extract_update_date(dict_id):
 
 
 # 转换为 Rime 词典格式的函数
-def convert_to_rime(words, output_file, id, update_date=None):
-    if "net" in output_file:
+def convert_to_rime(words, output_file, id, update_date=None, increment=False):
+    if increment:
         # 增量更新处理
         existing_words = set()
         existing_lines = []
@@ -88,7 +88,9 @@ def convert_to_rime(words, output_file, id, update_date=None):
                     new_count += 1
                     existing_words.add(word)
 
-        print(f"[Dict](Sogou) Incremental update: Added {new_count} new entries to {output_file}")
+        print(
+            f"[Dict](Sogou) Incremental update: Added {new_count} new entries to {output_file}"
+        )
     else:
         # 写入 Rime 词典头部
         with open(output_file, "w", encoding="utf-8") as f:
@@ -118,6 +120,7 @@ for key in dict_list:
     info = dict_list[key]
     dict_id = info["id"]
     dict_name = info["name"]
+    dict_increment = info.get("increment", False)
 
     print(f"[Dict](Sogou) Processing: {dict_name} (ID: {dict_id})")
 
@@ -150,7 +153,7 @@ for key in dict_list:
         print(f"[Dict](Sogou) Actual Count: {len(words)}")
 
         # 转换为 RIME 词典，传递提取的更新日期
-        convert_to_rime(words, output_path, dict_id, update_date)
+        convert_to_rime(words, output_path, dict_id, update_date=update_date, increment=dict_increment)
         print(f"[Dict](Sogou) Saved to: {output_path}")
 
         # 清理临时文件

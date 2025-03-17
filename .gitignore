@@ -5,6 +5,7 @@
 /build/
 /rime.wiki/
 /sync/
+/temp/
 /test/
 __pycache__
 cache*
