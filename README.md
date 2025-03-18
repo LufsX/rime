@@ -2,11 +2,11 @@
 
 # 预览
 
-<img src="https://cdn.isteed.cc/img/rime-2022/p1.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/p2.png" width="50%" />
-<img src="https://cdn.isteed.cc/img/rime-2022/p3.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/p4.png" width="50%" />
+<img src="https://cdn.isteed.cc/img/rime-2022/pn1.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/pn2.png" width="50%" />
+<img src="https://cdn.isteed.cc/img/rime-2022/pn3.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/pn4.png" width="50%" />
 
-<img src="https://cdn.isteed.cc/img/rime-2022/f1.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/f2.png" width="50%" />
-<img src="https://cdn.isteed.cc/img/rime-2022/f3.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/f4.png" width="50%" />
+<img src="https://cdn.isteed.cc/img/rime-2022/fn1.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/fn2.png" width="50%" />
+<img src="https://cdn.isteed.cc/img/rime-2022/fn3.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/fn4.png" width="50%" />
 
 # 使用
 
@@ -25,11 +25,11 @@
 - 快捷输入（日期 `date`，星期 `week`，时间 `time`，时间戳 `timestamp` 等）
 - 以词定字
 - 好看的皮肤～
-  - 详见 [仓库 Wiki](<https://github.com/LufsX/rime/wiki/皮肤预览(macOS)>) 或 [我的 Rime 配置文件～](https://blog.isteed.cc/post/rime-2022/#皮肤)
+  - 详见 [仓库 Wiki](<https://github.com/LufsX/rime/wiki/皮肤预览(macOS)>) 或 [我的 Rime 配置文件](https://blog.isteed.cc/post/rime-2022/#皮肤)～
 
 ---
 
-- 词库总大小仅 `11.3MB`
+- 词库总大小仅 `11.9MB`
 - 极简的 8105 简体字典
 - 自带长句模型
 - 全简体词库
@@ -55,10 +55,10 @@
 
 # 待办
 
-- [x] 更新搜狗词库 Update: 2025-02-03
+- [x] 更新搜狗词库（已实现 Github Action 自动更新）
 - [x] 添加深色主题
 - [x] 添加 Emoji 支持
-- [x] 添加「[同文输入法](https://github.com/osfans/trime)」支持
+- [x] ~~添加「[同文输入法](https://github.com/osfans/trime)」支持~~
 - [x] 添加模糊拼音支持
 - [x] 更好的适配「小狼毫」（Thanks [@luminosara](https://github.com/LufsX/rime/pull/22)、[@fbewivpjsbsby](https://github.com/LufsX/rime/discussions/29)）
 - [x] 更多双拼方案的支持
@@ -70,7 +70,7 @@
 - [ ] 更好的词库与词频？
 - [ ] 反查支持
 
-欢迎提 ISSUE/PR 哈～（虽然我觉得都没人看
+欢迎提 ISSUE/PR/DISCUSSIONS 哈～
 
 # 感谢/参考
 
