@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2025-02-04"
+version: "2025-04-21"
 sort: by_weight
 ...
 
@@ -85,7 +85,6 @@ sort: by_weight
 澳洲地球仪	ao zhou di qiu yi
 澳洲亚洲	ao zhou ya zhou
 八	ba
-粑粑	ba ba
 爸爸	ba ba
 巴巴多斯	ba ba duo si
 八边形	ba bian xing
@@ -375,6 +374,7 @@ sort: by_weight
 哺乳	bu ru
 哺乳的男人	bu ru de nan ren
 哺乳的女人	bu ru de nv ren
+不舒服	bu shu fu
 捕鼠器	bu shu qi
 不说	bu shuo
 不听	bu ting
@@ -913,6 +913,7 @@ sort: by_weight
 法拉费	fa la fei
 法兰西	fa lan xi
 法兰西共和国	fa lan xi gong he guo
+发冷	fa leng
 法轮	fa lun
 法罗群岛	fa luo qun dao
 发票	fa piao
@@ -1295,6 +1296,7 @@ sort: by_weight
 好崇拜哦	hao chong bai o
 好哒	hao da
 好的	hao de
+好好吃	hao hao chi
 好基友	hao ji you
 好冷	hao leng
 蚝蛎	hao li
@@ -1951,7 +1953,6 @@ sort: by_weight
 困扰	kun rao
 辣	la
 喇叭	la ba
-拉粑粑	la ba ba
 喇叭筒	la ba tong
 蜡笔	la bi
 拉便便	la bian bian
@@ -2491,6 +2492,7 @@ sort: by_weight
 男士标志	nan shi biao zhi
 男士衬衫	nan shi chen shan
 男士符号	nan shi fu hao
+难受	nan shou
 男水管工	nan shui guan gong
 南苏丹	nan su dan
 南苏丹共和国	nan su dan gong he guo
@@ -2896,6 +2898,7 @@ sort: by_weight
 球门网	qiu men wang
 求你了	qiu ni le
 球拍	qiu pai
+求求	qiu qiu
 求求你	qiu qiu ni
 求求你了	qiu qiu ni le
 球网	qiu wang
@@ -3676,6 +3679,8 @@ sort: by_weight
 握拳	wo quan
 我是证人	wo shi zheng ren
 握手	wo shou
+我吐	wo tu
+我吐了	wo tu le
 我想想	wo xiang xiang
 我晕	wo yun
 我再想想	wo zai xiang xiang
@@ -4118,6 +4123,7 @@ sort: by_weight
 研究	yan jiu
 眼冒金星	yan mao jin xing
 眼冒星星	yan mao xing xing
+炎热	yan re
 烟肉	yan rou
 岩石	yan shi
 燕尾服	yan wei fu
