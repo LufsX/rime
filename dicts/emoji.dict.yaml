@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2025-03-31"
+version: "2025-04-07"
 sort: by_weight
 ...
 
@@ -85,7 +85,6 @@ sort: by_weight
 澳洲地球仪	ao zhou di qiu yi
 澳洲亚洲	ao zhou ya zhou
 八	ba
-粑粑	ba ba
 爸爸	ba ba
 巴巴多斯	ba ba duo si
 八边形	ba bian xing
@@ -1953,7 +1952,6 @@ sort: by_weight
 困扰	kun rao
 辣	la
 喇叭	la ba
-拉粑粑	la ba ba
 喇叭筒	la ba tong
 蜡笔	la bi
 拉便便	la bian bian
