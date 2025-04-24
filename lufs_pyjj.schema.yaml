@@ -11,9 +11,9 @@ schema:
     拼音加加双拼方案
 
 switches:
-  - name: ascii_mode # 未启用 ascii_composer 时，该项无意义
-    # reset: 0 # 默认状态: 0 中文输入 1 英文输入
-    states: [中文, 西文]
+  # - name: ascii_mode # 未启用 ascii_composer 时，该项无意义
+  #   reset: 0 # 默认状态: 0 中文输入 1 英文输入
+  #   states: [中文, 西文]
   - name: full_shape
     states: [半角, 全角]
   - name: ascii_punct
@@ -37,7 +37,7 @@ engine:
     - navigator
     - express_editor
   segmentors:
-    - ascii_segmentor
+    # - ascii_segmentor
     - matcher
     - abc_segmentor
     - punct_segmentor
