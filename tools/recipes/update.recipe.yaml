@@ -1,4 +1,6 @@
+# tools/recipes/update.recipe.yaml
 # encoding: utf-8
+
 ---
 recipe:
   Rx: tools/recipes/update

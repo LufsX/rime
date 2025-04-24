@@ -13,9 +13,9 @@ schema:
     稍稍的改了一下（小声
 
 switches:
-  - name: ascii_mode # 未启用 ascii_composer 时，该项无意义
-    reset: 0 # 默认状态: 0 中文输入 1 英文输入
-    states: [中文, 西文]
+  # - name: ascii_mode # 未启用 ascii_composer 时，该项无意义
+  #   reset: 0 # 默认状态: 0 中文输入 1 英文输入
+  #   states: [中文, 西文]
   - name: full_shape
     states: [半角, 全角]
   - name: ascii_punct
@@ -39,7 +39,7 @@ engine:
     - navigator
     - express_editor
   segmentors:
-    - ascii_segmentor
+    # - ascii_segmentor
     - matcher
     - abc_segmentor
     - punct_segmentor
@@ -135,13 +135,15 @@ speller:
 
 translator:
   dictionary: extended
+  contextual_suggestions: true
+  enable_completion: false
+  max_homophones: 7
+
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
     # - xform/ // # 去掉上屏字符间空格
-  contextual_suggestions: true
-  max_homophones: 7
 
 grammar:
   language: zh-hans-t-essay-bgw

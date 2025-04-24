@@ -28,6 +28,7 @@ Cloudflare	cloudflare
 Cloudflare Workers	cloudflareworkers
 CSS	css
 Dropbox	dropbox
+Docker	docker
 GBK	gbk
 GitHub	github
 Google	google
@@ -54,7 +55,8 @@ Mac App Store	mas
 MacBook	macbook
 MacBook Air	mba
 MacBook Pro	mbp
-macOS	macos	7
+macOS	macos	8
+macOS Sequoia	macos	7
 macOS Sonoma	macos	6
 macOS Ventura	macos	5
 macOS Monterey	macos	4
@@ -69,7 +71,6 @@ OneDrive	onedrive
 OS X	osx
 Pixel	pixel
 Python	python
-QQ 邮箱	qqyzxl
 Quantumult	quantumult
 Ruby	ruby
 Rust	rust
@@ -91,5 +92,3 @@ Xbox	xbox
 Xbox One	xboxone
 YouTube	youtube
 ZeroTier	zerotier
-又双叒叕	yyy
-又双叒叕	yzyzyz

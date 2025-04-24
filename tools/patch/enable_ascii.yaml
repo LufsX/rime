@@ -1,0 +1,18 @@
+# 英文输入补丁
+#
+# 使用方法
+#
+# 将本文件复制到「用户文件夹」根目录中，并重命名为你需要的方案对应的名字（包括后缀名）
+# 全拼: lufs_pinyin.custom.yaml
+# 小鹤双拼: lufs_flypy.custom.yaml
+# 自然码双拼: lufs_dpy.custom.yaml
+# 微软双拼: lufs_mspy.custom.yaml
+# 拼音加加双拼: lufs_pyjj.custom.yaml
+
+patch:
+  engine/processors/@before 0: ascii_composer
+  engine/segmentors/@before 0: ascii_segmentor
+  switches/@before 0:
+    name: ascii_mode
+    # reset: 0 # 默认状态: 0 中文输入 1 英文输入
+    states: [中文, 西文]

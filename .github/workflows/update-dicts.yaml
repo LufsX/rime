@@ -1,0 +1,48 @@
+name: Update Dicts
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: "tools/requirements.txt"
+
+      - name: Install dependencies
+        run: pip install -r tools/requirements.txt
+
+      - name: Update Dicts
+        run: |
+          python tools/run.py
+
+      - name: Commit and Push
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+
+          CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          echo "Current branch: $CURRENT_BRANCH"
+
+          git add ./dicts/* ./opencc/*
+
+          # Check if there are changes to commit
+          if git diff --cached --quiet; then
+            echo "No changes detected in the dictionaries"
+            exit 0
+          else
+            echo "Changes detected, committing"
+            git commit -m "update: dicts on $(date +'%Y-%m-%d')"
+            git push origin $CURRENT_BRANCH
+          fi

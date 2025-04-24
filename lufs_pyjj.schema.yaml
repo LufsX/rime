@@ -11,9 +11,9 @@ schema:
     拼音加加双拼方案
 
 switches:
-  - name: ascii_mode # 未启用 ascii_composer 时，该项无意义
-    reset: 0 # 默认状态: 0 中文输入 1 英文输入
-    states: [中文, 西文]
+  # - name: ascii_mode # 未启用 ascii_composer 时，该项无意义
+  #   reset: 0 # 默认状态: 0 中文输入 1 英文输入
+  #   states: [中文, 西文]
   - name: full_shape
     states: [半角, 全角]
   - name: ascii_punct
@@ -37,7 +37,7 @@ engine:
     - navigator
     - express_editor
   segmentors:
-    - ascii_segmentor
+    # - ascii_segmentor
     - matcher
     - abc_segmentor
     - punct_segmentor
@@ -116,32 +116,32 @@ speller:
     - derive/^([jqxy])u$/$1v/
     - derive/^([aoe])([ioun])$/$1$1$2/
     - xform/^([aoe])(ng)?$/$1$1$2/
-    - xform/iu$/N/
-    - xform/[iu]a$/B/
-    - xform/er$|ing$/Q/
-    - xform/[uv]an$/C/
-    - xform/[uv]e$|uai$/X/
-    - xform/^sh/I/
-    - xform/^ch/U/
-    - xform/^zh/V/
-    - xform/uo$/O/
-    - xform/[uv]n$/Z/
-    - xform/i?ong$/Y/
-    - xform/[iu]ang$/H/
-    - xform/(.)en$/$1R/
-    - xform/(.)eng$/$1T/
-    - xform/(.)ang$/$1G/
-    - xform/ian$/J/
-    - xform/(.)an$/$1F/
-    - xform/iao$/K/
-    - xform/(.)ao$/$1D/
-    - xform/(.)ai$/$1S/
-    - xform/(.)ei$/$1W/
-    - xform/ie$/M/
-    - xform/ui$/V/
-    - xform/(.)ou$/$1P/
-    - xform/in$/L/
-    - xlit/QWRTYUIOPSDFGHJKLZXCVBNM/qwrtyuiopsdfghjklzxcvbnm/
+    - xform/iu$/Ⓝ/
+    - xform/[iu]a$/Ⓑ/
+    - xform/er$|ing$/Ⓠ/
+    - xform/[uv]an$/Ⓒ/
+    - xform/[uv]e$|uai$/Ⓧ/
+    - xform/^sh/Ⓘ/
+    - xform/^ch/Ⓤ/
+    - xform/^zh/Ⓥ/
+    - xform/uo$/Ⓞ/
+    - xform/[uv]n$/Ⓩ/
+    - xform/i?ong$/Ⓨ/
+    - xform/[iu]ang$/Ⓗ/
+    - xform/(.)en$/$1Ⓡ/
+    - xform/(.)eng$/$1Ⓣ/
+    - xform/(.)ang$/$1Ⓖ/
+    - xform/ian$/Ⓙ/
+    - xform/(.)an$/$1Ⓕ/
+    - xform/iao$/Ⓚ/
+    - xform/(.)ao$/$1Ⓓ/
+    - xform/(.)ai$/$1Ⓢ/
+    - xform/(.)ei$/$1Ⓦ/
+    - xform/ie$/Ⓜ/
+    - xform/ui$/Ⓥ/
+    - xform/(.)ou$/$1Ⓟ/
+    - xform/in$/Ⓛ/
+    - xlit/ⓆⓌⓇⓉⓎⓊⒾⓄⓅⓈⒹⒻⒼⒽⒿⓀⓁⓏⓍⒸⓋⓃⓂ/qwrtyuiopsdfghjklzxcvbnm/
 
     # 简拼支持
     - abbrev/^(.).+$/$1/
@@ -150,7 +150,7 @@ translator:
   dictionary: extended
   preedit_format:
     # - xform/ // # 去掉上屏字符间空格
-  prism: lufs_dpy
+  prism: lufs_pyjj
   contextual_suggestions: true
   max_homophones: 7
 

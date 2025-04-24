@@ -3,7 +3,7 @@
 
 ---
 name: extended
-version: "2023-08-28"
+version: "2025-01-11"
 
 import_tables:
   # 覆盖词频
@@ -21,10 +21,10 @@ import_tables:
   - dicts/sogou_net # 网络流行语
 
   # 一点点小小的私货，不需要的可以自行关闭~
-  - dicts/sogou_genshin # 原神
-  - dicts/sogou_minecraft # Minecraft 词条
+  - dicts/moegirl # 萌娘百科
   - dicts/sogou_touhou # 东方 Project
+  - dicts/sogou_minecraft # Minecraft 词条
 
-  # emoji 中的词库
+  # emoji 补全词库
   - dicts/emoji
 ...

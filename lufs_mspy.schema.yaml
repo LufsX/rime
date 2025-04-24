@@ -11,9 +11,9 @@ schema:
     微软双拼方案
 
 switches:
-  - name: ascii_mode # 未启用 ascii_composer 时，该项无意义
-    reset: 0 # 默认状态: 0 中文输入 1 英文输入
-    states: [中文, 西文]
+  # - name: ascii_mode # 未启用 ascii_composer 时，该项无意义
+  #   reset: 0 # 默认状态: 0 中文输入 1 英文输入
+  #   states: [中文, 西文]
   - name: full_shape
     states: [半角, 全角]
   - name: ascii_punct
@@ -37,7 +37,7 @@ engine:
     - navigator
     - express_editor
   segmentors:
-    - ascii_segmentor
+    # - ascii_segmentor
     - matcher
     - abc_segmentor
     - punct_segmentor
@@ -116,45 +116,47 @@ speller:
     - derive/^([jqxy])u$/$1v/
     - derive/^([aoe])([ioun])$/$1$1$2/
     - xform/^([aoe])(ng)?$/$1$1$2/
-    - xform/iu$/Q/
-    - xform/[iu]a$/W/
-    - xform/er$|[uv]an$/R/
-    - xform/[uv]e$/T/
-    - xform/v$|uai$/Y/
-    - xform/^sh/U/
-    - xform/^ch/I/
-    - xform/^zh/V/
-    - xform/uo$/O/
-    - xform/[uv]n$/P/
-    - xform/i?ong$/S/
-    - xform/[iu]ang$/D/
-    - xform/(.)en$/$1F/
-    - xform/(.)eng$/$1G/
-    - xform/(.)ang$/$1H/
-    - xform/ian$/M/
-    - xform/(.)an$/$1J/
-    - xform/iao$/C/
-    - xform/(.)ao$/$1K/
-    - xform/(.)ai$/$1L/
-    - xform/(.)ei$/$1Z/
-    - xform/ie$/X/
-    - xform/ui$/V/
-    - derive/T$/V/
-    - xform/(.)ou$/$1B/
-    - xform/in$/N/
+    - xform/iu$/Ⓠ/
+    - xform/[iu]a$/Ⓦ/
+    - xform/er$|[uv]an$/Ⓡ/
+    - xform/[uv]e$/Ⓣ/
+    - xform/v$|uai$/Ⓨ/
+    - xform/^sh/Ⓤ/
+    - xform/^ch/Ⓘ/
+    - xform/^zh/Ⓥ/
+    - xform/uo$/Ⓞ/
+    - xform/[uv]n$/Ⓟ/
+    - xform/i?ong$/Ⓢ/
+    - xform/[iu]ang$/Ⓓ/
+    - xform/(.)en$/$1Ⓕ/
+    - xform/(.)eng$/$1Ⓖ/
+    - xform/(.)ang$/$1Ⓗ/
+    - xform/ian$/Ⓜ/
+    - xform/(.)an$/$1Ⓙ/
+    - xform/iao$/Ⓒ/
+    - xform/(.)ao$/$1Ⓚ/
+    - xform/(.)ai$/$1Ⓛ/
+    - xform/(.)ei$/$1Ⓩ/
+    - xform/ie$/Ⓧ/
+    - xform/ui$/Ⓥ/
+    - derive/T$/Ⓥ/
+    - xform/(.)ou$/$1Ⓑ/
+    - xform/in$/Ⓝ/
     - xform/ing$/;/
-    - xlit/QWRTYUIOPSDFGHJKLZXCVBNM/qwrtyuiopsdfghjklzxcvbnm/
+    - xlit/ⓆⓌⓇⓉⓎⓊⒾⓄⓅⓈⒹⒻⒼⒽⒿⓀⓁⓏⓍⒸⓋⒷⓃⓂ/qwrtyuiopsdfghjklzxcvbnm/
 
     # 简拼支持
     - abbrev/^(.).+$/$1/
 
 translator:
   dictionary: extended
+  contextual_suggestions: true
+  enable_completion: false
+  max_homophones: 7
+
   preedit_format:
     # - xform/ // # 去掉上屏字符间空格
   prism: lufs_mspy
-  contextual_suggestions: true
-  max_homophones: 7
 
 grammar:
   language: zh-hans-t-essay-bgw

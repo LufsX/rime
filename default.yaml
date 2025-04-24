@@ -15,7 +15,6 @@ switcher:
   hotkeys:
     - F2
   save_options:
-    - ascii_mode
     - full_shape
     - ascii_punct
     - traditionalization
@@ -86,9 +85,9 @@ key_binder:
     # Rime key bindings
     # numbered mode switch
     # - { when: always, accept: Control+Shift+1, select: .next } # 切换下一个方案
-    # - { when: always, accept: Control+Shift+2, toggle: ascii_mode } # 切换中英
-    # - { when: always, accept: Control+Shift+3, toggle: full_shape } # 切换全角半角
-    # - { when: always, accept: Control+Shift+4, toggle: simplification } # 切换简繁
+    # - { when: always, accept: Control+Shift+2, toggle: full_shape } # 切换全角半角
+    # - { when: always, accept: Control+Shift+3, toggle: ascii_punct } # 切换中英标点
+    # - { when: always, accept: Control+Shift+4, toggle: traditionalization } # 切换简繁
     # - { when: always, accept: Control+Shift+5, toggle: emoji_suggestion } # 切换是否显示 Emoji
 
     # Rime key bindings

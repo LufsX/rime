@@ -2,40 +2,43 @@
 # encoding: utf-8
 # 修改自: https://github.com/rime/weasel/blob/master/output/data/weasel.yaml
 #
-# COMMIT SHA: bed5a19b360225ca466a1ad252a48c440d4daf79
+# COMMIT SHA: 7016a340fdc06b291ed8ca074924eea8c07679b8
 
-config_version: "2023-12-18"
+config_version: "2024-06-08"
 
 app_options:
   cmd.exe:
     ascii_mode: true
   conhost.exe:
     ascii_mode: true
+  firefox.exe:
+    inline_preedit: true # 解决 Firefox 无法输入的问题 https://github.com/rime/weasel/issues/946
 
-# 在何时会显示切换通知
-# 可用选项: always, never, 或 ascii_mode, ascii_punct, shape, simplification, schema 的任意组合
-# 例如 ascii_mode+shape+schema
-show_notifications_when: always
+show_notifications: true
+# 通知显示多长时间
+show_notifications_time: 1200
+# 使用全局 ascii 状态
+global_ascii: false
 
 style:
   color_scheme: win11_weasel # 主题方案
-  color_scheme_dark: win11_weasel # 暗色模式下的主题方案
+  color_scheme_dark: win11_weasel_dark # 暗色模式下的主题方案
 
   # 这里提供三种不同主题预设，自行切换注释即可
   # 必须启用其中一种预设！
 
   # Windows 11 风格预设
   # 感谢 luminosara https://github.com/LufsX/rime/pull/22、https://github.com/LufsX/rime/pull/26
-  __include: "win11_preset"
+  __include: win11_preset
 
   # Windows 10 MDL2 风格预设
   # 此项风格建议使用 win10_MDL 为前缀的主题方案
   # 感谢 fbewivpjsbsby https://github.com/LufsX/rime/discussions/29
-  # __include: "win10_MDL_preset"
+  # __include: win10_MDL_preset
 
   # Windows 10 风格预设
   # 感谢 luminosara https://github.com/LufsX/rime/pull/22、https://github.com/LufsX/rime/pull/26
-  # __include: "win10_preset"
+  # __include: win10_preset
 
   # 以下是其它的设置
 
@@ -45,7 +48,7 @@ style:
   fullscreen: false # 演示模式（全屏的輸入窗口）
 
   click_to_capture: false # 点击输入法时捕获截图到剪贴板
-  mouse_hover_ms: 0 # 鼠标悬停选词响应时间，若设置过低，鼠标在候选框上时会影响选词，值为 0 或将这行注释禁用此功能
+  hover_type: semi_hilite # 鼠标悬停行为 none(无动作); hilite(选中鼠标下的候选); semi_hilite(高亮鼠标下的候选)
   paging_on_scroll: false # 鼠标滚轮翻页候选栏
 
   inline_preedit: true # 在光标位置显示预编辑文本
@@ -66,6 +69,9 @@ style:
   vertical_text_left_to_right: false # 垂直文本从左到右显示
   vertical_text_with_wrap: false # 垂直文本自动换行
 
+  layout/baseline: 0 # 基线高度百分比，0 即为禁用
+  layout/linespacing: 0 # 行高百分比，0 即为禁用，该项大于 100 可解决因字体导致的候选栏高度闪烁问题（需要同时设置基线高度 baseline）
+
 preset_color_schemes:
   ayaya:
     name: "文文／Ayaya"
@@ -82,6 +88,22 @@ preset_color_schemes:
     hilited_mark_color: 0x7A40EC
     label_color: 0x888785
     text_color: 0x8100EB
+
+  ayaya_dark:
+    name: "文文／Ayaya／深色"
+    author: "Lufs X <i@isteed.cc>"
+
+    back_color: 0x000000
+    border_color: 0x000000
+    candidate_text_color: 0xD2D2D2
+    comment_text_color: 0x8E8E8E
+    hilited_candidate_back_color: 0x2C1E3C
+    hilited_candidate_label_color: 0x7036E2
+    hilited_candidate_text_color: 0x7036E2
+    hilited_comment_text_color: 0x8E8E8E
+    hilited_label_color: 0xA483EC
+    hilited_mark_color: 0x7A40EC
+    label_color: 0x888785
 
   apathy:
     name: 冷漠／Apathy
@@ -178,6 +200,7 @@ preset_color_schemes:
     text_color: 0x000000 # 拼音文字颜色
 
   win11_weasel:
+    name: "Windows 11 默认"
     author: "luminosa"
     back_color: 0xF9F9F9 # 背景颜色 颜色均取色自 Windows 11 默认
     border_color: 0xE7E7E7 # 边框颜色
@@ -189,6 +212,19 @@ preset_color_schemes:
     shadow_color: 0x20000000 # 阴影颜色，新版小狼毫 CI 更改了绘制，若无法看到阴影，请更改为 000000，观察是否能正常绘制阴影
     text_color: 0x000000 # 拼音文字颜色
 
+  win11_weasel_dark:
+    name: "Windows 11 默认／深色"
+    author: "Lufs X <i@isteed.cc>"
+    back_color: 0x2C2C2C # 背景颜色 颜色均取色自 Windows 11 默认
+    border_color: 0x333333 # 边框颜色
+    candidate_text_color: 0xFFFFFF # 候选文字颜色
+    hilited_candidate_back_color: 0x383838 # 高亮颜色
+    hilited_label_color: 0xCFCFCF # 高亮序号颜色
+    hilited_mark_color: 0x595959 # 此项生效，前面那|的颜色，更新到支持的小狼毫 CI 版本才会生效
+    label_color: 0x727272 # 候选数字颜色
+    shadow_color: 0x20000000 # 阴影颜色，新版小狼毫 CI 更改了绘制，若无法看到阴影，请更改为 000000，观察是否能正常绘制阴影
+    text_color: 0xFFFFFF # 拼音文字颜色
+
   win10_MDL_ayaya:
     name: "Windows10 文文／Ayaya"
     author: "Lufs X <i@isteed.cc>"
@@ -199,6 +235,19 @@ preset_color_schemes:
     hilited_candidate_back_color: 0xECE4FC
     hilited_label_color: 0xB18FF4
     hilited_candidate_text_color: 0x7A40EC
+    label_color: 0x888785
+    text_color: 0x8100EB
+
+  win10_MDL_ayaya_dark:
+    name: "Windows10 文文／Ayaya／深色"
+    author: "Lufs X <i@isteed.cc>"
+
+    back_color: 0x000000
+    candidate_text_color: 0xD2D2D2
+    comment_text_color: 0x8E8E8E
+    hilited_candidate_back_color: 0x2C1E3C
+    hilited_label_color: 0xA483EC
+    hilited_candidate_text_color: 0x7036E2
     label_color: 0x888785
     text_color: 0x8100EB
 
@@ -255,45 +304,45 @@ win11_preset:
   layout:
     align_type: center # 布局对齐方式
     max_width: 0 # 最大宽度限制
-    min_width: 160 # 最小宽度限制
+    min_width: 80 # 最小宽度限制
     min_height: 0 # 最小高度限制
     max_height: 0 # 最大高度限制
     border_width: 1 # 窗口边框宽度
-    margin_x: 16 # 窗口左右边距
-    margin_y: 14 # 窗口上下边距
-    spacing: 18 # 候选栏间距
-    hilite_spacing: 14 # 高亮显示间距
-    shadow_offset_x: 6 # 阴影 X 轴偏移
+    margin_x: 6 # 窗口左右边距
+    margin_y: 6 # 窗口上下边距
+    spacing: 10 # 候选栏间距
+    hilite_spacing: 10 # 高亮显示间距
+    shadow_offset_x: 3 # 阴影 X 轴偏移
 
-    candidate_spacing: 25 # 候选栏内部间距
-    corner_radius: 12 # 候选圆角半径
+    candidate_spacing: 10 # 候选栏内部间距
+    corner_radius: 5 # 候选圆角半径
     hilite_padding: 5 # 高亮高度
-    hilite_padding_x: 7 # 高亮 X 横向方向边距
-    hilite_padding_y: 6 # 高亮 Y 纵向方向边距
-    round_corner: 12 # 高亮圆角
-    shadow_offset_y: 6 # 阴影 Y 轴偏移
-    shadow_radius: 13 # 阴影半径
+    hilite_padding_x: 2 # 高亮 X 横向方向边距
+    hilite_padding_y: 2 # 高亮 Y 纵向方向边距
+    round_corner: 5 # 高亮圆角
+    shadow_offset_y: 0 # 阴影 Y 轴偏移
+    shadow_radius: 0 # 阴影半径
 
 win10_preset:
   label_format: "%s" # 候选栏标签格式
   layout:
     align_type: center # 布局对齐方式
     max_width: 0 # 最大宽度限制
-    min_width: 160 # 最小宽度限制
+    min_width: 90 # 最小宽度限制
     min_height: 0 # 最小高度限制
     max_height: 0 # 最大高度限制
     border_width: 2 # 窗口边框宽度
-    margin_x: 17 # 窗口左右边距
-    margin_y: 17 # 窗口上下边距
+    margin_x: 7 # 窗口左右边距
+    margin_y: 7 # 窗口上下边距
     spacing: 10 # 候选栏间距
-    hilite_spacing: 17 # 高亮显示间距
-    shadow_offset_x: 5 # 阴影 X 轴偏移
+    hilite_spacing: 10 # 高亮显示间距
+    shadow_offset_x: 7 # 阴影 X 轴偏移
 
-    candidate_spacing: 50 # 候选栏内部间距
+    candidate_spacing: 10 # 候选栏内部间距
     corner_radius: 10 # 候选条圆角，不需要圆角设置为 0
-    hilite_padding: 18 # 高亮高度
-    hilite_padding_x: 18 # 高亮 x 横向方向边距，可以自行调整
-    hilite_padding_y: 18 # 高亮 y 纵向方向边距
+    hilite_padding: 8 # 高亮高度
+    hilite_padding_x: 8 # 高亮 x 横向方向边距，可以自行调整
+    hilite_padding_y: 8 # 高亮 y 纵向方向边距
     round_corner: 0 # 高亮圆角，小狼毫天圆地方此项可设置为 0，也可自行调整
     shadow_offset_y: 4 # 阴影 Y 轴偏移
     shadow_radius: 10 # 阴影半径
@@ -304,12 +353,12 @@ win10_MDL_preset:
   label_font_point: 9
   layout:
     border_width: 1
-    margin_x: 15
+    margin_x: 7
     margin_y: 2
     spacing: 10
-    candidate_spacing: 30
+    candidate_spacing: 20
     corner_radius: 0
     round_corner: 0
     hilite_spacing: 5
-    hilite_padding_x: 27
-    hilite_padding_y: 15
+    hilite_padding_x: 15
+    hilite_padding_y: 6
