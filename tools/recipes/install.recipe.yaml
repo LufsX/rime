@@ -1,4 +1,6 @@
+# tools/recipes/install.recipe.yaml
 # encoding: utf-8
+
 ---
 recipe:
   Rx: tools/recipes/install

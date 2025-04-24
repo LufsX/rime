@@ -1,45 +1,20 @@
+# tools/recipes/enable_ascii.recipe.yaml
 # encoding: utf-8
+
 ---
 recipe:
   Rx: tools/recipes/enable_ascii
   args:
-    - schema=flypy
+    - schema=lufs_flypy
   description: >-
-    Enable ascii for all schema
+    Enable ascii for target schema
 
 patch_files:
-  lufs_dpy.schema.yaml:
-    - engine/processors/@before 0: ascii_composer
-    - engine/segmentors/@before 0: ascii_segmentor
-    - switches/@before 0:
-      - name: ascii_mode
-        # reset: 0 # 默认状态: 0 中文输入 1 英文输入
-        states: [中文, 西文]
-  lufs_flypy.schema.yaml:
-    - engine/processors/@before 0: ascii_composer
-    - engine/segmentors/@before 0: ascii_segmentor
-    - switches/@before 0:
-      - name: ascii_mode
-        # reset: 0 # 默认状态: 0 中文输入 1 英文输入
-        states: [中文, 西文]
-  lufs_mspy.schema.yaml:
-    - engine/processors/@before 0: ascii_composer
-    - engine/segmentors/@before 0: ascii_segmentor
-    - switches/@before 0:
-      - name: ascii_mode
-        # reset: 0 # 默认状态: 0 中文输入 1 英文输入
-        states: [中文, 西文]
-  lufs_pinyin.schema.yaml:
-    - engine/processors/@before 0: ascii_composer
-    - engine/segmentors/@before 0: ascii_segmentor
-    - switches/@before 0:
-      - name: ascii_mode
-        # reset: 0 # 默认状态: 0 中文输入 1 英文输入
-        states: [中文, 西文]
-  lufs_pyjj.schema.yaml:
-    - engine/processors/@before 0: ascii_composer
-    - engine/segmentors/@before 0: ascii_segmentor
-    - switches/@before 0:
-      - name: ascii_mode
+  ${schema:-lufs_flypy}.custom.yaml:
+    patch/+:
+      engine/processors/@before 0: ascii_composer
+      engine/segmentors/@before 0: ascii_segmentor
+      switches/@before 0:
+        name: ascii_mode
         # reset: 0 # 默认状态: 0 中文输入 1 英文输入
         states: [中文, 西文]
