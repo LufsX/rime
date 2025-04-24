@@ -71,7 +71,6 @@ OneDrive	onedrive
 OS X	osx
 Pixel	pixel
 Python	python
-QQ 邮箱	qqyzxl
 Quantumult	quantumult
 Ruby	ruby
 Rust	rust
@@ -93,5 +92,3 @@ Xbox	xbox
 Xbox One	xboxone
 YouTube	youtube
 ZeroTier	zerotier
-又双叒叕	yyy
-又双叒叕	yzyzyz

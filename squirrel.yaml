@@ -2,9 +2,9 @@
 # encoding: utf-8
 # 修改自: https://github.com/rime/squirrel/blob/master/data/squirrel.yaml
 #
-# COMMIT SHA: f2d16719fc4bff74abfb5ece8d3dec8c71bc500d
+# COMMIT SHA: ea6720a0348a2f047ca0d8d87d82b221ac03be7b
 
-config_version: "2024-11-06"
+config_version: "2025-04-24"
 
 # 可用选项：last | default | _custom_
 # last：上次使用的拉丁字母键盘布局
@@ -36,9 +36,9 @@ style:
   show_paging: false
 
   # 以下为鼠须管默认设置
-  # candidate_list_layout: stacked  # stacked | linear
+  candidate_list_layout: linear # stacked | linear
   text_orientation: horizontal # horizontal | vertical
-  inline_preedit: true
+  inline_preedit: true # 是否内嵌输入码
   corner_radius: 7
   hilited_corner_radius: 0
   border_height: -2
@@ -48,7 +48,7 @@ style:
   # 大于 0 则会在高亮的候选项周围绘制阴影
   shadow_size: 0
   # 控制非高亮候选背景大小，相对于高亮
-  # surrounding_extra_expansion: 0
+  surrounding_extra_expansion: 0
   # 候选项的格式
   candidate_format: "[label]. [candidate] [comment]"
   # base_offset: 0 # 竖排文字的基线调整
@@ -491,6 +491,9 @@ preset_color_schemes:
     text_color: 0x3F000000
     hilited_text_color: 0xD8000000
 
+  # 若都有值，则对应的生效逻辑为
+  ## .[custom].yaml > style/preset_color_schemes/[配置名] > style
+  #
   # 各个设置项的简要作用说明
   # 以下出现的颜色均为 16 进制色值，(A)BGR顺序
   ## alpha: 透明度
@@ -501,35 +504,37 @@ preset_color_schemes:
   ## border_height: 窗口上下高度
   ## border_width: 窗口左右宽度
   ## candidate_format: 候选格式
+  ## candidate_list_layout: 候选列表布局
   ## candidate_spacing: 候选字间隔
-  ## candidate_text_color: 预选项文字颜色
-  ## color_space: 颜色空间
+  ## candidate_text_color: 候选项文字颜色
+  ## color_space: 色彩空间
   ## comment_font_face: 拼音等提示文字字体
   ## comment_font_point: 拼音等提示文字字号
   ## comment_text_color: 拼音等提示文字颜色
   ## corner_radius: 候选条圆角
-  ## font_face: 候选词字体
-  ## font_point: 候选字词大小
+  ## font_face: 文本字体
+  ## font_point: 文本字体大小
   ## hilite_padding: 候选字背景色色块高度
-  ## hilited_back_color: 第一候选项背景背景色
-  ## hilited_candidate_back_color: 候选文字背景色
-  ## hilited_candidate_label_color: 第一候选项编号颜色
-  ## hilited_candidate_text_color: 第一候选项文字颜色
+  ## hilited_back_color: 选中候选项背景背景色
+  ## hilited_candidate_back_color: 选中候选项背景色
+  ## hilited_candidate_label_color: 选中候选项编号颜色
+  ## hilited_candidate_text_color: 选中候选项文字颜色
   ## hilited_comment_text_color: 注解文字高亮颜色
-  ## hilited_corner_radius: 高亮圆角
-  ## hilited_label_color: 已选字的数字颜色
-  ## hilited_text_color: 高亮拼音颜色
-  ## horizontal: 是否水平排列（鼠须管 0.15 以后已弃用）
-  ## inline_preedit: 是否单行显示
-  ## label_color: 预选栏编号颜色
-  ## label_font_face: 候选词编号字体
-  ## label_font_point: 候选编号大小
-  ## label_format: 候选编号格式
+  ## hilited_corner_radius: 选中候选项圆角
+  ## hilited_label_color: 选中候选项编号颜色
+  ## hilited_text_color: 高亮文本颜色
+  ## inline_preedit: 输入码是否内嵌显示
+  ## label_color: 编号颜色
+  ## label_font_face: 编号字体
+  ## label_font_point: 编号大小
+  ## label_format: 编号格式
   ## line_spacing: 行间距
   ## margin_x: 字左右边距
   ## margin_y: 字上下边距
   ## min_height: 最小高度
   ## min_width: 最小宽度
   ## round_corner: 候选字背景色块圆角幅度
+  ## shadow_size: 阴影大小
   ## spacing: 间距
-  ## text_color: 高亮选中词颜色
+  ## text_color: 文本颜色
+  ## text_orientation: 文本方向
