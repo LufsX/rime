@@ -19,6 +19,8 @@ switcher:
     - ascii_punct
     - traditionalization
     - emoji_suggestion
+    - prediction
+    - predict_simp_switch
   fold_options: true
   abbreviate_options: true
   option_list_separator: "/"
