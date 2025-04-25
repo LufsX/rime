@@ -9,6 +9,8 @@ schema:
     - double pinyin layout by 鶴
     - Rime schema by 佛振 <chen.sst@gmail.com>
     - Modified by Lufs_X <i@isteed.cc>
+  dependencies:
+    - radical_pinyin
   description: |
     小鹤双拼方案。
 
@@ -44,6 +46,7 @@ engine:
     - lua_translator@*date_translator # 动态日期时间输入
     - lua_translator@*unicode_input # Unicode 输入支持
     - table_translator@custom_phrase # 用户自定义词典
+    - reverse_lookup_translator
     - script_translator
   filters:
     - simplifier@emoji_suggestion
@@ -153,6 +156,12 @@ translator:
     # - xform/ // # 去掉上屏字符间空格
   prism: lufs_flypy
 
+reverse_lookup:
+  dictionary: radical_pinyin
+  enable_completion: true
+  prefix: "~"
+  tips: "〔拆〕"
+
 grammar:
   language: zh-hans-t-essay-bgw
 
@@ -164,6 +173,8 @@ key_binder:
 
 recognizer:
   import_preset: default
+  patterns:
+    reverse_lookup: "^~[a-z;]*?$"
 
 custom_phrase:
   dictionary: ""

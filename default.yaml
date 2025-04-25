@@ -4,8 +4,11 @@
 config_version: "2025-04-25"
 
 schema_list:
+  # 默认仅启用小鹤双拼+全拼，可通过注释、打 patch 等方式隐藏或显示部分方案
+  # 若需彻底删除，可直接删除对应的 [方案名].schema.yaml
   - schema: lufs_flypy # 小鹤双拼
   - schema: lufs_pinyin # 朙月拼音
+  - schema: radical_pinyin # 拆字输入
   # - schema: lufs_mspy # 微软双拼
   # - schema: lufs_dpy # 自然码双拼
   # - schema: lufs_pyjj # 拼音加加双拼
