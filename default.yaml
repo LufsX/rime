@@ -56,8 +56,8 @@ ascii_composer:
     Eisu_toggle: clear
 
 key_binder:
-  select_first_character: "bracketleft" # lua 选词快捷键，选第一个字
-  select_last_character: "bracketright" # lua 选词快捷键，选最后一个字
+  select_first_character: "bracketleft" # lua 选词快捷键，选第一个字，关闭留空或删除本条
+  select_last_character: "bracketright" # lua 选词快捷键，选最后一个字，关闭留空或删除本条
   bindings:
     # Tab / Shift + Tab 翻页
     - { when: composing, accept: Tab, send: Page_Down } # Tab 向下翻页
@@ -74,8 +74,9 @@ key_binder:
 
     # ] / [ 翻页
     # 失效设置，可通过关闭/更改 lua 选词的快捷键恢复
-    # - { when: paging, accept: bracketright, send: Page_Down } # 右括号向下翻页
-    # - { when: paging, accept: bracketleft, send: Page_Up } # 左括号向上翻页
+    # 关闭方法，将 key_binder/select_first_character 和 key_binder/select_last_character 留空或删除
+    # - { when: has_menu, accept: bracketright, send: Page_Down } # 右括号向下翻页
+    # - { when: has_menu, accept: bracketleft, send: Page_Up } # 左括号向上翻页
 
     # 候选操作
     # ; 二选 ' 三选
