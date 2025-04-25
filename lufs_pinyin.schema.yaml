@@ -4,7 +4,7 @@
 schema:
   schema_id: lufs_pinyin
   name: 朙月拼音
-  version: "2023-12-18"
+  version: "2025-04-25"
   author:
     - 佛振 <chen.sst@gmail.com>
     - Modified by Lufs_X <i@isteed.cc>
@@ -26,7 +26,7 @@ switches:
 engine:
   processors:
     - recognizer
-    - lua_processor@select_character # lua 选词扩展，如需关闭请注释
+    - lua_processor@*select_character # lua 选词扩展
     - key_binder
     - speller
     - selector

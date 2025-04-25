@@ -4,11 +4,11 @@
 schema:
   schema_id: lufs_dpy
   name: 自然码双拼
-  version: "2023-12-18"
+  version: "2025-04-25"
   author:
     - Modified by Lufs_X <i@isteed.cc>
   description: |
-    自然码双拼方案
+    自然码双拼方案。
 
 switches:
   - name: full_shape
@@ -25,7 +25,7 @@ switches:
 engine:
   processors:
     - recognizer
-    - lua_processor@select_character # lua 选词扩展，如需关闭请注释
+    - lua_processor@*select_character # lua 选词扩展
     - key_binder
     - speller
     - selector

@@ -4,7 +4,7 @@
 schema:
   schema_id: lufs_flypy
   name: 小鹤双拼
-  version: "2023-12-18"
+  version: "2025-04-25"
   author:
     - double pinyin layout by 鶴
     - Rime schema by 佛振 <chen.sst@gmail.com>
@@ -27,7 +27,7 @@ switches:
 engine:
   processors:
     - recognizer
-    - lua_processor@select_character # lua 选词扩展，如需关闭请注释
+    - lua_processor@*select_character # lua 选词扩展
     - key_binder
     - speller
     - selector
