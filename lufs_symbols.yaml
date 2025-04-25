@@ -6,9 +6,12 @@
 #
 # COMMIT SHA: 3c602fdb0dcca7825103e281efc50ef7580f99ec
 
-config_version: '2025-04-24'
+config_version: "2025-04-25"
 
 punctuator:
+  digit_separators: ",.:'" # 自定义数字后转换半角符号，双击即可正常输入，留空可关闭，该功能要求 librime >= 1.13.0
+  # digit_separator_action: "commit" # 关闭上述功能，要求 librime >= 1.13.1
+
   full_shape:
     " ": { commit: "　" }
     ",": { commit: ， }

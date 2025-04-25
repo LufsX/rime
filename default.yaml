@@ -1,7 +1,7 @@
 # Rime default settings
 # encoding: utf-8
 
-config_version: "2023-12-18"
+config_version: "2025-04-25"
 
 schema_list:
   - schema: lufs_flypy # 小鹤双拼
@@ -25,12 +25,7 @@ switcher:
 
 menu:
   page_size: 4
-
-punctuator:
-  full_shape:
-    __include: lufs_symbols:/punctuator/full_shape
-  half_shape:
-    __include: lufs_symbols:/punctuator/half_shape
+  # alternative_select_labels: [ 壹, 貳, 叄, 肆, 伍, 陸, 柒, 捌, 玖, 拾 ]  # 候选项序号
 
 recognizer:
   patterns:
@@ -39,7 +34,10 @@ recognizer:
     email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$" # email 地址
     html: "^<[a-z]+>$" # HTML TAG
     uppercase: "[A-Z][-_+.'0-9A-Za-z]*$" # 大写开头
+
+    ## URL 捕获，和逗号句号翻页有冲突
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$" # URL 输入
+    url_plus: "^[a-z]+[.:-].*$" # URL 输入加强版（匹配 URL 标准规范 [协议类型]://[服务器地址]:[端口号]/[资源层级UNIX文件路径][文件名]?[查询]#[片段ID]）
 
     # 响应功能
     punct: "^/([0-9]0?|[A-Za-z]+)$" # 响应 lufs_symbols.yaml 内的输入
@@ -49,9 +47,9 @@ ascii_composer:
   good_old_caps_lock: true
   switch_key:
     Shift_L: noop
-    Shift_R: commit_code # macOS 上此项无效，Windows 可用右 Shift 切换中英输入
+    Shift_R: commit_code # 若启用了英文输入，可用右 Shift 切换中英输入
     Control_L: noop
-    Control_R: noop # macOS 上此项无效，Windows 上可自行定义
+    Control_R: noop # macOS 上此项可能无效（我发现我现在键盘压根没得右 Control 键，能不能用自测哈），Windows 上可自行定义
     Caps_Lock: commit_code
     Eisu_toggle: clear
 
@@ -60,17 +58,17 @@ key_binder:
   select_last_character: "bracketright" # lua 选词快捷键，选最后一个字，关闭留空或删除本条
   bindings:
     # Tab / Shift + Tab 翻页
-    - { when: composing, accept: Tab, send: Page_Down } # Tab 向下翻页
-    - { when: composing, accept: Shift+Tab, send: Page_Up } # Shift + Tab 向上翻页
+    - { when: has_menu, accept: Tab, send: Page_Down } # Tab 向下翻页
+    - { when: has_menu, accept: Shift+Tab, send: Page_Up } # Shift + Tab 向上翻页
 
     # = / - 翻页
     - { when: has_menu, accept: equal, send: Page_Down } # = 向下翻页
     - { when: has_menu, accept: minus, send: Page_Up } # - 向上翻页
 
     # . / , 翻页
-    # 需要注释掉部分冲突的正则匹配才可用，详情见: https://github.com/LufsX/rime/issues/15#issuecomment-1496011933
-    # - { when: paging, accept: period, send: Page_Down } # 句号向下翻页
-    # - { when: paging, accept: comma, send: Page_Up } # 逗号向上翻页
+    # 和 URL 捕获正则可能有一定的冲突，需要手动注释 recognizer/patterns 下的 url 和 url_plus
+    # - { when: has_menu, accept: period, send: Page_Down } # 句号向下翻页
+    # - { when: has_menu, accept: comma, send: Page_Up } # 逗号向上翻页
 
     # ] / [ 翻页
     # 失效设置，可通过关闭/更改 lua 选词的快捷键恢复
