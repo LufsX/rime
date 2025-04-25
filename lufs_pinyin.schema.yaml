@@ -10,12 +10,8 @@ schema:
     - Modified by Lufs_X <i@isteed.cc>
   description: |
     Rime 预设的拼音输入方案。
-    稍稍的改了一下（小声
 
 switches:
-  # - name: ascii_mode # 未启用 ascii_composer 时，该项无意义
-  #   reset: 0 # 默认状态: 0 中文输入 1 英文输入
-  #   states: [中文, 西文]
   - name: full_shape
     states: [半角, 全角]
   - name: ascii_punct
@@ -29,7 +25,6 @@ switches:
 
 engine:
   processors:
-    # - ascii_composer # Windows 用户请解除此行注释，否则将会无法切换到英文输入
     - recognizer
     - lua_processor@select_character # lua 选词扩展，如需关闭请注释
     - key_binder
@@ -39,24 +34,23 @@ engine:
     - navigator
     - express_editor
   segmentors:
-    # - ascii_segmentor
     - matcher
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
-    - lua_translator@date_translator # 动态日期时间输入
-    - lua_translator@unicode_input # Unicode 输入支持
+    - lua_translator@*date_translator # 动态日期时间输入
+    - lua_translator@*unicode_input # Unicode 输入支持
     - table_translator@custom_phrase # 用户自定义词典
     - script_translator
   filters:
     - simplifier@emoji_suggestion
     - simplifier@traditionalize # 简繁转化
     - uniquifier # 去重
-    # - lua_filter@long_phrase_first # 最长词组和单字在先
-    # - lua_filter@single_char_first # 单字优先
-    # - lua_filter@single_char_only # 只显示单字
+    # - lua_filter@*candidate_sorting.long_phrase_first # 最长词组和单字在先
+    # - lua_filter@*candidate_sorting.single_char_first # 单字优先
+    # - lua_filter@*candidate_sorting.single_char_only # 只显示单字
 
 traditionalize:
   option_name: traditionalization
