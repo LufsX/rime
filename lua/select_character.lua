@@ -1,6 +1,7 @@
 -- select_character: 以词定字
 -- 详见: https://github.com/BlindingDark/rime-lua-select-character
 -- 2025-04-25: 优化单字提取逻辑，处理无候选的情况
+-- 2025-04-27: 修正无法直接输入对应键的符号
 local function extract_character(s, is_first)
     -- 单字不处理
     if utf8.len(s) == 1 then
@@ -15,6 +16,11 @@ local function select_character(key, env)
     local context = engine.context
     local config = engine.schema.config
     local candidate = context:get_selected_candidate()
+
+    -- 检查是否处于输入状态
+    if key:release() or (not context:is_composing() and not context:has_menu()) then
+        return 2 -- kNoop
+    end
 
     -- 获取按键
     local first_key = config:get_string('key_binder/select_first_character')
