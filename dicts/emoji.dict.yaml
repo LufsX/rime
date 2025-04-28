@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2025-04-21"
+version: "2025-04-28"
 sort: by_weight
 ...
 
@@ -113,6 +113,7 @@ sort: by_weight
 巴西联邦	ba xi lian bang
 巴西联邦共和国	ba xi lian bang gong he guo
 靶心	ba xin
+八爪鱼	ba zhao yu
 拜拜	bai bai
 白边线方形按钮	bai bian xian fang xing an niu
 白边线正方形按钮	bai bian xian zheng fang xing an niu
@@ -432,6 +433,7 @@ sort: by_weight
 场记	chang ji
 场记板	chang ji ban
 长颈鹿	chang jing lu
+长毛象	chang mao xiang
 常青树	chang qing shu
 超度	chao du
 超级大反派	chao ji da fan pai
@@ -673,6 +675,7 @@ sort: by_weight
 弹出按钮	dan chu an niu
 蛋蛋	dan dan
 单峰骆驼	dan feng luo tuo
+单峰驼	dan feng tuo
 蛋糕	dan gao
 单轨	dan gui
 单轨铁路	dan gui tie lu
@@ -1441,6 +1444,7 @@ sort: by_weight
 花	hua
 滑板	hua ban
 滑板车	hua ban che
+花豹	hua bao
 画笔	hua bi
 滑冰	hua bing
 画叉	hua cha
@@ -1491,6 +1495,7 @@ sort: by_weight
 黄榄	huang lan
 荒漠	huang mo
 晃脑	huang nao
+黄牛	huang niu
 黄乳油	huang ru you
 黄色	huang se
 黄色的心	huang se de xin
@@ -1684,6 +1689,7 @@ sort: by_weight
 金牛座	jin niu zuo
 金牌	jin pai
 金钱	jin qian
+金钱豹	jin qian bao
 金色头发	jin se tou fa
 金闪闪	jin shan shan
 近视	jin shi
@@ -3067,6 +3073,7 @@ sort: by_weight
 闪耀	shan yao
 闪耀的星星	shan yao de xing xing
 山中日出	shan zhong ri chu
+山猪	shan zhu
 扇子	shan zi
 上	shang
 上班	shang ban
@@ -3277,6 +3284,7 @@ sort: by_weight
 甩头	shuai tou
 双耳瓶	shuang er ping
 双峰骆驼	shuang feng luo tuo
+双峰驼	shuang feng tuo
 双感叹号	shuang gan tan hao
 双剑	shuang jian
 双肩包	shuang jian bao
