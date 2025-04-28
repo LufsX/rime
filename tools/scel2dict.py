@@ -12,7 +12,6 @@
 
 import argparse
 import os
-import requests
 import struct
 import sys
 import tempfile
@@ -140,6 +139,11 @@ class SougouScelDownloader:
 
     def download(self, url=None, output_path=None):
         """下载词库文件"""
+        try:
+            import requests
+        except ImportError:
+            raise
+
         temp_flag = [False, None, None]
 
         url = url or self.url
