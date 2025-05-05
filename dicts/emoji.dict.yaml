@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2025-04-28"
+version: "2025-05-05"
 sort: by_weight
 ...
 
@@ -3138,6 +3138,7 @@ sort: by_weight
 升级	sheng ji
 圣基茨和尼维斯	sheng ji ci he ni wei si
 圣甲虫	sheng jia chong
+生姜	sheng jiang
 升降机	sheng jiang ji
 绳结	sheng jie
 胜利	sheng li
@@ -3372,6 +3373,7 @@ sort: by_weight
 苏里南共和国	su li nan gong he guo
 蒜	suan
 算盘	suan pan
+蒜头	suan tou
 蒜香	suan xiang
 碎花彩球	sui hua cai qiu
 随机	sui ji
@@ -3774,7 +3776,7 @@ sort: by_weight
 锡克教	xi ke jiao
 希腊	xi la
 希腊共和国	xi la gong he guo
-西兰花	xi lan hua
+西蓝花	xi lan hua
 犀牛	xi niu
 吸气	xi qi
 西撒哈拉	xi sa ha la
@@ -3829,6 +3831,7 @@ sort: by_weight
 香港特别行政区	xiang gang te bie xing zheng qu
 相机	xiang ji
 香蕉	xiang jiao
+香梨	xiang li
 响铃关闭	xiang ling guan bi
 向日葵	xiang ri kui
 向上	xiang shang
@@ -4088,6 +4091,7 @@ sort: by_weight
 血滴	xue di
 雪花	xue hua
 穴居巨怪	xue ju ju guai
+雪梨	xue li
 雪橇	xue qiao
 雪球	xue qiu
 雪人	xue ren
@@ -4307,6 +4311,7 @@ sort: by_weight
 有蛋的巢	you dan de chao
 有蛋的鸟巢	you dan de niao chao
 油灯	you deng
+油橄榄	you gan lan
 右钩拳	you gou quan
 有轨电车	you gui dian che
 有胡须的人	you hu xu de ren
