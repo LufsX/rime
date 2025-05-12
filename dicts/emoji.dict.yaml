@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2025-05-05"
+version: "2025-05-12"
 sort: by_weight
 ...
 
@@ -87,7 +87,6 @@ sort: by_weight
 八	ba
 爸爸	ba ba
 巴巴多斯	ba ba duo si
-八边形	ba bian xing
 巴布亚新几内亚	ba bu ya xin ji nei ya
 巴布亚新几内亚独立国	ba bu ya xin ji nei ya du li guo
 八点	ba dian
@@ -184,6 +183,7 @@ sort: by_weight
 板儿砖	ban er zhuan
 办公楼	ban gong lou
 办公室职员	ban gong shi zhi yuan
+板栗	ban li
 斑马	ban ma
 板球	ban qiu
 板球拍	ban qiu pai
@@ -375,6 +375,7 @@ sort: by_weight
 哺乳	bu ru
 哺乳的男人	bu ru de nan ren
 哺乳的女人	bu ru de nv ren
+哺乳室	bu ru shi
 不舒服	bu shu fu
 捕鼠器	bu shu qi
 不说	bu shuo
@@ -552,6 +553,7 @@ sort: by_weight
 磁石	ci shi
 磁铁	ci tie
 刺猬	ci wei
+雌性	ci xing
 葱头	cong tou
 粗等号	cu deng hao
 粗美元符号	cu mei yuan fu hao
@@ -770,6 +772,7 @@ sort: by_weight
 电话听筒	dian hua ting tong
 电话筒	dian hua tong
 电吉他	dian ji ta
+电离辐射	dian li fu she
 电量	dian liang
 电量不足	dian liang bu zu
 电量低	dian liang di
@@ -1046,7 +1049,6 @@ sort: by_weight
 芙蓉花	fu rong hua
 肤色	fu se
 负伤	fu shang
-辐射	fu she
 富士山	fu shi shan
 斧头	fu tou
 服务费	fu wu fei
@@ -1319,6 +1321,7 @@ sort: by_weight
 喝多了	he duo le
 盒饭	he fan
 和服	he fu
+核辐射	he fu she
 合格	he ge
 呵呵	he he
 喝咖啡	he ka fei
@@ -1762,7 +1765,6 @@ sort: by_weight
 举白旗	ju bai qi
 飓风	ju feng
 鞠躬	ju gong
-鞠躬勋章	ju gong xun zhang
 巨怪	ju guai
 举黑旗	ju hei qi
 橘黄色	ju huang se
@@ -1814,6 +1816,7 @@ sort: by_weight
 噘嘴的人	jue zui de ren
 噘嘴猫	jue zui mao
 噘嘴猫脸	jue zui mao lian
+军功勋章	jun gong xun zhang
 军功章	jun gong zhang
 军盔	jun kui
 骏马	jun ma
@@ -2411,6 +2414,7 @@ sort: by_weight
 暮色中的城市	mu se zhong de cheng shi
 穆斯林	mu si lin
 木头	mu tou
+母婴室	mu ying shi
 沐浴露	mu yu lu
 拇指	mu zhi
 拇指朝上	mu zhi chao shang
@@ -2711,7 +2715,7 @@ sort: by_weight
 攀爬的男人	pan pa de nan ren
 攀爬的女人	pan pa de nv ren
 攀爬的人	pan pa de ren
-盘绕是炸鱼饼	pan rao shi zha yu bing
+盘绕式炸鱼饼	pan rao shi zha yu bing
 攀山	pan shan
 盘腿	pan tui
 盘腿的男人	pan tui de nan ren
@@ -3158,6 +3162,7 @@ sort: by_weight
 圣堂	sheng tang
 圣文森特和格林纳丁斯	sheng wen sen te he ge lin na ding si
 生物危害	sheng wu wei hai
+生物性危害	sheng wu xing wei hai
 绳子	sheng zi
 屎	shi
 狮	shi
@@ -3486,12 +3491,14 @@ sort: by_weight
 铁链	tie lian
 铁链子	tie lian zi
 听	ting
-停车	ting che
 停车按钮	ting che an niu
+停车标志	ting che biao zhi
 停车场	ting che chang
+停车让行	ting che rang xing
 听力障碍	ting li zhang ai
 听诊器	ting zhen qi
 停止	ting zhi
+停止标志	ting zhi biao zhi
 停止播放	ting zhi bo fang
 瞳孔	tong kong
 痛哭	tong ku
@@ -3673,7 +3680,6 @@ sort: by_weight
 蚊虻	wen meng
 温泉	wen quan
 文书	wen shu
-蚊香	wen xiang
 瘟疫公司	wen yi gong si
 蚊蝇	wen ying
 蚊子	wen zi
@@ -4055,6 +4061,7 @@ sort: by_weight
 胸片	xiong pian
 熊头	xiong tou
 胸透	xiong tou
+雄性	xiong xing
 匈牙利	xiong ya li
 嗅	xiu
 休达	xiu da
@@ -4109,6 +4116,8 @@ sort: by_weight
 循环播放	xun huan bo fang
 循环利用	xun huan li yong
 循环再生	xun huan zai sheng
+熏肉	xun rou
+熏咸肉	xun xian rou
 勋章	xun zhang
 牙	ya
 鸭	ya
@@ -4378,6 +4387,7 @@ sort: by_weight
 与我无关	yu wo wu guan
 羽翼	yu yi
 浴衣	yu yi
+育婴室	yu ying shi
 雨云	yu yun
 圆白菜	yuan bai cai
 原木	yuan mu
