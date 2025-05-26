@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2025-05-19"
+version: "2025-05-26"
 sort: by_weight
 ...
 
@@ -313,6 +313,7 @@ sort: by_weight
 饼干	bing gan
 冰壶	bing hu
 冰激凌	bing ji ling
+病菌	bing jun
 冰块	bing kuai
 冰冷	bing leng
 冰淇淋	bing qi lin
@@ -379,6 +380,7 @@ sort: by_weight
 不舒服	bu shu fu
 捕鼠器	bu shu qi
 不说	bu shuo
+不死鸟	bu si niao
 不听	bu ting
 不同意	bu tong yi
 布韦岛	bu wei dao
@@ -511,6 +513,7 @@ sort: by_weight
 抽烟	chou yan
 臭鼬	chou you
 除	chu
+厨刀	chu dao
 出国	chu guo
 除号	chu hao
 雏菊	chu ju
@@ -608,7 +611,6 @@ sort: by_weight
 大米	da mi
 大米饭	da mi fan
 打咩	da mie
-大母鸡	da mu ji
 大拇指	da mu zhi
 大拇指朝上	da mu zhi chao shang
 大拇指朝下	da mu zhi chao xia
@@ -624,6 +626,7 @@ sort: by_weight
 大山日出	da shan ri chu
 打手球	da shou qiu
 大叔	da shu
+大鼠	da shu
 大树	da shu
 大蒜	da suan
 打算盘	da suan pan
@@ -913,6 +916,7 @@ sort: by_weight
 法蒂玛	fa di ma
 法蒂玛之手	fa di ma zhi shou
 法官	fa guan
+法棍	fa gun
 法国	fa guo
 发红包	fa hong bao
 发火	fa huo
@@ -987,6 +991,7 @@ sort: by_weight
 斐济共和国	fei ji gong he guo
 飞机起飞	fei ji qi fei
 飞机着陆	fei ji zhuo lu
+非礼勿看	fei li wu kan
 非礼勿视	fei li wu shi
 非礼勿听	fei li wu ting
 非礼勿言	fei li wu yan
@@ -1031,6 +1036,7 @@ sort: by_weight
 凤尾蝶	feng wei die
 风信子	feng xin zi
 枫叶	feng ye
+缝衣针	feng yi zhen
 风鸢	feng yuan
 风筝	feng zheng
 佛寺	fo si
@@ -1168,6 +1174,7 @@ sort: by_weight
 工作犬	gong zuo quan
 狗	gou
 狗狗	gou gou
+狗獾	gou huan
 狗脸	gou lian
 狗头	gou tou
 购物车	gou wu che
@@ -1407,7 +1414,6 @@ sort: by_weight
 红发女子	hong fa nv zi
 红酒杯	hong jiu bei
 红辣椒	hong la jiao
-红萝卜	hong luo bo
 红绿灯	hong lv deng
 红毛猩猩	hong mao xing xing
 红玫瑰	hong mei gui
@@ -1478,6 +1484,7 @@ sort: by_weight
 花钱	hua qian
 花生	hua sheng
 花饰	hua shi
+花鼠	hua shu
 花束	hua shu
 滑梯	hua ti
 划艇	hua ting
@@ -1538,6 +1545,7 @@ sort: by_weight
 货币兑换	huo bi dui huan
 火车	huo che
 货车	huo che
+火车头	huo che tou
 火车站	huo che zhan
 火大	huo da
 火锅	huo guo
@@ -2173,7 +2181,6 @@ sort: by_weight
 轮椅	lun yi
 轮椅标志	lun yi biao zhi
 轮子	lun zi
-萝卜	luo bo
 落花生	luo hua sheng
 罗马尼亚	luo ma ni ya
 螺母和螺栓	luo mu he luo shuan
@@ -2329,7 +2336,7 @@ sort: by_weight
 蒙古国	meng gu guo
 孟加拉	meng jia la
 孟加拉国	meng jia la guo
-猛犸象	meng ma xiang
+猛犸	meng ma
 蒙特塞拉特	meng te sai la te
 蒙眼	meng yan
 蒙眼睛	meng yan jing
@@ -2339,6 +2346,7 @@ sort: by_weight
 米饼	mi bing
 米饭	mi fan
 蜜蜂	mi feng
+蜜瓜	mi gua
 蜜罐	mi guan
 米果	mi guo
 猕猴桃	mi hou tao
@@ -2411,7 +2419,6 @@ sort: by_weight
 墓碑	mu bei
 木材	mu cai
 目瞪口呆	mu deng kou dai
-母鸡	mu ji
 木槿	mu jin
 木槿花	mu jin hua
 牡蛎	mu li
@@ -2423,6 +2430,7 @@ sort: by_weight
 暮色中的城市	mu se zhong de cheng shi
 穆斯林	mu si lin
 木头	mu tou
+母羊	mu yang
 母婴室	mu ying shi
 沐浴露	mu yu lu
 拇指	mu zhi
@@ -2584,6 +2592,7 @@ sort: by_weight
 牛牛	niu niu
 牛排	niu pai
 牛头	niu tou
+牛油	niu you
 牛油果	niu you guo
 牛仔	niu zai
 牛仔裤	niu zai ku
@@ -2757,6 +2766,7 @@ sort: by_weight
 捧花	peng hua
 朋克	peng ke
 烹饪	peng ren
+棚屋	peng wu
 膨胀的爱心	peng zhang de ai xin
 膨胀的心	peng zhang de xin
 捧着	peng zhe
@@ -2811,7 +2821,6 @@ sort: by_weight
 七点半	qi dian ban
 七点钟	qi dian zhong
 企鹅	qi e
-企鹅头	qi e tou
 起飞	qi fei
 旗杆上的旗帜	qi gan shang de qi zhi
 旗杆上的三角旗	qi gan shang de san jiao qi
@@ -2930,6 +2939,7 @@ sort: by_weight
 曲奇饼干	qu qi bing gan
 蛐蛐	qu qu
 犬	quan
+拳击	quan ji
 拳击手套	quan ji shou tao
 全莲花坐	quan lian hua zuo
 拳头	quan tou
@@ -3576,6 +3586,7 @@ sort: by_weight
 腿儿	tui er
 退回	tui hui
 推手	tui shou
+鲀	tun
 拖车	tuo che
 脱发	tuo fa
 托克劳	tuo ke lao
@@ -3938,6 +3949,7 @@ sort: by_weight
 笑脸	xiao lian
 小菱形	xiao ling xing
 小龙虾	xiao long xia
+小鹿	xiao lu
 小驴	xiao lv
 小马	xiao ma
 小猫	xiao mao
@@ -3959,6 +3971,7 @@ sort: by_weight
 小声点	xiao sheng dian
 小声点儿	xiao sheng dian er
 消失	xiao shi
+小鼠	xiao shu
 笑死	xiao si
 小提琴	xiao ti qin
 小天使	xiao tian shi
@@ -4065,6 +4078,7 @@ sort: by_weight
 星钻	xing zuan
 熊	xiong
 兄弟	xiong di
+雄鸡	xiong ji
 熊脸	xiong lian
 熊猫	xiong mao
 熊猫脸	xiong mao lian
@@ -4296,6 +4310,7 @@ sort: by_weight
 英镑	ying bang
 英镑钞票	ying bang chao piao
 硬币	ying bi
+营地	ying di
 婴儿	ying er
 婴儿标志	ying er biao zhi
 婴儿符号	ying er fu hao
@@ -4503,6 +4518,7 @@ sort: by_weight
 阵风	zhen feng
 震惊	zhen jing
 侦探	zhen tan
+针线	zhen xian
 珍珠奶茶	zhen zhu nai cha
 榛子	zhen zi
 蒸房	zheng fang
