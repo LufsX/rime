@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2025-05-26"
+version: "2025-06-09"
 sort: by_weight
 ...
 
@@ -1912,6 +1912,7 @@ sort: by_weight
 可以	ke yi
 肯尼亚	ken ni ya
 肯尼亚共和国	ken ni ya gong he guo
+恳求	ken qiu
 坑	keng
 坑洞	keng dong
 空	kong
@@ -2899,6 +2900,7 @@ sort: by_weight
 青柠	qing ning
 晴偶有云	qing ou you yun
 青苹果	qing ping guo
+请求	qing qiu
 情人宾馆	qing ren bin guan
 情人酒店	qing ren jiu dian
 情人旅店	qing ren lv dian
