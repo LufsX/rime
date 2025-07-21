@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2025-06-16"
+version: "2025-07-21"
 sort: by_weight
 ...
 
@@ -583,6 +583,7 @@ sort: by_weight
 大鹅	da e
 大反派	da fan pai
 大方块	da fang kuai
+大夫	da fu
 打高尔夫	da gao er fu
 打高尔夫的人	da gao er fu de ren
 打给我	da gei wo
@@ -633,6 +634,7 @@ sort: by_weight
 搭梯子	da ti zi
 大头针	da tou zhen
 大腿	da tui
+大王	da wang
 大卫之星	da wei zhi xing
 大虾	da xia
 大象	da xiang
@@ -653,7 +655,6 @@ sort: by_weight
 大正方形	da zheng fang xing
 打坐	da zuo
 戴单片眼镜的脸	dai dan pian yan jing de lian
-大夫	dai fu
 带骨肉	dai gu rou
 袋棍球	dai gun qiu
 带蝴蝶结的帽子	dai hu die jie de mao zi
@@ -668,7 +669,6 @@ sort: by_weight
 戴头巾	dai tou jin
 戴头巾的人	dai tou jin de ren
 戴头纱的人	dai tou sha de ren
-大王	dai wang
 戴王冠的人	dai wang guan de ren
 带吸管杯	dai xi guan bei
 戴助听器的耳朵	dai zhu ting qi de er duo
@@ -1293,6 +1293,7 @@ sort: by_weight
 孩子	hai zi
 汗	han
 汉堡	han bao
+汉堡包	han bao bao
 旱冰	han bing
 旱冰鞋	han bing xie
 汗滴	han di
@@ -1301,7 +1302,6 @@ sort: by_weight
 含泪	han lei
 含泪的笑脸	han lei de xiao lian
 含泪笑脸	han lei xiao lian
-汉堡包	han pu bao
 汗衫	han shan
 航班降落	hang ban jiang luo
 航班起飞	hang ban qi fei
@@ -2464,7 +2464,7 @@ sort: by_weight
 男程序员	nan cheng xu yuan
 男厨师	nan chu shi
 男大反派	nan da fan pai
-男大夫	nan dai fu
+男大夫	nan da fu
 男灯神	nan deng shen
 男电工	nan dian gong
 男法官	nan fa guan
@@ -2623,7 +2623,7 @@ sort: by_weight
 女程序员	nv cheng xu yuan
 女厨师	nv chu shi
 女大反派	nv da fan pai
-女大夫	nv dai fu
+女大夫	nv da fu
 女灯神	nv deng shen
 女电工	nv dian gong
 女儿	nv er
