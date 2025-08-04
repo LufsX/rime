@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2025-07-21"
+version: "2025-08-04"
 sort: by_weight
 ...
 
@@ -467,7 +467,6 @@ sort: by_weight
 乘	cheng
 城堡	cheng bao
 成功	cheng gong
-乘号	cheng hao
 成年男人	cheng nian nan ren
 成年男性	cheng nian nan xing
 成年女人	cheng nian nv ren
@@ -488,7 +487,6 @@ sort: by_weight
 橙心	cheng xin
 程序员	cheng xu yuan
 乘雪橇	cheng xue qiao
-乘以	cheng yi
 翅膀	chi bang
 翅膀钱	chi bang qian
 吃比萨	chi bi sa
@@ -515,7 +513,6 @@ sort: by_weight
 除	chu
 厨刀	chu dao
 出国	chu guo
-除号	chu hao
 雏菊	chu ju
 出口成脏	chu kou cheng zang
 处女座	chu nv zuo
@@ -523,7 +520,6 @@ sort: by_weight
 出生	chu sheng
 厨师	chu shi
 锄头	chu tou
-除以	chu yi
 出租车	chu zu che
 搋子	chuai zi
 船	chuan
@@ -558,8 +554,17 @@ sort: by_weight
 刺猬	ci wei
 雌性	ci xing
 葱头	cong tou
+粗乘号	cu cheng hao
+粗除号	cu chu hao
 粗等号	cu deng hao
+粗加号	cu jia hao
+粗减号	cu jian hao
 粗美元符号	cu mei yuan fu hao
+粗体乘号	cu ti cheng hao
+粗体除号	cu ti chu hao
+粗体等号	cu ti deng hao
+粗体加号	cu ti jia hao
+粗体减号	cu ti jian hao
 错	cuo
 错号	cuo hao
 错误	cuo wu
@@ -728,7 +733,6 @@ sort: by_weight
 德意志联邦	de yi zhi lian bang
 德意志联邦共和国	de yi zhi lian bang gong he guo
 灯	deng
-等号	deng hao
 灯笼	deng long
 灯笼椒	deng long jiao
 灯泡	deng pao
@@ -737,7 +741,6 @@ sort: by_weight
 登山者	deng shan zhe
 灯神	deng shen
 等于	deng yu
-等于号	deng yu hao
 凳子	deng zi
 弟弟	di di
 低电量	di dian liang
@@ -1601,7 +1604,6 @@ sort: by_weight
 加	jia
 加冰	jia bing
 甲虫	jia chong
-加号	jia hao
 夹克	jia ke
 夹克衫	jia ke shan
 加纳	jia na
@@ -1629,7 +1631,6 @@ sort: by_weight
 剪刀手	jian dao shou
 剑斗	jian dou
 剪发	jian fa
-减号	jian hao
 尖叫	jian jiao
 键盘	jian pan
 柬埔寨	jian pu zhai
