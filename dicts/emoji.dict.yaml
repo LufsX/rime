@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2025-09-01"
+version: "2025-10-20"
 sort: by_weight
 ...
 
@@ -81,6 +81,7 @@ sort: by_weight
 奥姆	ao mu
 奥姆符号	ao mu fu hao
 澳亚地球仪	ao ya di qiu yi
+熬夜	ao ye
 澳洲	ao zhou
 澳洲地球仪	ao zhou di qiu yi
 澳洲亚洲	ao zhou ya zhou
@@ -431,6 +432,7 @@ sort: by_weight
 缠绷带	chan beng dai
 颤抖的脸	chan dou de lian
 缠满绷带	chan man beng dai
+铲子	chan zi
 长笛	chang di
 长鼓	chang gu
 场记	chang ji
@@ -1393,6 +1395,7 @@ sort: by_weight
 黑线方形按钮	hei xian fang xing an niu
 黑线正方形按钮	hei xian zheng fang xing an niu
 黑心	hei xin
+黑眼圈	hei yan quan
 黑子	hei zi
 很棒	hen bang
 很差	hen cha
@@ -1417,6 +1420,7 @@ sort: by_weight
 红发女子	hong fa nv zi
 红酒杯	hong jiu bei
 红辣椒	hong la jiao
+红萝卜	hong luo bo
 红绿灯	hong lv deng
 红毛猩猩	hong mao xing xing
 红玫瑰	hong mei gui
@@ -1632,6 +1636,7 @@ sort: by_weight
 剑斗	jian dou
 剪发	jian fa
 尖叫	jian jiao
+溅落	jian luo
 键盘	jian pan
 柬埔寨	jian pu zhai
 柬埔寨王国	jian pu zhai wang guo
@@ -1945,10 +1950,12 @@ sort: by_weight
 哭了	ku le
 骷髅	ku lou
 骷髅头	ku lou tou
+枯木	ku mu
 哭泣	ku qi
 哭泣的猫	ku qi de mao
 哭泣猫	ku qi mao
 哭泣猫脸	ku qi mao lian
+枯树	ku shu
 枯萎	ku wei
 枯萎的花	ku wei de hua
 枯萎的玫瑰	ku wei de mei gui
@@ -2052,6 +2059,7 @@ sort: by_weight
 姥爷	lao ye
 老爷爷	lao ye ye
 老鹰	lao ying
+累了	lei le
 雷龙	lei long
 垒球	lei qiu
 雷云	lei yun
@@ -2183,6 +2191,7 @@ sort: by_weight
 轮椅	lun yi
 轮椅标志	lun yi biao zhi
 轮子	lun zi
+萝卜	luo bo
 落花生	luo hua sheng
 罗马尼亚	luo ma ni ya
 螺母和螺栓	luo mu he luo shuan
@@ -2265,6 +2274,7 @@ sort: by_weight
 满	man
 满分	man fen
 漫画家	man hua jia
+蔓菁	man jing
 满了	man le
 满面寒霜	man mian han shuang
 慢吞吞	man tun tun
@@ -3015,6 +3025,7 @@ sort: by_weight
 萨尔瓦多	sa er wa duo
 萨尔瓦多共和国	sa er wa duo gong he guo
 撒谎	sa huang
+萨克岛	sa ke dao
 萨克斯	sa ke si
 萨克斯风	sa ke si feng
 萨克斯管	sa ke si guan
@@ -3302,6 +3313,7 @@ sort: by_weight
 树木	shu mu
 书签	shu qian
 书签标签	shu qian biao qian
+竖琴	shu qin
 薯条	shu tiao
 鼠头	shu tou
 树叶	shu ye
@@ -3480,6 +3492,7 @@ sort: by_weight
 体育馆	ti yu guan
 提子	ti zi
 梯子	ti zi
+甜菜	tian cai
 天秤座	tian cheng zuo
 甜点	tian dian
 天鹅	tian e
@@ -3514,6 +3527,7 @@ sort: by_weight
 铁轨	tie gui
 铁链	tie lian
 铁链子	tie lian zi
+铁锹	tie qiao
 听	ting
 停车按钮	ting che an niu
 停车标志	ting che biao zhi
@@ -3564,6 +3578,7 @@ sort: by_weight
 土耳其	tu er qi
 土耳其共和国	tu er qi gong he guo
 土库曼斯坦	tu ku man si tan
+吐啦	tu la
 吐了	tu le
 兔脸	tu lian
 突尼斯	tu ni si
@@ -3721,6 +3736,7 @@ sort: by_weight
 我是证人	wo shi zheng ren
 握手	wo shou
 我吐	wo tu
+我吐啦	wo tu la
 我吐了	wo tu le
 我想想	wo xiang xiang
 我晕	wo yun
@@ -3743,6 +3759,7 @@ sort: by_weight
 乌龟	wu gui
 无轨电车	wu gui dian che
 五角星	wu jiao xing
+芜菁	wu jing
 乌克兰	wu ke lan
 乌拉圭	wu la gui
 乌拉圭东岸共和国	wu la gui dong an gong he guo
@@ -3787,6 +3804,7 @@ sort: by_weight
 捂住眼	wu zhu yan
 捂住眼睛	wu zhu yan jing
 捂住嘴巴	wu zhu zui ba
+污渍	wu zi
 乌兹别克斯坦	wu zi bie ke si tan
 乌兹别克斯坦共和国	wu zi bie ke si tan gong he guo
 捂嘴	wu zui
@@ -4165,12 +4183,14 @@ sort: by_weight
 眼	yan
 盐	yan
 烟	yan
+眼袋	yan dai
 烟花	yan hua
 焰火	yan huo
 严禁	yan jin
 眼睛	yan jing
 眼镜	yan jing
 研究	yan jiu
+颜料	yan liao
 眼冒金星	yan mao jin xing
 眼冒星星	yan mao xing xing
 炎热	yan re
@@ -4559,11 +4579,13 @@ sort: by_weight
 直升机	zhi sheng ji
 芝士	zhi shi
 芝士火锅	zhi shi huo guo
+指纹	zhi wen
 指我	zhi wo
 纸箱	zhi xiang
 指向观察者的食指	zhi xiang guan cha zhe de shi zhi
 纸箱子	zhi xiang zi
 纸烟	zhi yan
+指印	zhi yin
 直饮水	zhi yin shui
 治愈的心	zhi yu de xin
 职员	zhi yuan
