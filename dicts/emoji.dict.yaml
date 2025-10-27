@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2025-10-20"
+version: "2025-10-27"
 sort: by_weight
 ...
 
@@ -862,6 +862,7 @@ sort: by_weight
 短剑	duan jian
 短裤	duan ku
 断链	duan lian
+锻炼	duan lian
 短袜	duan wa
 短袖	duan xiu
 对	dui
@@ -1279,6 +1280,7 @@ sort: by_weight
 海关	hai guan
 海关检查	hai guan jian cha
 海龟	hai gui
+海浪	hai lang
 海狸	hai li
 海螺	hai luo
 海绵	hai mian
@@ -1418,6 +1420,7 @@ sort: by_weight
 红发女	hong fa nv
 红发女人	hong fa nv ren
 红发女子	hong fa nv zi
+红凤凰	hong feng huang
 红酒杯	hong jiu bei
 红辣椒	hong la jiao
 红萝卜	hong luo bo
@@ -1555,6 +1558,7 @@ sort: by_weight
 火车头	huo che tou
 火车站	huo che zhan
 火大	huo da
+火凤凰	huo feng huang
 火锅	huo guo
 火鸡	huo ji
 火箭	huo jian
@@ -4580,6 +4584,8 @@ sort: by_weight
 芝士	zhi shi
 芝士火锅	zhi shi huo guo
 指纹	zhi wen
+指纹解锁	zhi wen jie suo
+指纹识别	zhi wen shi bie
 指我	zhi wo
 纸箱	zhi xiang
 指向观察者的食指	zhi xiang guan cha zhe de shi zhi
