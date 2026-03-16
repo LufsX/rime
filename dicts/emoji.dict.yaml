@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2026-02-02"
+version: "2026-03-16"
 sort: by_weight
 ...
 
@@ -2308,6 +2308,7 @@ sort: by_weight
 么么	me me
 么么哒	me me da
 美刀	mei dao
+美分	mei fen
 玫瑰	mei gui
 玫瑰花	mei gui hua
 玫瑰花结	mei gui hua jie
