@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2026-03-16"
+version: "2026-06-08"
 sort: by_weight
 ...
 
@@ -101,7 +101,9 @@ sort: by_weight
 巴拉圭	ba la gui
 巴拉圭共和国	ba la gui gong he guo
 巴勒斯坦领土	ba le si tan ling tu
+芭蕾	ba lei
 芭蕾舞鞋	ba lei wu xie
+芭蕾舞者	ba lei wu zhe
 巴林	ba lin
 巴林王国	ba lin wang guo
 八轮辐星号	ba lun fu xing hao
@@ -227,7 +229,9 @@ sort: by_weight
 爆米花	bao mi hua
 宝石	bao shi
 爆头	bao tou
+宝箱	bao xiang
 抱在一起	bao zai yi qi
+宝藏	bao zang
 爆炸	bao zha
 爆炸脑	bao zha nao
 爆炸头	bao zha tou
@@ -294,6 +298,7 @@ sort: by_weight
 便利店	bian li dian
 便利商店	bian li shang dian
 鞭炮	bian pao
+变形	bian xing
 变性	bian xing
 变形虫	bian xing chong
 表	biao
@@ -405,6 +410,7 @@ sort: by_weight
 残疾人	can ji ren
 餐具	can ju
 残月	can yue
+藏宝箱	cang bao xiang
 仓鼠	cang shu
 仓鼠脸	cang shu lian
 仓鼠头	cang shu tou
@@ -435,6 +441,7 @@ sort: by_weight
 铲子	chan zi
 长笛	chang di
 长鼓	chang gu
+长号	chang hao
 场记	chang ji
 场记板	chang ji ban
 长颈鹿	chang jing lu
@@ -466,6 +473,7 @@ sort: by_weight
 沉默	chen mo
 衬衫	chen shan
 衬衫领带	chen shan ling dai
+尘土飞扬	chen tu fei yang
 乘	cheng
 城堡	cheng bao
 成功	cheng gong
@@ -583,6 +591,7 @@ sort: by_weight
 答错了	da cuo le
 打电话	da dian hua
 打电话给我	da dian hua gei wo
+打斗	da dou
 大肚子	da du zi
 答对	da dui
 打对钩	da dui gou
@@ -604,6 +613,7 @@ sort: by_weight
 大红灯笼	da hong deng long
 大红灯笼高高挂	da hong deng long gao gao gua
 打击	da ji
+大脚怪	da jiao guai
 打结	da jie
 大卡车	da ka che
 打开的书	da kai de shu
@@ -1451,6 +1461,7 @@ sort: by_weight
 蝴蝶结	hu die jie
 护肤霜	hu fu shuang
 呼机	hu ji
+虎鲸	hu jing
 狐狸	hu li
 狐狸脸	hu li lian
 狐狸头	hu li tou
@@ -1551,6 +1562,7 @@ sort: by_weight
 昏昏沉沉	hun hun chen chen
 婚礼	hun li
 婚纱	hun sha
+混战	hun zhan
 火	huo
 货币	huo bi
 货币兑换	huo bi dui huan
@@ -2067,6 +2079,7 @@ sort: by_weight
 累了	lei le
 雷龙	lei long
 垒球	lei qiu
+类人	lei ren
 雷云	lei yun
 雷阵雨	lei zhen yu
 冷	leng
@@ -2603,12 +2616,14 @@ sort: by_weight
 牛	niu
 纽埃	niu ai
 牛逼	niu bi
+扭打	niu da
 牛角面包	niu jiao mian bao
 牛脸	niu lian
 牛奶	niu nai
 牛奶杯	niu nai bei
 牛牛	niu niu
 牛排	niu pai
+扭曲	niu qu
 牛头	niu tou
 牛油	niu you
 牛油果	niu you guo
@@ -3114,6 +3129,7 @@ sort: by_weight
 闪亮的星星	shan liang de xing xing
 山脉	shan mai
 山区铁路	shan qu tie lu
+山体滑坡	shan ti hua po
 山羊	shan yang
 闪耀	shan yao
 闪耀的星星	shan yao de xing xing
@@ -3434,6 +3450,7 @@ sort: by_weight
 锁上	suo shang
 锁头	suo tou
 锁住	suo zhu
+塌方	ta fang
 塔吉克斯坦	ta ji ke si tan
 塔吉克斯坦共和国	ta ji ke si tan gong he guo
 太棒	tai bang
@@ -3451,7 +3468,6 @@ sort: by_weight
 台球	tai qiu
 跆拳道服	tai quan dao fu
 台式电脑	tai shi dian nao
-台湾	tai wan
 泰王国	tai wang guo
 太阳	tai yang
 太阳花	tai yang hua
@@ -3515,6 +3531,7 @@ sort: by_weight
 甜筒	tian tong
 天线	tian xian
 天蝎座	tian xie zuo
+跳芭蕾	tiao ba lei
 挑眉	tiao mei
 调皮	tiao pi
 调情	tiao qing
@@ -3544,6 +3561,7 @@ sort: by_weight
 停止	ting zhi
 停止标志	ting zhi biao zhi
 停止播放	ting zhi bo fang
+铜管乐器	tong guan yue qi
 瞳孔	tong kong
 痛哭	tong ku
 铜牌	tong pai
@@ -4441,6 +4459,7 @@ sort: by_weight
 玉米	yu mi
 雨伞	yu san
 与我无关	yu wo wu guan
+鱼眼	yu yan
 羽翼	yu yi
 浴衣	yu yi
 育婴室	yu ying shi
@@ -4625,7 +4644,6 @@ sort: by_weight
 中国帽	zhong guo mao
 中国香港	zhong guo xiang gang
 中国香港特别行政区	zhong guo xiang gang te bie xing zheng qu
-中华民国	zhong hua min guo
 中华人民共和国	zhong hua ren min gong he guo
 重金属	zhong jin shu
 中秋	zhong qiu
