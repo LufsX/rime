@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2026-06-08"
+version: "2026-06-15"
 sort: by_weight
 ...
 
@@ -102,8 +102,8 @@ sort: by_weight
 巴拉圭共和国	ba la gui gong he guo
 巴勒斯坦领土	ba le si tan ling tu
 芭蕾	ba lei
+芭蕾舞	ba lei wu
 芭蕾舞鞋	ba lei wu xie
-芭蕾舞者	ba lei wu zhe
 巴林	ba lin
 巴林王国	ba lin wang guo
 八轮辐星号	ba lun fu xing hao
@@ -2593,6 +2593,7 @@ sort: by_weight
 尼德兰	ni de lan
 尼姑	ni gu
 你好	ni hao
+逆戟鲸	ni ji jing
 尼加拉瓜	ni jia la gua
 尼加拉瓜共和国	ni jia la gua gong he guo
 你妈死了	ni ma si le
@@ -3103,6 +3104,7 @@ sort: by_weight
 纱丽	sha li
 沙漏	sha lou
 沙漠	sha mo
+杀人鲸	sha ren jing
 沙滩凉鞋	sha tan liang xie
 沙滩伞	sha tan san
 沙特	sha te
@@ -4596,6 +4598,7 @@ sort: by_weight
 致敬	zhi jing
 智利	zhi li
 智利共和国	zhi li gong he guo
+直立猿	zhi li yuan
 指南针	zhi nan zhen
 智能手机	zhi neng shou ji
 指你	zhi ni
