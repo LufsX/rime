@@ -2,9 +2,9 @@
 # encoding: utf-8
 # 修改自: https://github.com/rime/squirrel/blob/master/data/squirrel.yaml
 #
-# COMMIT SHA: ea6720a0348a2f047ca0d8d87d82b221ac03be7b
+# COMMIT SHA: 4fd723822a8882be73399f606ee3d63e5a5714c6
 
-config_version: "2025-04-24"
+config_version: "2026-07-06"
 
 # 可用选项：last | default | _custom_
 # last：上次使用的拉丁字母键盘布局
@@ -15,9 +15,18 @@ keyboard_layout: last
 # 给打字贼快的家伙们设置的按键持续时间（
 chord_duration: 0.1 # seconds
 
+# 通知设置
 # options: always | never | appropriate
 show_notifications_when: appropriate
 show_notifications_via_notification_center: true
+
+# 状态栏图标
+# show: 是否显示状态栏图标，设置为 false 可隐藏状态栏图标
+# 图标的文本为 schema 的 ascii_mode 的短状态标签（通过 get_state_label_abbreviated 获取）。
+# 声明了 `abbrev: [中, Ａ]` 的 schema 会得到紧凑的字形；否则 schema 的 `states:` 值会按原样使用。
+# 当没有定义 `states:` 时，回退为 "中" / "Ａ"。
+status_icon:
+  show: true
 
 app_options: {} # 清除应用默认输入法，防止无法输入中文（建议通过 Caps 切换中英文）
 
