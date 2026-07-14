@@ -56,6 +56,8 @@ MacBook	macbook
 MacBook Air	mba
 MacBook Pro	mbp
 macOS	macos	8
+macOS Golden Gate	macOS	9
+macOS Tahoe	macOS	8
 macOS Sequoia	macos	7
 macOS Sonoma	macos	6
 macOS Ventura	macos	5
