@@ -4,7 +4,7 @@
 
 ---
 name: emoji
-version: "2026-06-15"
+version: "2026-08-24"
 sort: by_weight
 ...
 
@@ -29,7 +29,7 @@ sort: by_weight
 阿塞拜疆共和国	a sai bai jiang gong he guo
 阿森松	a sen song
 阿森松岛	a sen song dao
-阿斯克勒庇俄斯	a si ke lei bi e si
+阿斯克勒庇俄斯之杖	a si ke lei bi e si zhi zhang
 唉	ai
 爱	ai
 爱的礼物	ai de li wu
@@ -1432,6 +1432,7 @@ sort: by_weight
 红发女人	hong fa nv ren
 红发女子	hong fa nv zi
 红凤凰	hong feng huang
+红鹳	hong guan
 红酒杯	hong jiu bei
 红辣椒	hong la jiao
 红萝卜	hong luo bo
@@ -4146,7 +4147,6 @@ sort: by_weight
 修理工	xiu li gong
 羞涩	xiu se
 羞涩亲亲	xiu se qin qin
-休息	xiu xi
 休闲车	xiu xian che
 休闲鞋	xiu xian xie
 嘘	xu
