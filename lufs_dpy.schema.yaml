@@ -152,7 +152,7 @@ translator:
   prism: lufs_dpy
 
 grammar:
-  language: zh-hans-t-essay-bgw
+  language: qwen14b-zh-hans
 
 punctuator:
   import_preset: lufs_symbols

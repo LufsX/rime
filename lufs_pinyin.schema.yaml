@@ -140,7 +140,7 @@ translator:
     # - xform/ // # 去掉上屏字符间空格
 
 grammar:
-  language: zh-hans-t-essay-bgw
+  language: qwen14b-zh-hans
 
 punctuator:
   import_preset: lufs_symbols

@@ -150,7 +150,7 @@ translator:
   max_homophones: 7
 
 grammar:
-  language: zh-hans-t-essay-bgw
+  language: qwen14b-zh-hans
 
 punctuator:
   import_preset: lufs_symbols

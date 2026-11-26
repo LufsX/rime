@@ -78,6 +78,7 @@
 - [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian/)
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice)
 - [lotem/luna_pinyin.custom.yaml](https://gist.github.com/lotem/2320943)
+- [mizorewww/rime-qwen-freq](https://github.com/mizorewww/rime-qwen-freq)
 - [placeless/squirrel_config](https://github.com/placeless/squirrel_config)
 - [rime/plum](https://github.com/rime/plum/issues/4)
 - [rime/rime-prelude](https://github.com/rime/rime-prelude)

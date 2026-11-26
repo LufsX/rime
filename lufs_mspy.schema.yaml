@@ -154,7 +154,7 @@ translator:
   prism: lufs_mspy
 
 grammar:
-  language: zh-hans-t-essay-bgw
+  language: qwen14b-zh-hans
 
 punctuator:
   import_preset: lufs_symbols
