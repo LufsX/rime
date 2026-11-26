@@ -1,0 +1,5628 @@
+# Rime dictionary
+# encoding: utf-8
+# L3 专业领域：动物生物（≤4 字，源自 THUOCL 动物）
+
+---
+name: domain_animal
+version: "2026-11-26"
+sort: by_weight
+...
+
+阿坝革蜱	a ba ge pi	1
+阿坝藏猪	a ba zang zhu	4
+阿芬品梗	a fen pin geng	1
+阿勒泰鱥	a le tai gui	6
+阿鲁啸鹟	a lu xiao weng	1
+阿门角石	a men jiao shi	1
+阿姆微蛛	a mu wei zhu	1
+阿文绶贝	a wen shou bei	1
+阿依努犬	a yi nu quan	6
+艾伯鸺鹠	ai bo xiu liu	1
+爱德华雉	ai de hua zhi	21
+埃杜灯鳉	ai du deng jiang	1
+艾胶树叶	ai jiao shu ye	2
+爱六矛虫	ai liu mao chong	1
+埃姆登鹅	ai mu deng e	2
+艾努犬	ai nu quan	3
+艾氏滨蟹	ai shi bin xie	1
+艾沃克龙	ai wo ke long	2
+埃谢栉蚕	ai xie zhi can	1
+鞍斑前鲨	an ban qian sha	1
+暗翅负蝗	an chi fu huang	1
+安芬羊鯻	an fen yang la	1
+安格鲁貂	an ge lu diao	4
+暗褐霸鹟	an he ba weng	1
+暗灰鹃	an hui juan	1
+暗灰鹃鵙	an hui juan ju	1
+鮟鱇	an kang	785
+鮟鱇科	an kang ke	6
+鮟鱇目	an kang mu	4
+鮟鱇亚目	an kang ya mu	3
+安纽鳃樽	an niu sai zun	1
+安纽夜蛾	an niu ye e	1
+安全浓度	an quan nong du	407
+暗色刺参	an se ci shen	1
+安氏唇指	an shi chun zhi	2
+暗纹凤鳚	an wen feng wei	1
+暗影巨蜥	an ying ju xi	15
+奥达猎犬	ao da lie quan	4
+奥登堡马	ao deng bao ma	4
+奥娣宝螺	ao di bao luo	1
+奥地海鲶	ao di hai nian	2
+澳东蛇属	ao dong she shu	1
+澳短鮣	ao duan yin	1
+奥顿蛙	ao dun wa	9
+奥酚达唑	ao fen da zuo	1
+奥粪金龟	ao fen jin gui	2
+奥古普古	ao gu pu gu	6
+澳华集团	ao hua ji tuan	95
+凹甲陆龟	ao jia lu gui	2
+奥品顿鸡	ao pin dun ji	1
+奥锹甲	ao qiao jia	63
+翱翔新鯥	ao xiang xin lu	1
+凹圆孟蝇	ao yuan meng ying	1
+凹指招潮	ao zhi zhao chao	1
+澳洲木蝎	ao zhou mu xie	4
+澳洲潜鸭	ao zhou qian ya	24
+澳洲斜鱵	ao zhou xie zhen	1
+澳洲燕鸻	ao zhou yan heng	3
+坝坝鱼	ba ba yu	35
+巴壁坟儿	ba bi fen er	1
+耙笔石	ba bi shi	3
+巴比亚鲸	ba bi ya jing	1
+八重山蝎	ba chong shan xie	2
+叭虫属	ba chong shu	1
+八带鮹	ba dai shao	6
+八卦鸡	ba gua ji	92
+巴厘岛猫	ba li dao mao	14
+巴厘虎	ba li hu	27
+峇厘猫	ba li mao	2
+巴莫鳄	ba mo e	1
+八目鳗鱼	ba mu man yu	31
+拔目鸟	ba mu niao	3
+霸雀	ba que	39
+巴苏非鲫	ba su fei ji	1
+霸鹟科	ba weng ke	6
+霸鹟亚目	ba weng ya mu	3
+巴西勒鲸	ba xi le jing	1
+巴西蟹爪	ba xi xie zhao	4
+巴约龙	ba yue long	7
+白鮟鱇	bai an kang	13
+白鮟鱇鱼	bai an kang yu	2
+柏柏里羊	bai bai li yang	1
+白鼻豿	bai bi gou	1
+柏布马	bai bu ma	6
+白參渦螺	bai can wo luo	1
+白翅浮鸥	bai chi fu ou	5
+白唇鹿角	bai chun lu jiao	4
+白簇	bai cu	137
+白底板病	bai di ban bing	2
+白顶地鸽	bai ding di ge	6
+白顶溪鸲	bai ding xi qu	2
+白短鮣	bai duan yin	1
+白短印鱼	bai duan yin yu	1
+白耳画眉	bai er hua mei	4
+白腹小蟌	bai fu xiao cong	1
+柏肤小蠹	bai fu xiao du	1
+白腹鱼狗	bai fu yu gou	5
+白冠黑鵖	bai guan hei bi	1
+白果紫草	bai guo zi cao	6
+白海菊蛤	bai hai ju ge	2
+白河刺鱥	bai he ci gui	1
+白喉笑鸫	bai hou xiao dong	1
+百虎围村	bai hu wei cun	3
+白鹮鹳	bai huan guan	1
+白灰蝶属	bai hui die shu	3
+白颊吊	bai jia diao	3
+白节黑	bai jie hei	6
+白领凤鹛	bai ling feng mei	2
+白毛脚鸽	bai mao jiao ge	1
+白帽小丑	bai mao xiao chou	10
+白眉歌鵖	bai mei ge bi	1
+白梅花蛇	bai mei hua she	7
+白眉鹡鸰	bai mei ji ling	1
+白眉蓝鶲	bai mei lan weng	1
+白眉鳾	bai mei shi	1
+白眉守宫	bai mei shou gong	4
+白眉鶲	bai mei weng	4
+白眉鵐	bai mei wu	1
+白眉笑鸫	bai mei xiao dong	1
+白眉燕鵙	bai mei yan ju	1
+白眉鹰鸮	bai mei ying xiao	1
+白鮸	bai mian	43
+百慕大鱵	bai mu da zhen	2
+白挵蝶	bai nong die	1
+柏普鲸	bai pu jing	1
+百娆灰蝶	bai rao hui die	1
+白扇蟌	bai shan cong	1
+百陶箭虫	bai tao jian chong	1
+白头鹮鹳	bai tou huan guan	16
+白尾海鵰	bai wei hai diao	1
+白尾鹿	bai wei lu	90
+白尾鹲	bai wei meng	7
+白尾鸏	bai wei meng	4
+白尾鳾	bai wei shi	5
+白尾夜鹰	bai wei ye ying	12
+白小鮣	bai xiao yin	3
+柏小爪螨	bai xiao zhao man	1
+白写锦鲤	bai xie jin li	2
+白胁卷尾	bai xie juan wei	8
+白写鲤	bai xie li	3
+白星寶螺	bai xing bao luo	1
+白星花潜	bai xing hua qian	1
+白星驼蛾	bai xing tuo e	1
+白胸黑雀	bai xiong hei que	6
+白眼丛鹟	bai yan cong weng	1
+白眼鵟鹰	bai yan kuang ying	2
+白夜芋螺	bai ye yu luo	1
+白缘	bai yuan	270
+白缘星鱠	bai yuan xing kuai	1
+白缘鰑	bai yuan yang	1
+白宅泥鱼	bai zhai ni yu	1
+白汁鱼唇	bai zhi yu chun	2
+白珠环蝶	bai zhu huan die	1
+白珠鸡	bai zhu ji	22
+白住囊虫	bai zhu nang chong	1
+百转蜗牛	bai zhuan wo niu	8
+白灼苦螺	bai zhuo ku luo	3
+白棕口蘑	bai zong kou mo	1
+斑背燕尾	ban bei yan wei	16
+斑翅虎鮋	ban chi hu you	1
+斑翅虎鲉	ban chi hu you	1
+鳻鶞	ban chun	4
+班灯蛾	ban deng e	1
+斑点北鳚	ban dian bei wei	3
+斑点红鮋	ban dian hong you	3
+斑点尾鹰	ban dian wei ying	8
+斑蝶敌娥	ban die di e	1
+斑喉希鹛	ban hou xi mei	4
+斑颊哀鸽	ban jia ai ge	1
+斑角吊	ban jiao diao	3
+斑鱧	ban li	55
+斑林鸽	ban lin ge	4
+斑络新妇	ban luo xin fu	4
+斑驴贻贝	ban lv yi bei	1
+斑馬榧螺	ban ma fei luo	1
+班马纹班	ban ma wen ban	3
+斑马纹蝶	ban ma wen die	7
+斑莽蝽	ban mang chun	1
+螌蝥	ban mao	1
+斑面倒吊	ban mian dao diao	1
+半扭法螺	ban niu fa luo	1
+半扭蚶	ban niu han	1
+斑腔海膽	ban qiang hai dan	1
+斑青步甲	ban qing bu jia	3
+瓣胃	ban wei	46
+斑尾林鸽	ban wei lin ge	7
+斑尾鸥	ban wei ou	10
+斑尾羊鯻	ban wei yang la	1
+斑尾咬鹃	ban wei yao juan	2
+斑委夜蛾	ban wei ye e	1
+斑尾蚁鵙	ban wei yi ju	1
+斑纹唇指	ban wen chun zhi	3
+斑甕鳐	ban weng yao	1
+斑哑霸鹟	ban ya ba weng	1
+斑鹰鸮	ban ying xiao	2
+斑鱼狗	ban yu gou	15
+斑跖黑蝇	ban zhi hei ying	1
+棒霉网蛾	bang mei wang e	1
+蚌目	bang mu	16
+棒纹牛蛭	bang wen niu zhi	1
+爆炒地猴	bao chao di hou	1
+豹鲂鮄	bao fang fu	4
+豹鲂鮄目	bao fang fu mu	1
+豹鲂鮄鱼	bao fang fu yu	1
+薄护尾鮠	bao hu wei wei	1
+保洁净	bao jie jing	24
+豹猫守宫	bao mao shou gong	3
+宝山鮰鱼	bao shan hui yu	5
+褒氏贫鱠	bao shi pin kuai	1
+褒氏贫鲈	bao shi pin lu	1
+豹纹刺鮨	bao wen ci yi	1
+薄皱贝	bao zhou bei	2
+孢子虫纲	bao zi chong gang	29
+北碚肯蚖	bei bei ken yuan	1
+北大校猫	bei da xiao mao	36
+背带螉	bei dai weng	3
+贝登挭	bei deng geng	1
+北方鮈鱥	bei fang ju gui	6
+北黄道蟹	bei huang dao xie	1
+北寄贝	bei ji bei	29
+北极燕鸥	bei ji yan ou	324
+鹎鴂	bei jue	1
+鹎科	bei ke	71
+贝林登挭	bei lin deng geng	1
+贝林登更	bei lin deng geng	1
+贝林登梗	bei lin deng geng	1
+贝林顿梗	bei lin dun geng	11
+贝灵顿梗	bei ling dun geng	14
+北美野牛	bei mei ye niu	508
+被囊动物	bei nang dong wu	51
+贝努鸟	bei nu niao	110
+贝诺虫属	bei nuo chong shu	2
+北普度鹿	bei pu du lu	1
+杯四瓣虫	bei si ban chong	1
+杯体虫病	bei ti chong bing	1
+贝韦伦兔	bei wei lun tu	1
+贝希摩斯	bei xi mo si	21
+被遥远地	bei yao yuan de	135
+本登虫病	ben deng chong bing	3
+苯扎氯胺	ben zha lv an	18
+苯扎溴胺	ben zha xiu an	8
+蹦蹦虫	beng beng chong	126
+比阿王鹟	bi a wang weng	1
+俾岛翠鸟	bi dao cui niao	1
+痹短额鲆	bi duan e ping	1
+襞蛤科	bi ge ke	3
+闭户螲蟷	bi hu die dang	1
+闭环缘蝽	bi huan yuan chun	1
+闭壳龟	bi ke gui	41
+闭壳龟属	bi ke gui shu	7
+闭壳肌	bi ke ji	72
+庇隆鳓	bi long le	2
+秘鲁斑	bi lu ban	24
+秘鲁彩鹮	bi lu cai huan	3
+秘鲁副矛	bi lu fu mao	2
+秘鲁角鸮	bi lu jiao xiao	9
+秘鲁鸊鷉	bi lu pi ti	10
+秘鲁石鸻	bi lu shi heng	6
+秘鲁溪鳉	bi lu xi jiang	4
+秘鲁鸺鹠	bi lu xiu liu	7
+秘鲁燕鸥	bi lu yan ou	8
+秘鲁夜猴	bi lu ye hou	7
+匕首鲶	bi shou nian	7
+鵖属	bi shu	1
+臂尾轮虫	bi wei lun chong	4
+碧伟蜒	bi wei yan	1
+鼻吻滴虫	bi wen di chong	1
+躄鱼	bi yu	21
+躄鱼属	bi yu shu	1
+躄鱼亚目	bi yu ya mu	2
+扁鼻强龙	bian bi qiang long	10
+扁担钩	bian dan gou	31
+扁担钩子	bian dan gou zi	9
+扁颅蝠	bian lu fu	9
+边弥尺蛾	bian mi chi e	1
+扁平钳蛤	bian ping qian ge	13
+扁石蝎	bian shi xie	2
+扁头鮡	bian tou zhao	2
+扁尾陆龟	bian wei lu gui	4
+边尾平鮋	bian wei ping you	1
+扁伪石虫	bian wei shi chong	1
+鞭尾蝎	bian wei xie	31
+鞭蝎目	bian xie mu	8
+变形滴虫	bian xing di chong	3
+扁圆吻鮰	bian yuan wen hui	1
+边缘小钩	bian yuan xiao gou	7
+鞭栅蛛	bian zha zhu	1
+扁植盲蝽	bian zhi mang chun	1
+扁鯺鱼龙	bian zhu yu long	1
+表壳虫目	biao ke chong mu	1
+标志化石	biao zhi hua shi	46
+鳖甲暮蝉	bie jia mu chan	1
+繽紛芋螺	bin fen yu luo	1
+并肩棘蝇	bing jian ji ying	3
+丙酸锌	bing suan xin	44
+柏柏尔龙	bo bo er long	2
+波德代	bo de dai	37
+伯德梗	bo de geng	14
+波芬宝螺	bo fen bao luo	1
+波芬寶螺	bo fen bao luo	1
+波黑小鱥	bo hei xiao gui	1
+波雷丕羊	bo lei pi yang	1
+博奇海螺	bo qi hai luo	2
+波士顿挭	bo shi dun geng	5
+波斯黇鹿	bo si tian lu	2
+玻叶浮萤	bo ye fu ying	1
+波殖肥螋	bo zhi fei sou	1
+不老泉鱼	bu lao quan yu	3
+不列颠猫	bu lie dian mao	5
+布鲁鹃鵙	bu lu juan ju	3
+布榠珍象	bu ming zhen xiang	1
+布偶猫	bu ou mao	627
+哺乳浓缩	bu ru nong suo	6
+布氏鰕鳉	bu shi xia jiang	1
+布氏樱鮨	bu shi ying yi	1
+布紋鬘螺	bu wen man luo	1
+不孝鸟	bu xiao niao	14
+菜斑潜蝇	cai ban qian ying	2
+裁缝蚁	cai feng yi	2
+材棺龟	cai guan gui	1
+彩虹錩螺	cai hong chang luo	1
+彩虹洞蛙	cai hong dong wa	1
+彩虹蜂虎	cai hong feng hu	3
+彩虹精灵	cai hong jing ling	195
+彩鹮	cai huan	33
+彩環塔螺	cai huan ta luo	1
+菜潜蝇	cai qian ying	1
+彩条玫瑰	cai tiao mei gui	3
+残齿胫甲	can chi jing jia	1
+参环毛蚓	can huan mao yin	3
+苍叉鼻鲀	cang cha bi tun	1
+苍短鮣	cang duan yin	1
+苍耳虫	cang er chong	14
+苍耳囊虫	cang er nang chong	1
+鸧鶊	cang geng	5
+苍黄芋螺	cang huang yu luo	1
+苍棘花鮨	cang ji hua yi	1
+苍节帽虫	cang jie mao chong	1
+苍南文蛤	cang nan wen ge	2
+苍蝇农场	cang ying nong chang	7
+藏鮡肉	cang zhao rou	1
+苍祝蛾	cang zhu e	1
+槽齿目	cao chi mu	8
+草地褐蝶	cao di he die	1
+糙盖花鮨	cao gai hua yi	1
+草莓蟹	cao mei xie	26
+草席钟螺	cao xi zhong luo	1
+草鞋蚧	cao xie jie	2
+槽形单啮	cao xing dan nie	1
+侧触角螅	ce chu jiao xi	1
+侧颈龟科	ce jing gui ke	7
+侧腔目	ce qiang mu	2
+叉背龙	cha bei long	17
+叉背龙科	cha bei long ke	5
+茶杯猫	cha bei mao	85
+茶杯犬	cha bei quan	53
+茶杯猪	cha bei zhu	44
+茶并盾蚧	cha bing dun jie	1
+茶长白蚧	cha chang bai jie	1
+查岛蛎鹬	cha dao li yu	1
+查岛鸲鹟	cha dao qu weng	1
+查岛夜鹰	cha dao ye ying	1
+茶腹角鸮	cha fu jiao xiao	1
+茶贡尺蛾	cha gong chi e	1
+茶褐伏翼	cha he fu yi	1
+叉花蟹蛛	cha hua xie zhu	1
+茶花芋螺	cha hua yu luo	1
+叉棘	cha ji	66
+叉襀	cha ji	9
+茶吉丁虫	cha ji ding chong	2
+查吉尔	cha ji er	230
+叉棘连鳍	cha ji lian qi	1
+茶菊杜鹃	cha ju du juan	1
+岔路黑猪	cha lu hei zhu	2
+叉泞齿鳉	cha ning chi jiang	1
+茶梢蛾	cha shao e	1
+茶梢尖蛾	cha shao jian e	1
+叉尾卷尾	cha wei juan wei	8
+叉尾鹰鱼	cha wei ying yu	3
+茶肖叶甲	cha xiao ye jia	1
+叉牙指鱼	cha ya zhi yu	2
+茶药鸡	cha yao ji	2
+察隅触啮	cha yu chu nie	1
+产黄青霉	chan huang qing mei	10
+铲逍遥蛛	chan xiao yao zhu	1
+长齿列当	chang chi lie dang	1
+长脚赤蛙	chang jiao chi wa	3
+长角鸡虱	chang jiao ji shi	2
+长脚爷叔	chang jiao ye shu	3
+肠乐宝	chang le bao	27
+长乐灰鹅	chang le hui e	1
+长毛猫	chang mao mao	161
+长毛獴属	chang mao meng shu	1
+长矛笋螺	chang mao sun luo	1
+长毛犀牛	chang mao xi niu	42
+长毛隰蝇	chang mao xi ying	1
+长毛蟹	chang mao xie	89
+长毛蟹蛛	chang mao xie zhu	3
+长沙广安	chang sha guang an	60
+长沙加大	chang sha jia da	43
+长沙深远	chang sha shen yuan	16
+长沙天一	chang sha tian yi	132
+长沙伟业	chang sha wei ye	23
+长沙中大	chang sha zhong da	48
+长身谐鱼	chang shen xie yu	1
+长腿草莺	chang tui cao ying	4
+长尾鞭蝎	chang wei bian xie	3
+长尾鹮	chang wei huan	8
+长尾黄蟌	chang wei huang cong	3
+长尾娇鹟	chang wei jiao weng	1
+长尾林鸮	chang wei lin xiao	3
+长尾龙猫	chang wei long mao	2
+长尾雀	chang wei que	51
+长尾鸮	chang wei xiao	13
+长尾耀鲶	chang wei yao nian	1
+肠胃蝇	chang wei ying	12
+长尾棕蝠	chang wei zong fu	2
+长吻袋貂	chang wen dai diao	15
+长吻锯鲨	chang wen ju sha	17
+长蟱蛛	chang wu zhu	1
+长须小鸮	chang xu xiao xiao	3
+长须鰋	chang xu yan	1
+长足摇蚊	chang zu yao wen	1
+超鞭毛目	chao bian mao mu	1
+炒茺蔚子	chao chong wei zi	1
+炒黄柏	chao huang bai	32
+炒没药	chao mo yao	4
+炒牵牛子	chao qian niu zi	6
+潮汕赤蟹	chao shan chi xie	3
+炒山桅	chao shan wei	1
+炒桅子	chao wei zi	6
+潮汐龙	chao xi long	22
+潮汐龙属	chao xi long shu	3
+超远程鸽	chao yuan cheng ge	4
+巢缘花蝇	chao yuan hua ying	1
+车轮虫	che lun chong	64
+车轮虫病	che lun chong bing	12
+车前灯蛾	che qian deng e	1
+蛼軥	che qu	9
+郴州良强	chen zhou liang qiang	3
+橙澳鵖	cheng ao bi	1
+橙斑鳢	cheng ban li	3
+橙杯珊瑚	cheng bei shan hu	1
+橙翅噪鹛	cheng chi zao mei	5
+橙腹叶鹎	cheng fu ye bei	14
+橙瓢虫	cheng piao chong	19
+呈签	cheng qian	145
+橙胸彩鹀	cheng xiong cai wu	2
+蛏螠	cheng yi	7
+赤鲍	chi bao	34
+赤鼻稜鯷	chi bi leng ti	1
+赤潮生物	chi chao sheng wu	67
+赤顶粉蝶	chi ding fen die	1
+赤顶果鸠	chi ding guo jiu	3
+赤顶娇鹟	chi ding jiao weng	1
+赤豆螺	chi dou luo	15
+赤方红萤	chi fang hong ying	1
+赤豿	chi gou	9
+吃骨虫	chi gu chong	2
+赤古藏獒	chi gu zang ao	1
+池龟	chi gui	25
+赤鸡鹑	chi ji chun	3
+持棘蝇	chi ji ying	2
+赤颊黄鼠	chi jia huang shu	3
+赤脚鬼蛛	chi jiao gui zhu	4
+赤颈	chi jing	1086
+赤颈鸫	chi jing dong	24
+赤颈鸊鷉	chi jing pi ti	1
+吃猫鼠	chi mao shu	25
+齿偶舟蛾	chi ou zhou e	1
+赤犬吻蝠	chi quan wen fu	1
+赤鱬	chi ru	282
+齿突猫萤	chi tu mao ying	1
+赤尾胃蝇	chi wei wei ying	1
+齿形海萤	chi xing hai ying	1
+赤眼蜂	chi yan feng	257
+赤螘	chi yi	17
+赤鯮鱼	chi zong yu	26
+崇安地蜥	chong an di xi	1
+虫动物门	chong dong wu men	4
+重复进化	chong fu jin hua	467
+虫媒传染	chong mei chuan ran	16
+虫霉科	chong mei ke	4
+虫霉目	chong mei mu	4
+宠物公墓	chong wu gong mu	64
+宠物饰品	chong wu shi pin	126
+臭水螌	chou shui ban	1
+臭蚁亚科	chou yi ya ke	3
+除虫精	chu chong jing	34
+初次应答	chu ci ying da	532
+楚德白鲑	chu de bai gui	2
+触角簑鮋	chu jiao suo you	1
+触角簑鲉	chu jiao suo you	1
+川地禾蝇	chuan di he ying	1
+川纹笛鲷	chuan wen di diao	1
+船長芋螺	chuan zhang yu luo	1
+窗翅钩蛾	chuang chi gou e	1
+吹号鸽	chui hao ge	2
+垂缨蝶蝠	chui ying die fu	1
+唇达摩鲨	chun da mo sha	1
+唇鮕	chun gu	4
+鹑维达鸟	chun wei da niao	1
+唇英虫	chun ying chong	2
+雌白黄蝶	ci bai huang die	2
+蠀螬	ci cao	2
+刺短拳螺	ci duan quan luo	1
+刺盖塘鱧	ci gai tang li	1
+刺盖鱼科	ci gai yu ke	5
+次海蛳螺	ci hai si luo	1
+刺加半鲿	ci jia ban chang	1
+次金棘蝇	ci jin ji ying	1
+刺佬儿	ci lao er	2
+刺毛壳蟹	ci mao ke xie	3
+刺猫爪蛤	ci mao zhao ge	2
+刺欧鳊	ci ou bian	4
+刺参	ci shen	364
+刺参科	ci shen ke	10
+刺条露螽	ci tiao lu zhong	1
+刺繡筆螺	ci xiu bi luo	1
+刺耀鲶	ci yao nian	1
+螆蛦	ci yi	25
+刺圆顶蟹	ci yuan ding xie	1
+葱斑潜蝇	cong ban qian ying	2
+葱地种蝇	cong di zhong ying	1
+丛猴	cong hou	18
+葱蓟马	cong ji ma	1
+蟌科	cong ke	12
+丛林八哥	cong lin ba ge	7
+丛林齁	cong lin hou	4
+葱潜叶蝇	cong qian ye ying	1
+粗斑筆螺	cu ban bi luo	1
+粗糙澳虎	cu cao ao hu	1
+粗糙滨螺	cu cao bin luo	2
+粗齒鶉螺	cu chi chun luo	1
+簇虫亚纲	cu chong ya gang	1
+粗唇鮠	cu chun wei	3
+粗刺刺萤	cu ci ci ying	1
+粗雕裂螺	cu diao lie luo	1
+粗寡须鳚	cu gua xu wei	1
+粗灰蜻	cu hui qing	2
+粗棘鼻鱼	cu ji bi yu	4
+粗脊天牛	cu ji tian niu	6
+粗脚粉螨	cu jiao fen man	1
+粗颈龟	cu jing gui	17
+粗尾婴猴	cu wei ying hou	6
+粗文九孔	cu wen jiu kong	1
+粗纹马鰏	cu wen ma bi	1
+醋香附	cu xiang fu	4
+翠鴗科	cui li ke	3
+銼紋鶉螺	cuo wen chun luo	1
+大斑几维	da ban ji wei	13
+大斑啄木	da ban zhuo mu	25
+大鼻大鮈	da bi da ju	1
+大避债蛾	da bi zhai e	1
+大草鞋虫	da cao xie chong	2
+大长尾鼩	da chang wei qu	1
+大骨顶	da gu ding	12
+大骨鸡	da gu ji	27
+大鼓鸡	da gu ji	7
+大河蚌	da he bang	29
+大红娘华	da hong niang hua	2
+大胡子雕	da hu zi diao	16
+大脚窜鸟	da jiao cuan niao	1
+大角驴羚	da jiao lv ling	1
+大金香炉	da jin xiang lu	137
+大胫刺蝗	da jing ci huang	1
+大鵙霸鹟	da ju ba weng	1
+大鮈鱥	da ju gui	3
+大楷筆螺	da kai bi luo	1
+大鵟	da kuang	22
+大鳞巢旅	da lin chao lv	1
+大林姬鼠	da lin ji shu	8
+大陆鲨	da lu sha	25
+大麻花蚤	da ma hua zao	2
+達麻渦螺	da ma wo luo	1
+大盲蛇属	da mang she shu	1
+大梅格	da mei ge	10
+达摩毒鮋	da mo du you	1
+大目狗母	da mu gou mu	1
+大暮蜥属	da mu xi shu	1
+大盘短鮣	da pan duan yin	1
+大盆步甲	da pen bu jia	1
+大鸊鷉	da pi ti	3
+大瓶螺	da ping luo	6
+大鳍鱯	da qi hu	3
+大缺齿鼹	da que chi yan	1
+大鵀羽毛	da ren yu mao	1
+大头糯鳗	da tou nuo man	1
+大尾澳虎	da wei ao hu	3
+大伪瓢虫	da wei piao chong	2
+大围子猪	da wei zi zhu	2
+大翁柯虫	da weng ke chong	1
+大兀鹰	da wu ying	8
+大溪地蝶	da xi di die	2
+大夏巨龙	da xia ju long	24
+大眼古蚖	da yan gu yuan	1
+大野牛	da ye niu	34
+大冶早强	da ye zao qiang	1
+大猿叶甲	da yuan ye jia	1
+大约克猪	da yue ke zhu	13
+大窄尾魟	da zhai wei hong	1
+大展粉蝶	da zhan fen die	2
+大指爪	da zhi zhao	19
+带鰆科	dai chun ke	1
+玳玳花	dai dai hua	4
+戴菊科	dai ju ke	18
+戴笠鸽	dai li ge	1
+瑇瑁	dai mao	35
+戴帽叶猴	dai mao ye hou	2
+呆绶贝	dai shou bei	1
+带绦虫属	dai tao chong shu	1
+蛋氨酸锌	dan an suan xin	3
+单环刺螠	dan huan ci yi	5
+蛋黃寶螺	dan huang bao luo	1
+单棘躄鱼	dan ji bi yu	5
+单角鼻鱼	dan jiao bi yu	3
+单角革鲀	dan jiao ge tun	3
+淡绿弄蝶	dan lv nong die	2
+淡色杜鹃	dan se du juan	6
+单条植蝇	dan tiao zhi ying	1
+单尾目	dan wei mu	8
+单一芦蜂	dan yi lu feng	1
+单栅笔石	dan zha bi shi	1
+单殖亚纲	dan zhi ya gang	14
+淡钟杜鹃	dan zhong du juan	1
+淡紫粉蝶	dan zi fen die	2
+导盲犬	dao mang quan	167
+稻弄蝶	dao nong die	5
+道氏蝇蝠	dao shi ying fu	1
+岛螣	dao te	2
+德拜鹦鹉	de bai ying wu	3
+德班宝螺	de ban bao luo	1
+德保矮马	de bao ai ma	25
+德比贝	de bi bei	17
+德昌水牛	de chang shui niu	4
+德粉蝶	de fen die	3
+德根野鲮	de gen ye ling	1
+德国黄牛	de guo huang niu	22
+德国灰犬	de guo hui quan	7
+德国猎梗	de guo lie geng	14
+德国犬	de guo quan	93
+德国小蠊	de guo xiao lian	104
+德宏水牛	de hong shui niu	7
+德久艾蛛	de jiu ai zhu	1
+德钦雏蝗	de qin chu huang	1
+德氏小	de shi xiao	22
+德粘夜蛾	de zhan ye e	1
+灯白樱蛤	deng bai ying ge	1
+等边浅蛤	deng bian qian ge	1
+等称虫属	deng cheng chong shu	2
+等翅目	deng chi mu	439
+灯蛾	deng e	689
+灯蛾毛虫	deng e mao chong	2
+等列层	deng lie ceng	21
+等钳蠊螨	deng qian lian man	1
+灯芯草雀	deng xin cao que	3
+狄安娜猴	di an na hou	1
+地邦	di bang	203
+地必虫	di bi chong	2
+敌草隆	di cao long	8
+邸裳夜蛾	di chang ye e	1
+地丛鹟	di cong weng	1
+狄达缘蝽	di da yuan chun	1
+敌蛾	di e	3
+敌蛾科	di e ke	1
+地瓜鱼	di gua yu	44
+睇暮眼蝶	di mu yan die	1
+地图宝螺	di tu bao luo	1
+帝王伟蜓	di wang wei ting	1
+迪威詹森	di wei zhan sen	1
+地犀鸟	di xi niao	12
+地犀鸟属	di xi niao shu	1
+地下家蚊	di xia jia wen	1
+地蟹科	di xie ke	6
+第一触角	di yi chu jiao	343
+第一小颚	di yi xiao e	44
+鸐雉	di zhi	5
+地中海鸥	di zhong hai ou	87
+地中海钳	di zhong hai qian	163
+电刀鱼	dian dao yu	4
+滇华鲮	dian hua ling	1
+滇鳾	dian shi	3
+点眼丛	dian yan cong	2
+蛁蟟	diao liao	103
+鵰雀鲷	diao que diao	1
+螲蟷科	die dang ke	3
+丁鱥	ding gui	10
+丁加齿鱵	ding jia chi zhen	1
+顶孔沙钱	ding kong sha qian	1
+定远黑猪	ding yuan hei zhu	21
+定远梅鱼	ding yuan mei yu	1
+定远猪	ding yuan zhu	17
+东德德牧	dong de de mu	3
+东方莹虾	dong fang ying xia	1
+鮗科	dong ke	31
+洞鲈盲鮰	dong lu mang hui	1
+冬芒狸	dong mang li	1
+东欧田鼠	dong ou tian shu	3
+东坡墨鱼	dong po mo yu	50
+东台鮈	dong tai ju	4
+动物克隆	dong wu ke long	124
+东亚江豚	dong ya jiang tun	13
+动殖科	dong zhi ke	4
+峒中矮鸡	dong zhong ai ji	1
+豆点宝螺	dou dian bao luo	1
+豆粉蝶属	dou fen die shu	1
+斗毛眼蝶	dou mao yan die	1
+斗牛獒犬	dou niu ao quan	4
+斗牛拳师	dou niu quan shi	2
+斗牛犬蚁	dou niu quan yi	3
+豆肾形虫	dou shen xing chong	1
+豆纹尺蛾	dou wen chi e	1
+豆眼白	dou yan bai	15
+窦舟蛾	dou zhou e	1
+杜宾犬	du bin quan	647
+度宾犬	du bin quan	1
+杜伯文犬	du bo wen quan	1
+独裁巨蝎	du cai ju xie	1
+杜尔基犬	du er ji quan	2
+毒饵站	du er zhan	4
+杜肥螋	du fei sou	1
+杜父拟鮋	du fu ni you	1
+独睾科	du gao ke	1
+杜高犬	du gao quan	235
+独孤科	du gu ke	24
+独角古蝇	du jiao gu ying	2
+独角犀牛	du jiao xi niu	349
+独居动物	du ju dong wu	233
+独居蜂	du ju feng	15
+杜鹃花叶	du juan hua ye	42
+杜鹃蓟马	du juan ji ma	1
+杜鹃网蝽	du juan wang chun	1
+毒獴	du meng	17
+杜泊绵羊	du po mian yang	12
+杜泊羊	du po yang	83
+杜瑞尔獴	du rui er meng	1
+独一指虫	du yi zhi chong	1
+蠹幼室迹	du you shi ji	1
+断斑石鲈	duan ban shi lu	1
+短臂短鮣	duan bi duan yin	1
+断笔石	duan bi shi	18
+段步甲	duan bu jia	2
+短带鰆	duan dai chun	1
+短腹拟鮃	duan fu ni ping	1
+短腹幽蟌	duan fu you cong	1
+短盖野鲮	duan gai ye ling	1
+煅龙牡	duan long mu	2
+短毛家猫	duan mao jia mao	7
+短锚首虫	duan mao shou chong	1
+短毛细犬	duan mao xi quan	6
+端纽虫	duan niu chong	3
+短体北鳅	duan ti bei qiu	1
+短体副鳅	duan ti fu qiu	1
+短椭龟甲	duan tuo gui jia	1
+短尾翠鴗	duan wei cui li	1
+短尾鱥	duan wei gui	7
+短尾鴗科	duan wei li ke	1
+短尾猫	duan wei mao	491
+短尾雀鹰	duan wei que ying	15
+短尾鮠	duan wei wei	8
+短尾小鲈	duan wei xiao lu	2
+短尾猿	duan wei yuan	95
+短尾贼鸥	duan wei zei ou	11
+短吻黑鮡	duan wen hei zhao	2
+短吻鱼畐	duan wen yu fu	1
+短须鱼芒	duan xu yu mang	1
+短圆荚萤	duan yuan jia ying	1
+短指唇指	duan zhi chun zhi	2
+对笔石	dui bi shi	15
+对笔石属	dui bi shi shu	4
+对称拟蚶	dui chen ni han	1
+对齿兽目	dui chi shou mu	13
+对菊石	dui ju shi	41
+对巨蟹蛛	dui ju xie zhu	4
+对转子	dui zhuan zi	407
+钝鼻半鲹	dun bi ban shen	1
+楯齿龙类	dun chi long lei	2
+楯齿龙目	dun chi long mu	2
+楯齿属	dun chi shu	1
+钝翅苇莺	dun chi wei ying	1
+钝刺血蜱	dun ci xue pi	1
+钝额玉蟹	dun e yu xie	1
+钝腹鲱	dun fu fei	2
+吨煤耗	dun mei hao	17
+楯魮	dun pi	1
+钝头鮠科	dun tou wei ke	1
+楯形目	dun xing mu	8
+楯月蝶鱼	dun yue die yu	1
+楯状小鲈	dun zhuang xiao lu	1
+多宝鱼	duo bao yu	197
+多变鲍	duo bian bao	5
+多变花楸	duo bian hua qiu	6
+多伯曼犬	duo bo man quan	7
+多唇虫属	duo chun chong shu	3
+多刺斧螳	duo ci fu tang	7
+多刺蔷蝗	duo ci qiang huang	1
+多棘拟毛	duo ji ni mao	7
+多棘鳂	duo ji wei	7
+多棘芋螺	duo ji yu luo	9
+多睛鳐	duo jing yao	16
+多疣棘蛙	duo you ji wa	9
+多指鮗	duo zhi dong	24
+多中贝	duo zhong bei	20
+婀白灰蝶	e bai hui die	1
+鄂蚕四号	e can si hao	1
+萼洞叶蛛	e dong ye zhu	1
+额颊沟	e jia gou	4
+峨眉芦蜂	e mei lu feng	1
+峨眉鱊	e mei yu	1
+鄂托克鸟	e tuo ke niao	2
+鹗蟹守螺	e xie shou luo	1
+二氯年前	er lv nian qian	7
+儿脾醒	er pi xing	1
+二嗪农	er qin nong	127
+二尾舟蛾	er wei zhou e	2
+二硝托胺	er xiao tuo an	15
+二溴海因	er xiu hai yin	100
+耳夜鹰科	er ye ying ke	1
+法落海	fa luo hai	8
+泛奥盲蝽	fan ao mang chun	1
+泛农花猪	fan nong hua zhu	1
+反奇棘鱼	fan qi ji yu	3
+繁星鮃	fan xing ping	1
+反嘴鸻科	fan zui heng ke	1
+反嘴鹬科	fan zui yu ke	5
+仿奼刺蛾	fang cha ci e	1
+仿姹刺蛾	fang cha ci e	1
+纺锤笔螺	fang chui bi luo	1
+纺锤鮈鱥	fang chui ju gui	1
+纺锤鰤	fang chui shi	1
+仿刺参	fang ci shen	141
+仿涤尺蛾	fang di chi e	1
+鲂鮄科	fang fu ke	3
+仿鲸科	fang jing ke	4
+仿巨尾魟	fang ju wei hong	1
+鰟鮍	fang pi	56
+方水母目	fang shui mu mu	1
+方尾鶲	fang wei weng	1
+方尾鹟	fang wei weng	1
+放线壳贝	fang xian ke bei	1
+防御行为	fang yu xing wei	811
+菲比霸鹟	fei bi ba weng	1
+非玻灯蛾	fei bo deng e	1
+费城锯鮨	fei cheng ju yi	1
+非纯种猫	fei chun zhong mao	4
+翡翠海葵	fei cui hai kui	5
+飞刀鱼	fei dao yu	11
+绯红澳鵖	fei hong ao bi	1
+绯红鸲鹟	fei hong qu weng	1
+斐济海螺	fei ji hai luo	3
+斐济灰鹟	fei ji hui weng	1
+菲济角鮃	fei ji jiao ping	1
+菲勒灯鳉	fei le deng jiang	1
+鲱形白鲑	fei xing bai gui	1
+肺形草	fei xing cao	9
+飞行狐猴	fei xing hu hou	12
+非需精卵	fei xu jing luan	1
+非洲獴	fei zhou meng	92
+非洲野驴	fei zhou ye lv	124
+非洲野猫	fei zhou ye mao	180
+非洲野犬	fei zhou ye quan	167
+非洲侏鳄	fei zhou zhu e	2
+粉白龙猫	fen bai long mao	2
+粉斑丛鵙	fen ban cong ju	1
+粉斑夜蛾	fen ban ye e	4
+分叉鱥	fen cha gui	13
+粉尘螨	fen chen man	87
+粉翠夜蛾	fen cui ye e	1
+粉点虾虎	fen dian xia hu	1
+粉吊鱼	fen diao yu	1
+粉蝶灯蛾	fen die deng e	1
+粉蝶敌蛾	fen die di e	1
+粉蝶亚科	fen die ya ke	7
+粉额蜻蜓	fen e qing ting	2
+分蜂	fen feng	1083
+粉蜂虎	fen feng hu	2
+粉腹彩鹀	fen fu cai wu	3
+分隔马	fen ge ma	88
+粉紅玉螺	fen hong yu luo	1
+汾湖蟹	fen hu xie	5
+芬兰驯鹿	fen lan xun lu	56
+分歧焦虫	fen qi jiao chong	1
+芬氏鵖	fen shi bi	1
+分线经营	fen xian jing ying	19
+粉胸斑鸠	fen xiong ban jiu	1
+蜂巢螟	feng chao ming	5
+蜂巢螟蛾	feng chao ming e	4
+丰城灰鹅	feng cheng hui e	2
+蜂春鹿蛾	feng chun lu e	1
+缝感觉器	feng gan jue qi	1
+蜂海龙	feng hai long	11
+蜂虎	feng hu	256
+蜂虎科	feng hu ke	51
+风景榧螺	feng jing fei luo	1
+凤头苍鹰	feng tou cang ying	8
+凤头鸊鷉	feng tou pi ti	3
+凤头鹰	feng tou ying	101
+封印木属	feng yin mu shu	3
+蝜蝂	fu ban	454
+浮標筍螺	fu biao sun luo	1
+腐草为萤	fu cao wei ying	158
+伏地魔猫	fu di mo mao	8
+副海鲂科	fu hai fang ke	1
+副芦木属	fu lu mu shu	1
+副磨齿兽	fu mo chi shou	1
+富墓蝠	fu mu fu	1
+腹鳃蟌科	fu sai cong ke	1
+辐射对称	fu she dui chen	102
+弗氏纽蛛	fu shi niu zhu	3
+覆瓦牡蛎	fu wa mu li	1
+腹伪叶甲	fu wei ye jia	1
+副文昌鱼	fu wen chang yu	1
+辐纹簑鮋	fu wen suo you	1
+孵溪蟾	fu xi chan	2
+斧形虫科	fu xing chong ke	2
+斧形盖蚤	fu xing gai zao	1
+鮄形野鲮	fu xing ye ling	1
+浮叶植物	fu ye zhi wu	48
+符禺山	fu yu shan	2
+福泽泻	fu ze xie	31
+跗跖骨	fu zhi gu	3
+伽果	ga guo	33
+伽喃香	ga nan xiang	1
+魀猿	ga yuan	1
+盖草隆	gai cao long	5
+盖刺鱼科	gai ci yu ke	3
+盖加鹦哥	gai jia ying ge	1
+盖缘水母	gai yuan shui mu	1
+柑桔格蝽	gan ju ge chun	1
+感觉管	gan jue guan	272
+橄榄笔螺	gan lan bi luo	1
+橄榄核螺	gan lan he luo	4
+甘肃棘蝇	gan su ji ying	2
+甘肃羊茅	gan su yang mao	16
+冈村虫鳗	gang cun chong man	1
+钢鹅	gang e	58
+钢钢巴丹	gang gang ba dan	1
+刚果燕	gang guo yan	82
+刚果野鲮	gang guo ye ling	11
+刚果野牛	gang guo ye niu	41
+刚果蚁鵖	gang guo yi bi	2
+高本缨鮃	gao ben ying ping	1
+高貴蛙螺	gao gui wa luo	1
+高亨宝螺	gao heng bao luo	1
+高髻冠	gao ji guan	2
+高鲁野鲮	gao lu ye ling	1
+糕模虫属	gao mo chong shu	1
+高膜刺鱥	gao mo ci gui	1
+高体鳑鮍	gao ti pang pi	1
+高位奖	gao wei jiang	173
+缟椰子猫	gao ye zi mao	1
+高原翠鴗	gao yuan cui li	2
+歌带鹀属	ge dai wu shu	1
+葛丰化工	ge feng hua gong	1
+鮯鮯鱼	ge ge yu	4
+革狗母鱼	ge gou mu yu	1
+蛤蚧守宫	ge jie shou gong	8
+哥隆约龙	ge long yue long	1
+葛氏斑鹿	ge shi ban lu	1
+戈氏岩鹀	ge shi yan wu	1
+格纹岛鯻	ge wen dao la	1
+歌鹀属	ge wu shu	1
+戈耶特犬	ge ye te quan	2
+蛤仔壳	ge zai ke	6
+更格卢鼠	geng ge lu shu	1
+更犬种	geng quan zhong	11
+弓对臂虫	gong dui bi chong	1
+公牛真鲨	gong niu zhen sha	2
+狗肝菜属	gou gan cai shu	2
+沟襀毛蚊	gou ji mao wen	1
+沟轮毛虫	gou lun mao chong	1
+狗母鱼属	gou mu yu shu	2
+狗绦虫	gou tao chong	9
+狗摇尾巴	gou yao wei ba	92
+狗仔鲸	gou zai jing	4
+沟智兔蛤	gou zhi tu ge	1
+古巴彩龟	gu ba cai gui	6
+古巴蜂虎	gu ba feng hu	2
+古巴角鸮	gu ba jiao xiao	4
+古巴蓝蝎	gu ba lan xie	3
+古巴青鯥	gu ba qing lu	1
+古巴泉鳉	gu ba quan jiang	1
+古巴小鳀	gu ba xiao ti	3
+古巴鸺鹠	gu ba xiu liu	5
+古巴鸦	gu ba ya	13
+古巴咬鹃	gu ba yao juan	1
+古巴夜鹰	gu ba ye ying	6
+古巴鹰	gu ba ying	100
+古巴鹦哥	gu ba ying ge	2
+谷斑皮囊	gu ban pi nang	1
+古杯	gu bei	254
+古杯动物	gu bei dong wu	3
+古北蝗蝇	gu bei huang ying	1
+古长颈鹿	gu chang jing lu	7
+古长须鲨	gu chang xu sha	1
+古齿龙	gu chi long	15
+古虫	gu chong	223
+骨唇鱼	gu chun yu	10
+古大狐猴	gu da hu hou	1
+古盗鸟	gu dao niao	3
+古德宝螺	gu de bao luo	1
+古典芋螺	gu dian yu luo	1
+古董核螺	gu dong he luo	1
+鼓肚辫虫	gu du bian chong	1
+古发蛾科	gu fa e ke	1
+古纺锤	gu fang chui	4
+古风野牛	gu feng ye niu	3
+鼓腹咝蝰	gu fu si kui	3
+孤鸽	gu ge	706
+古河狸	gu he li	18
+骨黄涯	gu huang ya	1
+古灰鲸	gu hui jing	3
+鼓甲	gu jia	26
+骨甲亚纲	gu jia ya gang	2
+骨叫姑鱼	gu jiao gu yu	1
+古角龙	gu jiao long	18
+古脚亚目	gu jiao ya mu	4
+古介形纲	gu jie xing gang	1
+古鲸亚目	gu jing ya mu	3
+古巨猪	gu ju zhu	7
+古卷叶蛛	gu juan ye zhu	1
+鼓六枪虫	gu liu qiang chong	1
+古魔翼龙	gu mo yi long	1
+古偶蹄兽	gu ou ti shou	1
+古软壳龟	gu ruan ke gui	1
+顾氏肖蛸	gu shi xiao shao	1
+古溪鹿	gu xi lu	2
+古源棘蝇	gu yuan ji ying	1
+古藻迹	gu zao ji	2
+谷粘虫	gu zhan chong	1
+古中华虎	gu zhong hua hu	4
+刮杜父鱼	gua du fu yu	1
+挂墩角蟾	gua dun jiao chan	1
+瓜绢野螟	gua juan ye ming	1
+寡鳞飞鱼	gua lin fei yu	5
+寡鳞鱊	gua lin yu	4
+寡毛虫	gua mao chong	10
+瓜委闪蝶	gua wei shan die	1
+瓜萎闪蝶	gua wei shan die	1
+瓜小实蝇	gua xiao shi ying	1
+寡行步甲	gua xing bu jia	1
+瓜仔鱲	gua zai lie	1
+怪肥腹蛛	guai fei fu zhu	1
+关岛小鮋	guan dao xiao you	1
+关岛小鲉	guan dao xiao you	1
+关睾虫属	guan gao chong shu	1
+关公蟹	guan gong xie	7
+关公蟹属	guan gong xie shu	1
+冠鹤	guan he	222
+冠林鵙鹟	guan lin ju weng	1
+冠瘤祝蛾	guan liu zhu e	1
+冠毛犬	guan mao quan	25
+灌木牛	guan mu niu	17
+冠拳螺	guan quan luo	1
+管尾蜗牛	guan wei wo niu	2
+冠兀鹫	guan wu jiu	4
+关爷脸杏	guan ye lian xing	1
+鳤鱼	guan yu	111
+广川山蛭	guang chuan shan zhi	1
+光唇弓鱼	guang chun gong yu	5
+光唇蛇鮈	guang chun she ju	3
+光唇鱼	guang chun yu	252
+广东棘蝇	guang dong ji ying	5
+广东鳐	guang dong yao	29
+广东芋参	guang dong yu shen	4
+广腹蜻蜓	guang fu qing ting	7
+广斧螳	guang fu tang	20
+广斧螳螂	guang fu tang lang	3
+光華鬘螺	guang hua man luo	1
+广露螽	guang lu zhong	2
+光芒豆蛏	guang mang dou cheng	1
+光怒茧蜂	guang nu jian feng	1
+广西副鱊	guang xi fu yu	1
+广西蟱蛛	guang xi wu zhu	2
+光耀左鲆	guang yao zuo ping	1
+光缘蝽	guang yuan chun	1
+瑰宝龙	gui bao long	18
+貴妃芋螺	gui fei yu luo	1
+龟橄榄虫	gui gan lan chong	1
+硅化作用	gui hua zuo yong	179
+归还米虾	gui huan mi xia	2
+龟壳花蛇	gui ke hua she	1
+鬼面关刀	gui mian guan dao	2
+鱥属	gui shu	1
+龟纹瓢虫	gui wen piao chong	5
+龟形花蜱	gui xing hua pi	1
+蜾臝	guo luo	9
+果梢斑螟	guo shao ban ming	1
+果台螨	guo tai man	1
+国裔鹍	guo yi kun	1
+蜾赢蜚属	guo ying fei shu	1
+蜾赢科	guo ying ke	3
+哈奇公	ha qi gong	33
+海刺参	hai ci shen	13
+海膽	hai dan	35
+海地岛鼠	hai di dao shu	1
+海角雕鸮	hai jiao diao xiao	2
+海角鹡鸰	hai jiao ji ling	2
+海角蜜蜂	hai jiao mi feng	3
+海菊蛤	hai ju ge	34
+海菊蛤科	hai ju ge ke	5
+海蛎黄	hai li huang	6
+海鲢超目	hai lian chao mu	1
+海鹿科	hai lu ke	13
+海南八哥	hai nan ba ge	53
+海南似鱎	hai nan si jiao	1
+海牛目	hai niu mu	26
+海诺龙	hai nuo long	18
+海鸥蛤	hai ou ge	18
+海盘囊纲	hai pan nang gang	1
+海蒲团纲	hai pu tuan gang	1
+海鞘个员	hai qiao ge yuan	1
+海獅螺	hai shi luo	1
+海滩养殖	hai tan yang zhi	24
+海兔宝螺	hai tu bao luo	1
+海豚超科	hai tun chao ke	1
+海峽骨螺	hai xia gu luo	1
+海蝎子	hai xie zi	43
+海鱮	hai xu	15
+海鹞鱼胆	hai yao yu dan	1
+海萤	hai ying	293
+海藻墙	hai zao qiang	36
+寒号虫	han hao chong	336
+汉氏稜鯷	han shi leng ti	1
+含笑花醇	han xiao hua chun	2
+憨蝇霸鹟	han ying ba weng	1
+韩子卢	han zi lu	75
+秏鸡猫儿	hao ji mao er	1
+褐霸鹟	he ba weng	2
+褐斑带蛾	he ban dai e	1
+褐斑革鯻	he ban ge la	2
+褐斑猫鲨	he ban mao sha	7
+褐斑筍螺	he ban sun luo	1
+褐斑围啮	he ban wei nie	2
+褐斑舟蛾	he ban zhou e	3
+河北宠物	he bei chong wu	174
+褐背地鸦	he bei di ya	15
+褐背鸫	he bei dong	15
+褐背蝠鱝	he bei fu fen	1
+褐背露斯	he bei lu si	1
+褐背鹊鵙	he bei que ju	1
+褐背鹟鵙	he bei weng ju	1
+河北细犬	he bei xi quan	28
+褐背啸鹟	he bei xiao weng	5
+褐背小鹟	he bei xiao weng	3
+褐背鹦哥	he bei ying ge	8
+河边杜鹃	he bian du juan	40
+褐扁颅蝠	he bian lu fu	1
+褐长脚蜂	he chang jiao feng	4
+合成韦林	he cheng wei lin	6
+褐翅椿象	he chi chun xiang	2
+褐翅雀	he chi que	15
+褐翅燕鸥	he chi yan ou	12
+褐翅叶蝉	he chi ye chan	9
+河虫	he chong	169
+褐刺蛾	he ci e	5
+河村芋螺	he cun yu luo	1
+褐大头蚁	he da tou yi	1
+河刀鱼	he dao yu	58
+赫蒂鮈	he di ju	1
+褐点副鱥	he dian fu gui	1
+褐吊叶蛛	he diao ye zhu	1
+褐顶斑鸻	he ding ban heng	1
+褐顶莺雀	he ding ying que	2
+褐端棘蝇	he duan ji ying	1
+褐耳雀鹰	he er que ying	4
+褐耳鹰	he er ying	19
+褐粉虫	he fen chong	6
+褐粉蠹	he fen du	3
+何芬奇	he fen qi	24
+褐副鳞鲀	he fu lin tun	2
+褐副盲鳗	he fu mang man	1
+禾杆鲤	he gan li	1
+褐高眉鳝	he gao mei shan	1
+褐狗母	he gou mu	3
+褐狗母鱼	he gou mu yu	1
+褐股棘蝇	he gu ji ying	1
+河谷藏鸡	he gu zang ji	5
+褐冠鹦哥	he guan ying ge	2
+褐光尾鲨	he guang wei sha	1
+褐海蠋鱼	he hai zhu yu	1
+褐黄毒蛾	he huang du e	4
+翯黄毒蛾	he huang du e	1
+褐黄锹甲	he huang qiao jia	2
+褐棘螺	he ji luo	2
+褐基蜻蜓	he ji qing ting	1
+褐几维	he ji wei	5
+褐几维鸟	he ji wei niao	7
+褐家蛾	he jia e	2
+褐肩鹰	he jian ying	12
+褐金棘蝇	he jin ji ying	1
+褐九棘鲈	he jiu ji lu	1
+褐锯翅燕	he ju chi yan	1
+褐盔蜡蚧	he kui la jie	1
+褐眉眼蝶	he mei yan die	1
+和尚峨螺	he shang e luo	2
+褐駝海膽	he tuo hai dan	1
+合胃蚓属	he wei yin shu	1
+褐斜鲽	he xie die	1
+褐斜缘螽	he xie yuan zhong	1
+颌须鮈	he xu ju	2
+何耶龙	he ye long	8
+荷叶陆龟	he ye lu gui	4
+褐叶圆蚧	he ye yuan jie	2
+河源龙	he yuan long	292
+鹤鱵	he zhen	49
+黑白魔	hei bai mo	159
+黑翅鹟鵙	hei chi weng ju	1
+黑粗尾蝎	hei cu wei xie	1
+黑点倒吊	hei dian dao diao	3
+黑点豆娘	hei dian dou niang	1
+黑点副鱥	hei dian fu gui	1
+黑端榕蛾	hei duan rong e	1
+黑腹胃蝇	hei fu wei ying	2
+黑海腔鲈	hei hai qiang lu	2
+黑褐硬蠊	hei he ying lian	1
+黑红小丑	hei hong xiao chou	34
+黑喉漠鹀	hei hou mo wu	3
+黑喉鸊鷉	hei hou pi ti	1
+黑喉潜鸟	hei hou qian niao	10
+黑喉雀鹀	hei hou que wu	2
+黑喉石	hei hou shi	34
+黑喉石鵖	hei hou shi bi	2
+黑喉小	hei hou xiao	51
+黑喉鸦雀	hei hou ya que	3
+黑后夜蛾	hei hou ye e	2
+黑喉蚁鵙	hei hou yi ju	1
+黑颊簑鮋	hei jia suo you	1
+黑鮶鱼	hei jun yu	8
+黑黎鸡	hei li ji	4
+黑帽悬猴	hei mao xuan hou	1
+黑帽鹦哥	hei mao ying ge	2
+黑眉天牛	hei mei tian niu	5
+黑眉苇莺	hei mei wei ying	4
+黑奴芋螺	hei nu yu luo	1
+黑漂	hei piao	190
+黑日光灯	hei ri guang deng	7
+黑乳海参	hei ru hai shen	3
+黑守瓜	hei shou gua	2
+黑黇鹿	hei tian lu	1
+黑苇鳽	hei wei jian	2
+黑尾牛羚	hei wei niu ling	4
+黑尾啸鹟	hei wei xiao weng	4
+黑尾叶蝉	hei wei ye chan	17
+黑尾鱵	hei wei zhen	3
+黑膝棘蝇	hei xi ji ying	1
+黑膝剑螽	hei xi jian zhong	1
+黑犀牛	hei xi niu	425
+黑楔角蝉	hei xie jiao chan	1
+黑星笛鲷	hei xing di diao	1
+黑星挵蝶	hei xing nong die	1
+黑胸霸鹟	hei xiong ba weng	6
+黑胸大蠊	hei xiong da lian	4
+黑须墓蝠	hei xu mu fu	1
+黑鹦哥鱼	hei ying ge yu	1
+黑缘刺鲨	hei yuan ci sha	2
+黑圆角蝉	hei yuan jiao chan	1
+黑缘美尾	hei yuan mei wei	1
+黑缘牡蛎	hei yuan mu li	1
+黑缘瓢虫	hei yuan piao chong	2
+黑缘梭鱈	hei yuan suo xue	1
+黑缘舟蛾	hei yuan zhou e	1
+黑沼膜鳕	hei zhao mo xue	1
+黑侏儒蛛	hei zhu ru zhu	1
+黑转泉蝇	hei zhuan quan ying	1
+横斑鱼鸮	heng ban yu xiao	3
+恒春台蝗	heng chun tai huang	1
+横海鳞	heng hai lin	7
+鸻科	heng ke	55
+鸻形目	heng xing mu	42
+衡阳展望	heng yang zhan wang	10
+红斑瓢蟹	hong ban piao xie	4
+虹鲍	hong bao	2
+洪堡企鹅	hong bao qi e	13
+紅筆螺	hong bi luo	1
+虹彩樱蛤	hong cai ying ge	1
+红槌角蝗	hong chui jiao huang	1
+红炖紫鲍	hong dun zi bao	1
+红额骨顶	hong e gu ding	4
+红腹咬鹃	hong fu yao juan	10
+红骨海扇	hong gu hai shan	1
+红瓜子斑	hong gua zi ban	5
+红管药	hong guan yao	12
+红华蚖	hong hua yuan	3
+红颊锦鱼	hong jia jin yu	2
+红颊獴	hong jia meng	4
+红脚姬蛛	hong jiao ji zhu	1
+红角娇鹟	hong jiao jiao weng	1
+红角鴞	hong jiao xiao	2
+红颈苇鹀	hong jing wei wu	4
+红卡奴	hong ka nu	8
+红口仿鲸	hong kou fang jing	1
+红鳞卫矛	hong lin wei mao	2
+红陆蟹	hong lu xie	4
+红毛壁蜂	hong mao bi feng	4
+红煤虾球	hong mei xia qiu	1
+红目鮈鱥	hong mu ju gui	1
+红木蝎	hong mu xie	14
+红娘花	hong niang hua	25
+红娘华	hong niang hua	15
+红鳑鮍	hong pang pi	2
+紅千手螺	hong qian shou luo	1
+红千手螺	hong qian shou luo	1
+红烧酥鲍	hong shao su bao	2
+红侍女螺	hong shi nv luo	1
+红头帽	hong tou mao	76
+红腿叫鹤	hong tui jiao he	3
+红尾鵖	hong wei bi	2
+红尾美鱥	hong wei mei gui	3
+红尾蚺	hong wei ran	23
+红尾岩鵖	hong wei yan bi	2
+红尾圆鲹	hong wei yuan shen	3
+红尾战船	hong wei zhan chuan	3
+红纹粉蝶	hong wen fen die	6
+红膝鸻	hong xi heng	2
+红膝鸻属	hong xi heng shu	1
+红蟹	hong xie	211
+红胁鱥	hong xie gui	1
+红心大钩	hong xin da gou	3
+红胸丛鵙	hong xiong cong ju	1
+红胸黑鵙	hong xiong hei ju	3
+紅牙筆螺	hong ya bi luo	1
+红眼蝉	hong yan chan	25
+红眼鹰蜥	hong yan ying xi	2
+红缘灯蛾	hong yuan deng e	1
+红缘天牛	hong yuan tian niu	3
+红圆尾鳉	hong yuan wei jiang	1
+红晕杜鹃	hong yun du juan	7
+紅棗芋螺	hong zao yu luo	1
+红詹森	hong zhan sen	2
+红爪蝎	hong zhao xie	6
+红侏霸鹟	hong zhu ba weng	1
+红砖笋螺	hong zhuan sun luo	1
+红足岛蛛	hong zu dao zhu	1
+红足地蜂	hong zu di feng	1
+红足康蝗	hong zu kang huang	1
+红嘴鵎鵼	hong zui tuo kong	1
+猴欢喜属	hou huan xi shu	4
+猴面梗	hou mian geng	8
+猴天竺虫	hou tian zhu chong	1
+厚尾泉蝇	hou wei quan ying	1
+厚膝兽	hou xi shou	3
+厚缘翼萤	hou yuan yi ying	1
+后中背片	hou zhong bei pian	2
+厚重峨螺	hou zhong e luo	2
+湖北广华	hu bei guang hua	70
+湖北农丰	hu bei nong feng	13
+湖北正应	hu bei zheng ying	34
+呼城雏蝗	hu cheng chu huang	1
+槲豆螺	hu dou luo	1
+湖鱥鱼	hu gui yu	3
+胡鮈	hu ju	42
+糊脸对猴	hu lian dui hou	1
+葫芦片子	hu lu pian zi	35
+葫芦夜蛾	hu lu ye e	3
+湖畔挭	hu pan geng	4
+胡氏耀龙	hu shi yao long	4
+胡桃蛤科	hu tao ge ke	8
+胡桃角蛾	hu tao jiao e	3
+壶锥帽虫	hu zhui mao chong	1
+华丰花鳗	hua feng hua man	1
+花環筆螺	hua huan bi luo	1
+滑鳞斑鮃	hua lin ban ping	1
+滑鳞斑鲆	hua lin ban ping	1
+画眉魔鱼	hua mei mo yu	1
+画眉鸟	hua mei niao	987
+画眉亚科	hua mei ya ke	15
+华南壁钱	hua nan bi qian	8
+華南骨螺	hua nan gu luo	1
+花瓶芋螺	hua ping yu luo	1
+花身鯻	hua shen la	1
+化石战争	hua shi zhan zheng	83
+花尾猫鲛	hua wei mao jiao	1
+花尾鹰螉	hua wei ying weng	1
+花蚊虫	hua wen chong	61
+花媳妇	hua xi fu	58
+华觿茅	hua xi mao	1
+花小丑	hua xiao chou	117
+花萤科	hua ying ke	8
+华缨鱼	hua ying yu	3
+花萤总科	hua ying zong ke	1
+华鱼泉	hua yu quan	8
+花寨	hua zhai	123
+花珠寶螺	hua zhu bao luo	1
+滑子蘑	hua zi mo	32
+淮北灰驴	huai bei hui lv	4
+淮北兴农	huai bei xing nong	17
+淮南虫	huai nan chong	104
+幻彩钟螺	huan cai zhong luo	1
+环荚黄耆	huan jia huang qi	2
+鹮科	huan ke	28
+环尾獴	huan wei meng	4
+欢喜芋螺	huan xi yu luo	5
+鹮嘴鹬	huan zui yu	6
+黄澳鵖	huang ao bi	1
+黄斑鲾	huang ban bi	4
+黄斑鰏	huang ban bi	2
+黄斑蟾蜍	huang ban chan chu	2
+黄斑猫鲨	huang ban mao sha	3
+黄斑弄蝶	huang ban nong die	11
+黄斑瓢虫	huang ban piao chong	11
+黄斑天牛	huang ban tian niu	10
+黄斑苇鸦	huang ban wei ya	1
+黄斑褶鮡	huang ban zhe zhao	1
+黄长脚蜂	huang chang jiao feng	2
+黄翅痂蝗	huang chi jia huang	1
+黄翅斜间	huang chi xie jian	1
+黄翅叶鹎	huang chi ye bei	3
+黄翅鹦哥	huang chi ying ge	3
+黄刺参	huang ci shen	40
+黄刺尾鱼	huang ci wei yu	9
+黄带海龙	huang dai hai long	6
+黄带梅鲷	huang dai mei diao	1
+黄带驼蛾	huang dai tuo e	2
+黄带小鲈	huang dai xiao lu	4
+黄带叶蜂	huang dai ye feng	6
+黄道眉鹀	huang dao mei wu	3
+黄灯蛾	huang deng e	2
+黄涤尺蛾	huang di chi e	1
+黄点河龟	huang dian he gui	1
+黄雕鸮	huang diao xiao	5
+黄蝶	huang die	420
+黄顶娇鹟	huang ding jiao weng	3
+黄肚豆娘	huang du dou niang	1
+黄肚炮弹	huang du pao dan	2
+黄端粉蝶	huang duan fen die	1
+黄额鬼鸮	huang e gui xiao	2
+黄额盒龟	huang e he gui	7
+黄额啸鹟	huang e xiao weng	2
+黄额燕	huang e yan	51
+黄耳鹦哥	huang er ying ge	2
+黄肥尾蝎	huang fei wei xie	2
+黄粉虫	huang fen chong	234
+晃蜂鳃虱	huang feng sai shi	1
+黄蜂蝇	huang feng ying	5
+黄腹洵蟌	huang fu xun cong	1
+黄瓜棒	huang gua bang	95
+皇冠九间	huang guan jiu jian	1
+黄河鲍	huang he bao	19
+黄褐草蛉	huang he cao ling	1
+荒贺长鲈	huang he chang lu	1
+黄河刀鱼	huang he dao yu	60
+黄喉歌鵖	huang hou ge bi	1
+皇辉蜂鸟	huang hui feng niao	1
+黄鶺鴒	huang ji ling	8
+皇家狗粮	huang jia gou liang	131
+黄金鱂	huang jin jiang	14
+黄金鱼将	huang jin yu jiang	5
+黄猄蚁	huang jing yi	5
+黄壳鱼	huang ke yu	37
+黄口鹑螺	huang kou chun luo	1
+黄路秽蝇	huang lu hui ying	1
+黄鲈金鲈	huang lu jin lu	1
+黄麻梗虫	huang ma geng chong	1
+黄马姆	huang ma mu	2
+黄眉霸鹟	huang mei ba weng	3
+黄眉绿鹎	huang mei lv bei	3
+黄眉沙鹀	huang mei sha wu	2
+黄眉鹟	huang mei weng	3
+黄眉鹀	huang mei wu	5
+黄眉蝇鹀	huang mei ying wu	1
+荒漠雕鸮	huang mo diao xiao	8
+荒漠鹿鼠	huang mo lu shu	4
+荒漠猫	huang mo mao	31
+黄潜蝇科	huang qian ying ke	1
+黄肉垂鹎	huang rou chui bei	2
+黄三角吊	huang san jiao diao	6
+黄体长鲈	huang ti chang lu	2
+黄臀灯蛾	huang tun deng e	1
+黄尾毛猴	huang wei mao hou	5
+黄尾梅鲷	huang wei mei diao	2
+黄尾小蟌	huang wei xiao cong	1
+黄纹菊蝗	huang wen ju huang	1
+黄五棘鲷	huang wu ji diao	1
+黄小霸鹟	huang xiao ba weng	1
+黄斜纹蝶	huang xie wen die	2
+黄星蝗	huang xing huang	3
+黄胸地蜂	huang xiong di feng	7
+黄胸小鹟	huang xiong xiao weng	4
+黄眼霸鹟	huang yan ba weng	7
+黄腰响蜜	huang yao xiang mi	39
+黄野螟	huang ye ming	7
+黄缘盒龟	huang yuan he gui	53
+黄缘萤	huang yuan ying	6
+黄占	huang zhan	505
+黄嘴角鴞	huang zui jiao xiao	2
+黄嘴喜鹊	huang zui xi que	15
+灰霸鹟	hui ba weng	1
+灰巴蜗牛	hui ba wo niu	5
+灰白灯蛾	hui bai deng e	3
+灰白歌鹀	hui bai ge wu	2
+灰白鹃鵙	hui bai juan ju	1
+灰白熊	hui bai xiong	24
+灰白植蝇	hui bai zhi ying	1
+灰斑鸻	hui ban heng	4
+灰斑鶲	hui ban weng	2
+灰悲霸鹟	hui bei ba weng	1
+灰背伯劳	hui bei bo lao	28
+灰背鸥	hui bei ou	42
+灰背燕鸥	hui bei yan ou	14
+灰背燕尾	hui bei yan wei	11
+灰背夜鸫	hui bei ye dong	3
+灰伯劳	hui bo lao	14
+灰层岩鹀	hui ceng yan wu	1
+灰插	hui cha	62
+灰茶尺蛾	hui cha chi e	2
+灰长臂猿	hui chang bi yuan	6
+辉尺蛾	hui chi e	1
+灰翅歌鵖	hui chi ge bi	1
+灰翅鸥	hui chi ou	8
+灰翅夜蛾	hui chi ye e	11
+辉翅鹦哥	hui chi ying ge	1
+灰翅噪鹛	hui chi zao mei	5
+灰唇指	hui chun zhi	8
+灰刺蛾	hui ci e	6
+灰刺盖鱼	hui ci gai yu	1
+灰刺参	hui ci shen	6
+灰带文鸟	hui dai wen niao	2
+灰歹夜蛾	hui dai ye e	1
+灰地霸鹟	hui di ba weng	1
+灰涤尺蛾	hui di chi e	1
+灰地种蝇	hui di zhong ying	1
+灰雕鸮	hui diao xiao	5
+灰蝶	hui die	403
+灰蝶科	hui die ke	67
+灰蝶亚科	hui die ya ke	14
+灰蝶总科	hui die zong ke	8
+灰顶霸鹟	hui ding ba weng	1
+灰顶莺	hui ding ying	3
+灰顶鹦哥	hui ding ying ge	1
+灰鹅	hui e	190
+灰额鸡鸠	hui e ji jiu	1
+灰风鹱	hui feng hu	1
+辉风鸟	hui feng niao	4
+灰缝叶莺	hui feng ye ying	1
+灰腹鼠	hui fu shu	15
+灰腹水鼩	hui fu shui qu	1
+灰歌鹰	hui ge ying	5
+灰冠霸鹟	hui guan ba weng	1
+灰冠鸫莺	hui guan dong ying	1
+灰冠鹤	hui guan he	12
+灰冠黑雀	hui guan hei que	2
+灰冠雀鹀	hui guan que wu	1
+灰光尾鲨	hui guang wei sha	1
+灰海鱮	hui hai xu	1
+灰旱獭	hui han ta	6
+灰鹤	hui he	589
+灰褐带蛾	hui he dai e	1
+灰黑澳虎	hui hei ao hu	1
+灰黑蜻蜓	hui hei qing ting	2
+灰黑鹟	hui hei weng	2
+灰黑野鲮	hui hei ye ling	1
+辉黑蚁鸟	hui hei yi niao	1
+灰喉雀鹟	hui hou que weng	1
+灰喉蚁鵙	hui hou yi ju	1
+灰皇鸠	hui huang jiu	1
+灰姬霸鹟	hui ji ba weng	1
+灰姬蝽	hui ji chun	1
+灰姬猎蝽	hui ji lie chun	1
+灰棘尾雀	hui ji wei que	1
+灰颊冠鹎	hui jia guan bei	1
+灰颊仙鶲	hui jia xian weng	1
+灰颊夜鸫	hui jia ye dong	1
+灰颊鹦哥	hui jia ying ge	1
+灰脚柳莺	hui jiao liu ying	1
+灰巾鹦哥	hui jin ying ge	1
+灰鲸	hui jing	589
+灰鲸科	hui jing ke	16
+灰颈鹀	hui jing wu	6
+灰晶蝎	hui jing xie	7
+灰鹃鵙	hui juan ju	2
+灰卷尾	hui juan wei	13
+辉卷尾	hui juan wei	2
+灰掘穴雀	hui jue xue que	1
+灰鬘螺	hui man luo	1
+灰獴	hui meng	8
+灰糯鳗	hui nuo man	1
+灰鸥	hui ou	77
+灰扇尾鹟	hui shan wei weng	1
+灰蛇锚参	hui she mao shen	1
+回声定位	hui sheng ding wei	332
+灰算盘蛤	hui suan pan ge	1
+灰头林鸽	hui tou lin ge	2
+灰弯脚虎	hui wan jiao hu	1
+灰苇鹪鹩	hui wei jiao liao	1
+灰尾漂鹬	hui wei piao yu	1
+灰星鲨胆	hui xing sha dan	1
+鮰鱼	hui yu	728
+鮰鱼料	hui yu liao	3
+灰远舟蛾	hui yuan zhou e	1
+灰織紋螺	hui zhi wen luo	1
+灰直纹螟	hui zhi wen ming	1
+昏暗球蛛	hun an qiu zhu	1
+昏倒羊	hun dao yang	2
+浑黄灯蛾	hun huang deng e	1
+混形黔鳄	hun xing qian e	1
+霍撤瓢	huo che piao	1
+火红鸲鹟	huo hong qu weng	2
+霍加狓	huo jia pi	9
+火枪乌贼	huo qiang wu zei	3
+火兔灯	huo tu deng	5
+火兔灯鱼	huo tu deng yu	1
+火尾希鹛	huo wei xi mei	1
+火焰贝	huo yan bei	38
+火焰贝壳	huo yan bei ke	18
+火焰钮扣	huo yan niu kou	7
+嵴鼻龙	ji bi long	13
+襀翅目	ji chi mu	7
+襀翅总目	ji chi zong mu	2
+基刺硬蜱	ji ci ying pi	1
+寄蛾科	ji e ke	4
+姬粉蝶	ji fen die	2
+基合溞	ji he sao	1
+鲫霍氏虫	ji huo shi chong	1
+棘茎榖木	ji jing gu mu	1
+寄居姬蛛	ji ju ji zhu	2
+寄居甲	ji ju jia	28
+寄居蟹	ji ju xie	424
+基里奥犬	ji li ao quan	1
+棘裂嵴蚌	ji lie ji bang	1
+鹡鸰	ji ling	49
+鹡鸰属	ji ling shu	1
+姬目眼蝶	ji mu yan die	1
+檵木叶	ji mu ye	8
+极囊核	ji nang he	1
+姬拟唇鱼	ji ni chun yu	1
+雞皮寶螺	ji pi bao luo	1
+鵋鶀	ji qi	4
+吉氏啸鹟	ji shi xiao weng	1
+极双喜萤	ji shuang xi ying	1
+鲫四极虫	ji si ji chong	1
+脊髓动物	ji sui dong wu	281
+矶塘鱧	ji tang li	2
+集体捕猎	ji ti bu lie	33
+几维	ji wei	1883
+几维目	ji wei mu	9
+脊纹澳虎	ji wen ao hu	1
+棘斜管虫	ji xie guan chong	1
+机械昆虫	ji xie kun chong	607
+机械虾	ji xie xia	308
+鸡心倒吊	ji xin dao diao	1
+棘星塘鱧	ji xing tang li	1
+紀伊骨螺	ji yi gu luo	1
+寄蝇	ji ying	131
+棘鮋	ji you	5
+叽咋柳莺	ji za liu ying	2
+家扁天牛	jia bian tian niu	1
+加布林鲨	jia bu lin sha	3
+加长峨螺	jia chang e luo	1
+家长脚蜂	jia chang jiao feng	1
+颊齿龙	jia chi long	18
+颊刺鱼	jia ci yu	4
+嘉翠蛱蝶	jia cui jia die	1
+加岛花鹿	jia dao hua lu	1
+嘉德兰蛇	jia de lan she	1
+贾第虫	jia di chong	236
+加尔瓦龙	jia er wa long	87
+加伏特鳄	jia fu te e	1
+加盖蜻蜓	jia gai qing ting	2
+荚蛤	jia ge	52
+嘉庚水母	jia geng shui mu	2
+嘉好	jia hao	2333
+伽湖鯻	jia hu la	1
+甲磺灭脓	jia huang mie nong	4
+家鸡	jia ji	253
+伽拉狭螨	jia la xia man	1
+甲螨	jia man	49
+佳玫灯蛾	jia mei deng e	1
+假人字蝶	jia ren zi die	1
+假叶目	jia ye mu	5
+家蝇总科	jia ying zong ke	1
+加州月桂	jia zhou yue gui	82
+间矮脂鲤	jian ai zhi li	1
+肩波蚱	jian bo zha	1
+煎蛋水母	jian dan shui mu	4
+间副鳚	jian fu wei	1
+肩弓背蚁	jian gong bei yi	1
+剑鸻	jian heng	7
+间护尾鮠	jian hu wei wei	1
+间脊尺蛾	jian ji chi e	1
+肩棘螺	jian ji luo	2
+尖棘甕鳐	jian ji weng yao	1
+箭毛	jian mao	108
+柬埔寨鲶	jian pu zhai nian	27
+健乳宝	jian ru bao	2
+尖身带鰆	jian shen dai chun	1
+尖尾海萤	jian wei hai ying	8
+尖尾沙鹀	jian wei sha wu	6
+尖尾溪雀	jian wei xi que	5
+尖尾犀鳕	jian wei xi xue	3
+尖尾肖峭	jian wei xiao qiao	2
+尖尾眼虫	jian wei yan chong	8
+尖尾榛鸡	jian wei zhen ji	29
+尖吻鲸	jian wen jing	7
+剑蚤钟虫	jian zao zhong chong	1
+剪嘴鸥科	jian zui ou ke	1
+绛斑榧螺	jiang ban fei luo	1
+僵硬海参	jiang ying hai shen	6
+鱂鱼	jiang yu	466
+强嘴雀	jiang zui que	7
+角版虫	jiao ban chong	2
+铰背龟	jiao bei gui	1
+角杯水母	jiao bei shui mu	1
+角鼻龙属	jiao bi long shu	5
+角鳖	jiao bie	48
+角兵鲂鮄	jiao bing fang fu	1
+角叉莱属	jiao cha lai shu	1
+角蝉	jiao chan	268
+角蝉科	jiao chan ke	30
+角翅粉蝶	jiao chi fen die	3
+角翅弄蝶	jiao chi nong die	2
+角翅野螟	jiao chi ye ming	1
+角齿鱼科	jiao chi yu ke	5
+角蝶	jiao die	27
+角蝶灯蛾	jiao die deng e	1
+角杜父鱼	jiao du fu yu	4
+角高盖蚤	jiao gao gai zao	1
+角蛤属	jiao ge shu	2
+角骨顶	jiao gu ding	7
+叫姑姑	jiao gu gu	152
+角官鸟	jiao guan niao	2
+角红蟹蛛	jiao hong xie zhu	1
+角后夜蛾	jiao hou ye e	1
+角花篮虫	jiao hua lan chong	1
+角甲	jiao jia	85
+角尖鼻鲀	jiao jian bi tun	1
+铰剪春蜓	jiao jian chun ting	1
+角叫鸭	jiao jiao ya	6
+角金线鲃	jiao jin xian ba	1
+角鲸	jiao jing	150
+角镜蛤	jiao jing ge	2
+角茎舟蛾	jiao jing zhou e	1
+角距手参	jiao ju shou can	1
+角菊头蝠	jiao ju tou fu	1
+绞孔胃螺	jiao kong wei luo	1
+礁鹿	jiao lu	56
+角木叶鲽	jiao mu ye die	1
+胶墙	jiao qiang	407
+绞切蜂	jiao qie feng	2
+脚圈	jiao quan	132
+焦糖巴西	jiao tang ba xi	14
+角形钩	jiao xing gou	3
+角胸步甲	jiao xiong bu jia	3
+胶衣虫	jiao yi chong	2
+截杯滴虫	jie bei di chong	1
+截唇叶蜂	jie chun ye feng	1
+截顶弄蝶	jie ding nong die	1
+檞鸫	jie dong	4
+截额镜蟹	jie e jing xie	1
+借腹怀胎	jie fu huai tai	13
+街鸽	jie ge	17
+结构色	jie gou se	650
+檞寄生	jie ji sheng	154
+洁净希蛛	jie jing xi zhu	1
+截匙同蝽	jie shi tong chun	1
+楬树蛙	jie shu wa	1
+截尾犬	jie wei quan	11
+节下痕	jie xia hen	1
+洁雅灯蛾	jie ya deng e	1
+金臂虫目	jin bi chong mu	1
+金边地鳖	jin bian di bie	1
+金蟾女	jin chan nv	1
+锦绸榧螺	jin chou fei luo	1
+金点副炉	jin dian fu lu	1
+金刚对虾	jin gang dui xia	25
+金黃筆螺	jin huang bi luo	1
+金脚带	jin jiao dai	5
+金口蠑螺	jin kou rong luo	1
+金眶鶲莺	jin kuang weng ying	1
+錦鯉筆螺	jin li bi luo	1
+近裂爪蜂	jin lie zhao feng	1
+金陵麻鸡	jin ling ma ji	1
+金毛羚牛	jin mao ling niu	7
+金铅笔鱼	jin qian bi yu	1
+金钱鮸	jin qian mian	7
+金钱鱼科	jin qian yu ke	5
+金钱蛭	jin qian zhi	22
+近亲蟳	jin qin xun	4
+金氏贝	jin shi bei	1
+津市金山	jin shi jin shan	4
+金双印	jin shuang yin	18
+金絲岩螺	jin si yan luo	1
+金網筆螺	jin wang bi luo	1
+金尾棘蝇	jin wei ji ying	1
+金尾鹦哥	jin wei ying ge	1
+金线盒龟	jin xian he gui	1
+金胸歌鸲	jin xiong ge qu	1
+金秀剑螽	jin xiu jian zhong	1
+金医生鱼	jin yi sheng yu	2
+金樱子肉	jin ying zi rou	2
+近缘豆蟹	jin yuan dou xie	2
+金枣宝螺	jin zao bao luo	1
+金盏窗蛾	jin zhan chuang e	1
+錦織芋螺	jin zhi yu luo	1
+金珠宝螺	jin zhu bao luo	2
+近祖共性	jin zu gong xing	7
+荆莿鸟	jing ci niao	1
+景风海燕	jing feng hai yan	1
+井冈脊蛇	jing gang ji she	1
+景洪波鱼	jing hong bo yu	1
+胫脊	jing ji	29
+胫节	jing jie	66
+京蛎盾蚧	jing li dun jie	1
+镜面虎甲	jing mian hu jia	9
+鲸偶蹄目	jing ou ti mu	3
+颈缺	jing que	18
+颈围鸽	jing wei ge	1
+净雅灰蝶	jing ya hui die	1
+敬业自责	jing ye zi ze	7
+晶莹蝤	jing ying qiu	1
+晶莹蟳	jing ying xun	2
+蟼掌突蟾	jing zhang tu chan	1
+精致宝螺	jing zhi bao luo	3
+救必应	jiu bi ying	52
+韭菜根蛆	jiu cai gen qu	2
+韭菜子	jiu cai zi	74
+九带鮨	jiu dai yi	8
+九耳犬	jiu er quan	36
+厩腐蝇	jiu fu ying	1
+九绘鱼	jiu hui yu	6
+九间贝	jiu jian bei	9
+九间吊	jiu jian diao	8
+九间跳鲈	jiu jian tiao lu	1
+九角恐龙	jiu jiao kong long	33
+九角龙鱼	jiu jiao long yu	4
+九角水母	jiu jiao shui mu	6
+九开菠萝	jiu kai bo luo	7
+九孔鲍	jiu kong bao	25
+九孔鮑螺	jiu kong bao luo	1
+九鳞波鱼	jiu lin bo yu	1
+韭萤叶甲	jiu ying ye jia	1
+旧院黑鸡	jiu yuan hei ji	8
+巨齿槌鲸	ju chi chui jing	3
+矩翅粉蝶	ju chi fen die	1
+锯齿奇花	ju chi qi hua	11
+桔点圆鲀	ju dian yuan tun	1
+鮈杜父鱼	ju du fu yu	2
+菊海鞘属	ju hai qiao shu	1
+菊海星	ju hai xing	8
+矩褐卷蛾	ju he juan e	1
+菊虎	ju hu	87
+菊棘花鮨	ju ji hua yi	1
+距棘花鮨	ju ji hua yi	1
+巨棘鲈科	ju ji lu ke	2
+具壳半毛	ju ke ban mao	1
+巨蟒保姆	ju mang bao mu	3
+锯毛鼻蚕	ju mao bi can	1
+巨囊袋虫	ju nang dai chong	2
+巨匿棘鳚	ju ni ji wei	1
+锯全丽鱼	ju quan li yu	1
+鵙雀鹟	ju que weng	1
+鵙伞鸟	ju san niao	1
+巨手浮萤	ju shou fu ying	1
+巨首楔蚌	ju shou xie bang	1
+鵴头骨螺	ju tou gu luo	1
+居维叶象	ju wei ye xiang	2
+鮈亚科	ju ya ke	23
+锯缘灰蝶	ju yuan hui die	19
+锯缘陆龟	ju yuan lu gui	6
+锯缘圆龟	ju yuan yuan gui	10
+巨招潮蟹	ju zhao chao xie	4
+縳颊鳚	juan jia wei	1
+鹃鴗	juan li	4
+娟珊牛	juan shan niu	81
+卷尾	juan wei	4211
+卷尾亚科	juan wei ya ke	33
+卷叶野螟	juan ye ye ming	3
+掘地蜂	jue di feng	19
+蕨鹩刺莺	jue liao ci ying	1
+菌体蛋白	jun ti dan bai	86
+郡望为	jun wang wei	21
+卡尔文虫	ka er wen chong	9
+卡里欧鸽	ka li ou ge	1
+喀麦隆鹎	ka mai long bei	1
+卡莫隆魮	ka mo long pi	2
+卡氏蟹蛛	ka shi xie zhu	2
+卡椰鲳鲹	ka ye chang shen	1
+开远古猿	kai yuan gu yuan	13
+开展婀蛛	kai zhan e zhu	2
+鱇白鱼	kang bai yu	5
+抗代谢物	kang dai xie wu	43
+鱇浪白鱼	kang lang bai yu	1
+康乐鸡	kang le ji	34
+抗疟蚊	kang nve wen	15
+考加冠雉	kao jia guan zhi	1
+壳齿鲛目	ke chi jiao mu	1
+科茨海鲶	ke ci hai nian	1
+科达布犬	ke da bu quan	1
+科达海鲶	ke da hai nian	1
+科达伊目	ke da yi mu	1
+科岛霸鹟	ke dao ba weng	1
+科岛狐蝠	ke dao hu fu	1
+可岛鴷雀	ke dao lie que	1
+可岛雀	ke dao que	9
+科尔沁牛	ke er qin niu	65
+科尔索犬	ke er suo quan	11
+柯凡路易	ke fan lu yi	4
+科菲非鲫	ke fei fei ji	1
+科芬鱼	ke fen yu	2
+柯赫	ke he	343
+珂环蛱蝶	ke huan jia die	1
+柯基犬	ke ji quan	1079
+科克犬	ke ke quan	18
+克冷勃獚	ke leng bo huang	1
+克隆牛	ke long niu	253
+克鲁氏鳾	ke lu shi shi	1
+柯莫德熊	ke mo de xiong	5
+科摩罗鸫	ke mo luo dong	1
+科恰歌鹀	ke qia ge wu	1
+柯氏犬羚	ke shi quan ling	1
+科希鲁鲹	ke xi lu shen	1
+肯齿兽	ken chi shou	2
+肯德鲁	ken de lu	31
+坑翅夜蛾	keng chi ye e	1
+恐怖虫	kong bu chong	34
+空彩龙	kong cai long	14
+空蝶灯蛾	kong die deng e	1
+孔楯海胆	kong dun hai dan	1
+空棘鱼科	kong ji yu ke	8
+空棘鱼目	kong ji yu mu	7
+恐角目	kong jiao mu	6
+恐角兽	kong jiao shou	14
+恐龙脚印	kong long jiao yin	119
+恐龙足迹	kong long zu ji	120
+恐爪龙属	kong zhao long shu	7
+口前吻长	kou qian wen chang	3
+口前叶	kou qian ye	20
+口鳃腔	kou sai qiang	7
+苦埃尺蛾	ku ai chi e	1
+库达犬	ku da quan	16
+枯木猫	ku mu mao	20
+库奇鲸	ku qi jing	1
+库氏齿鱵	ku shi chi zhen	1
+库氏獴	ku shi meng	1
+库氏獴属	ku shi meng shu	1
+苦味鳑鲏	ku wei pang pi	1
+库页岛鲟	ku ye dao xun	3
+枯叶守宫	ku ye shou gong	7
+库页鲟	ku ye xun	7
+枯叶樱蛤	ku ye ying ge	1
+宽额缨鲆	kuan e ying ping	1
+宽基芒蝇	kuan ji mang ying	1
+宽鳍鱲鱼	kuan qi lie yu	1
+宽体沟鲿	kuan ti gou chang	1
+宽尾鹤鱵	kuan wei he zhen	1
+宽尾獴属	kuan wei meng shu	1
+宽尾潜鲆	kuan wei qian ping	1
+宽珍珠贝	kuan zhen zhu bei	3
+眶前片	kuang qian pian	3
+眶崤虎鲨	kuang xiao hu sha	1
+盔鵙	kui ju	2
+喹烯酮	kui xi tong	13
+喹乙醇	kui yi chun	106
+昆虫病毒	kun chong bing du	235
+昆虫蛋白	kun chong dan bai	120
+昆虫及	kun chong ji	115
+阔鼻小目	kuo bi xiao mu	1
+闊船蛸	kuo chuan shao	1
+喇叭虫属	la ba chong shu	3
+腊肠猫	la chang mao	31
+蝲姑	la gu	6
+蝲蛄科	la gu ke	1
+蠟黃芋螺	la huang yu luo	1
+腊玛古猿	la ma gu yuan	27
+拉奈孤鸫	la nai gu dong	1
+剌亚煤炱	la ya mei tai	1
+鯻鱼	la yu	58
+赖特宝螺	lai te bao luo	1
+烂草黄	lan cao huang	5
+蘭福寶螺	lan fu bao luo	1
+榄核虫	lan he chong	2
+蓝黄梅鲷	lan huang mei diao	1
+蓝颊蜂虎	lan jia feng hu	6
+蓝九间	lan jiu jian	8
+蓝鹃鵙	lan juan ju	1
+榄绿草螟	lan lv cao ming	1
+蓝拳击虾	lan quan ji xia	2
+蓝田花猪	lan tian hua zhu	3
+蓝尾灰吊	lan wei hui diao	1
+蓝鹀	lan wu	70
+榄蠵龟	lan xi gui	1
+蓝喜鹊	lan xi que	24
+蓝胸蜂虎	lan xiong feng hu	1
+蓝眼频克	lan yan pin ke	1
+蓝燕尾鮗	lan yan wei dong	1
+蓝腋树蛙	lan ye shu wa	1
+蓝圆鯵	lan yuan shen	2
+蓝战狗	lan zhan gou	3
+朗布耶羊	lang bu ye yang	1
+朗德鹅	lang de e	19
+郎德鹅	lang de e	8
+狼鲈科	lang lu ke	2
+狼犬	lang quan	412
+郎溪银鱼	lang xi yin yu	2
+劳氏笔石	lao shi bi shi	1
+老鼠学校	lao shu xue xiao	164
+老皱宝螺	lao zhou bao luo	1
+勒车犬	le che quan	3
+类剑齿虎	lei jian chi hu	6
+雷明顿鲸	lei ming dun jing	3
+雷强钓法	lei qiang diao fa	7
+类三角蚌	lei san jiao bang	1
+里奥哈龙	li ao ha long	8
+梨豹蠹蛾	li bao du e	1
+笠贝	li bei	76
+梨波豆虫	li bo dou chong	1
+黎长鲈	li chang lu	1
+黎村鸡	li cun ji	7
+黎豆属	li dou shu	3
+丽多门虫	li duo men chong	1
+笠腹希蛛	li fu xi zhu	1
+里海盖蚤	li hai gai zao	1
+里海狼	li hai lang	30
+里海马鹿	li hai ma lu	6
+里海鸥	li hai ou	138
+里海燕鸥	li hai yan ou	7
+梨虎象	li hu xiang	3
+梨虎象甲	li hu xiang jia	1
+梨花粉蝶	li hua fen die	12
+梨花鸡	li hua ji	90
+蛎蝗	li huang	40
+梨吉丁虫	li ji ding chong	1
+梨茎蜂	li jing feng	3
+栎列队蛾	li lie dui e	1
+礼貌鸟	li mao niao	184
+利木赞牛	li mu zan niu	30
+丽牛角	li niu jiao	4
+狸奴	li nu	448
+李姒宝螺	li si bao luo	1
+丽文蛤	li wen ge	7
+栗鵐	li wu	3
+栗鸮	li xiao	12
+栗鴞	li xiao	4
+栗胁林莺	li xie lin ying	1
+栗胁雀鹰	li xie que ying	1
+栗胁鹰	li xie ying	3
+栗胸杜鹃	li xiong du juan	8
+栗胸歌鹀	li xiong ge wu	1
+丽鹰雕	li ying diao	2
+丽蝇科	li ying ke	16
+鳢鱼肠	li yu chang	5
+梨圆蚧	li yuan jie	1
+鳢粘体虫	li zhan ti chong	1
+励志狗	li zhi gou	40
+栗子宝螺	li zi bao luo	1
+鏈結螺	lian jie luo	1
+莲藕涡螺	lian ou wo luo	2
+连滩蟋蟀	lian tan xi shuai	1
+连尾鮰	lian wei hui	1
+镰尾露螽	lian wei lu zhong	1
+连尾鮡科	lian wei zhao ke	1
+鲢指环虫	lian zhi huan chong	1
+连珠虎甲	lian zhu hu jia	1
+两板贝属	liang ban bei shu	1
+亮菛锹甲	liang men qiao jia	1
+两栖犀	liang qi xi	20
+梁溪梅	liang xi mei	44
+两线铅笔	liang xian qian bi	31
+两性动物	liang xing dong wu	1592
+鹩哥	liao ge	1122
+猎豹亚科	lie bao ya ke	19
+猎肠	lie chang	339
+列齿目	lie chi mu	54
+猎狗	lie gou	5503
+猎狗芋螺	lie gou yu luo	1
+猎狐梗犬	lie hu geng quan	3
+猎狐狗	lie hu gou	21
+猎狐犬	lie hu quan	68
+裂颊海蛇	lie jia hai she	1
+猎鹿犬	lie lu quan	244
+猎枪犬	lie qiang quan	12
+猎枪犬种	lie qiang quan zhong	2
+列文虎克	lie wen hu ke	120
+裂殖	lie zhi	809
+裂植珊瑚	lie zhi shan hu	4
+林百灵	lin bai ling	150
+鳞斑灰鸽	lin ban hui ge	3
+鳞斑雀	lin ban que	20
+林斑小鸮	lin ban xiao xiao	13
+鳞斑蟹	lin ban xie	14
+鳞背鹇	lin bei xian	1
+鳞背蚁鸟	lin bei yi niao	1
+鳞翅雏蝗	lin chi chu huang	1
+鳞刺虫	lin ci chong	8
+林刺蝇	lin ci ying	8
+鳞地蜂	lin di feng	1
+林地麝牛	lin di she niu	3
+林地驯鹿	lin di xun lu	43
+林甸鸡	lin dian ji	39
+林雕	lin diao	626
+林雕鸮	lin diao xiao	7
+林鵰鸮	lin diao xiao	1
+鳞腹沟虫	lin fu gou chong	2
+林龟	lin gui	216
+林蝗	lin huang	51
+林叫鸮	lin jiao xiao	3
+林鵙鶲属	lin ju weng shu	1
+林孔龙	lin kong long	69
+鳞眉夜蛾	lin mei ye e	2
+林蚺科	lin ran ke	12
+鳞眼壁虎	lin yan bi hu	4
+磷源	lin yuan	155
+灵川丽蛛	ling chuan li zhu	1
+羚环蛱蝶	ling huan jia die	1
+羚角虫	ling jiao chong	6
+灵山香鸡	ling shan xiang ji	4
+灵枢经	ling shu jing	121
+灵騠	ling ti	7
+酃县白鹅	ling xian bai e	1
+领鸺鹠	ling xiu liu	6
+凌源鮈	ling yuan ju	2
+瘤鼻鸽	liu bi ge	2
+六点蓟马	liu dian ji ma	3
+六角辉木	liu jiao hui mu	2
+六角木	liu jiao mu	99
+镏金金鱼	liu jin jin yu	5
+瘤胫厕蝇	liu jing ce ying	1
+瘤前嵴蚌	liu qian ji bang	1
+柳絲渦螺	liu si wo luo	1
+瘤胸沫蝉	liu xiong mo chan	3
+柳圆叶甲	liu yuan ye jia	1
+六月白	liu yue bai	124
+瘤窄额鲀	liu zhai e tun	1
+隆背躄鱼	long bei bi yu	1
+隆背唇指	long bei chun zhi	2
+隆背路戎	long bei lu rong	1
+隆背瓢蟹	long bei piao xie	1
+隆躄鱼	long bi yu	1
+隆德杭犬	long de hang quan	1
+隆鳄	long e	7
+龙骨薪甲	long gu xin jia	1
+隆脊海星	long ji hai xing	1
+隆林黄牛	long lin huang niu	3
+隆林牛	long lin niu	3
+陇南桦蛾	long nan hua e	1
+隆头蛛	long tou zhu	2
+隆线强蟹	long xian qiang xie	1
+隆线拳蟹	long xian quan xie	1
+龙鱼志	long yu zhi	2
+龙占科	long zhan ke	6
+龙占鱼科	long zhan yu ke	1
+蠪侄	long zhi	573
+陇珠螨	long zhu man	1
+隆嘴翠鴗	long zui cui li	1
+漏斗杜鹃	lou dou du juan	6
+漏斗蜘蛛	lou dou zhi zhu	25
+漏斗蛛	lou dou zhu	22
+楼观雏蝗	lou guan chu huang	1
+篓蒿	lou hao	12
+陋龙	lou long	86
+鹿斑芋螺	lu ban yu luo	1
+卤虫	lu chong	410
+卤虫属	lu chong shu	11
+路德雀鹛	lu de que mei	1
+陆地红蟹	lu di hong xie	17
+禄峒爬鳅	lu dong pa qiu	1
+露盾角蝉	lu dun jiao chan	1
+鲁钝龙	lu dun long	11
+鹿蛾科	lu e ke	13
+禄丰古猿	lu feng gu yuan	16
+禄丰龙	lu feng long	80
+庐光尺蛾	lu guang chi e	1
+芦蝈蝈	lu guo guo	3
+芦禾草螟	lu he cao ming	1
+鹿灰蝶	lu hui die	4
+芦荟海葵	lu hui hai kui	4
+露脊鲸	lu ji jing	102
+陆寄居蟹	lu ji ju xie	11
+颅间关节	lu jian guan jie	18
+鹿角蝉	lu jiao chan	40
+鹿角虫	lu jiao chong	188
+鹿角芦鲷	lu jiao lu diao	1
+鹿角锹甲	lu jiao qiao jia	19
+颅接型	lu jie xing	2
+鲈科	lu ke	33
+鯥科	lu ke	19
+鹿科动物	lu ke dong wu	183
+卢库野鲮	lu ku ye ling	1
+鲁莱黑猪	lu lai hei zhu	2
+陆良鲇鱼	lu liang nian yu	1
+卢卢阿魮	lu lu a pi	1
+陆马蜂	lu ma feng	7
+卢默龙属	lu mo long shu	2
+卢姆氏鳟	lu mu shi zun	1
+芦木属	lu mu shu	5
+芦囊虫	lu nang chong	3
+陆栖亚目	lu qi ya mu	7
+陆禽	lu qin	1267
+露禽	lu qin	23
+路禽	lu qin	5
+卢犬	lu quan	133
+庐山野猪	lu shan ye zhu	33
+路舍蚁	lu she yi	1
+陆生膜螈	lu sheng mo yuan	1
+鲁虱	lu shi	70
+卢氏跗猴	lu shi fu hou	1
+卢氏黑鵙	lu shi hei ju	1
+卢氏拟鮗	lu shi ni dong	1
+卢氏兔	lu shi tu	9
+鲁氏仙鹟	lu shi xian weng	1
+鲁氏野鲮	lu shi ye ling	1
+卢氏蚁鵖	lu shi yi bi	1
+路氏圆鲀	lu shi yuan tun	1
+露丝峨螺	lu si e luo	1
+芦淞市场	lu song shi chang	21
+芦台鲂鲌	lu tai fang bo	1
+陆桃泽蟹	lu tao ze xie	1
+鹿豚亚科	lu tun ya ke	6
+鹿娃	lu wa	131
+露尾甲	lu wei jia	8
+露尾甲科	lu wei jia ke	3
+芦苇象甲	lu wei xiang jia	4
+鹿尾夜蛾	lu wei ye e	1
+芦苇莺	lu wei ying	69
+鲁文夜鹰	lu wen ye ying	3
+芦鹀	lu wu	21
+鲁西菜牛	lu xi cai niu	3
+鲁西牛	lu xi niu	122
+陆蟹	lu xie	386
+陆行鲸	lu xing jing	234
+陆行鲸科	lu xing jing ke	12
+鹿亚科	lu ya ke	8
+炉眼鱼科	lu yan yu ke	1
+鲁耶氏菌	lu ye shi jun	3
+鹿印尺蛾	lu yin chi e	1
+芦莺	lu ying	58
+鹿苑鸡	lu yuan ji	4
+颅中沟	lu zhong gou	47
+露珠宝螺	lu zhu bao luo	1
+露珠杜鹃	lu zhu du juan	22
+孪斑瓢虫	luan ban piao chong	1
+卵小樱蛤	luan xiao ying ge	1
+卵圆蝎蝽	luan yuan xie chun	1
+轮虫	lun chong	325
+轮虫纲	lun chong gang	14
+轮虫亚目	lun chong ya mu	2
+轮头鲂鮄	lun tou fang fu	1
+裸背蝠属	luo bei fu shu	2
+裸背鰧	luo bei teng	3
+裸躄鱼	luo bi yu	5
+裸鰆	luo chun	4
+裸唇纲	luo chun gang	2
+洛岛红鸡	luo dao hong ji	1
+洛德鲸	luo de jing	2
+裸端泉蝇	luo duan quan ying	1
+洛弗宝螺	luo fu bao luo	1
+裸腹盲鲃	luo fu mang ba	3
+裸腹溞科	luo fu sao ke	1
+裸腹鲟	luo fu xun	26
+洛加蜂鸟	luo jia feng niao	1
+裸颈鹳	luo jing guan	6
+裸胫棘蝇	luo jing ji ying	1
+裸胫角鸮	luo jing jiao xiao	1
+裸颈伞鸟	luo jing san niao	3
+洛卡龙	luo ka long	26
+裸脸鹮	luo lian huan	4
+裸盲蟹	luo mang xie	2
+羅莎筆螺	luo sha bi luo	1
+裸体副鱥	luo ti fu gui	1
+骆驼虫	luo tuo chong	15
+骆驼黄	luo tuo huang	50
+罗维纳犬	luo wei na quan	3
+罗希虾	luo xi xia	4
+络新妇蛛	luo xin fu zhu	7
+落叶溪鳉	luo ye xi jiang	1
+绿安禄蜥	lv an lu xi	1
+侣伴肖蛸	lv ban xiao shao	1
+葎草	lv cao	406
+绿草蝉	lv cao chan	27
+绿草履虫	lv cao lv chong	11
+滤出液	lv chu ye	22
+驴耳鲍螺	lv er bao luo	1
+旅鸽	lv ge	108
+绿宫延草	lv gong yan cao	1
+氯化烯	lv hua xi	25
+驴羚	lv ling	28
+绿芦蜂	lv lu feng	3
+绿眉翠鴗	lv mei cui li	1
+绿墨天牛	lv mo tian niu	1
+绿疲蛇	lv pi she	1
+綠臍鐘螺	lv qi zhong luo	1
+吕宋花鮨	lv song hua yi	1
+吕宋鸡鸠	lv song ji jiu	1
+吕宋角鸮	lv song jiao xiao	2
+吕宋小	lv song xiao	14
+驴头狼	lv tou lang	25
+绿蚊儿	lv wen er	2
+绿啸冠鸫	lv xiao guan dong	1
+绿小鹟	lv xiao weng	2
+绿蝎	lv xie	22
+绿胁歌鵖	lv xie ge bi	1
+绿眼白猫	lv yan bai mao	8
+绿咬鹃	lv yao juan	30
+绿鱼狗属	lv yu gou shu	1
+掠果蝠属	lve guo fu shu	1
+麻背鸽	ma bei ge	1
+麻布甲	ma bu jia	8
+麻步甲	ma bu jia	3
+麻布涡螺	ma bu wo luo	1
+麻椿象	ma chun xiang	1
+马岛獴属	ma dao meng shu	1
+马冈鹅	ma gang e	27
+麻花鱼	ma hua yu	109
+犸君颅龙	ma jun lu long	1
+马丂宝螺	ma kao bao luo	1
+马来啸鸫	ma lai xiao dong	3
+马略卡獒	ma lve ka ao	4
+玛墨短鲷	ma mo duan diao	1
+玛瑙鲍	ma nao bao	5
+玛瑙宝螺	ma nao bao luo	2
+玛瑙红	ma nao hong	210
+马努蚁鸟	ma nu yi niao	1
+马努鹦哥	ma nu ying ge	1
+马奇莫鳄	ma qi mo e	1
+马氏钳	ma shi qian	5
+马氏钳蝎	ma shi qian xie	1
+马苏骨鮡	ma su gu zhao	1
+马托窜鸟	ma tuo cuan niao	1
+孖线鲽	ma xian die	1
+马尾蟹	ma yi xie	37
+麻鱼胆	ma yu dan	2
+脉翅萤属	mai chi ying shu	1
+脉络猿	mai luo yuan	8
+麦麦蚊儿	mai mai wen er	1
+麦薲草	mai pin cao	4
+麦氏霸鹟	mai shi ba weng	2
+麦氏怒鲨	mai shi nu sha	1
+麦氏甕鳐	mai shi weng yao	1
+曼赤肯猫	man chi ken mao	1
+鳗鱺	man li	16
+满卢犬	man lu quan	1
+鬘螺	man luo	4
+鬘螺科	man luo ke	1
+鳗潜鱼属	man qian yu shu	1
+曼切堪猫	man qie kan mao	1
+曼氏木蜂	man shi mu feng	7
+盲虫	mang chong	152
+盲蝽类	mang chun lei	1
+莽牯朱蛤	mang gu zhu ha	19
+芒果蝇	mang guo ying	10
+盲鮰	mang hui	6
+芒角亚目	mang jiao ya mu	3
+芒康龙	mang kang long	10
+芒六矛虫	mang liu mao chong	1
+芒绿凤蝶	mang lv feng die	3
+盲鳗目	mang man mu	1
+盲墨头鱼	mang mo tou yu	1
+盲缺肢蜥	mang que zhi xi	1
+盲蛇亚目	mang she ya mu	1
+盲伪蝎	mang wei xie	1
+盲尾蚓螈	mang wei yin yuan	1
+芒鰕虎鱼	mang xia hu yu	1
+盲眼动物	mang yan dong wu	27
+盲眼叩甲	mang yan kou jia	1
+芒叶蕨蝇	mang ye jue ying	1
+芒野鲮	mang ye ling	2
+氓鼬鳚	mang you wei	1
+芒鱼	mang yu	273
+忙宗荣组	mang zong rong zu	1
+毛板壳虫	mao ban ke chong	1
+矛斑渔鸮	mao ban yu xiao	1
+毛鼻袋熊	mao bi dai xiong	7
+毛躄鱼	mao bi yu	8
+毛壁鱼	mao bi yu	5
+毛翅	mao chi	66
+毛翅目	mao chi mu	31
+毛簇天牛	mao cu tian niu	2
+锚盗蛛	mao dao zhu	1
+毛滴虫	mao di chong	68
+毛滴虫属	mao di chong shu	3
+毛杜父鱼	mao du fu yu	1
+毛萼肯蚖	mao e ken yuan	1
+茅房土蚱	mao fang tu zha	1
+毛弓角蝉	mao gong jiao chan	1
+毛冠鹿	mao guan lu	44
+毛冠鹿属	mao guan lu shu	2
+帽蚶科	mao han ke	1
+毛颌鮟鱇	mao he an kang	1
+矛环蛱蝶	mao huan jia die	1
+茂环蛱蝶	mao huan jia die	1
+毛喙扁蝽	mao hui bian chun	1
+毛肩浮蚕	mao jian fu can	1
+猫坚强	mao jian qiang	195
+茅尖鱼	mao jian yu	5
+毛角壁蜂	mao jiao bi feng	1
+锚角蝉	mao jiao chan	2
+毛脚鵟	mao jiao kuang	3
+矛角樱蛤	mao jiao ying ge	1
+毛胫夜蛾	mao jing ye e	1
+猫卷叶蛛	mao juan ye zhu	1
+帽铃水母	mao ling shui mu	3
+矛螺	mao luo	2
+毛盲蟹	mao mang xie	1
+矛毛虫	mao mao chong	3
+矛毛虫属	mao mao chong shu	1
+毛毛狗头	mao mao gou tou	8
+猫毛囊炎	mao mao nang yan	10
+猫猫兔	mao mao tu	911
+毛霉	mao mei	183
+毛玫灯蛾	mao mei deng e	1
+猫面鹰	mao mian ying	31
+毛目夜蛾	mao mu ye e	2
+毛扭法螺	mao niu fa luo	1
+牦牛毛	mao niu mao	56
+毛弄蝶	mao nong die	3
+毛螃蟹	mao pang xie	46
+毛皮贝目	mao pi bei mu	1
+毛瓢虫	mao piao chong	20
+茂坪粉蝇	mao ping fen ying	1
+毛嵌线螺	mao qian xian luo	1
+冒切叶蜂	mao qie ye feng	2
+毛青步甲	mao qing bu jia	1
+猫鲨科	mao sha ke	11
+茅山螃蟹	mao shan pang xie	2
+帽蛇	mao she	13
+猫舌樱蛤	mao she ying ge	1
+锚参科	mao shen ke	1
+毛首圆鲀	mao shou yuan tun	1
+茅鼠	mao shu	58
+毛笋泉蝇	mao sun quan ying	1
+锚鳎	mao ta	4
+猫绦虫	mao tao chong	17
+矛头蝮	mao tou fu	6
+锚头鳋科	mao tou sao ke	1
+猫头鹰蝶	mao tou ying die	5
+毛腿夜鹰	mao tui ye ying	4
+毛腿渔鴞	mao tui yu xiao	1
+毛腿鱼鸮	mao tui yu xiao	1
+矛尾蜂鸟	mao wei feng niao	2
+猫尾木	mao wei mu	61
+矛尾鰕虎	mao wei xia hu	1
+毛猬亚科	mao wei ya ke	1
+矛尾鱼	mao wei yu	56
+毛尾足虫	mao wei zu chong	1
+毛纹尺蛾	mao wen chi e	1
+茂汶杜鹃	mao wen du juan	10
+锚纹蛾	mao wen e	1
+锚纹蛾科	mao wen e ke	1
+矛吻海龙	mao wen hai long	1
+锚纹瓢虫	mao wen piao chong	1
+毛蟹	mao xie	226
+毛薪甲	mao xin jia	1
+毛薪甲科	mao xin jia ke	1
+矛形柏螅	mao xing bai xi	1
+锚形豹蛛	mao xing bao zhu	1
+矛形峨螺	mao xing e luo	2
+猫型亚目	mao xing ya mu	1
+猫亚科	mao ya ke	74
+猫眼尺蛾	mao yan chi e	2
+毛眼毒蛾	mao yan du e	5
+毛眼灰蝶	mao yan hui die	6
+猫眼蝾螺	mao yan rong luo	1
+毛野扁豆	mao ye bian dou	1
+毛野古草	mao ye gu cao	1
+猫鱼	mao yu	1750
+矛鱊	mao yu	5
+貌芋螺	mao yu luo	1
+毛原盲蝽	mao yuan mang chun	1
+毛缘扇虾	mao yuan shan xia	1
+毛圆蛛	mao yuan zhu	7
+毛招潮蟹	mao zhao chao xie	2
+猫爪牡蛎	mao zhao mu li	4
+毛舟蛾	mao zhou e	1
+毛竹叶螨	mao zhu ye man	1
+帽状隙蛛	mao zhuang xi zhu	1
+毛锥缘蝽	mao zhui yuan chun	1
+毛足鬼蟹	mao zu gui xie	3
+毛足棘蝇	mao zu ji ying	1
+毛足污蝇	mao zu wu ying	1
+玫斑野鲮	mei ban ye ling	1
+眉杈鹿	mei cha lu	1
+媚尺蛾	mei chi e	1
+眉赤蜻	mei chi qing	1
+镁蚡	mei fen	2
+美姑脊蛇	mei gu ji she	3
+煤冠雀属	mei guan que shu	1
+玫瑰宝螺	mei gui bao luo	2
+玫瑰扯旗	mei gui che qi	3
+玫瑰毒鲉	mei gui du you	3
+玫瑰毒鮋	mei gui du you	1
+玫瑰海葵	mei gui hai kui	10
+玫瑰茎蜂	mei gui jing feng	1
+玫瑰鮈鱥	mei gui ju gui	2
+玫瑰拟鮗	mei gui ni dong	1
+玫瑰蛙螺	mei gui wa luo	1
+玫瑰小丑	mei gui xiao chou	55
+玫瑰叶蜂	mei gui ye feng	8
+玫瑰鱼	mei gui yu	147
+美国鮰	mei guo hui	83
+霉黄毒蛾	mei huang du e	1
+玫灰蝶属	mei hui die shu	1
+梅津龙	mei jin long	5
+霉巾夜蛾	mei jin ye e	1
+美珏公棚	mei jue gong peng	1
+美利奴羊	mei li nu yang	19
+没六鱼	mei liu yu	11
+眉毛魟	mei mao hong	5
+霉毛隧蜂	mei mao sui feng	1
+梅木蛾	mei mu e	3
+煤色繸鲬	mei se sui yong	1
+煤山雀	mei shan que	6
+梅氏兵鲶	mei shi bing nian	1
+梅氏马鹿	mei shi ma lu	1
+梅氏毛鲶	mei shi mao nian	1
+梅氏拟鱥	mei shi ni gui	1
+梅氏王鹟	mei shi wang weng	1
+梅氏犀	mei shi xi	2
+美姝凤蝶	mei shu feng die	1
+梅树果蝇	mei shu guo ying	2
+梅树天牛	mei shu tian niu	1
+霉天敌	mei tian di	2
+眉天牛	mei tian niu	4
+眉鳚	mei wei	1
+眉纹地莺	mei wen di ying	1
+眉纹冠雉	mei wen guan zhi	1
+酶香鳓鱼	mei xiang le yu	1
+美心蛤属	mei xin ge shu	1
+玫胸斑雀	mei xiong ban que	2
+媒鸭	mei ya	44
+美雅海螺	mei ya hai luo	4
+眉夜蛾	mei ye e	1
+梅易宝螺	mei yi bao luo	1
+昧影细蟌	mei ying xi cong	1
+眛影细蟌	mei ying xi cong	1
+梅鱼	mei yu	174
+酶蜘	mei zhi	2
+美洲白鹮	mei zhou bai huan	105
+美洲鹫科	mei zhou jiu ke	14
+媒子鱼	mei zi yu	7
+门岛叶猴	men dao ye hou	1
+萌宠	meng chong	14750
+蒙蛁蟟蝉	meng diao liao chan	1
+蒙古百灵	meng gu bai ling	11
+蒙古红	meng gu hong	89
+蒙古红鮊	meng gu hong ba	1
+梦幻鬼鱼	meng huan gui yu	5
+梦幻火口	meng huan huo kou	3
+梦幻旗	meng huan qi	36
+梦幻芋螺	meng huan yu luo	2
+獴科	meng ke	102
+鹲科	meng ke	14
+朦朧芋螺	meng long yu luo	1
+獴美狐猴	meng mei hu hou	2
+蒙面狗	meng mian gou	63
+蒙面狗鱼	meng mian gou yu	1
+蒙鮃	meng ping	6
+蒙山全蝎	meng shan quan xie	5
+蒙特虫	meng te chong	60
+萌芽杓蛤	meng ya shao ge	1
+蒙羊毛	meng yang mao	15
+蜜白前	mi bai qian	3
+迷彩蛾	mi cai e	8
+迷齿亚纲	mi chi ya gang	2
+迷刺蛾	mi ci e	1
+秘雕鱼	mi diao yu	1
+蜜蜂角螺	mi feng jiao luo	1
+蜜蜂科	mi feng ke	84
+米格鲁犬	mi ge lu quan	43
+猕猴桃猴	mi hou tao hou	61
+迷幻躄鱼	mi huan bi yu	1
+迷惑龙	mi huo long	76
+迷卡斗蟋	mi ka dou xi	1
+眯目夜蛾	mi mu ye e	2
+迷你贝吉	mi ni bei ji	10
+迷你杜宾	mi ni du bin	126
+迷你棘龙	mi ni ji long	11
+米泉园蛛	mi quan yuan zhu	1
+迷台龟甲	mi tai gui jia	1
+密疣蜥虎	mi you xi hu	2
+缅甸贝	mian dian bei	40
+缅甸贝属	mian dian bei shu	3
+缅甸莽	mian dian mang	33
+棉古毒蛾	mian gu du e	1
+缅陆	mian lu	44
+棉露尾甲	mian lu wei jia	1
+鮸鱼效应	mian yu xiao ying	4
+苗疆斗鸟	miao jiang dou niao	1
+灭虫公司	mie chong gong si	108
+敏白眉猴	min bai mei hou	1
+敏鲈胶	min lu jiao	1
+黾勉棘蝇	min mian ji ying	1
+暝菜	ming cai	9
+鸣虫文化	ming chong wen hua	57
+螟蛉虫	ming ling chong	3
+明网灯虫	ming wang deng chong	1
+漠澳鵖	mo ao bi	2
+漠鵖	mo bi	7
+沫蝉科	mo chan ke	8
+漠鹑	mo chun	22
+膜袋虫属	mo dai chong shu	1
+莫岛角鸮	mo dao jiao xiao	1
+漠地林莺	mo di lin ying	1
+模毒蛾	mo du e	1
+莫顿巨蜥	mo dun ju xi	1
+魔法战宠	mo fa zhan chong	7
+墨纷舟蛾	mo fen zhou e	1
+漠风蝎科	mo feng xie ke	1
+磨菇杯蛛	mo gu bei zhu	1
+蘑菇珊瑚	mo gu shan hu	5
+膜管	mo guan	16
+魔鬼关刀	mo gui guan dao	5
+魔鬼松鼠	mo gui song shu	171
+魔鬼簑鮋	mo gui suo you	1
+魔鬼簑鲉	mo gui suo you	1
+魔鬼蛙	mo gui wa	69
+沫活	mo huo	72
+魔鱂	mo jiang	11
+漠角百灵	mo jiao bai ling	1
+膜节虫	mo jie chong	1
+莫科野鲮	mo ke ye ling	1
+膜口目	mo kou mu	14
+摩拉水牛	mo la shui niu	1
+莫老爹鸽	mo lao die ge	1
+墨累灰牛	mo lei hui niu	1
+茉莉花鱂	mo li hua jiang	3
+魔丽鮨	mo li yi	1
+摩利鱼	mo li yu	4
+漠林鸮	mo lin xiao	6
+漠林莺	mo lin ying	5
+膜颅	mo lu	8
+摩鹿绯鲤	mo lu fei li	1
+摩鹿加鹰	mo lu jia ying	3
+莫罗索犬	mo luo suo quan	2
+默蛮尺蛾	mo man chi e	1
+默梅芋螺	mo mei yu luo	1
+魔目夜蛾	mo mu ye e	1
+莫那龙	mo na long	34
+魔拟鮋	mo ni you	1
+摩乔球螋	mo qiao qiu sou	1
+墨瑞鳕	mo rui xue	5
+莫森水母	mo sen shui mu	3
+漠扇尾莺	mo shan wei ying	1
+摩氏豹鳎	mo shi bao ta	1
+模式动物	mo shi dong wu	495
+莫氏铃萤	mo shi ling ying	1
+莫氏鮠	mo shi wei	1
+莫氏溪鳉	mo shi xi jiang	1
+模式小鳄	mo shi xiao e	3
+磨笋螺	mo sun luo	1
+摩索水母	mo suo shui mu	1
+墨脱泉蝇	mo tuo quan ying	1
+墨脱园蛛	mo tuo yuan zhu	1
+漠鹀属	mo wu shu	1
+魔蜥	mo xi	146
+墨西哥鱥	mo xi ge gui	15
+墨西哥鮰	mo xi ge hui	37
+墨西哥鹿	mo xi ge lu	237
+墨西哥鮨	mo xi ge yi	36
+莫溪鳉	mo xi jiang	1
+抹香鲸	mo xiang jing	1093
+抹香鲸科	mo xiang jing ke	33
+魔小鲉	mo xiao you	1
+墨胸胡蜂	mo xiong hu feng	3
+没药蛱蝶	mo yao jia die	1
+陌夜蛾	mo ye e	1
+莫螈	mo yuan	17
+墨指虫属	mo zhi chong shu	1
+牟娄拟鲈	mou lou ni lu	1
+牟氏龟	mou shi gui	1
+牟氏水龟	mou shi shui gui	2
+姆巴氏魮	mu ba shi pi	1
+牡丹蛴螬	mu dan qi cao	3
+牡丹犬	mu dan quan	14
+牡丹虾	mu dan xia	62
+母岛炼螺	mu dao lian luo	1
+木蛾科	mu e ke	8
+墓蝠属	mu fu shu	1
+幕骨	mu gu	104
+木瓜鹰	mu gua ying	25
+木瓜鹰鱼	mu gua ying yu	2
+木回	mu hui	367
+木匠钟螺	mu jiang zhong luo	1
+目金蛛	mu jin zhu	12
+牡荆叶	mu jing ye	12
+木兰杜鹃	mu lan du juan	14
+木蓝灰蝶	mu lan hui die	1
+牡蛎骨螺	mu li gu luo	1
+牡蛎科	mu li ke	10
+牡蛎目	mu li mu	4
+木撩尺蠖	mu liao chi huo	1
+木燎尺蠖	mu liao chi huo	1
+牡鹿	mu lu	610
+姆密卡	mu mi ka	4
+木棉天牛	mu mian tian niu	2
+木球马陆	mu qiu ma lu	2
+木虱亚目	mu shi ya mu	6
+暮鼠	mu shu	92
+木松眼虫	mu song yan chong	1
+母性行为	mu xing xing wei	48
+暮眼蝶	mu yan die	5
+木叶鲽	mu ye die	3
+目夜蛾	mu ye e	19
+穆耶恩龙	mu ye en long	1
+木叶夜蛾	mu ye ye e	3
+目鱼	mu yu	585
+木賊峨螺	mu zei e luo	1
+木榛尺蠖	mu zhen chi huo	1
+姆指笔螺	mu zhi bi luo	1
+姆指筆螺	mu zhi bi luo	1
+拇指笔螺	mu zhi bi luo	1
+拇指猴	mu zhi hou	14
+拇趾隆起	mu zhi long qi	5
+木舟蛾	mu zhou e	3
+母猪壳	mu zhu ke	14
+那洪宝螺	na hong bao luo	3
+衲脊蛇	na ji she	1
+那伽毒蛇	na jia du she	15
+拿卡箭虫	na ka jian chong	1
+拿克奇	na ke qi	8
+奶茶仓鼠	nai cha cang shu	17
+奈灰蝶	nai hui die	1
+奶牛猫	nai niu mao	702
+南澳扁魟	nan ao bian hong	1
+南澳草鳚	nan ao cao wei	1
+南澳刺鲨	nan ao ci sha	2
+南澳厚蛤	nan ao hou ge	1
+南澳圆鲀	nan ao yuan tun	1
+南部锦龟	nan bu jin gui	3
+南槌鲸	nan chui jing	1
+楠迪熊	nan di xiong	1
+南非丛鵙	nan fei cong ju	5
+南非歌鵖	nan fei ge bi	2
+南非黑鹟	nan fei hei weng	6
+南非兀鹫	nan fei wu jiu	32
+南灰伯劳	nan hui bo lao	1
+南露脊鲸	nan lu ji jing	2
+南瓶鼻鲸	nan ping bi jing	1
+南日鲍	nan ri bao	5
+南日鲍鱼	nan ri bao yu	2
+南沙笠贝	nan sha li bei	2
+南台吻虎	nan tai wen hu	1
+南苇羚	nan wei ling	1
+南雄龟	nan xiong gui	14
+南猿	nan yuan	632
+南中国虎	nan zhong guo hu	21
+囊虫	nang chong	274
+囊宫科	nang gong ke	2
+囊基膜	nang ji mo	13
+囊形科	nang xing ke	12
+脑脊髓液	nao ji sui ye	58
+瑙鲁苇莺	nao lu wei ying	1
+挠抓反射	nao zhua fan she	20
+内陆猛蛇	nei lu meng she	2
+拟丹尼蕨	ni dan ni jue	1
+拟单鳍鱼	ni dan qi yu	1
+泥丁	ni ding	60
+泥东风螺	ni dong feng luo	1
+拟杜父鱼	ni du fu yu	6
+拟纺锤	ni fang chui	21
+尼负葬甲	ni fu zang jia	1
+逆钩鲹	ni gou shen	1
+泥鸡	ni ji	241
+泥里狗子	ni li gou zi	4
+拟瓢蛤属	ni piao ge shu	2
+拟穗鳞虫	ni sui lin chong	2
+尼亚鹩哥	ni ya liao ge	5
+拟鮨平鲉	ni yi ping you	1
+拟庸鲽	ni yong die	3
+拟栉尾鱈	ni zhi wei xue	1
+拟皱唇鲨	ni zhou chun sha	3
+鸟类贸易	niao lei mao yi	113
+鸟类迷飞	niao lei mi fei	5
+鸟帽虫	niao mao chong	2
+泞齿鳉	ning chi jiang	1
+泞盲鳗	ning mang man	1
+宁强马	ning qiang ma	42
+宁乡东南	ning xiang dong nan	12
+牛霸鹟	niu ba weng	2
+纽齿目	niu chi mu	2
+纽虫	niu chong	206
+牛带绦虫	niu dai tao chong	4
+牛鲂鮄	niu fang fu	2
+纽芬兰犬	niu fen lan quan	47
+牛骨猴	niu gu hou	7
+钮灰蝶	niu hui die	3
+钮灰蝶属	niu hui die shu	1
+牛角蜂	niu jiao feng	16
+牛角腮	niu jiao sai	13
+牛角箱鲍	niu jiao xiang bao	1
+牛科动物	niu ke dong wu	147
+钮扣珊瑚	niu kou shan hu	3
+钮扣蛛	niu kou zhu	1
+牛鸝	niu li	12
+扭螺	niu luo	14
+牛猫加菲	niu mao jia fei	2
+牛目	niu mu	239
+牛目脂鳚	niu mu zhi wei	1
+牛囊尾蚴	niu nang wei you	3
+扭拟灯蛾	niu ni deng e	1
+牛皮蝇	niu pi ying	71
+牛皮蝇属	niu pi ying shu	2
+牛犬鼠	niu quan shu	10
+牛鲨	niu sha	120
+纽氏丛莺	niu shi cong ying	1
+牛手参	niu shou shen	4
+牛蹄钟螺	niu ti zhong luo	1
+牛头獒犬	niu tou ao quan	2
+牛头犬	niu tou quan	176
+牛尾鱼	niu wei yu	29
+牛尾鱼科	niu wei yu ke	2
+纽形动物	niu xing dong wu	29
+纽行动物	niu xing dong wu	2
+牛亚科	niu ya ke	20
+牛眼枪虾	niu yan qiang xia	1
+牛眼青鯥	niu yan qing lu	1
+扭腰蜑螺	niu yao dan luo	1
+牛蝇	niu ying	266
+扭莺蛤	niu ying ge	1
+扭月贝	niu yue bei	2
+扭月贝纲	niu yue bei gang	1
+扭月贝目	niu yue bei mu	1
+纽月贝目	niu yue bei mu	1
+扭嘴犀鸟	niu zui xi niao	1
+弄蝶科	nong die ke	78
+弄蝶亚科	nong die ya ke	13
+弄岗穗鹛	nong gang sui mei	1
+浓冠鸦	nong guan ya	1
+脓海鞘	nong hai qiao	1
+浓眉夜蛾	nong mei ye e	1
+农盼	nong pan	16
+农神龙	nong shen long	7
+浓缩海水	nong suo hai shui	153
+努比山羊	nu bi shan yang	4
+怒寄蝇	nu ji ying	1
+奴假鳃虱	nu jia sai shi	1
+怒江弓鱼	nu jiang gong yu	4
+怒江拟鰋	nu jiang ni yan	1
+怒漏斗蛛	nu lou dou zhu	1
+怒鲨	nu sha	38
+怒鲨属	nu sha shu	1
+努夙舟蛾	nu su zhou e	1
+奴役蚁	nu yi yi	3
+暖气蜜蜂	nuan qi mi feng	2
+暖曙凤蝶	nuan shu feng die	1
+暖水虾	nuan shui xia	24
+暖熊	nuan xiong	128
+糯谷猪	nuo gu zhu	2
+诺门灯鳉	nuo men deng jiang	1
+糯米藤根	nuo mi teng gen	2
+诺娃宝螺	nuo wa bao luo	1
+挪威梗	nuo wei geng	50
+挪威猎犬	nuo wei lie quan	59
+挪威马鹿	nuo wei ma lu	15
+挪威猫	nuo wei mao	75
+挪威糜缇	nuo wei mi ti	1
+诺威奇梗	nuo wei qi geng	1
+诺亚魁蛤	nuo ya kui ge	1
+诺亚龙	nuo ya long	32
+诺植盲蝽	nuo zhi mang chun	1
+女神蛤	nv shen ge	44
+女贞尺蠖	nv zhen chi huo	6
+虐龙	nve long	391
+疟蚊	nve wen	156
+疟原虫科	nve yuan chong ke	9
+欧彩弄蝶	ou cai nong die	1
+欧歌鸫	ou ge dong	9
+鸥灰蝶属	ou hui die shu	1
+藕节炭	ou jie tan	4
+欧椋鸽	ou liang ge	5
+鸥龙属	ou long shu	3
+欧姆贝	ou mu bei	296
+欧姆殿龙	ou mu dian long	2
+欧鲇	ou nian	37
+偶鳍	ou qi	24
+欧氏宝螺	ou shi bao luo	1
+欧石鸻	ou shi heng	7
+鸥属	ou shu	9
+偶蹄动物	ou ti dong wu	41
+偶蹄类	ou ti lei	35
+偶蹄目	ou ti mu	84
+欧文宝螺	ou wen bao luo	1
+欧文齿龙	ou wen chi long	3
+欧文虫	ou wen chong	7
+欧西猫	ou xi mao	32
+鸥形目	ou xing mu	53
+欧亚歌鸲	ou ya ge qu	10
+欧亚河狸	ou ya he li	17
+欧亚金鸻	ou ya jin heng	9
+鸥亚科	ou ya ke	12
+欧亚犬	ou ya quan	112
+欧亚沙蜥	ou ya sha xi	21
+欧亚鳾	ou ya shi	12
+欧亚驼鹿	ou ya tuo lu	37
+欧夜鹰	ou ye ying	41
+偶纡舟蛾	ou yu zhou e	1
+欧爪牙龙	ou zhao ya long	1
+欧洲鮟鱇	ou zhou an kang	15
+欧洲粉蝶	ou zhou fen die	5
+欧洲犎牛	ou zhou feng niu	9
+欧洲陆龟	ou zhou lu gui	22
+欧洲浅茅	ou zhou qian mao	2
+欧洲野马	ou zhou ye ma	55
+欧洲野猫	ou zhou ye mao	54
+欧洲野牛	ou zhou ye niu	88
+欧洲医蛭	ou zhou yi zhi	4
+鸥嘴噪鸥	ou zui zao ou	16
+帕拉夜鹰	pa la ye ying	2
+趴蹄	pa ti	30
+排点灯蛾	pai dian deng e	1
+排蜂	pai feng	46
+排骨虾	pai gu xia	74
+庞贝虫	pang bei chong	10
+胖虎猫	pang hu mao	17
+胖樱蛤	pang ying ge	2
+胖婴鱼	pang ying yu	2
+泡沫蝉	pao mo chan	21
+泡沫珊瑚	pao mo shan hu	29
+跑犀	pao xi	56
+佩狄芬犬	pei di fen quan	1
+配景轮螺	pei jing lun luo	1
+佩恰	pei qia	78
+盆唇华鲮	pen chun hua ling	1
+盆景猫	pen jing mao	6
+皮弗娄牛	pi fu lou niu	1
+披肩榛鸡	pi jian zhen ji	2
+皮卡迪獚	pi ka di huang	1
+披鳞唇指	pi lin chun zhi	1
+皮瘤蝇	pi liu ying	1
+披毛目	pi mao mu	5
+披毛犀	pi mao xi	110
+披毛亚目	pi mao ya mu	15
+琵琶湖鮈	pi pa hu ju	1
+皮萨诺龙	pi sa nuo long	4
+鸊鷉	pi ti	1107
+鷿鷈	pi ti	330
+鸊鷉科	pi ti ke	12
+鸊鷉目	pi ti mu	5
+皮屑躄鱼	pi xie bi yu	1
+皮屑长蚧	pi xie zhang jie	1
+皮须小鮋	pi xu xiao you	1
+蚍子草	pi zi cao	1
+翩翅缘蝽	pian chi yuan chun	1
+偏牛	pian niu	201
+漂泊鸠	piao bo jiu	6
+瓢虫	piao chong	2324
+瓢虫茧蜂	piao chong jian feng	1
+漂浮海萤	piao fu hai ying	2
+漂浮生物	piao fu sheng wu	196
+漂浮植物	piao fu zhi wu	161
+瓢甲科	piao jia ke	2
+瓢水母	piao shui mu	8
+瓢鰕虎鱼	piao xia hu yu	1
+贫齿类	pin chi lei	93
+贫齿目	pin chi mu	144
+频伽鸟	pin jia niao	13
+品控室	pin kong shi	12
+品控员	pin kong yuan	23
+品系免疫	pin xi mian yi	2
+贫夜蛾	pin ye e	4
+瓶鼻鲸	ping bi jing	57
+瓶鼻鲸属	ping bi jing shu	4
+屏东须鱲	ping dong xu lie	1
+苹果蠧蛾	ping guo du e	15
+鲆科	ping ke	42
+平瀨寶螺	ping lai bao luo	1
+苹美皮夜	ping mei pi ye	1
+瓶砂壳虫	ping sha ke chong	1
+瓶形隙蛛	ping xing xi zhu	1
+平胸超目	ping xiong chao mu	1
+萍摇蚊	ping yao wen	2
+平庸宝螺	ping yong bao luo	1
+瓶圆田螺	ping yuan tian luo	1
+坡狗	po gou	226
+婆莫云牛	po mo yun niu	1
+菩尺蛾	pu chi e	1
+普度鹿	pu du lu	8
+普尔锹甲	pu er qiao jia	7
+普洱树蛙	pu er shu wa	1
+普京虎	pu jing hu	7
+普胯舟蛾	pu kua zhou e	1
+纀属	pu shu	1
+普通古蚖	pu tong gu yuan	3
+普通鵟	pu tong kuang	170
+普通楼燕	pu tong lou yan	6
+普通鳾	pu tong shi	64
+奇弹涂鱼	qi dan tu yu	2
+乞丐虫	qi gai chong	9
+奇海菊蛤	qi hai ju ge	1
+奇海猪鱼	qi hai zhu yu	1
+淇河鲫	qi he ji	2
+淇河鲫鱼	qi he ji yu	6
+奇迹龙	qi ji long	46
+奇极鰧	qi ji teng	1
+奇棘鱼	qi ji yu	6
+鬐甲	qi jia	14
+杞麓鲤	qi lu li	1
+桤木鹦哥	qi mu ying ge	2
+奇努克犬	qi nu ke quan	6
+棋盤鬘螺	qi pan man luo	1
+乞讨狗	qi tao gou	22
+漆尾夜蛾	qi wei ye e	1
+七夕斗鱼	qi xi dou yu	4
+七星花蝇	qi xing hua ying	4
+鳍足动物	qi zu dong wu	145
+恰帕芋螺	qia pa yu luo	1
+钱斑躄鱼	qian ban bi yu	1
+铅斑钩蛾	qian ban gou e	1
+钱包海棉	qian bao hai mian	1
+褰鼻蛇	qian bi she	1
+前鼻丝鳗	qian bi si man	2
+浅草蛇鳗	qian cao she man	2
+前长颌鮃	qian chang he ping	2
+前翅	qian chi	4621
+嵌齿象	qian chi xiang	51
+前齿肖蛸	qian chi xiao shao	4
+前充殖科	qian chong zhi ke	2
+嵌带弄蝶	qian dai nong die	1
+铅丹	qian dan	127
+前涤尺蛾	qian di chi e	3
+前滴目	qian di mu	88
+钳端虎甲	qian duan hu jia	1
+黔鳄	qian e	13
+迁飞粉蝶	qian fei fen die	2
+迁飞昆虫	qian fei kun chong	15
+迁粉蝶	qian fen die	1
+嵌跗斯鳄	qian fu si e	1
+前肛动物	qian gang dong wu	186
+前肛鳗	qian gang man	72
+钳钩蛾	qian gou e	3
+千国球蛛	qian guo qiu zhu	1
+浅海小鲉	qian hai xiao you	5
+浅海小鮋	qian hai xiao you	4
+浅黑狐蝠	qian hei hu fu	1
+浅黑野鲮	qian hei ye ling	1
+浅黄毒蛾	qian huang du e	9
+铅灰歌雀	qian hui ge que	1
+铅灰鸢	qian hui yuan	1
+浅灰珠鸡	qian hui zhu ji	3
+钳棘目	qian ji mu	5
+千脚虫	qian jiao chong	46
+钳巨蟹蛛	qian ju xie zhu	2
+前棱蜥目	qian leng xi mu	8
+浅蜊	qian li	48
+千里花	qian li hua	358
+前鳞笛鲷	qian lin di diao	11
+前鳞骨鲻	qian lin gu zi	5
+潜盲刺鳅	qian mang ci qiu	1
+前毛虫	qian mao chong	91
+前毛虫属	qian mao chong shu	5
+铅拟灯蛾	qian ni deng e	1
+千年义犬	qian nian yi quan	2
+潜鸟	qian niao	421
+潜鸟目	qian niao mu	3
+牵牛灰蝶	qian niu hui die	1
+前鳍吻鮋	qian qi wen you	5
+前鳃亚纲	qian sai ya gang	184
+铅色鯻	qian se la	1
+铅色野鲮	qian se ye ling	1
+铅色蚁鵙	qian se yi ju	1
+铅色匀鯻	qian se yun la	1
+千山蝮	qian shan fu	21
+前山拟毛	qian shan ni mao	6
+钱鼠	qian shu	45
+黔双胜蛛	qian shuang sheng zhu	1
+潜水艇鱼	qian shui ting yu	23
+钳四盾	qian si dun	3
+钳丝尾螋	qian si wei sou	1
+钳螋	qian sou	13
+乾泰	qian tai	199
+嵌条扇贝	qian tiao shan bei	1
+前臀鮡	qian tun zhao	7
+前胸背板	qian xiong bei ban	18
+潜鸭属	qian ya shu	6
+潜叶虫	qian ye chong	48
+潜叶蛾科	qian ye e ke	8
+千叶灵芝	qian ye ling zhi	33
+千叶龙	qian ye long	174
+潜叶蝇	qian ye ying	70
+浅隐龙	qian yin long	33
+潜蝇茧蜂	qian ying jian feng	1
+潜蝇科	qian ying ke	15
+潜鱼亚科	qian yu ya ke	2
+浅圆盘螺	qian yuan pan luo	3
+前殖孔类	qian zhi kong lei	13
+前中背片	qian zhong bei pian	9
+强霸鹟	qiang ba weng	1
+腔笔石目	qiang bi shi mu	1
+羌壁猪	qiang bi zhu	1
+强齿棘鼠	qiang chi ji shu	1
+腔齿犀属	qiang chi xi shu	1
+羌虫	qiang chong	40
+强大小蠹	qiang da xiao du	2
+强杜父鱼	qiang du fu yu	2
+墙沟蜾蠃	qiang gou guo luo	1
+墙骨龙	qiang gu long	9
+腔棘目	qiang ji mu	16
+腔棘鱼	qiang ji yu	177
+蜣螂转丸	qiang lang zhuan wan	1
+强肋杓蛤	qiang lei shao ge	1
+枪猎犬	qiang lie quan	21
+腔裸口虫	qiang luo kou chong	1
+强尼鲁克	qiang ni lu ke	2
+枪炮龙	qiang pao long	4
+强条蜂	qiang tiao feng	2
+枪头真鲨	qiang tou zhen sha	1
+蔷薇带鰆	qiang wei dai chun	1
+蔷薇海星	qiang wei hai xing	6
+腔尾龙	qiang wei long	10
+蔷薇叶蜂	qiang wei ye feng	5
+羌纹尺蛾	qiang wen chi e	1
+枪吻海龙	qiang wen hai long	1
+强污灯蛾	qiang wu deng e	1
+枪虾	qiang xia	247
+强小舟蛾	qiang xiao zhou e	1
+强缘凤螺	qiang yuan feng luo	1
+强壮壳目	qiang zhuang ke mu	1
+强壮菱蟹	qiang zhuang ling xie	1
+桥虫动物	qiao chong dong wu	5
+翘腹希蛛	qiao fu xi zhu	1
+锹甲	qiao jia	256
+桥街结鱼	qiao jie jie yu	1
+乔科窜鸟	qiao ke cuan niao	1
+乔科马	qiao ke ma	43
+乔科莺雀	qiao ke ying que	1
+翘鳞蛤	qiao lin ge	6
+锹形虫	qiao xing chong	105
+鞘圆沫蝉	qiao yuan mo chan	1
+乔治口蘑	qiao zhi kou mo	6
+窃蛋龙	qie dan long	142
+窃蛋龙类	qie dan long lei	11
+怯地刺莺	qie di ci ying	1
+窃鹿毛鸟	qie lu mao niao	1
+切叶蚁	qie ye yi	480
+秦川牛	qin chuan niu	66
+秦川肉牛	qin chuan rou niu	19
+钦迪龙	qin di long	4
+秦菲蛱蝶	qin fei jia die	1
+蠄蟧	qin lao	37
+沁全蝎	qin quan xie	1
+梫星尺蛾	qin xing chi e	1
+青宝贝鳉	qing bao bei jiang	1
+青豹蛱蝶	qing bao jia die	1
+青波	qing bo	964
+清波鱼	qing bo yu	109
+青步甲	qing bu jia	12
+青川犬	qing chuan quan	11
+青弹涂鱼	qing dan tu yu	3
+青豆虾仁	qing dou xia ren	25
+青蒿囊虫	qing hao nang chong	2
+青鱂	qing jiang	70
+清江红鲤	qing jiang hong li	2
+清江鱼	qing jiang yu	168
+青鱂鱼	qing jiang yu	18
+青魔鱼	qing mo yu	6
+青梢红鮊	qing shao hong ba	1
+青梢红鲌	qing shao hong bo	1
+青鮠	qing wei	30
+青缨鮃	qing ying ping	1
+清远麻鸡	qing yuan ma ji	35
+青瞻星鱼	qing zhan xing yu	1
+清蒸全鱼	qing zheng quan yu	23
+青嘴龙占	qing zui long zhan	1
+求偶炫耀	qiu ou xuan yao	130
+秋浦花鳜	qiu pu hua gui	1
+球潜水母	qiu qian shui mu	2
+球饰孔螺	qiu shi kong luo	1
+鳅鮀	qiu tuo	37
+鳅鮀属	qiu tuo shu	1
+球衣滴虫	qiu yi di chong	1
+球圆田螺	qiu yuan tian luo	2
+曲矛角蝉	qu mao jiao chan	1
+趋魔犬	qu mo quan	2
+去皮豆粕	qu pi dou po	8
+趣谈吃蟹	qu tan chi xie	2
+曲纹唇鱼	qu wen chun yu	1
+趋性反应	qu xing fan ying	34
+圈肠科	quan chang ke	1
+犬齿赤莲	quan chi chi lian	1
+全齿目	quan chi mu	44
+全耳毛兔	quan er mao tu	2
+犬感冒	quan gan mao	5
+全沟硬蜱	quan gou ying pi	5
+全骨附类	quan gu fu lei	5
+全骨鱼类	quan gu yu lei	18
+泉灰蝶属	quan hui die shu	1
+拳击蟹	quan ji xie	18
+圈颈鰏	quan jing bi	1
+犬科动物	quan ke dong wu	361
+全棱兽	quan leng shou	16
+犬羚	quan ling	21
+泉龙	quan long	99
+犬鸟虱	quan niao shi	1
+泉膀胱螺	quan pang guang luo	1
+拳参	quan shen	230
+拳狮犬	quan shi quan	20
+犬首鮈	quan shou ju	1
+泉水鱼	quan shui yu	81
+拳头海葵	quan tou hai kui	3
+全头亚纲	quan tou ya gang	19
+犬胃扩张	quan wei kuo zhang	7
+全尾幼虫	quan wei you chong	12
+醛无病	quan wu bing	4
+全息胚	quan xi pei	24
+全虾	quan xia	456
+全虾总目	quan xia zong mu	3
+泉小鱥	quan xiao gui	1
+权蟹	quan xie	17
+犬型亚目	quan xing ya mu	1
+犬亚科	quan ya ke	33
+拳岩螺	quan yan luo	1
+全爪鳄	quan zhao e	56
+犬只饲养	quan zhi si yang	32
+圈紫胸鱼	quan zi xiong yu	1
+缺边卷蛾	que bian juan e	1
+缺翅目	que chi mu	3
+缺齿鼹	que chi yan	2
+缺刻矶蟹	que ke ji xie	1
+炔螨特	que man te	2
+缺须	que xu	97
+髯毛鰕虎	ran mao xia hu	1
+饶虫	rao chong	87
+绕虫病	rao chong bing	132
+任村猴	ren cun hou	1
+人工鱼礁	ren gong yu jiao	71
+人毛滴虫	ren mao di chong	6
+人面动物	ren mian dong wu	85
+人面鸮	ren mian xiao	33
+日本柴犬	ri ben chai quan	87
+日本地龟	ri ben di gui	5
+日本蝠鱝	ri ben fu fen	20
+日本冠鹮	ri ben guan huan	4
+日本鬼鮋	ri ben gui you	23
+日本海萤	ri ben hai ying	4
+日本黑牛	ri ben hei niu	47
+日本花鹿	ri ben hua lu	27
+日本鹡鸰	ri ben ji ling	7
+日本矶蟹	ri ben ji xie	3
+日本肯蚖	ri ben ken yuan	1
+日本鬘螺	ri ben man luo	2
+日本毛蚶	ri ben mao han	6
+日本美尾	ri ben mei wei	6
+日本蜜蜂	ri ben mi feng	89
+日本糯鳗	ri ben nuo man	8
+日本犬	ri ben quan	566
+日本丝蟌	ri ben si cong	1
+日本鯷	ri ben ti	59
+日本犀鳕	ri ben xi xue	11
+日本希蛛	ri ben xi zhu	2
+日本小蠹	ri ben xiao du	10
+日本肖蛸	ri ben xiao shao	9
+日本须鰃	ri ben xu wei	1
+日本蟳	ri ben xun	46
+日本叶蜂	ri ben ye feng	7
+日本医蛭	ri ben yi zhi	16
+日本银鮈	ri ben yin ju	5
+日本银炉	ri ben yin lu	3
+日本钟蟋	ri ben zhong xi	3
+日本左鮃	ri ben zuo ping	2
+日出龙鱼	ri chu long yu	5
+日带目	ri dai mu	12
+日岛血蜱	ri dao xue pi	1
+日蛾科	ri e ke	17
+日光樱蛤	ri guang ying ge	1
+日龟虎蛾	ri gui hu e	1
+日规蜗牛	ri gui wo niu	7
+日鳽	ri jian	61
+日鳽科	ri jian ke	2
+日康吉鳗	ri kang ji man	1
+日鷉科	ri ti ke	8
+日月蛤	ri yue ge	21
+榕管蓟马	rong guan ji ma	1
+熔炉芋螺	rong lu yu luo	1
+绒毛弄蝶	rong mao nong die	2
+榕木虱	rong mu shi	1
+荣望灯蛾	rong wang deng e	1
+溶藻弧菌	rong zao hu jun	2
+绒毡层	rong zhan ceng	20
+肉垂鹤	rou chui he	2
+肉垂水雉	rou chui shui zhi	2
+柔副鳅	rou fu qiu	1
+肉驴	rou lv	349
+肉用黄牛	rou yong huang niu	60
+乳宝	ru bao	253
+乳杯虫属	ru bei chong shu	1
+乳房贝	ru fang bei	9
+乳房贝目	ru fang bei mu	1
+乳房贝属	ru fang bei shu	1
+乳黄雕鸮	ru huang diao xiao	2
+乳頭拳螺	ru tou quan luo	1
+软颅	ruan lu	54
+软体动物	ruan ti dong wu	3252
+软炸虾	ruan zha xia	72
+软爪陆虾	ruan zhao lu xia	1
+瑞澳吨牛	rui ao dun niu	1
+瑞芬贝	rui fen bei	3
+弱小铃萤	ruo xiao ling ying	1
+萨路基犬	sa lu ji quan	55
+萨卢基犬	sa lu ji quan	17
+萨摩狗	sa mo gou	42
+萨摩犬	sa mo quan	159
+萨默氏魮	sa mo shi pi	1
+萨摩耶狗	sa mo ye gou	31
+萨摩耶犬	sa mo ye quan	92
+撒莫依犬	sa mo yi quan	1
+塞蒙地犬	sai meng di quan	1
+赛姆螈	sai mu yuan	1
+鳃腔	sai qiang	108
+赛胃安	sai wei an	2
+鳃曳虫	sai ye chong	7
+鳃曳虫类	sai ye chong lei	2
+三分节虫	san fen jie chong	1
+三沟驹蝗	san gou ju huang	1
+三骨孔	san gu kong	6
+散光毛蟹	san guang mao xie	1
+三觭龙	san ji long	5
+三间虎	san jian hu	24
+三间魔鱼	san jian mo yu	1
+三角帆蚌	san jiao fan bang	17
+三角鬼蛛	san jiao gui zhu	1
+三角聚鯻	san jiao ju la	1
+三角恐龙	san jiao kong long	190
+三角溞	san jiao sao	1
+三角招潮	san jiao zhao chao	3
+三連鐘螺	san lian zhong luo	1
+三列棘蝇	san lie ji ying	2
+桑木蝨	sang mu shi	3
+桑牛牛	sang niu niu	19
+色蟌总科	se cong zong ke	1
+色矛目	se mao mu	1
+瑟氏獛	se shi pu	1
+森林革蜱	sen lin ge pi	1
+森林古猿	sen lin gu yuan	20
+僧帽牡蛎	seng mao mu li	6
+僧帽水母	seng mao shui mu	83
+沙赑	sha bi	29
+砂大指鱚	sha da zhi xi	1
+沙漏芋螺	sha lou yu luo	2
+沙鯭鱼	sha meng yu	3
+沙漠鱼	sha mo yu	113
+沙漠蛛蜂	sha mo zhu feng	2
+沙钱	sha qian	933
+砂潜	sha qian	92
+沙氏下鱵	sha shi xia zhen	1
+沙特尔猫	sha te er mao	7
+沙苑子	sha yuan zi	187
+沙展鱼	sha zhan yu	4
+沙蠋	sha zhu	25
+沙蠋科	sha zhu ke	2
+扇贝科	shan bei ke	16
+山窗萤	shan chuang ying	6
+閃電渦螺	shan dian wo luo	1
+闪光桔蛤	shan guang ju ge	1
+山黄蝶	shan huang die	5
+山鹡鸰	shan ji ling	3
+山驴骨	shan lv gu	3
+山木盲蝽	shan mu mang chun	1
+山牛毛毡	shan niu mao zhan	5
+山羌	shan qiang	122
+鄯善龙	shan shan long	7
+扇尾杜鹃	shan wei du juan	15
+扇尾芦莺	shan wei lu ying	2
+山啸鹟	shan xiao weng	1
+山形金鱼	shan xing jin yu	8
+山药叶蜂	shan yao ye feng	1
+山鹦哥	shan ying ge	12
+山楂斑蛾	shan zha ban e	2
+山楂粉蝶	shan zha fen die	1
+山寨熊猫	shan zhai xiong mao	10
+商品鹅	shang pin e	22
+上位蝶蛛	shang wei die zhu	1
+绍德春蜓	shao de chun ting	1
+邵东希望	shao dong xi wang	31
+杓蛤	shao ge	8
+烧酒海蜷	shao jiu hai quan	1
+少女神仙	shao nv shen xian	123
+梢迁狗	shao qian gou	2
+卲氏拟鲈	shao shi ni lu	1
+鮹鱼	shao yu	53
+舌杯虫	she bei chong	2
+射弓红	she gong hong	3
+射狗母	she gou mu	4
+射狗母鱼	she gou mu yu	1
+射颈龙	she jing long	7
+蛇尾亚纲	she wei ya gang	4
+射肖蛸	she xiao shao	3
+舌形贝	she xing bei	13
+舌形贝纲	she xing bei gang	2
+神木雏蝗	shen mu chu huang	1
+神农虫	shen nong chong	19
+沈氏板蟹	shen shi ban xie	1
+深鰕虎鱼	shen xia hu yu	1
+深小角虫	shen xiao jiao chong	1
+神鹰龟属	shen ying gui shu	1
+鯵鱼	shen yu	337
+圣卢拟鹂	sheng lu ni li	1
+生态效率	sheng tai xiao lv	169
+昇天凤蝶	sheng tian feng die	1
+饰斑盖蛛	shi ban gai zhu	1
+史毕诺犬	shi bi nuo quan	3
+石鮅鱼	shi bi yu	1
+石蛃目	shi bing mu	1
+矢仓笔螺	shi cang bi luo	1
+食虫植物	shi chong zhi wu	54
+饰带唇指	shi dai chun zhi	1
+师古绢蝶	shi gu juan die	1
+饰冠鹰雕	shi guan ying diao	2
+饰光水螟	shi guang shui ming	1
+饰龟灯蛾	shi gui deng e	1
+石斛篓象	shi hu lou xiang	1
+石灰虫	shi hui chong	445
+施计谋	shi ji mou	48
+饰结角蝉	shi jie jiao chan	1
+石金钱	shi jin qian	111
+石金钱龟	shi jin qian gui	31
+饰颈皱鹟	shi jing zhou weng	1
+石榴毡蚧	shi liu zhan jie	1
+石楼禾虫	shi lou he chong	1
+始贫齿兽	shi pin chi shou	22
+史前巨蝎	shi qian ju xie	12
+史柔查梗	shi rou cha geng	1
+石苇叶	shi wei ye	4
+柿小叶蝉	shi xiao ye chan	1
+食蟹獴	shi xie meng	7
+始新海牛	shi xin hai niu	10
+湿薪甲	shi xin jia	1
+蝨蝇	shi ying	7
+适应趋同	shi ying qu tong	11
+食用鸽	shi yong ge	27
+食猿鵰	shi yuan diao	1
+狮子鹅	shi zi e	47
+狮子狗	shi zi gou	1413
+绶带卷尾	shou dai juan wei	4
+收割蚁	shou ge yi	30
+寿光大鸡	shou guang da ji	42
+寿光鸡	shou guang ji	131
+收获蚁	shou huo yi	17
+收获蚁属	shou huo yi shu	3
+瘦体波鱼	shou ti bo yu	1
+首哇朵蛛	shou wa duo zhu	1
+瘦叶围啮	shou ye wei nie	1
+舒伯齐犬	shu bo qi quan	1
+舒伯特鲃	shu bo te ba	2
+树丛小犬	shu cong xiao quan	1
+曙虎天牛	shu hu tian niu	1
+淑花杜鹃	shu hua du juan	2
+熟藕紫	shu ou zi	3
+竖琴骨螺	shu qin gu luo	1
+鼠文化	shu wen hua	152
+鼠鱚科	shu xi ke	3
+树息龙	shu xi long	6
+鼠鱚目	shu xi mu	10
+鼠衔姜	shu xian jiang	2
+束小瓢虫	shu xiao piao chong	2
+鼠鱼衔科	shu yu xian ke	1
+树猿类	shu yuan lei	9
+束植蝇	shu zhi ying	1
+数字蝶	shu zi die	47
+双带小丑	shuang dai xiao chou	9
+双滴虫目	shuang di chong mu	1
+双点波鱼	shuang dian bo yu	1
+双领鸻	shuang ling heng	4
+双腔龙	shuang qiang long	16
+双头小猫	shuang tou xiao mao	38
+双效磷	shuang xiao lin	23
+双小水母	shuang xiao shui mu	6
+双摇祝蛾	shuang yao zhu e	1
+双印龙	shuang yin long	23
+双指鬼鮋	shuang zhi gui you	1
+水虫也	shui chong ye	7
+水稻粘虫	shui dao zhan chong	15
+水墨黑	shui mo hei	385
+水母钳	shui mu qian	6
+水牛鹿	shui niu lu	17
+水涯狡蛛	shui ya jiao zhu	1
+水猿理论	shui yuan li lun	10
+似奥克龙	si ao ke long	1
+似白鮈	si bai ju	1
+四斑芦蜂	si ban lu feng	1
+四斑魮	si ban pi	5
+四斑沙鸡	si ban sha ji	8
+四笔石	si bi shi	13
+四叉虫属	si cha chong shu	2
+四长棘鲷	si chang ji diao	3
+四齿矶蟹	si chi ji xie	1
+四川鮰	si chuan hui	45
+四川林鸮	si chuan lin xiao	8
+四川鮡	si chuan zhao	19
+似刺鳊鮈	si ci bian ju	1
+丝朿蛤属	si ci ge shu	1
+四大海味	si da hai wei	8
+四带鹿蛾	si dai lu e	1
+四带牙鯻	si dai ya la	1
+四点蝶	si dian die	7
+四点蛹螺	si dian yong luo	1
+四楯海鲶	si dun hai nian	2
+四耳猫	si er mao	17
+似飞鱵	si fei zhen	1
+似鱤	si gan	16
+四钩虫属	si gou chong shu	1
+四沟叶蚤	si gou ye zao	1
+四国猎犬	si guo lie quan	5
+四国犬	si guo quan	15
+四棘虫属	si ji chong shu	5
+似鱎	si jiao	13
+四角唇指	si jiao chun zhi	2
+四角蛤	si jiao ge	91
+四角蛤蜊	si jiao ge li	10
+四角鹿	si jiao lu	93
+四节蜉	si jie fu	2
+四节蜉科	si jie fu ke	1
+四孔蛇鳗	si kong she man	2
+四孔潍鲤	si kong wei li	1
+四块魮	si kuai pi	7
+丝路龙	si lu long	71
+思茅壶蚧	si mao hu jie	1
+思茅希蛛	si mao xi zhu	1
+四膜虫属	si mo chong shu	4
+似奇棘鮗	si qi ji dong	1
+丝鳍鱚科	si qi xi ke	1
+似四钩科	si si gou ke	1
+斯特丙小	si te bing xiao	1
+似提姆龙	si ti mu long	1
+似小鳔鮈	si xiao biao ju	1
+四眼贝	si yan bei	25
+四值	si zhi	2140
+蜤螽	si zhong	2
+松巴鹰鸮	song ba ying xiao	1
+松毛虫病	song mao chong bing	75
+松全蝽	song quan chun	1
+松鼠尾	song shu wei	203
+松尾守宫	song wei shou gong	1
+蜙蝑	song xu	33
+叟猴	sou hou	10
+嗽金鸟	sou jin niao	26
+薮猫	sou mao	351
+薮犬亚科	sou quan ya ke	3
+苏柏羊齿	su bai yang chi	1
+苏白猪	su bai zhu	17
+苏丹墓蝠	su dan mu fu	1
+苏岛鹃鵙	su dao juan ju	1
+苏菲亚虾	su fei ya xia	6
+苏格兰梗	su ge lan geng	2202
+苏格兰猫	su ge lan mao	317
+苏哈犬	su ha quan	10
+苏禄芋螺	su lu yu luo	1
+苏眉	su mei	5445
+苏门虎	su men hu	95
+苏门角鸮	su men jiao xiao	1
+苏牟龙	su mou long	6
+苏牟龙属	su mou long shu	1
+宿迁正虹	su qian zheng hong	2
+苏氏步甲	su shi bu jia	6
+苏氏芒鲶	su shi mang nian	1
+素尾鹰	su wei ying	3
+算盘蛤	suan pan ge	11
+繸凤鳚	sui feng wei	1
+碎花芋螺	sui hua yu luo	1
+繸菱鱼虱	sui ling yu shi	1
+髓木	sui mu	38
+繸鳍鮗	sui qi dong	1
+孙氏长鲈	sun shi chang lu	1
+娑环蛱蝶	suo huan jia die	1
+羧肽酶	suo tai mei	24
+蓑衣虫病	suo yi chong bing	5
+锁钥学说	suo yue xue shuo	4
+塌鼻猴	ta bi hou	10
+塔猎椿象	ta lie chun xiang	1
+塔协苔螋	ta xie tai sou	1
+塔形核螺	ta xing he luo	1
+泰勃圆鰺	tai bo yuan shen	1
+台鮗	tai dong	3
+台鸽	tai ge	19
+鲐鮯	tai ge	2
+胎記寶螺	tai ji bao luo	1
+台鹿舟蛾	tai lu zhou e	1
+台湾艾蛛	tai wan ai zhu	1
+台湾抱蛤	tai wan bao ge	2
+台湾贝类	tai wan bei lei	16
+台灣錩螺	tai wan chang luo	1
+台湾窗萤	tai wan chuang ying	4
+台湾鰆鲹	tai wan chun shen	1
+台湾稻螟	tai wan dao ming	2
+台湾电鱝	tai wan dian fen	1
+台湾螲蟷	tai wan die dang	6
+台湾凡鲻	tai wan fan zi	2
+台湾粉蝶	tai wan fen die	2
+台湾狗母	tai wan gou mu	2
+台湾滑蜥	tai wan hua xi	8
+台湾黄蝶	tai wan huang die	3
+台湾脊蛇	tai wan ji she	3
+台湾姬鱼	tai wan ji yu	2
+台湾鱲	tai wan lie	12
+台湾芦蜂	tai wan lu feng	1
+台湾盲鳗	tai wan mang man	4
+台湾孟蝇	tai wan meng ying	1
+台湾拟鮃	tai wan ni ping	6
+台湾牛	tai wan niu	28
+台湾枪鱼	tai wan qiang yu	3
+台湾鳅鮀	tai wan qiu tuo	3
+台湾犬	tai wan quan	23
+台湾山羌	tai wan shan qiang	15
+台湾石	tai wan shi	28
+台湾水鹿	tai wan shui lu	10
+台湾土犬	tai wan tu quan	9
+台湾鮠	tai wan wei	10
+台湾细鯿	tai wan xi bian	4
+台湾蜥虎	tai wan xi hu	15
+台湾下鱵	tai wan xia zhen	1
+台湾小鲵	tai wan xiao ni	15
+台湾须鱲	tai wan xu lie	2
+台湾野兔	tai wan ye tu	39
+台湾银鮈	tai wan yin ju	3
+台湾硬蜱	tai wan ying pi	6
+台湾玉蟹	tai wan yu xie	6
+台湾枣螺	tai wan zao luo	1
+太尉芋螺	tai wei yu luo	1
+台乌药	tai wu yao	2
+滩浪钩虾	tan lang gou xia	1
+谈色紫黄	tan se zi huang	1
+滩头鱼	tan tou yu	18
+滩羊	tan yang	415
+贪叶夜蛾	tan ye ye e	1
+烫骨碎补	tang gu sui bu	1
+糖果蜗牛	tang guo wo niu	50
+唐玉强	tang yu qiang	31
+桃赤蚜	tao chi ya	1
+讨饭猫	tao fan mao	3
+桃冠潜蛾	tao guan qian e	1
+桃紅蛹螺	tao hong yong luo	1
+洮湖	tao hu	24
+桃花骨螺	tao hua gu luo	1
+桃花水母	tao hua shui mu	377
+淘甲	tao jia	6
+淘甲科	tao jia ke	1
+桃盔蚧	tao kui jie	1
+桃羅螺	tao luo luo	1
+桃潜叶蛾	tao qian ye e	2
+特狈路龙	te bei lu long	2
+特波疣猪	te bo you zhu	3
+特长指蛛	te chang zhi zhu	2
+特岛骨顶	te dao gu ding	1
+特岛浣熊	te dao huan xiong	3
+特岛毛鲶	te dao mao nian	1
+特岛鸲鹟	te dao qu weng	1
+特伏丹	te fu dan	16
+特弗伦犬	te fu lun quan	1
+特鲁克鹟	te lu ke weng	5
+特萨努	te sa nu	13
+特种警犬	te zhong jing quan	124
+鰧头鮋	teng tou you	2
+鹈鳺	ti fu	2
+提环蛱蝶	ti huan jia die	1
+蹄角粉	ti jiao fen	2
+鶗鴃	ti jue	67
+鷈形目	ti xing mu	7
+天津紫蟹	tian jin zi xie	20
+黇鹿	tian lu	105
+天门得福	tian men de fu	11
+天母螺	tian mu luo	8
+天幕毛虫	tian mu mao chong	1
+天台越龙	tian tai yue long	3
+天堂凤蝶	tian tang feng die	5
+甜甜圈龟	tian tian quan gui	5
+田野安蛛	tian ye an zhu	1
+田野猎犬	tian ye lie quan	22
+田字频	tian zi pin	9
+条褐卷蛾	tiao he juan e	1
+条马陆	tiao ma lu	2
+条纹褐蝗	tiao wen he huang	1
+条纹鱧鯙	tiao wen li chun	1
+条纹鬘螺	tiao wen man luo	1
+跳跃蟑螂	tiao yue zhang lang	18
+跳跃足	tiao yue zu	90
+蛈蛚	tie lie	22
+鐵柵筆螺	tie shan bi luo	1
+铁爪鹀	tie zhao wu	1
+铁爪鹀属	tie zhao wu shu	1
+桐庐指蛛	tong lu zhi zhu	1
+筒杞龟甲	tong qi gui jia	1
+筒轴茅	tong zhou mao	1
+头楯目	tou dun mu	2
+头切迹	tou qie ji	4
+投喂频率	tou wei pin lv	29
+透小洁螺	tou xiao jie luo	1
+兔袋狸	tu dai li	7
+兔袋狸科	tu dai li ke	1
+吐谷鲁龙	tu gu lu long	2
+兔猴类	tu hou lei	5
+兔甲鲶	tu jia nian	1
+吐鲁茨龙	tu lu ci long	1
+吐鲁番鱥	tu lu fan gui	6
+吐鲁番驴	tu lu fan lv	18
+图们鱥	tu men gui	3
+鵚鹙	tu qiu	1
+凸杓蛤	tu shao ge	1
+兔匙甲鲶	tu shi jia nian	1
+吐绶鸡科	tu shou ji ke	2
+突胸窗萤	tu xiong chuang ying	1
+突缘叶蝉	tu yuan ye chan	1
+团花锦蛇	tuan hua jin she	1
+团聚牡蛎	tuan ju mu li	33
+臀斑躄鱼	tun ban bi yu	1
+臀角	tun jiao	38
+驼背躄鱼	tuo bei bi yu	3
+驼背潜鱼	tuo bei qian yu	4
+驼角蝉	tuo jiao chan	8
+驼金龟	tuo jin gui	5
+驼金龟科	tuo jin gui ke	1
+鵎鵼	tuo kong	5
+鵎鵼科	tuo kong ke	1
+托氏琩螺	tuo shi chang luo	1
+驼蹄鸡	tuo ti ji	25
+拖鞋舟螺	tuo xie zhou luo	1
+椭圆前鲽	tuo yuan qian die	1
+瓦氏寶螺	wa shi bao luo	1
+蛙战	wa zhan	174
+外套膜	wai tao mo	9
+外星婴儿	wai xing ying er	282
+湾岸蟾蜍	wan an chan chu	1
+萬寶螺	wan bao luo	4
+弯刀骨螺	wan dao gu luo	1
+豌豆潜蝇	wan dou qian ying	1
+豌豆蚜	wan dou ya	22
+弯弓鼠鱼	wan gong shu yu	1
+丸花蜂	wan hua feng	5
+弯棘	wan ji	19
+弯脊龙	wan ji long	18
+弯棘斜棘	wan ji xie ji	1
+弯棘鱼衔	wan ji yu xian	1
+皖南中蜂	wan nan zhong feng	2
+晚期猿人	wan qi yuan ren	24
+弯月蝶	wan yue die	4
+弯月斜棘	wan yue xie ji	1
+弯嘴芦雀	wan zui lu que	1
+弯嘴雀	wan zui que	14
+网灯虫	wang deng chong	1
+王冠狐猴	wang guan hu hou	5
+网脉越桔	wang mai yue ju	1
+網目寶螺	wang mu bao luo	1
+网石罩虫	wang shi zhao chong	1
+网纹扭螺	wang wen niu luo	3
+王鹟	wang weng	36
+尾斑溪鳉	wei ban xi jiang	2
+伪鳖	wei bie	7
+伪步行虫	wei bu xing chong	4
+尾草履虫	wei cao lv chong	3
+娓翠夜蛾	wei cui ye e	1
+苇笛细蟌	wei di xi cong	1
+胃毒作用	wei du zuo yong	8
+伟鳄兽	wei e shou	3
+韦尔斯猫	wei er si mao	21
+围戈那蛛	wei ge na zhu	1
+韦格替蜥	wei ge ti xi	1
+渭河虻	wei he meng	1
+苇荷蚁蛛	wei he yi zhu	1
+苇鸻	wei heng	8
+维灰蝶属	wei hui die shu	1
+伟铗	wei jia	8
+维加波鱼	wei jia bo yu	1
+胃甲龙	wei jia long	8
+维加鸟	wei jia niao	3
+伟铗趴	wei jia pa	1
+伪尖毛虫	wei jian mao chong	1
+苇鳽属	wei jian shu	1
+尾角贝虫	wei jiao bei chong	1
+围栏养殖	wei lan yang zhi	95
+螱蠊科	wei lian ke	1
+伟鬣齿兽	wei lie chi shou	3
+胃鳞虫	wei lin chong	3
+苇羚亚科	wei ling ya ke	1
+魏玛猎犬	wei ma lie quan	15
+魏玛犬	wei ma quan	9
+伪美洲鱥	wei mei zhou gui	4
+尾莫蟹蛛	wei mo xie zhu	1
+维那犬	wei na quan	8
+伪瓢虫	wei piao chong	18
+伪瓢甲科	wei piao jia ke	1
+尾漂眼虫	wei piao yan chong	1
+尾鳍天牛	wei qi tian niu	1
+伪奇舟蛾	wei qi zhou e	1
+尾嵌线螺	wei qian xian luo	1
+围巧言虫	wei qiao yan chong	1
+尾切叶蜂	wei qie ye feng	5
+尾仁眼蝶	wei ren yan die	1
+围沙蚕	wei sha can	1
+维神光萤	wei shen guang ying	1
+维氏宝螺	wei shi bao luo	1
+韦氏兵鲶	wei shi bing nian	1
+魏氏齿蟾	wei shi chi chan	1
+魏氏麂羚	wei shi ji ling	1
+魏氏蝰	wei shi kui	2
+韦氏鳞叭	wei shi lin ba	1
+维氏鮠	wei shi wei	1
+韦氏溪鳉	wei shi xi jiang	1
+韦氏魣	wei shi yu	1
+韦氏圆鳐	wei shi yuan yao	1
+尾瘦尾虫	wei shou wei chong	1
+为腧	wei shu	55
+萎缩蛙	wei suo wa	5
+韦特豪犬	wei te hao quan	1
+微体化石	wei ti hua shi	15
+胃蛙	wei wa	21
+苇鹀	wei wu	12
+维吾尔鳕	wei wu er xue	16
+苇下口鲶	wei xia kou nian	1
+微笑鸟	wei xiao niao	53
+微小牛蜱	wei xiao niu pi	4
+微小天牛	wei xiao tian niu	6
+伪蝎	wei xie	38
+伪蝎目	wei xie mu	7
+畏新园蛛	wei xin yuan zhu	1
+围胸目	wei xiong mu	6
+尾芽	wei ya	74
+尾眼虫	wei yan chong	10
+围眼沟	wei yan gou	1
+尾叶虫属	wei ye chong shu	2
+胃叶虫属	wei ye chong shu	2
+维也纳兔	wei ye na tu	86
+苇莺	wei ying	262
+胃蝇	wei ying	70
+尾缨虫	wei ying chong	2
+胃蝇科	wei ying ke	17
+伪英丽鱼	wei ying li yu	1
+伪硬毛鼠	wei ying mao shu	1
+苇莺属	wei ying shu	13
+围蛹	wei yong	37
+鮠鱼	wei yu	379
+尾羽龙	wei yu long	16
+尾羽龙属	wei yu long shu	4
+胃育溪蟾	wei yu xi chan	1
+尾缘溪鳉	wei yuan xi jiang	2
+伪沼鼠	wei zhao shu	3
+伪痣宝螺	wei zhi bao luo	1
+尾肢目	wei zhi mu	3
+蔚逐虎蛾	wei zhu hu e	1
+桅子灰蝶	wei zi hui die	1
+维兹拉犬	wei zi la quan	7
+尾综骨	wei zong gu	1
+纹背苇鳽	wen bei wei jian	1
+纹背蚁鵙	wen bei yi ju	1
+文昌鱼目	wen chang yu mu	4
+文昌猪	wen chang zhu	147
+纹翅蛾	wen chi e	5
+纹翅盲蝽	wen chi mang chun	1
+纹唇鱼	wen chun yu	1
+温带臭虫	wen dai chou chong	20
+纹倒吊	wen dao diao	1
+文德动物	wen de dong wu	24
+文登黑鸭	wen deng hei ya	1
+纹顶雀鹀	wen ding que wu	1
+纹顶鹟莺	wen ding weng ying	1
+温顿巨龙	wen dun ju long	3
+纹凤蝶属	wen feng die shu	1
+文蛤	wen ge	1181
+吻光尾鳕	wen guang wei xue	1
+温灰蝶属	wen hui die shu	1
+纹娇鹟	wen jiao weng	1
+文金	wen jin	739
+蚊科	wen ke	68
+纹面腹蛇	wen mian fu she	3
+温泉蛇	wen quan she	21
+温室粉虱	wen shi fen shi	5
+文水棘蝇	wen shui ji ying	1
+纹兔袋鼠	wen tu dai shu	1
+吻鰕虎	wen xia hu	5
+蚊蝎蛉科	wen xie ling ke	3
+纹胸鵙鸫	wen xiong ju dong	1
+蚊子岛	wen zi dao	34
+鹟鵙	weng ju	1
+鹟科	weng ke	41
+鹟鴷科	weng lie ke	1
+鹟亚科	weng ya ke	5
+涡虫	wo chong	1032
+倭丛猴	wo cong hou	1
+沃尔皮诺	wo er pi nuo	44
+倭抹香鲸	wo mo xiang jing	2
+莴笋叶	wo sun ye	24
+武安山羊	wu an shan yang	5
+无霸勾蜓	wu ba gou ting	1
+无鞭蝎目	wu bian xie mu	12
+五步蛇	wu bu she	33
+污卜夜蛾	wu bu ye e	1
+兀尺蛾	wu chi e	1
+无翅海雀	wu chi hai que	3
+污灯蛾	wu deng e	1
+舞毒蛾	wu du e	4
+五房贝	wu fang bei	3
+五房贝目	wu fang bei mu	1
+五房贝属	wu fang bei shu	1
+污光尺蛾	wu guang chi e	1
+武汉猫狮	wu han mao shi	4
+五花蝶尾	wu hua die wei	1
+五花虎头	wu hua hu tou	6
+五华鸡	wu hua ji	39
+五花镏金	wu hua liu jin	9
+五棘鲷	wu ji diao	22
+五棘帆鱼	wu ji fan yu	2
+五嵴虎鮋	wu ji hu you	1
+五脊虎鮋	wu ji hu you	1
+无棘腔鳄	wu ji qiang e	2
+五间半	wu jian ban	28
+五角暴蟹	wu jiao bao xie	1
+乌脚枪	wu jiao qiang	4
+鹀科	wu ke	16
+兀龙	wu long	42
+武隆园蛛	wu long yuan zhu	1
+兀鲁夜蛾	wu lu ye e	1
+乌毛盲蝽	wu mao mang chun	1
+无毛猿	wu mao yuan	91
+五目斑鮃	wu mu ban ping	2
+乌饰蝗	wu shi huang	1
+乌苏里虎	wu su li hu	21
+乌苏里鮠	wu su li wei	1
+乌尾鮗科	wu wei dong ke	1
+无畏龙	wu wei long	198
+无尾瓢鸡	wu wei piao ji	1
+五纹漠鹀	wu wen mo wu	1
+鹀亚科	wu ya ke	6
+武夷黑猪	wu yi hei zhu	27
+无忧灰蝶	wu you hui die	3
+吴载德	wu zai de	81
+武装路戎	wu zhuang lu rong	1
+乌棕鹅	wu zong e	4
+西澳扁魟	xi ao bian hong	1
+喜斑粉蝶	xi ban fen die	1
+希波箭石	xi bo jian shi	1
+西部黑犀	xi bu hei xi	15
+席虫	xi chong	25
+溪蟌科	xi cong ke	1
+犀蟌科	xi cong ke	1
+西非冠鹤	xi fei guan he	1
+西非海牛	xi fei hai niu	3
+蜥狗母鱼	xi gou mu yu	1
+膝沟藻	xi gou zao	2
+蠵龟	xi gui	17
+溪鲑	xi gui	14
+蠵龟筒	xi gui tong	1
+蜥虎属	xi hu shu	5
+西吉驴	xi ji lv	3
+习见蛙螺	xi jian wa luo	1
+犀角蝉	xi jiao chan	26
+犀角金龟	xi jiao jin gui	3
+犀金龟科	xi jin gui ke	4
+膝卷叶象	xi juan ye xiang	1
+希科安实	xi ke an shi	1
+希腊鮈	xi la ju	2
+希腊猎犬	xi la lie quan	20
+希腊陆龟	xi la lu gui	6
+夕狼夜蛾	xi lang ye e	1
+喜乐帝犬	xi le di quan	1
+席勒猎犬	xi le lie quan	5
+溪鱧	xi li	13
+西里汉梗	xi li han geng	1
+西里汗梗	xi li han geng	1
+溪鳢科	xi li ke	2
+稀鳞副鱥	xi lin fu gui	1
+席鳞蛇鳚	xi lin she wei	1
+膝龙	xi long	29
+鼷鹿下目	xi lu xia mu	1
+犀轮虫	xi lun chong	6
+细盲蛇	xi mang she	6
+溪毛鼻鲶	xi mao bi nian	1
+西敏羱	xi min yuan	1
+犀目鮰	xi mu hui	1
+希姆魮猫	xi mu pi mao	1
+悉尼海鞘	xi ni hai qiao	2
+溪泥甲科	xi ni jia ke	1
+悉尼芋螺	xi ni yu luo	2
+犀鸟	xi niao	412
+犀鸟目	xi niao mu	13
+犀鸟亚科	xi niao ya ke	10
+犀牛甲虫	xi niu jia chong	29
+犀牛鸟	xi niu niao	640
+希弄蝶	xi nong die	1
+西欧马鹿	xi ou ma lu	18
+溪畔杜鹃	xi pan du juan	12
+膝曲眼虫	xi qu yan chong	1
+犀全龟科	xi quan gui ke	1
+息肉钮扣	xi rou niu kou	1
+喜山兀鹫	xi shan wu jiu	2
+喜山岩蜥	xi shan yan xi	3
+希氏花鮨	xi shi hua yi	1
+希氏石鮰	xi shi shi hui	1
+希氏溪鳉	xi shi xi jiang	1
+细手半毛	xi shou ban mao	1
+浠水四方	xi shui si fang	1
+犀噝蝰	xi si kui	1
+喜夙舟蛾	xi su zhou e	1
+细腿豹蛛	xi tui bao zhu	1
+希瓦格	xi wa ge	77
+西瓦兔猴	xi wa tu hou	1
+细尾蛇鮈	xi wei she ju	1
+细尾鱼芒	xi wei yu mang	1
+细尾鮡	xi wei zhao	1
+细纹方蟹	xi wen fang xie	1
+细纹苇莺	xi wen wei ying	1
+细鼷鹿	xi xi lu	1
+溪蟹	xi xie	158
+溪蟹科	xi xie ke	20
+细谐鱼	xi xie yu	2
+膝形涡蛛	xi xing wo zhu	1
+犀鳕科	xi xue ke	2
+西亚豺	xi ya chai	9
+夕阳笔螺	xi yang bi luo	1
+细羊舌鮃	xi yang she ping	1
+希夜蛾	xi ye e	2
+西印鹦哥	xi yin ying ge	1
+溪硬头鱼	xi ying tou yu	2
+细蝇子草	xi ying zi cao	2
+习鱼	xi yu	65
+夕蚖科	xi yuan ke	1
+西藏雏蝗	xi zang chu huang	1
+西藏飞蝗	xi zang fei huang	15
+西藏獚	xi zang huang	16
+西藏蝇犬	xi zang ying quan	1
+喜泽鹊	xi ze que	2
+夏厕蝇	xia ce ying	2
+夏多流猫	xia duo liu mao	1
+下伏鳄	xia fu e	5
+下附突	xia fu tu	9
+夏过	xia guo	417
+下黑舟蛾	xia hei zhou e	1
+鰕虎亚目	xia hu ya mu	2
+鰕虎鱼	xia hu yu	12
+鰕虎鱼科	xia hu yu ke	3
+下孔类	xia kong lei	13
+下孔亚纲	xia kong ya gang	3
+下孔总目	xia kong zong mu	4
+夏蜡梅	xia la mei	60
+狭鳞庸鲽	xia lin yong die	3
+狭颅鼠兔	xia lu shu tu	1
+夏梦绢蝶	xia meng juan die	1
+狭颧棘蝇	xia quan ji ying	1
+狭尾糯鳗	xia wei nuo man	1
+夏威夷狂	xia wei yi kuang	30
+狭窄圆螺	xia zhai yuan luo	1
+峡指黑鮡	xia zhi hei zhao	1
+显卜夜蛾	xian bu ye e	1
+娴尺蛾	xian chi e	1
+显带目	xian dai mu	7
+闲涤尺蛾	xian di chi e	1
+仙蝶	xian die	184
+显赫笛鲷	xian he di diao	1
+显昏舟蛾	xian hun zhou e	1
+线剑角蝗	xian jian jiao huang	1
+显角亚目	xian jiao ya mu	2
+腺炬灯鱼	xian ju deng yu	1
+闲角	xian jue	40
+鲜鹿尺蛾	xian lu chi e	1
+显脉石韦	xian mai shi wei	4
+咸宁广东	xian ning guang dong	9
+仙女鲶	xian nv nian	62
+仙女蝎蛉	xian nv xie ling	1
+线鳅鮀	xian qiu tuo	1
+线圈芋螺	xian quan yu luo	1
+象拔蚌	xiang ba bang	21
+湘北大区	xiang bei da qu	22
+象鼻蚌	xiang bi bang	13
+象鼻贝	xiang bi bei	13
+香波螺	xiang bo luo	2
+香肠树	xiang chang shu	53
+香醇雁	xiang chun yan	1
+响导蝗虫	xiang dao huang chong	2
+香豆精类	xiang dou jing lei	4
+襄樊楚天	xiang fan chu tian	5
+襄樊乾泰	xiang fan qian tai	2
+香菇珊瑚	xiang gu shan hu	6
+香菇蟹肉	xiang gu xie rou	20
+湘华鲮	xiang hua ling	2
+湘江蛇鮈	xiang jiang she ju	1
+湘江野鲤	xiang jiang ye li	3
+镶嵌片	xiang qian pian	49
+向日葵螟	xiang ri kui ming	13
+箱水母	xiang shui mu	12
+向天盏	xiang tian zhan	36
+箱鲀亚目	xiang tun ya mu	1
+香味鼠	xiang wei shu	11
+箱形扇贝	xiang xing shan bei	2
+小霸娇鹟	xiao ba jiao weng	1
+小白樱蛤	xiao bai ying ge	1
+小斑几维	xiao ban ji wei	4
+小斑姬鹟	xiao ban ji weng	3
+小斑猫	xiao ban mao	23
+小豹纹蝶	xiao bao wen die	1
+小鼻钩虾	xiao bi gou xia	1
+小草鹀	xiao cao wu	22
+小长尾鼩	xiao chang wei qu	1
+小齿鮟鱇	xiao chi an kang	1
+小齿灵猫	xiao chi ling mao	5
+小翅目	xiao chi mu	14
+小齿曲萤	xiao chi qu ying	1
+小刺石鮰	xiao ci shi hui	2
+笑翠鸟	xiao cui niao	58
+笑翠鸟属	xiao cui niao shu	1
+小翠夜蛾	xiao cui ye e	3
+小达缘蝽	xiao da yuan chun	1
+小地霸鹟	xiao di ba weng	1
+小地蜂	xiao di feng	17
+小点副鱥	xiao dian fu gui	1
+小点吻鱥	xiao dian wen gui	3
+绡蝶科	xiao die ke	2
+小兜肥蛛	xiao dou fei zhu	1
+小斗牛犬	xiao dou niu quan	9
+小杜父鱼	xiao du fu yu	8
+小杜鹃	xiao du juan	388
+小蠹烯醇	xiao du xi chun	1
+小短角鹿	xiao duan jiao lu	3
+肖盾棘蝇	xiao dun ji ying	1
+小耳犬	xiao er quan	15
+小耳犬属	xiao er quan shu	2
+小纺锤蜓	xiao fang chui ting	1
+小粉盗	xiao fen dao	8
+小蜂虎	xiao feng hu	20
+硝呋烯腙	xiao fu xi zong	1
+小浮萤属	xiao fu ying shu	1
+孝感南申	xiao gan nan shen	2
+小古猫属	xiao gu mao shu	1
+小瓜虫	xiao gua chong	14
+小瓜虫病	xiao gua chong bing	11
+小瓜虫属	xiao gua chong shu	1
+小鱥	xiao gui	61
+小褐果鸠	xiao he guo jiu	5
+小黑棘蝇	xiao hei ji ying	1
+小黑卷尾	xiao hei juan wei	5
+小红翅鵙	xiao hong chi ju	1
+小红瓢虫	xiao hong piao chong	20
+小胡桃蛤	xiao hu tao ge	3
+小华溪蟹	xiao hua xi xie	3
+小黄赤蜻	xiao huang chi qing	2
+小黄粉蝶	xiao huang fen die	6
+小鮰	xiao hui	139
+肖喙扁蝽	xiao hui bian chun	1
+小灰蝶	xiao hui die	37
+小灰蝶科	xiao hui die ke	5
+小灰法螺	xiao hui fa luo	2
+小灰姬鹟	xiao hui ji weng	1
+小角副鳚	xiao jiao fu wei	1
+小角棘蝇	xiao jiao ji ying	1
+小角锹甲	xiao jiao qiao jia	4
+小结角蝉	xiao jie jiao chan	9
+小金钱龟	xiao jin qian gui	39
+小九棘鳚	xiao jiu ji wei	3
+小鵙霸鹟	xiao ju ba weng	1
+小楷筆螺	xiao kai bi luo	1
+小壳化石	xiao ke hua shi	6
+小颏潜鲆	xiao ke qian ping	1
+小孔鰋	xiao kong yan	2
+小口黑鲈	xiao kou hei lu	4
+小口鮋	xiao kou you	38
+小蓝灰蝶	xiao lan hui die	1
+小狼蟹蛛	xiao lang xie zhu	1
+小鲤	xiao li	446
+笑鴗	xiao li	21
+肖藜泉蝇	xiao li quan ying	1
+小猎兔狗	xiao lie tu gou	7
+小林蜂鸟	xiao lin feng niao	10
+小鳞欧鳊	xiao lin ou bian	3
+小粼眼蝶	xiao lin yan die	1
+小鳞鱵	xiao lin zhen	6
+小灵狗	xiao ling gou	138
+膮龙	xiao long	12
+小鹿瞪羚	xiao lu deng ling	12
+小鹿藿	xiao lu huo	19
+小露脊鲸	xiao lu ji jing	2
+小鹿犬	xiao lu quan	93
+小露尾甲	xiao lu wei jia	1
+小轮毛虫	xiao lun mao chong	2
+小麦叶蝉	xiao mai ye chan	23
+小麦粘虫	xiao mai zhan chong	9
+小鬘螺	xiao man luo	1
+小满月蛤	xiao man yue ge	9
+小猫虎子	xiao mao hu zi	56
+小帽螺	xiao mao luo	9
+小毛瓢虫	xiao mao piao chong	8
+笑猫头鹰	xiao mao tou ying	7
+小毛猬	xiao mao wei	13
+小猫蛛	xiao mao zhu	31
+小毛足鼠	xiao mao zu shu	2
+小梅山猪	xiao mei shan zhu	4
+小眉眼蝶	xiao mei yan die	4
+鸮面鹦鹉	xiao mian ying wu	12
+效鸣	xiao ming	25
+小膜	xiao mo	309
+小抹香鲛	xiao mo xiang jiao	13
+小抹香鲸	xiao mo xiang jing	31
+小木蠹蛾	xiao mu du e	2
+小囊糠虾	xiao nang kang xia	1
+小拟海牛	xiao ni hai niu	4
+肖尼龙	xiao ni long	7
+小拟毛	xiao ni mao	10
+小拟杓蛤	xiao ni shao ge	1
+小拟叶	xiao ni ye	11
+小牛芋螺	xiao niu yu luo	1
+小弄蝶	xiao nong die	14
+小鸥	xiao ou	355
+笑鸥	xiao ou	20
+小鷿鷈	xiao pi ti	22
+小鸊鷉	xiao pi ti	21
+小鸊鷉属	xiao pi ti shu	1
+小珀椿	xiao po chun	1
+小潜蛾科	xiao qian e ke	2
+小千手螺	xiao qian shou luo	1
+小嵌线螺	xiao qian xian luo	1
+小潜鸭	xiao qian ya	10
+小枪水蚤	xiao qiang shui zao	1
+小鰁	xiao quan	24
+小犬魮	xiao quan pi	17
+小拳蟹	xiao quan xie	6
+小雀	xiao que	919
+小缺齿鼹	xiao que chi yan	1
+小雀鹰	xiao que ying	16
+小娆灰蝶	xiao rao hui die	1
+小瑞士犬	xiao rui shi quan	7
+小萨摩	xiao sa mo	73
+啸森莺	xiao sen ying	1
+小砂瓶虫	xiao sha ping chong	1
+肖蛸	xiao shao	47
+小蛇目蝶	xiao she mu die	1
+小舌形贝	xiao she xing bei	2
+啸声牛鹂	xiao sheng niu li	1
+小石鮰	xiao shi hui	32
+小似鱎	xiao shi jiao	3
+小双分贝	xiao shuang fen bei	2
+小四脚蛇	xiao si jiao she	4
+笑隼	xiao sun	42
+小索蒂鸮	xiao suo di xiao	1
+鴞头贝属	xiao tou bei shu	1
+小头革鯻	xiao tou ge la	7
+小头芦鲷	xiao tou lu diao	3
+小头左鮃	xiao tou zuo ping	2
+小兔猼	xiao tu bo	25
+小兔袋鼠	xiao tu dai shu	65
+小突围啮	xiao tu wei nie	1
+小驼背蝗	xiao tuo bei huang	3
+小鵎鵼	xiao tuo kong	1
+小尾寒羊	xiao wei han yang	47
+小苇鳽	xiao wei jian	2
+小苇羚	xiao wei ling	1
+小尾潜鱼	xiao wei qian yu	4
+小尾鲀	xiao wei tun	3
+小纹弄蝶	xiao wen nong die	1
+啸鶲科	xiao weng ke	1
+孝乌	xiao wu	42
+小鹀	xiao wu	40
+鸮鹉	xiao wu	22
+小乌鸮	xiao wu xiao	2
+小鰕鳉	xiao xia jiang	1
+小纤盲蝽	xiao xian mang chun	1
+小仙鹟	xiao xian weng	2
+小鸮	xiao xiao	140
+笑鸮	xiao xiao	42
+小小灰蝶	xiao xiao hui die	19
+笑笑萌猫	xiao xiao meng mao	2
+小小牛犬	xiao xiao niu quan	14
+小鸮属	xiao xiao shu	1
+小楔形蛤	xiao xie xing ge	1
+小星灯鱼	xiao xing deng yu	1
+小型矶蟹	xiao xing ji xie	2
+小形金蛛	xiao xing jin zhu	1
+鸮形目	xiao xing mu	131
+小星萤	xiao xing ying	19
+小胸电鳗	xiao xiong dian man	1
+小鸺鹠	xiao xiu liu	2
+小须鮠	xiao xu wei	2
+小旋木鹎	xiao xuan mu bei	1
+啸鸭	xiao ya	17
+小哑霸鹟	xiao ya ba weng	1
+小牙鰏	xiao ya bi	2
+小眼澳鲈	xiao yan ao lu	1
+小眼薄鳅	xiao yan bao qiu	1
+小眼副鮗	xiao yan fu dong	6
+小燕鸥	xiao yan ou	60
+小燕尾	xiao yan wei	37
+逍遥蛛科	xiao yao zhu ke	1
+小野艾蛛	xiao ye ai zhu	1
+小夜蜂	xiao ye feng	16
+小野鸡尾	xiao ye ji wei	1
+肖叶甲	xiao ye jia	3
+肖叶甲科	xiao ye jia ke	1
+小叶猫	xiao ye mao	111
+小夜鹰	xiao ye ying	55
+小野猪	xiao ye zhu	820
+小鮨	xiao yi	223
+小猗獅螺	xiao yi shi luo	1
+小翼指	xiao yi zhi	23
+小印加雀	xiao yin jia que	1
+小银鮈	xiao yin ju	5
+小楹白蚁	xiao ying bai yi	1
+小硬鳄	xiao ying e	6
+效应阶段	xiao ying jie duan	36
+小鹰鹃	xiao ying juan	13
+效应浓度	xiao ying nong du	29
+鸮鹦鹉	xiao ying wu	102
+鴞鹦鹉	xiao ying wu	8
+小樱鮨	xiao ying yi	12
+小庸鲆	xiao yong ping	1
+小油栉虫	xiao you zhi chong	1
+小玉蟹	xiao yu xie	16
+小圆蛤	xiao yuan ge	19
+小圆鲸鲷	xiao yuan jing diao	1
+小猿叶甲	xiao yuan ye jia	1
+小跃蝗	xiao yue huang	8
+小造桥虫	xiao zao qiao chong	1
+小掌舟蛾	xiao zhang zhou e	1
+小招潮蟹	xiao zhao chao xie	8
+小爪棘蝇	xiao zhao ji ying	1
+小爪水獭	xiao zhao shui ta	4
+小直纹螟	xiao zhi wen ming	1
+小紫斑蝶	xiao zi ban die	2
+小足溪鳉	xiao zu xi jiang	1
+小嘴贝目	xiao zui bei mu	1
+小嘴鸻	xiao zui heng	7
+小嘴鸻属	xiao zui heng shu	1
+缬草	xie cao	1348
+楔齿龙	xie chi long	25
+楔齿蜥类	xie chi xi lei	1
+斜尺夜蛾	xie chi ye e	1
+蝎蝽	xie chun	23
+斜大浮萤	xie da fu ying	1
+谢蛾科	xie e ke	5
+斜方鱊	xie fang yu	1
+斜方玉蟹	xie fang yu xie	1
+携粉足	xie fen zu	3
+斜睾科	xie gao ke	1
+胁骨龙	xie gu long	8
+协和芋螺	xie he yu luo	1
+蟹鸻	xie heng	8
+蟹鸻科	xie heng ke	2
+蝎虎链子	xie hu lian zi	1
+斜虎纹蝶	xie hu wen die	1
+楔花鮨鰧	xie hua yi teng	1
+斜肩笔螺	xie jian bi luo	1
+斜节帽虫	xie jie mao chong	1
+胁空鸟龙	xie kong niao long	1
+鞋口虫科	xie kou chong ke	1
+斜口鱥鱼	xie kou gui yu	1
+蟹类动物	xie lei dong wu	111
+写鲤	xie li	49
+歇咧虎子	xie lie hu zi	1
+斜鳞笛鲷	xie lin di diao	2
+斜鳞蛇	xie lin she	13
+蝎蛉科	xie ling ke	21
+邪灵龙	xie ling long	14
+蟹龙属	xie long shu	2
+蠍螺	xie luo	4
+谢罗便臣	xie luo bian chen	2
+蟹獴	xie meng	12
+蝎目	xie mu	126
+蟹奴	xie nu	191
+写皮光鲤	xie pi guang li	1
+蟹肉鱼唇	xie rou yu chun	5
+鞋山蜉	xie shan fu	2
+斜视虫属	xie shi chong shu	1
+谢氏山蚤	xie shi shan zao	1
+鞋树	xie shu	197
+蟹体鲎科	xie ti hou ke	1
+楔尾草鹀	xie wei cao wu	2
+楔尾雕	xie wei diao	56
+携尾丽蛛	xie wei li zhu	2
+楔尾绿鸠	xie wei lv jiu	9
+楔尾鸥	xie wei ou	16
+楔尾鹰	xie wei ying	39
+斜纹猫蛛	xie wen mao zhu	1
+斜纹鱚	xie wen xi	3
+斜卧青霉	xie wo qing mei	1
+楔形斧蛤	xie xing fu ge	1
+楔形古虫	xie xing gu chong	1
+楔形毛蕨	xie xing mao jue	1
+蟹形拟蝎	xie xing ni xie	1
+蟹鳐	xie yao	32
+楔叶	xie ye	55
+谐夜蛾	xie ye e	1
+楔叶纲	xie ye gang	2
+脇野龙	xie ye long	2
+楔翼总目	xie yi zong mu	3
+谐鱼	xie yu	48
+谐鱼科	xie yu ke	2
+鞋掌舟蛾	xie zhang zhou e	1
+蟹蛛亚科	xie zhu ya ke	7
+蝎子守宫	xie zi shou gong	6
+蝎子养殖	xie zi yang zhi	25
+楔嘴雀	xie zui que	1
+新澳海狗	xin ao hai gou	1
+新白卡奴	xin bai ka nu	1
+新斑蝶	xin ban die	23
+心斑绿蟌	xin ban lv cong	2
+鑫宝华	xin bao hua	13
+新长沫蝉	xin chang mo chan	2
+新城鸡瘟	xin cheng ji wen	1
+薪春四宝	xin chun si bao	1
+新大陆猴	xin da lu hou	31
+鑫大源	xin da yuan	3
+新袋鼠	xin dai shu	181
+辛地红牛	xin di hong niu	2
+新底潜鱼	xin di qian yu	1
+新靛夜蛾	xin dian ye e	4
+信蝶	xin die	16
+新碟贝	xin die bei	9
+新对虾属	xin dui xia shu	2
+新额超目	xin e chao mu	2
+新腹足目	xin fu zu mu	26
+新纲纹螺	xin gang wen luo	1
+信鸽	xin ge	456
+心蛤科	xin ge ke	2
+心管水母	xin guan shui mu	1
+新汉夏鸡	xin han xia ji	3
+新荷兰鼠	xin he lan shu	6
+新淮猪	xin huai zhu	14
+新灰	xin hui	519
+新棘吻科	xin ji wen ke	6
+薪甲	xin jia	9
+薪甲科	xin jia ke	1
+新加坡猫	xin jia po mao	24
+新疆褐牛	xin jiang he niu	27
+新疆虎	xin jiang hu	209
+新疆寂蝗	xin jiang ji huang	1
+新疆驴	xin jiang lv	66
+新疆马鹿	xin jiang ma lu	29
+新疆猫蛛	xin jiang mao zhu	5
+新疆漠虎	xin jiang mo hu	6
+新疆球蛛	xin jiang qiu zhu	3
+新角鮟鱇	xin jiao an kang	2
+新井白蛾	xin jing bai e	3
+新喀草莺	xin ka cao ying	1
+新喀啸鹟	xin ka xiao weng	1
+新鹿角蝉	xin lu jiao chan	5
+新芦木	xin lu mu	45
+新玫芋螺	xin mei yu luo	1
+信浓肖峭	xin nong xiao qiao	1
+辛西娅鲸	xin xi ya jing	1
+新钖伯鲶	xin yang bo nian	1
+心要正	xin yao zheng	65
+新月贝目	xin yue bei mu	2
+新月锦鱼	xin yue jin yu	1
+星白灯蛾	xing bai deng e	1
+星斑夜鹰	xing ban ye ying	5
+星鼻鼹	xing bi yan	37
+杏齿龙	xing chi long	1
+星虫	xing chong	102
+星虫动物	xing chong dong wu	8
+星虫门	xing chong men	7
+星丛龟	xing cong gui	1
+星丛龟属	xing cong gui shu	1
+星点豆娘	xing dian dou niang	2
+星点弄蝶	xing dian nong die	1
+星点潜鱼	xing dian qian yu	1
+星点若鰺	xing dian ruo shen	1
+星点守宫	xing dian shou gong	1
+星点蜥	xing dian xi	2
+星蜂鸟	xing feng niao	5
+性感虾	xing gan xia	9
+兴冈兵鲶	xing gang bing nian	1
+星肛海胆	xing gang hai dan	2
+星褐闪蝶	xing he shan die	1
+星黄蝶	xing huang die	4
+星黄毒蛾	xing huang du e	1
+星黄粉蝶	xing huang fen die	1
+星火棘鮗	xing huo ji dong	1
+星鸡鱼	xing ji yu	3
+星巨蟹蛛	xing ju xie zhu	1
+兴凯银鮈	xing kai yin ju	1
+星业龟	xing ye gui	1
+星云白鱼	xing yun bai yu	8
+雄蚕蛾	xiong can e	32
+胸窗	xiong chuang	191
+胸点梅鲈	xiong dian mei lu	1
+雄蜂	xiong feng	764
+胸骨侧突	xiong gu ce tu	4
+雄关龙	xiong guan long	19
+熊猫牛	xiong mao niu	103
+熊猫犬	xiong mao quan	191
+熊猫亚科	xiong mao ya ke	9
+熊猫异形	xiong mao yi xing	11
+雄性附肢	xiong xing fu zhi	28
+銹斑岩螺	xiu ban yan luo	1
+秀唇旋虫	xiu chun xuan chong	1
+袖狗	xiu gou	145
+绣花鮨	xiu hua yi	5
+绣滑油鲶	xiu hua you nian	1
+秀栗壳虫	xiu li ke chong	1
+鸺鹠	xiu liu	84
+鸺鹠属	xiu liu shu	2
+锈玫舟蛾	xiu mei zhou e	1
+休姆氏鵖	xiu mu shi bi	1
+朽木夜蛾	xiu mu ye e	5
+修仁鰑	xiu ren yang	1
+袖珍狗	xiu zhen gou	79
+繡珠寶螺	xiu zhu bao luo	1
+须仿鲸科	xu fang jing ke	1
+须浮鸥	xu fu ou	12
+蓄奴蚁	xu nu yi	3
+溆浦鹅	xu pu e	1
+须鰃	xu wei	28
+蛡螉	xu weng	34
+须鱊	xu yu	159
+旋刺马陆	xuan ci ma lu	1
+玄牡	xuan mu	96
+癣弄蝶属	xuan nong die shu	1
+旋尾亚目	xuan wei ya mu	4
+旋缘目	xuan yuan mu	1
+旋缘绦虫	xuan yuan tao chong	1
+旋转芋螺	xuan zhuan yu luo	1
+穴鵖	xue bi	5
+血跡蛙螺	xue ji wa luo	1
+鱈鳞鱼属	xue lin yu shu	1
+血鳃霉	xue sai mei	1
+穴小鸮	xue xiao xiao	4
+雪鞋猫	xue xie mao	16
+血心灯	xue xin deng	19
+雪岩尺蛾	xue yan chi e	1
+血眼虫	xue yan chong	11
+靴叶棘蝇	xue ye ji ying	1
+血液鳃	xue ye sai	25
+雪影狼	xue ying lang	55
+驯鹿角胶	xun lu jiao jiao	1
+驯鹿尾	xun lu wei	6
+哑霸鹟	ya ba weng	4
+芽孢肝菌	ya bao gan jun	1
+雅灯蛾	ya deng e	3
+亚东蝠蛾	ya dong fu e	1
+亚东细蟌	ya dong xi cong	2
+亚钝棘蝇	ya dun ji ying	1
+亚多龙	ya duo long	23
+雅尔龙	ya er long	19
+亚尔夏牛	ya er xia niu	1
+亚非草蛉	ya fei cao ling	1
+亚非马蜂	ya fei ma feng	5
+雅粉灯蛾	ya fen deng e	1
+雅负鼠属	ya fu shu shu	1
+亚弓浮萤	ya gong fu ying	1
+亚瓜拉龙	ya gua la long	1
+崖海鸦	ya hai ya	3
+亚河豚	ya he tun	11
+雅灰蝶	ya hui die	6
+亚活棘蝇	ya huo ji ying	1
+亚姬缘蝽	ya ji yuan chun	1
+亚金棘蝇	ya jin ji ying	1
+亚鳞袋蛾	ya lin dai e	1
+亚陌夜蛾	ya mo ye e	1
+牙鲆科	ya ping ke	4
+牙签鸟	ya qian niao	35
+芽球生殖	ya qiu sheng zhi	2
+牙形刺	ya xing ci	17
+亚洲猎豹	ya zhou lie bao	52
+鸭嘴鯮	ya zui zong	2
+眼斑宝螺	yan ban bao luo	3
+眼斑躄鱼	yan ban bi yu	3
+眼斑龟	yan ban gui	8
+眼斑海鹿	yan ban hai lu	5
+眼斑潜鲆	yan ban qian ping	2
+眼斑须鮨	yan ban xu yi	1
+眼斑沼龟	yan ban zhao gui	1
+延边牛	yan bian niu	37
+盐边山蛭	yan bian shan zhi	1
+盐补骨脂	yan bu gu zhi	2
+烟草夜娥	yan cao ye e	1
+盐车前子	yan che qian zi	1
+眼虫	yan chong	193
+雁荡鸟	yan dang niao	7
+眼点溪鳉	yan dian xi jiang	1
+眼蝶	yan die	259
+盐都龙属	yan du long shu	2
+岩鸽	yan ge	277
+延管螺	yan guan luo	1
+盐海龙	yan hai long	19
+燕鸻科	yan heng ke	9
+豔紅芋螺	yan hong yu luo	1
+盐湖蝇	yan hu ying	4
+盐黄柏	yan huang bai	2
+岩黄毒蛾	yan huang du e	1
+盐津水牛	yan jin shui niu	2
+燕鵙科	yan ju ke	5
+盐宽箬鳎	yan kuan ruo ta	1
+岩盔龙类	yan kui long lei	2
+咽磨	yan mo	5
+豔捻螺	yan nian luo	1
+燕鸥亚科	yan ou ya ke	9
+燕千鸟	yan qian niao	28
+眼圈熊	yan quan xiong	54
+鷃肉	yan rou	10
+盐沙苑子	yan sha yuan zi	1
+燕尾蜂虎	yan wei feng hu	4
+燕尾蓝魔	yan wei lan mo	3
+盐源山蛭	yan yuan shan zhi	1
+严重分割	yan zhong fen ge	387
+燕子鸽	yan zi ge	86
+钖伯鲶	yang bo nian	1
+洋葱蓟马	yang cong ji ma	1
+洋蔥螺	yang cong luo	1
+洋杜鹃	yang du juan	37
+羊角狗母	yang jiao gou mu	1
+洋麻钩蛾	yang ma gou e	1
+羊皮纸虫	yang pi zhi chong	1
+杨树蝲	yang shu la	4
+羊驼大胖	yang tuo da pang	1
+杨小舟蛾	yang xiao zhou e	1
+阳新黑猪	yang xin hei zhu	4
+养鱼经	yang yu jing	31
+耀白鲑	yao bai gui	2
+药材甲	yao cai jia	28
+咬齿牡蛎	yao chi mu li	2
+耀唇指	yao chun zhi	2
+谣甲尾鹏	yao jia wei peng	1
+耀炬龙属	yao ju long shu	1
+咬鹃	yao juan	98
+咬鹃目	yao juan mu	4
+咬鹃属	yao juan shu	7
+摇鹊鸲	yao que qu	2
+咬人蹿鼠	yao ren cuan shu	1
+耀尾魮	yao wei pi	1
+摇蚊	yao wen	493
+摇蚊科	yao wen ke	70
+爻纹细蛾	yao wen xi e	1
+摇蚊幼虫	yao wen you chong	10
+药蟹	yao xie	38
+耀夜萤	yao ye ying	7
+药用昆虫	yao yong kun chong	144
+药用兽	yao yong shou	47
+腰足沟鱼	yao zu gou yu	1
+叶澳弄蝶	ye ao nong die	1
+腋斑狐鲷	ye ban hu diao	2
+腋斑卡	ye ban ka	1
+腋斑莫鲻	ye ban mo zi	1
+腋斑小鲷	ye ban xiao diao	3
+叶鹎科	ye bei ke	4
+野草鱼	ye cao yu	12
+野村水母	ye cun shui mu	4
+叶尔羌鸽	ye er qiang ge	1
+夜蜂虎	ye feng hu	1
+液浮陀螺	ye fu tuo luo	64
+夜蝠蝇	ye fu ying	1
+夜光猫	ye guang mao	38
+夜猴亚科	ye hou ya ke	2
+耶环蛱蝶	ye huan jia die	1
+叶甲科	ye jia ke	43
+夜鳽属	ye jian shu	1
+叶菊石目	ye ju shi mu	1
+夜鳢	ye li	9
+耶利哥蝎	ye li ge xie	1
+叶鳞刺鲨	ye lin ci sha	1
+叶林腹蛇	ye lin fu she	1
+野鲮亚科	ye ling ya ke	3
+叶鹿	ye lu	291
+夜鹭属	ye lu shu	3
+叶轮虫	ye lun chong	12
+野驴	ye lv	495
+叶芒果蛛	ye mang guo zhu	1
+野毛鼻鲶	ye mao bi nian	1
+野牦牛	ye mao niu	37
+也门瞪羚	ye men deng ling	8
+也门鸫	ye men dong	9
+也门丝雀	ye men si que	7
+叶麋	ye mi	29
+耶米熊	ye mi xiong	6
+夜明珠蝶	ye ming zhu die	2
+夜木蜂	ye mu feng	1
+冶鸟	ye niao	38
+野牛	ye niu	1665
+野牛鼻鲼	ye niu bi fen	1
+野牛草	ye niu cao	36
+腋片	ye pian	6
+野生龙猫	ye sheng long mao	36
+野生犀牛	ye sheng xi niu	41
+野生斜棘	ye sheng xie ji	1
+夜石鮰	ye shi hui	1
+耶氏圆鲀	ye shi yuan tun	1
+曳丝	ye si	181
+曳丝鲾	ye si bi	1
+曳丝马鰏	ye si ma bi	1
+曳丝美尾	ye si mei wei	1
+叶突棘蝇	ye tu ji ying	1
+野兔毛	ye tu mao	12
+叶腕水母	ye wan shui mu	2
+叶尾壁虎	ye wei bi hu	17
+野伪鲸鲶	ye wei jing nian	1
+叶尾守宫	ye wei shou gong	4
+曳尾蛛	ye wei zhu	2
+叶吻鮟鱇	ye wen an kang	1
+蠮螉	ye weng	122
+野溪鳉	ye xi jiang	2
+野西犏牛	ye xi pian niu	1
+野溪脂鲤	ye xi zhi li	1
+野鰕虎鱼	ye xia hu yu	1
+叶虾目	ye xia mu	2
+叶虾亚纲	ye xia ya gang	1
+野小鱥	ye xiao gui	1
+椰蟹	ye xie	64
+椰心叶甲	ye xin ye jia	20
+叶形海龙	ye xing hai long	2
+夜行虎	ye xing hu	20
+野性疆界	ye xing jiang jie	3
+叶形狭啮	ye xing xia nie	1
+椰眼蝶	ye yan die	2
+野鹞扁魟	ye yao bian hong	1
+野翼甲鲶	ye yi jia nian	1
+夜鹰	ye ying	774
+叶樱蛤	ye ying ge	2
+夜鹰科	ye ying ke	6
+夜鹰目	ye ying mu	3
+椰圆蚧	ye yuan jie	2
+叶圆鲀	ye yuan tun	1
+叶状伪足	ye zhuang wei zu	8
+叶子虫	ye zi chong	88
+椰子螺	ye zi luo	103
+椰子蟹	ye zi xie	173
+椰子鱼科	ye zi yu ke	2
+叶足动物	ye zu dong wu	17
+蚁蚕	yi can	81
+宜昌鳅鮀	yi chang qiu tuo	3
+螠虫	yi chong	86
+一点蝙蛾	yi dian bian e	7
+一点灰蝶	yi dian hui die	5
+宜都金泉	yi du jin quan	2
+衣蛾	yi e	329
+蜴狗母鱼	yi gou mu yu	1
+壹号土猪	yi hao tu zhu	47
+伊环锹甲	yi huan qiao jia	1
+一角甲	yi jiao jia	16
+一角鲸	yi jiao jing	56
+一角鲸科	yi jiao jing ke	9
+衣角樱蛤	yi jiao ying ge	1
+一角鱼	yi jiao yu	126
+依克加多	yi ke jia duo	3
+伊犁弓鱼	yi li gong yu	2
+异鱲	yi lie	11
+异鳞杜鹃	yi lin du juan	1
+鮨鲈肖鲈	yi lu xiao lu	1
+依矛龙	yi mao long	4
+遗欧	yi ou	184
+异雀鹀	yi que wu	1
+饴色天牛	yi se tian niu	1
+医生鱼	yi sheng yu	61
+蛜威	yi wei	32
+易危动物	yi wei dong wu	61
+伊希斯龙	yi xi si long	9
+一线铅笔	yi xian qian bi	78
+异形古蚖	yi xing gu yuan	1
+蚁形甲	yi xing jia	18
+翼形亚纲	yi xing ya gang	3
+医学蠕虫	yi xue ru chong	25
+一叶荻	yi ye di	190
+鮧鱼	yi yu	62
+鮧鱼目	yi yu mu	2
+宜章臭蛙	yi zhang chou wa	1
+翼指龙	yi zhi long	24
+翼钟水母	yi zhong shui mu	3
+伊中伪蜻	yi zhong wei qing	1
+一字倒吊	yi zi dao diao	5
+一字吊	yi zi diao	110
+印澳海蛇	yin ao hai she	1
+银报应	yin bao ying	4
+印度宝螺	yin du bao luo	7
+印度躄鱼	yin du bi yu	26
+印度鳖	yin du bie	22
+印度波鱼	yin du bo yu	9
+印度豺	yin du chai	15
+印度池鹭	yin du chi lu	2
+印度雕鸮	yin du diao xiao	24
+印度短鮣	yin du duan yin	2
+印度关刀	yin du guan dao	4
+印度鹡鸰	yin du ji ling	4
+印度陆龟	yin du lu gui	12
+印度猫	yin du mao	474
+印度毛蚶	yin du mao han	12
+印度蜜蜂	yin du mi feng	112
+印度牛	yin du niu	1528
+印度铅螺	yin du qian luo	1
+印度枪鱼	yin du qiang yu	6
+印度鳾	yin du shi	2
+印度水牛	yin du shui niu	137
+印度秃鹰	yin du tu ying	41
+印度豚鹿	yin du tun lu	6
+印度兀鹫	yin du wu jiu	37
+印度犀	yin du xi	32
+印度鱚	yin du xi	9
+印度犀牛	yin du xi niu	55
+印度仙鹟	yin du xian weng	9
+印度星龟	yin du xing gui	3
+印度洋鱵	yin du yang zhen	10
+印度野狗	yin du ye gou	44
+印度野驴	yin du ye lv	30
+印度野牛	yin du ye niu	82
+印度夜鹰	yin du ye ying	10
+印度园蛛	yin du yuan zhu	2
+印度沼龟	yin du zhao gui	4
+印度走鸻	yin du zou heng	1
+隐耳漠虎	yin er mo hu	1
+印记兵鲶	yin ji bing nian	1
+印加地鸠	yin jia di jiu	1
+印加燕鸥	yin jia yan ou	7
+印刻效应	yin ke xiao ying	17
+隐锚纹蛾	yin mao wen e	1
+印尼虎	yin ni hu	98
+印尼啸鹟	yin ni xiao weng	2
+印尼叶猴	yin ni ye hou	11
+印啮小蜂	yin nie xiao feng	1
+因纽特犬	yin niu te quan	7
+印蕊夜蛾	yin rui ye e	1
+銀絲寶螺	yin si bao luo	1
+印随	yin sui	1227
+印随行为	yin sui xing wei	243
+银纹舟蛾	yin wen zhou e	1
+银叶杜鹃	yin ye du juan	32
+蟫鱼	yin yu	23
+印支虎	yin zhi hu	21
+英奥苔蛾	ying ao tai e	1
+鹰叭犬	ying ba quan	1
+蝇霸鹟	ying ba weng	2
+影波纹蛾	ying bo wen e	1
+缨翅	ying chi	24
+缨翅目	ying chi mu	44
+缨翅夜鹰	ying chi ye ying	1
+硬齿鱼类	ying chi yu lei	3
+鹰杜父鱼	ying du fu yu	1
+鹦哥	ying ge	668
+英哥鼠	ying ge shu	4
+鹦哥鱼科	ying ge yu ke	7
+硬骨骨骼	ying gu gu ge	4
+荧光乌贼	ying guang wu zei	96
+荧光蝎	ying guang xie	43
+萤光蕈	ying guang xun	17
+荧光猪	ying guang zhu	86
+英国大猫	ying guo da mao	62
+英国茛犬	ying guo gen quan	1
+婴猴	ying hou	19
+婴猴属	ying hou shu	5
+蝇虎科	ying hu ke	52
+蝇虎跳蛛	ying hu tiao zhu	39
+硬棘小鲨	ying ji xiao sha	2
+盈江条鳅	ying jiang tiao qiu	1
+硬鲛目	ying jiao mu	1
+鹦交嘴雀	ying jiao zui que	2
+萤金花虫	ying jin hua chong	6
+樱井草属	ying jing cao shu	1
+缨鹃鵙	ying juan ju	1
+鹰科	ying ke	251
+硬壳虫	ying ke chong	73
+硬壳蛤	ying ke ge	68
+硬壳浅蜊	ying ke qian li	1
+缨口台鳅	ying kou tai qiu	1
+硬鳞	ying lin	200
+缨鳞条鳎	ying lin tiao ta	2
+硬鳞总目	ying lin zong mu	2
+颖鹿尺蛾	ying lu chi e	1
+缨毛龟	ying mao gui	1
+硬毛鼠	ying mao shu	24
+硬膜石蛤	ying mo shi ge	1
+缨幕	ying mu	23
+硬囊海胆	ying nang hai dan	2
+英诺魮	ying nuo pi	1
+蝇蛆	ying qu	145
+缨鳃虫	ying sai chong	3
+荧闪粉蝶	ying shan fen die	1
+硬珊瑚	ying shan hu	69
+影扇舟蛾	ying shan zhou e	1
+鹰身女妖	ying shen nv yao	110
+英氏莫鲻	ying shi mo zi	1
+英氏野鲮	ying shi ye ling	1
+英鳎	ying ta	11
+樱桃灯鱼	ying tao deng yu	2
+樱桃谷鸭	ying tao gu ya	18
+樱桃鸡	ying tao ji	213
+樱桃天牛	ying tao tian niu	5
+樱桃鱼	ying tao yu	103
+营田公司	ying tian gong si	14
+鹰头鹦鹉	ying tou ying wu	31
+缨尾虫	ying wei chong	3
+缨尾目	ying wei mu	4
+硬尾鸭	ying wei ya	4
+硬尾鸭属	ying wei ya shu	1
+瘿蚊科	ying wen ke	9
+鹦鹉厨房	ying wu chu fang	20
+鹦鹉科	ying wu ke	81
+莹虾属	ying xia shu	2
+莹虾幼体	ying xia you ti	2
+鹰鸮	ying xiao	108
+缨小蜂	ying xiao feng	8
+缨小蜂科	ying xiao feng ke	2
+迎燕	ying yan	257
+鹰眼睛	ying yan jing	279
+营养个员	ying yang ge yuan	1
+营养生殖	ying yang sheng zhi	41
+缨野鲮	ying ye ling	1
+萤鱿	ying you	6
+赢鱼	ying yu	105
+鹰缘盖蛛	ying yuan gai zhu	1
+鹰爪龙	ying zhao long	45
+硬指参	ying zhi can	3
+营冢鸟	ying zhong niao	1
+影子虫	ying zi chong	39
+鹰嘴陆龟	ying zui lu gui	1
+鹰嘴爪	ying zui zhao	40
+樱鳟	ying zun	15
+庸鲽	yong die	22
+庸钝口螈	yong dun kou yuan	1
+永康灰鹅	yong kang hui e	2
+永强肖蛸	yong qiang xiao shao	1
+蛹形筆螺	yong xing bi luo	1
+幽暗丽蝇	you an li ying	1
+有斑肥螈	you ban fei yuan	1
+有鞭目	you bian mu	9
+有鞭蝎	you bian xie	9
+有柄类	you bing lei	17
+幽蚕舟蛾	you can zhou e	1
+尤茶黑鸡	you cha hei ji	2
+有齒鳳螺	you chi feng luo	4
+有齿凤螺	you chi feng luo	2
+有齿居虫	you chi ju chong	1
+有翅亚纲	you chi ya gang	21
+幽窗弄蝶	you chuang nong die	6
+疣唇蛇	you chun she	7
+优刺鳄	you ci e	1
+疣丛赤壳	you cong chi ke	1
+有袋类	you dai lei	186
+有袋目	you dai mu	37
+游荡棘蝇	you dang ji ying	2
+游荡种	you dang zhong	5
+幽蝶	you die	490
+有毒鱼类	you du yu lei	116
+幽海螺	you hai luo	16
+油葫芦	you hu lu	404
+有棘目	you ji mu	7
+疣棘溪蟾	you ji xi chan	1
+有甲亚目	you jia ya mu	2
+有铰纲	you jiao gang	2
+有角下目	you jiao xia mu	4
+鮋鲸	you jing	8
+有壳虫	you ke chong	19
+有壳卵	you ke luan	16
+有壳目	you ke mu	12
+有孔虫目	you kong chong mu	4
+疣毛轮虫	you mao lun chong	1
+有膜虾	you mo xia	3
+游钳螋	you qian sou	1
+幽洒灰蝶	you sa hui die	1
+疣尾蜥虎	you wei xi hu	3
+尤溪麻鸡	you xi ma ji	4
+有性虫	you xing chong	17
+幼形纲	you xing gang	1
+优越芋螺	you yue yu luo	1
+油炸蚂蚱	you zha ma zha	86
+油炸蝎子	you zha xie zi	84
+有爪类	you zhao lei	73
+羽叉叶目	yu cha ye mu	1
+鱼虫净	yu chong jing	5
+鱼狗	yu gou	1562
+鱼狗属	yu gou shu	8
+鱼钩蚁	yu gou yi	2
+瑜伽猫	yu jia mao	177
+鱼浆	yu jiang	88
+俞君英	yu jun ying	13
+鹬科	yu ke	7
+鱼料专线	yu liao zhuan xian	2
+鱼鳞功能	yu lin gong neng	5
+鱼舲	yu ling	6
+羽芒花蝇	yu mang hua ying	1
+羽芒植蝇	yu mang zhi ying	1
+羽毛关刀	yu mao guan dao	4
+鱼苗开口	yu miao kai kou	17
+榆蘑	yu mo	17
+榆牡蛎蚧	yu mu li jie	1
+榆潜蛾	yu qian e	1
+榆全爪螨	yu quan zhao man	1
+芋参目	yu shen mu	1
+鱼尾楔蚌	yu wei xie bang	1
+鱼医	yu yi	52
+羽翼幕虫	yu yi mu chong	1
+玉印头球	yu yin tou qiu	1
+圆澳龟	yuan ao gui	1
+圆板棘蝇	yuan ban ji ying	1
+圆斑莠蝇	yuan ban you ying	1
+圆鼻巨蜥	yuan bi ju xi	16
+远程鸽	yuan cheng ge	27
+缘齿牡蛎	yuan chi mu li	1
+圆翅野鲮	yuan chi ye ling	2
+缘吊	yuan diao	19
+远东树莺	yuan dong shu ying	5
+远东苇莺	yuan dong wei ying	4
+圆楯海胆	yuan dun hai dan	2
+圆腹猎蝽	yuan fu lie chun	2
+圆腹拟蝎	yuan fu ni xie	3
+原盖龟	yuan gai gui	1
+缘弓蟹蛛	yuan gong xie zhu	1
+员工幸福	yuan gong xing fu	339
+缘沟对虾	yuan gou dui xia	1
+原古杯	yuan gu bei	7
+原古杯属	yuan gu bei shu	1
+远古大鱿	yuan gu da you	3
+远古海鸟	yuan gu hai niao	33
+缘海天牛	yuan hai tian niu	1
+圆颌鱵	yuan he zhen	1
+猿猴亚目	yuan hou ya mu	4
+圆花叶蛛	yuan hua ye zhu	2
+缘黄毒蛾	yuan huang du e	1
+圆荚萤属	yuan jia ying shu	1
+圆角倍蚜	yuan jiao bei ya	1
+原铰口鲨	yuan jiao kou sha	1
+远角犀	yuan jiao xi	5
+缘角樱蛤	yuan jiao ying ge	1
+缘壳陆龟	yuan ke lu gui	1
+远孔牛蛭	yuan kong niu zhi	1
+圆口鮦鱼	yuan kou tong yu	1
+圆鳞斑鲆	yuan lin ban ping	1
+圆鳞鮋	yuan lin you	2
+圆鳞鲉	yuan lin you	2
+缘漏斗蛛	yuan lou dou zhu	1
+圆盲蛇	yuan mang she	1
+缘毛虫	yuan mao chong	13
+圆毛蚶	yuan mao han	3
+缘毛目	yuan mao mu	10
+猿面天蛾	yuan mian tian e	1
+圆模裂虫	yuan mo lie chong	1
+元谋盗龙	yuan mou dao long	7
+元谋人	yuan mou ren	913
+圆囊箭虫	yuan nang jian chong	1
+圆囊溞	yuan nang sao	1
+圆拟灯蛾	yuan ni deng e	1
+缘牛鼻鲼	yuan niu bi fen	1
+缘前角鲀	yuan qian jiao tun	1
+猿人	yuan ren	1652
+圆身盲鳗	yuan shen mang man	2
+原水蝎螈	yuan shui xie yuan	1
+远藤兽	yuan teng shou	5
+圆条尾魟	yuan tiao wei hong	1
+圆筒吻鮈	yuan tong wen ju	1
+猿头蛤	yuan tou ge	6
+圆头楔蚌	yuan tou xie bang	1
+缘驼峰螺	yuan tuo feng luo	1
+圆鮀鲣	yuan tuo jian	1
+鼋鼍为梁	yuan tuo wei liang	1
+远鳚	yuan wei	3
+圆尾鹤鱵	yuan wei he zhen	1
+圆尾鹱	yuan wei hu	11
+圆尾黄蟌	yuan wei huang cong	4
+圆尾娇鹟	yuan wei jiao weng	4
+圆尾拟鲿	yuan wei ni chang	1
+圆尾肖蛸	yuan wei xiao shao	4
+圆吻凡鲻	yuan wen fan zi	1
+圆吻鯝	yuan wen gu	3
+圆吻鱥	yuan wen gui	5
+圆吻海鰶	yuan wen hai ji	3
+圆吻鮰	yuan wen hui	3
+圆纹弄蝶	yuan wen nong die	4
+圆吻星鱵	yuan wen xing zhen	2
+缘下鱵	yuan xia zhen	1
+缘下鱵鱼	yuan xia zhen yu	1
+圆线虫目	yuan xian chong mu	2
+原小熊猫	yuan xiao xiong mao	46
+圆楔樱蛤	yuan xie ying ge	1
+圆形虫	yuan xing chong	17
+圆型尾	yuan xing wei	5
+圆眼副鳚	yuan yan fu wei	1
+猿叶虫	yuan ye chong	10
+圆叶目	yuan ye mu	11
+缘叶舌蜂	yuan ye she feng	1
+圆硬头鱼	yuan ying tou yu	2
+缘鱊	yuan yu	6
+缘芋螺	yuan yu luo	1
+圆月毒蛾	yuan yue du e	1
+原直翅目	yuan zhi chi mu	10
+缘殖肥螋	yuan zhi fei sou	1
+圆直纹螟	yuan zhi wen ming	1
+圆趾蟹	yuan zhi xie	6
+圆蛛	yuan zhu	64
+圆珠宝螺	yuan zhu bao luo	1
+月斑鼻蟌	yue ban bi cong	1
+月斑斜棘	yue ban xie ji	1
+越北绛蝇	yue bei jiang ying	1
+悦怠步甲	yue dai bu jia	1
+越冬洄游	yue dong hui you	28
+越鹅	yue e	92
+粤枫一号	yue feng yi hao	3
+月光蝶鱼	yue guang die yu	2
+月光螺	yue guang luo	20
+约翰农场	yue han nong chang	146
+越鱯	yue hu	21
+越黄佛蝗	yue huang fo huang	1
+约霍伊虫	yue huo yi chong	1
+月季叶蜂	yue ji ye feng	8
+月甲鱼	yue jia yu	8
+约克郡犬	yue ke jun quan	5
+约克夏梗	yue ke xia geng	53
+跃龙属	yue long shu	12
+岳麓翘蛛	yue lu qiao zhu	1
+岳麓栅蛛	yue lu zha zhu	1
+约马蜂	yue ma feng	7
+跃盲蝽	yue mang chun	1
+越南半鲿	yue nan ban chang	2
+越南猫	yue nan mao	240
+越南鹇	yue nan xian	30
+越南叶猴	yue nan ye hou	8
+越南野牛	yue nan ye niu	15
+越南异鱲	yue nan yi lie	1
+越南鱊	yue nan yu	9
+越南鮡	yue nan zhao	11
+越前龙	yue qian long	119
+越前水母	yue qian shui mu	13
+越前蟹	yue qian xie	13
+约瑟犬	yue se quan	11
+约氏獛	yue shi pu	1
+粤瓦韦	yue wa wei	2
+跃尾虫	yue wei chong	6
+郧巴黄牛	yun ba huang niu	2
+云斑粉蝶	yun ban fen die	7
+云斑鮰	yun ban hui	4
+云斑鰕鳉	yun ban xia jiang	1
+云斑圆蜻	yun ban yuan qing	1
+云粉蝶	yun fen die	9
+云海鳞蚕	yun hai lin can	1
+云黄毒蛾	yun huang du e	1
+云龙溪蟹	yun long xi xie	1
+云南扁萤	yun nan bian ying	2
+云南拟鰋	yun nan ni yan	2
+云纹猫鲨	yun wen mao sha	1
+杂斑盔鱼	za ban kui yu	1
+杂骨	za gu	129
+杂粒拳蟹	za li quan xie	1
+杂色鮟鱇	za se an kang	1
+仔杜父鱼	zai du fu yu	1
+藏獚	zang huang	4
+藏鰋	zang yan	5
+枣北牛	zao bei niu	3
+凿花鳉	zao hua jiang	1
+皂角豆象	zao jiao dou xiang	1
+枣尽蠖	zao jin huo	1
+造纸胡蜂	zao zhi hu feng	2
+蚤钟虫	zao zhong chong	1
+泽西恶魔	ze xi e mo	28
+乍波蛸	zha bo shao	1
+炸弹鱼	zha dan yu	317
+乍得项鲿	zha de xiang chang	1
+乍得野鲮	zha de ye ling	2
+炸凤尾鱼	zha feng wei yu	6
+栅黄灰蝶	zha huang hui die	1
+栅棘鱼类	zha ji yu lei	1
+栅棘鱼目	zha ji yu mu	1
+楂颈猩	zha jing xing	1
+炸扒鱼片	zha pa yu pian	2
+诈跳岩鳚	zha tiao yan wei	1
+炸尾螺	zha wei luo	37
+扎硬寨	zha ying zhai	64
+栅鱼	zha yu	63
+栅鱼属	zha yu shu	1
+甴曱	zha yue	15
+窄翅舟蛾	zhai chi zhou e	2
+窄唇纲	zhai chun gang	1
+窄带小鳀	zhai dai xiao ti	1
+窄壳纲	zhai ke gang	4
+窄颅带鱼	zhai lu dai yu	1
+宅泥鱼	zhai ni yu	5
+窄琵琶蟹	zhai pi pa xie	1
+窄谱	zhai pu	41
+窄歧须鮠	zhai qi xu wei	1
+窄切叶蜂	zhai qie ye feng	6
+窄身鮠	zhai shen wei	1
+翟特骨螺	zhai te gu luo	1
+窄吻角鲨	zhai wen jiao sha	2
+窄纹獴	zhai wen meng	3
+窄眼繸鲬	zhai yan sui yong	1
+窄叶牛鱼	zhai ye niu yu	1
+窄招潮蟹	zhai zhao chao xie	2
+窄嘴鴷雀	zhai zui lie que	1
+窄嘴雀	zhai zui que	15
+粘孢子虫	zhan bao zi chong	37
+战场芋螺	zhan chang yu luo	1
+粘杜父鱼	zhan du fu yu	4
+展凤螺	zhan feng luo	2
+展光尺蛾	zhan guang chi e	1
+粘鲈	zhan lu	13
+展脉粉蝶	zhan mai fen die	1
+占米小鳀	zhan mi xiao ti	1
+展膜夜蛾	zhan mo ye e	1
+詹娜宝螺	zhan na bao luo	1
+湛闪夜蛾	zhan shan ye e	1
+詹氏魟	zhan shi hong	1
+詹氏锦鱼	zhan shi jin yu	2
+詹氏小鲈	zhan shi xiao lu	2
+詹氏穴鮨	zhan shi xue yi	1
+蛅蟖	zhan si	73
+粘体虫科	zhan ti chong ke	1
+展尾龙	zhan wei long	4
+展尾龙属	zhan wei long shu	1
+粘细胞	zhan xi bao	39
+粘细锚参	zhan xi mao shen	1
+占祥上猿	zhan xiang shang yuan	1
+瞻星鱼科	zhan xing yu ke	1
+战蚁	zhan yi	34
+占有面积	zhan you mian ji	115
+詹鱼	zhan yu	123
+鱣鱼	zhan yu	112
+鳣鱼	zhan yu	70
+鳣鱼肝	zhan yu gan	1
+占域行为	zhan yu xing wei	6
+粘舟蛾	zhan zhou e	1
+张北马	zhang bei ma	64
+鱆稾鮃	zhang gao ping	1
+掌骨切迹	zhang gu qie ji	4
+长颌鰆鯵	zhang he chun shen	1
+长颌鰆鲹	zhang he chun shen	1
+张和兽属	zhang he shou shu	1
+长肩棘鰧	zhang jian ji teng	1
+樟脑草	zhang nao cao	14
+张氏餐	zhang shi can	5
+长丝黑鮡	zhang si hei zhao	1
+長吻峨螺	zhang wen e luo	1
+长吻鮕	zhang wen gu	21
+樟叶木虱	zhang ye mu shi	4
+招财龟	zhao cai gui	53
+招财猫鱼	zhao cai mao yu	15
+招朝蟹	zhao chao xie	2
+招潮蟹属	zhao chao xie shu	17
+沼地豹蛛	zhao di bao zhu	1
+沼地蝰蛇	zhao di kui she	1
+照鸡子	zhao ji zi	14
+爪脚兽	zhao jiao shou	13
+鮡科	zhao ke	60
+爪门儿	zhao men er	9
+沼鳝螴	zhao shan chen	1
+爪室水母	zhao shi shui mu	2
+爪兽亚目	zhao shou ya mu	4
+爪蛙	zhao wa	98
+爪哇鲃鲤	zhao wa ba li	1
+爪哇斑鲆	zhao wa ban ping	3
+爪哇豹	zhao wa bao	26
+爪哇搏鱼	zhao wa bo yu	1
+爪哇豺	zhao wa chai	3
+爪哇池鹭	zhao wa chi lu	1
+爪哇伏翼	zhao wa fu yi	3
+爪哇鸻	zhao wa heng	10
+爪哇黄膝	zhao wa huang xi	1
+爪哇角鸮	zhao wa jiao xiao	2
+爪哇鹃鵙	zhao wa juan ju	1
+爪哇猫	zhao wa mao	103
+爪哇猫蛛	zhao wa mao zhu	1
+爪哇犀	zhao wa xi	30
+爪哇鼷鹿	zhao wa xi lu	4
+爪哇犀牛	zhao wa xi niu	42
+爪哇肖峭	zhao wa xiao qiao	1
+爪哇野牛	zhao wa ye niu	21
+爪哇鹰雕	zhao wa ying diao	19
+爪哇猿人	zhao wa yuan ren	28
+爪夜蛾	zhao ye e	2
+爪爪龙	zhao zhao long	11
+蜇虫	zhe chong	161
+蟅虫	zhe chong	76
+折耳猫	zhe er mao	326
+鹧鸪媒	zhe gu mei	1
+赭灰蝶	zhe hui die	1
+褶颊虫目	zhe jia chong mu	1
+浙江白鹅	zhe jiang bai e	35
+褶锚参	zhe mao shen	1
+浙污灯蛾	zhe wu deng e	1
+遮颜蛾	zhe yan e	2
+珍贝珠	zhen bei zhu	9
+珍波纹蛾	zhen bo wen e	1
+真唇丽鱼	zhen chun li yu	6
+珍岛犬	zhen dao quan	1
+真方头鱼	zhen fang tou yu	9
+真副鳢	zhen fu li	2
+真浮萤属	zhen fu ying shu	1
+珍海兔螺	zhen hai tu luo	1
+真海豚	zhen hai tun	253
+榛鸡	zhen ji	156
+榛鸡属	zhen ji shu	4
+真精器鱼	zhen jing qi yu	2
+真隆头鮨	zhen long tou yi	1
+真鹿亚科	zhen lu ya ke	4
+贞女刺萤	zhen nv ci ying	1
+真前孔鲀	zhen qian kong tun	3
+真腔骨龙	zhen qiang gu long	11
+真蛇尾目	zhen she wei mu	5
+鱵属	zhen shu	3
+真喜萤属	zhen xi ying shu	1
+珍袖椰子	zhen xiu ye zi	1
+珍珠贝目	zhen zhu bei mu	7
+珍珠倒吊	zhen zhu dao diao	7
+珍珠豆娘	zhen zhu dou niang	11
+珍珠狗头	zhen zhu gou tou	6
+珍珠虎	zhen zhu hu	60
+珍珠鸡苗	zhen zhu ji miao	22
+正虹集团	zheng hong ji tuan	52
+正虹乳宝	zheng hong ru bao	2
+正期归巢	zheng qi gui chao	4
+正小鮋	zheng xiao you	12
+正形贝目	zheng xing bei mu	6
+指鮟鱇	zhi an kang	15
+栉贝	zhi bei	5
+直鼻猴类	zhi bi hou lei	1
+栉蚕	zhi can	8
+栉齿鲸	zhi chi jing	12
+栉齿锯鳐	zhi chi ju yao	1
+直翅目	zhi chi mu	232
+直齿鹰	zhi chi ying	6
+栉虫目	zhi chong mu	1
+栉虫亚目	zhi chong ya mu	1
+栉刺单萤	zhi ci dan ying	1
+植丛管螅	zhi cong guan xi	1
+指带海龙	zhi dai hai long	1
+直蝶灯蛾	zhi die deng e	1
+栉兜甲萤	zhi dou jia ying	1
+直额蟳	zhi e xun	2
+直腹拟蝎	zhi fu ni xie	2
+直浮萤属	zhi fu ying shu	1
+蛭纲	zhi gang	19
+指狗	zhi gou	129
+指海星	zhi hai xing	43
+志贺氏菌	zhi he shi jun	19
+指黄毒蛾	zhi huang du e	1
+栉棘骨螺	zhi ji gu luo	1
+栉棘龙	zhi ji long	4
+指甲蟹	zhi jia xie	80
+栉江珧	zhi jiang yao	2
+栉角蛉科	zhi jiao ling ke	1
+直角石目	zhi jiao shi mu	3
+指角蝇	zhi jiao ying	3
+直接发育	zhi jie fa yu	3836
+栉锯盖鱼	zhi ju gai yu	1
+栉壳虫属	zhi ke chong shu	1
+直孔贝	zhi kong bei	7
+栉孔扇贝	zhi kong shan bei	12
+栉口目	zhi kou mu	1
+蛭口粘鳗	zhi kou zhan man	1
+殖离海樽	zhi li hai zun	1
+直立猿	zhi li yuan	982
+植龙	zhi long	100
+植龙目	zhi long mu	8
+芝麻剑	zhi ma jian	115
+直眉鲆	zhi mei ping	1
+织女银鸥	zhi nv yin ou	3
+纸砂户虫	zhi sha hu chong	1
+直伸肖蛸	zhi shen xiao shao	1
+指示猎犬	zhi shi lie quan	60
+指示犬	zhi shi quan	125
+指手拇指	zhi shou mu zhi	2
+致死温度	zhi si wen du	43
+志隧蜂	zhi sui feng	1
+植绥螨科	zhi sui man ke	1
+指梯形蟹	zhi ti xing xie	2
+指突水母	zhi tu shui mu	1
+直尾溪鳉	zhi wei xi jiang	1
+直纹尺蛾	zhi wen chi e	4
+直纹弄蝶	zhi wen nong die	6
+植物害虫	zhi wu hai chong	84
+植物羊	zhi wu yang	143
+直线平鰺	zhi xian ping shen	2
+指眼尺蛾	zhi yan chi e	1
+枝叶海牛	zhi ye hai niu	2
+直影夜蛾	zhi ying ye e	2
+制远志	zhi yuan zhi	17
+纸质猫砂	zhi zhi mao sha	14
+治蠋姬蜂	zhi zhu ji feng	1
+侄子宝螺	zhi zi bao luo	1
+炙紫苑	zhi zi yuan	5
+直嘴芦雀	zhi zui lu que	1
+直嘴雀	zhi zui que	10
+中白鹭	zhong bai lu	341
+中柄虫属	zhong bing chong shu	7
+中仓鼠属	zhong cang shu shu	5
+中朝鮠	zhong chao wei	17
+钟巢希蛛	zhong chao xi zhu	1
+中齿小鲷	zhong chi xiao diao	20
+中稻缘蝽	zhong dao yuan chun	53
+中地蜂	zhong di feng	13
+重点斑鮃	zhong dian ban ping	2
+中甸马	zhong dian ma	59
+中甸牦牛	zhong dian mao niu	12
+中点伊蚊	zhong dian yi wen	5
+中东金蝎	zhong dong jin xie	4
+中东黇鹿	zhong dong tian lu	3
+中杜鹃	zhong du juan	204
+中方虫	zhong fang chong	11
+中非丛鵙	zhong fei cong ju	4
+中非湖鲱	zhong fei hu fei	1
+中非陆龟	zhong fei lu gui	4
+中非鸺鹠	zhong fei xiu liu	4
+中腹片	zhong fu pian	60
+中腹足目	zhong fu zu mu	40
+种公猪	zhong gong zhu	47
+中国斗犬	zhong guo dou quan	58
+中国芦蜂	zhong guo lu feng	33
+中国猫	zhong guo mao	1206
+中国毛虾	zhong guo mao xia	23
+中国鸟	zhong guo niao	792
+中国扇贝	zhong guo shan bei	88
+中国杓蛤	zhong guo shao ge	17
+中国水鹿	zhong guo shui lu	26
+中国水牛	zhong guo shui niu	121
+中国兔猴	zhong guo tu hou	15
+中国犀	zhong guo xi	105
+中国犀牛	zhong guo xi niu	217
+中国小鲵	zhong guo xiao ni	43
+中国野兔	zhong guo ye tu	136
+中国紫蛤	zhong guo zi ge	23
+中海蕾	zhong hai lei	81
+中黑盲蝽	zhong hei mang chun	2
+中黑叶蜂	zhong hei ye feng	7
+中猴	zhong hou	446
+中華寶螺	zhong hua bao luo	2
+中华鰆	zhong hua chun	16
+中华地鳖	zhong hua di bie	13
+中华鰟鮍	zhong hua fang pi	11
+中华古猫	zhong hua gu mao	19
+中华龟	zhong hua gui	146
+中华鬼鮋	zhong hua gui you	4
+中华珈蟌	zhong hua jia cong	3
+中华茧蜂	zhong hua jian feng	7
+中华鹿蛾	zhong hua lu e	11
+中华露螽	zhong hua lu zhong	7
+中华绿蝇	zhong hua lv ying	4
+中华蜜蜂	zhong hua mi feng	274
+中华木蜂	zhong hua mu feng	9
+中华锹甲	zhong hua qiao jia	131
+中华犬	zhong hua quan	206
+中华沙蟹	zhong hua sha xie	22
+中华曙猿	zhong hua shu yuan	61
+中华螳蝎	zhong hua tang xie	6
+中华文蛤	zhong hua wen ge	41
+中华肖峭	zhong hua xiao qiao	3
+中华鮡	zhong hua zhao	86
+中华鱵	zhong hua zhen	168
+中灰舟蛾	zhong hui zhou e	2
+中间海参	zhong jian hai shen	119
+中间角鲆	zhong jian jiao ping	3
+中间角鮃	zhong jian jiao ping	2
+中间毛鲶	zhong jian mao nian	2
+中间鳅鮀	zhong jian qiu tuo	5
+中间野鲮	zhong jian ye ling	6
+中间银鮈	zhong jian yin ju	5
+中间褶鮡	zhong jian zhe zhao	1
+中角鮟鱇	zhong jiao an kang	7
+中介蝮	zhong jie fu	13
+中金夜蛾	zhong jin ye e	2
+中菊头蝠	zhong ju tou fu	25
+中宽雏蝗	zhong kuan chu huang	1
+中美河龟	zhong mei he gui	7
+终末寄主	zhong mo ji zhu	6
+忠犬八千	zhong quan ba qian	18
+钟祥川雄	zhong xiang chuan xiong	1
+钟祥富源	zhong xiang fu yuan	7
+中亚红鹿	zhong ya hong lu	13
+重要狭蚤	zhong yao xia zao	1
+中叶米虾	zhong ye mi xia	4
+中爪兽目	zhong zhao shou mu	12
+皱贝属	zhou bei shu	1
+绉绸龟	zhou chou gui	1
+皱唇鲨	zhou chun sha	24
+皱唇鲨科	zhou chun sha ke	9
+胄刺尻鱼	zhou ci kao yu	1
+舟蛾	zhou e	149
+舟蛾科	zhou e ke	39
+皱脊扁蝽	zhou ji bian chun	1
+周末小狗	zhou mo xiao gou	146
+周氏角蝉	zhou shi jiao chan	1
+縐塔玉螺	zhou ta yu luo	1
+轴伪足	zhou wei zu	2
+皱胸鸽	zhou xiong ge	3
+周质空间	zhou zhi kong jian	6
+侏鮟鱇	zhu an kang	1
+侏霸娇鹟	zhu ba jiao weng	1
+珠宝丽鱼	zhu bao li yu	2
+珠宝蜥	zhu bao xi	9
+珠贝潜鱼	zhu bei qian yu	2
+珠蟞鱼	zhu bie yu	1
+蠋步甲	zhu bu jia	2
+竹筴鱼	zhu ce yu	22
+侏长尾猴	zhu chang wei hou	3
+祝蛾科	zhu e ke	2
+蠋纲	zhu gang	1
+珠海龙	zhu hai long	134
+珠海玉螺	zhu hai yu luo	7
+侏红小蜻	zhu hong xiao qing	1
+朱鹮华华	zhu huan hua hua	2
+珠鸡	zhu ji	520
+珠脊尺蛾	zhu ji chi e	1
+珠鸡科	zhu ji ke	14
+侏金丝燕	zhu jin si yan	6
+侏蓝仙鶲	zhu lan xian weng	1
+侏蓝仙鹟	zhu lan xian weng	1
+侏露脊鲸	zhu lu ji jing	1
+侏绿鱼狗	zhu lv yu gou	1
+蛛毛蝎科	zhu mao xie ke	1
+珠眉角鸮	zhu mei jiao xiao	1
+侏獴	zhu meng	12
+珠目古蚖	zhu mu gu yuan	1
+住囊虫属	zhu nang chong shu	1
+侏鸊鷉	zhu pi ti	1
+猪婆参	zhu po shen	12
+侏狨	zhu rong	25
+侏儒鮑螺	zhu ru bao luo	1
+侏儒鲍螺	zhu ru bao luo	1
+侏儒岛羚	zhu ru dao ling	1
+侏儒海马	zhu ru hai ma	9
+侏儒花楸	zhu ru hua qiu	2
+侏儒鳾	zhu ru shi	1
+侏儒绦虫	zhu ru tao chong	2
+侏儒犀	zhu ru xi	3
+侏儒野猪	zhu ru ye zhu	13
+侏儒鹰	zhu ru ying	14
+侏儒爪蟾	zhu ru zhao chan	2
+侏儒猪	zhu ru zhu	38
+珠色鹦哥	zhu se ying ge	1
+侏沙鮨	zhu sha yi	1
+竹斯维蚜	zhu si wei ya	1
+住筒虫	zhu tong chong	1
+住筒虫属	zhu tong chong shu	1
+朱文锦	zhu wen jin	356
+竹乡鸡	zhu xiang ji	5
+蛀心虫	zhu xin chong	45
+蠋型幼虫	zhu xing you chong	1
+侏夜鹰	zhu ye ying	9
+侏鹰	zhu ying	38
+珠樱鮨	zhu ying yi	1
+侏圆罩鱼	zhu yuan zhao yu	1
+抓猪儿	zhua zhu er	14
+转刺蛛	zhuan ci zhu	3
+砖红芋螺	zhuan hong yu luo	1
+磚紅芋螺	zhuan hong yu luo	1
+转基因牛	zhuan ji yin niu	385
+转基因猪	zhuan ji yin zhu	411
+转角牛羚	zhuan jiao niu ling	6
+转节	zhuan jie	512
+砖墙芋螺	zhuan qiang yu luo	1
+专性滞育	zhuan xing zhi yu	5
+壮家叉	zhuang jia cha	1
+锥虫胂胺	zhui chong shen an	1
+锥腹蟏蛸	zhui fu xiao shao	1
+綴殼螺	zhui ke luo	1
+锥形触啮	zhui xing chu nie	1
+浊斑艾蛛	zhuo ban ai zhu	1
+啄花鸟	zhuo hua niao	110
+紫斑鸽	zi ban ge	30
+紫背椋鸟	zi bei liang niao	4
+紫背苇	zi bei wei	14
+紫背苇鸨	zi bei wei bao	1
+紫背苇鳱	zi bei wei gan	1
+紫背苇鳽	zi bei wei jian	3
+紫鼻狂蝇	zi bi kuang ying	1
+紫仓鼠	zi cang shu	57
+紫翅椋鸟	zi chi liang niao	18
+子弹魔	zi dan mo	33
+子弹魔鱼	zi dan mo yu	3
+子方虫	zi fang chong	5
+自贡龙	zi gong long	216
+紫灰锦蛇	zi hui jin she	2
+紫壳菜蛤	zi ke cai ge	3
+紫轮参	zi lun shen	3
+字碼芋螺	zi ma yu luo	1
+子木小蠹	zi mu xiao du	1
+自然范围	zi ran fan wei	767
+自然分蜂	zi ran fen feng	13
+紫闪溪蟌	zi shan xi cong	1
+紫蛇目蝶	zi she mu die	1
+紫绶带鸟	zi shou dai niao	1
+紫菀花	zi wan hua	32
+紫啸鸫	zi xiao dong	6
+紫小灰蝶	zi xiao hui die	1
+紫小溪蟹	zi xiao xi xie	1
+紫衣仓鼠	zi yi cang shu	4
+自抑峨螺	zi yi e luo	1
+紫印	zi yin	1044
+籽鹬科	zi yu ke	5
+紫粘盲鳗	zi zhan mang man	1
+仔猪信息	zi zhu xin xi	141
+棕斑棘蝇	zong ban ji ying	2
+棕斑叫鸮	zong ban jiao xiao	2
+棕斑鸠	zong ban jiu	47
+棕斑尾鳝	zong ban wei shan	2
+棕悲霸鹟	zong bei ba weng	1
+棕背鸫	zong bei dong	4
+棕背蚁鵙	zong bei yi ju	1
+棕背蚁鸟	zong bei yi niao	1
+棕长脚蜂	zong chang jiao feng	2
+棕翅鵟鹰	zong chi kuang ying	1
+棕翅蚁鵙	zong chi yi ju	1
+棕刺尻鱼	zong ci kao yu	1
+棕刺莺	zong ci ying	1
+棕翠鴗	zong cui li	2
+棕带眼蝶	zong dai yan die	1
+棕地雀鹀	zong di que wu	1
+棕顶翠鴗	zong ding cui li	2
+棕顶雀鹀	zong ding que wu	3
+棕顶蚁鵙	zong ding yi ju	1
+棕短角鹿	zong duan jiao lu	1
+棕额棘雀	zong e ji que	1
+棕额鹦哥	zong e ying ge	2
+棕腹鸫	zong fu dong	8
+棕腹杜鹃	zong fu du juan	16
+棕腹鵙鹛	zong fu ju mei	1
+棕腹鹟	zong fu weng	4
+棕腹仙鹟	zong fu xian weng	9
+棕腹仙鶲	zong fu xian weng	4
+棕腹夜鹰	zong fu ye ying	16
+棕腹鹰鹃	zong fu ying juan	5
+棕腹鱼狗	zong fu yu gou	5
+棕肛窜鸟	zong gang cuan niao	1
+棕肛凤鹛	zong gang feng mei	1
+棕冠蜂鸟	zong guan feng niao	2
+棕褐盾蛭	zong he dun zhi	1
+棕褐孤鸫	zong he gu dong	1
+棕黑歌鹀	zong hei ge wu	2
+棕黑疣螈	zong hei you yuan	1
+棕喉姬鹟	zong hou ji weng	4
+棕狐蝠	zong hu fu	1
+棕壶水母	zong hu shui mu	1
+棕颈犀鸟	zong jing xi niao	9
+棕脸鹟莺	zong lian weng ying	2
+縱瘤結螺	zong liu jie luo	1
+棕榈巴丹	zong lv ba dan	2
+棕榈鬼鸮	zong lv gui xiao	2
+棕榈果蝠	zong lv guo fu	1
+棕榈蓟马	zong lv ji ma	1
+棕茅	zong mao	11
+棕簑猫	zong suo mao	1
+棕腿齿鹰	zong tui chi ying	1
+棕臀凤鹛	zong tun feng mei	1
+棕尾鵟	zong wei kuang	2
+棕尾鹟鴷	zong wei weng lie	1
+棕胁歌鹀	zong xie ge wu	2
+棕星脚	zong xing jiao	1
+棕夜鹭	zong ye lu	2
+棕夜鹰	zong ye ying	7
+棕硬尾鸭	zong ying wei ya	1
+鯮鱼	zong yu	152
+祖父板龙	zu fu ban long	3
+足棘鱼	zu ji yu	11
+祖猎虎	zu lie hu	4
+鑽筍螺	zuan sun luo	1
+佐村悍蚁	zuo cun han yi	1

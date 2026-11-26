@@ -1,30 +1,36 @@
 # Rime dictionary
 # encoding: utf-8
+#
+# 四层扁平词库架构（去重优先级：L1 > L2 > L3 > L4；单字仅在 base_chars）
+# 按需开关：在对应行前加 # 即可关闭该词库并重新部署
 
 ---
 name: extended
-version: "2025-01-11"
+version: "2026-11-26"
 
 import_tables:
-  # 覆盖词频
-  - dicts/simp # 最小拼音词典
+  # ======================== L1 基础层（必开） ========================
+  - dicts/base_chars       # 通用规范汉字表（唯一单字源）
+  - dicts/base_core        # 现代汉语核心常用短词（≤4 字）
 
-  - dicts/thuocl_animal # 动物
-  - dicts/thuocl_caijing # 财经
-  - dicts/thuocl_food # 饮食
-  - dicts/thuocl_idiom # 成语俗语
-  - dicts/thuocl_IT # IT
-  - dicts/thuocl_medical # 医学
-  - dicts/thuocl_renmingdiming # 人名地名
+  # ======================== L2 扩展层（推荐默认开启） ========================
+  - dicts/ext_common       # 现代汉语通用补充短词（≤4 字）
+  - dicts/ext_idiom        # 成语俗语（≤4 字）
+  - dicts/ext_poem         # 精选常见古诗词名句（5–7 字）
+  - dicts/ext_place        # 地名（≤4 字）
+  - dicts/ext_person       # 历史与常见人名（≤4 字）
 
-  - dicts/simp-ext # 原字表中除单字外部分
-  - dicts/sogou_net # 网络流行语
+  # ======================== L3 专业领域层（按职业/场景开关） ========================
+  - dicts/domain_it        # IT / 互联网术语（≤5 字）
+  - dicts/domain_cs_ai     # CS / AI 前沿术语（≤5 字，Qwen3.8-27B 生成）
+  - dicts/domain_finance   # 财经金融（≤4 字）
+  - dicts/domain_medical   # 医学药学（≤4 字）
+  - dicts/domain_food      # 饮食菜品（≤4 字）
+  - dicts/domain_animal    # 动物生物（≤4 字）
 
-  # 一点点小小的私货，不需要的可以自行关闭~
-  - dicts/moegirl # 萌娘百科
-  - dicts/sogou_touhou # 东方 Project
-  - dicts/sogou_minecraft # Minecraft 词条
-
-  # emoji 补全词库
-  - dicts/emoji
+  # ======================== L4 流行 / 兴趣 / 补全层（按个人偏好开关） ========================
+  - dicts/extra_net        # 网络热词与流行语（≤4 字）
+  - dicts/extra_acg        # ACG / 二次元（萌娘百科 + 东方 Project，≤4 字）
+  - dicts/extra_minecraft  # Minecraft 词条（≤4 字）
+  - dicts/extra_emoji      # Emoji 触发补全短词（≤4 字，仅主库未覆盖词）
 ...

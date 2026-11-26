@@ -1,0 +1,1631 @@
+# Rime dictionary
+# encoding: utf-8
+# L4 流行/兴趣：Emoji 触发补全短词（≤4 字，仅含主库未覆盖词，CI 生成）
+# source: https://github.com/iDvel/rime-ice/blob/main/opencc/emoji.txt
+
+---
+name: extra_emoji
+version: "2026-11-26"
+sort: by_weight
+...
+
+阿森松	a sen song	10
+阿森松岛	a sen song dao	50
+爱火	ai huo	2972
+爱你手势	ai ni shou shi	166
+爱情宾馆	ai qing bin guan	42
+爱情酒店	ai qing jiu dian	173
+爱情旅店	ai qing lv dian	39
+爱情旅馆	ai qing lv guan	109
+爱心环绕	ai xin huan rao	145
+安巴	an ba	416
+安静的脸	an jing de lian	818
+安全背心	an quan bei xin	432
+安全别针	an quan bie zhen	151
+奥兰群岛	ao lan qun dao	70
+澳门币	ao men bi	271
+澳门元	ao men yuan	333
+奥姆	ao mu	1752
+奥姆符号	ao mu fu hao	26
+澳洲亚洲	ao zhou ya zhou	47
+巴巴多斯	ba ba duo si	1371
+八点钟	ba dian zhong	7896
+巴哈马国	ba ha ma guo	32
+八角星	ba jiao xing	504
+芭蕾舞鞋	ba lei wu xie	861
+巴林王国	ba lin wang guo	82
+巴西联邦	ba xi lian bang	869
+靶心	ba xin	8760
+八爪鱼	ba zhao yu	2377
+白大褂儿	bai da gua er	11
+白点	bai dian	3181
+白发男	bai fa nan	694
+白发男人	bai fa nan ren	320
+白发男子	bai fa nan zi	473
+白发女	bai fa nv	783
+白发女人	bai fa nv ren	423
+白发女子	bai fa nv zi	448
+白感叹号	bai gan tan hao	51
+百合花饰	bai he hua shi	11
+百吉饼	bai ji bing	96
+百吉圈	bai ji quan	17
+白惊叹号	bai jing tan hao	45
+白框	bai kuang	1539
+白棋	bai qi	3111
+白日小云	bai ri xiao yun	15
+白色的花	bai se de hua	2566
+白色的心	bai se de xin	906
+白色旗子	bai se qi zi	30
+白色叹号	bai se tan hao	10
+白色头发	bai se tou fa	420
+白色问号	bai se wen hao	61
+白色心	bai se xin	99
+白手杖	bai shou zhang	24
+白鼠	bai shu	3268
+白叹号	bai tan hao	3
+白问号	bai wen hao	263
+白心	bai xin	3281
+白眼儿	bai yan er	951
+白子	bai zi	6131
+板儿鞋	ban er xie	8
+板儿砖	ban er zhuan	14
+板球拍	ban qiu pai	63
+版权符号	ban quan fu hao	361
+半身像	ban shen xiang	7484
+板鞋	ban xie	1620
+班卓琴	ban zhuo qin	193
+棒啊	bang a	773
+棒棒哒	bang bang da	5182
+棒棒的	bang bang de	2349
+薄煎饼	bao jian bing	282
+报警灯	bao jing deng	314
+爆辣	bao la	606
+保龄球瓶	bao ling qiu ping	15
+抱在一起	bao zai yi qi	6774
+爆炸脑	bao zha nao	61
+报纸卷	bao zhi juan	61
+北极熊脸	bei ji xiong lian	15
+北极熊头	bei ji xiong tou	23
+背囊	bei nang	849
+笔电	bi dian	1149
+壁炉钟	bi lu zhong	4
+比萨饼	bi sa bing	778
+比心手势	bi xin shou shi	96
+毕业帽	bi ye mao	138
+比中指	bi zhong zhi	585
+鼻子冒气	bi zi mao qi	14
+便笺	bian jian	487
+变形虫	bian xing chong	1806
+表演艺术	biao yan yi shu	1184
+标语牌	biao yu pai	839
+别说话	bie shuo hua	5559
+别针	bie zhen	1831
+冰球	bing qiu	12432
+冰上溜石	bing shang liu shi	12
+波霸奶茶	bo ba nai cha	19
+搏动的心	bo dong de xin	42
+啵儿一个	bo er yi ge	14
+播放暂停	bo fang zan ting	2365
+波浪线	bo lang xian	2338
+波斯菊	bo si ju	1820
+啵一个	bo yi ge	337
+不棒	bu bang	216
+不丹王国	bu dan wang guo	109
+不敢看	bu gan kan	24889
+布告牌	bu gao pai	177
+不高兴	bu gao xing	28506
+不关心	bu guan xin	3759
+不开心	bu kai xin	76303
+不理解	bu li jie	139057
+布隆迪	bu long di	231
+不明白	bu ming bai	845538
+不能说	bu neng shuo	1289010
+哺乳室	bu ru shi	54
+不舒服	bu shu fu	385105
+捕鼠器	bu shu qi	700
+不同意	bu tong yi	2437128
+布韦岛	bu wei dao	24
+不要说	bu yao shuo	35148
+彩虹旗	cai hong qi	130
+彩椒	cai jiao	426
+菜篮	cai lan	689
+彩色碎纸	cai se sui zhi	17
+仓鼠脸	cang shu lian	52
+仓鼠头	cang shu tou	35
+草本植物	cao ben zhi wu	5767
+草花	cao hua	3306
+操控杆	cao kong gan	611
+操你妈	cao ni ma	4753
+肏你妈	cao ni ma	124
+草屋	cao wu	3378
+侧手翻	ce shou fan	53
+叉梳	cha shu	57
+缠绷带	chan beng dai	81
+颤抖的脸	chan dou de lian	154
+缠满绷带	chan man beng dai	20
+长鼻	chang bi	3591
+长鼻子	chang bi zi	5450
+长鼓	chang gu	968
+长棍面包	chang gun mian bao	24
+场记	chang ji	1804
+场记板	chang ji ban	441
+长毛象	chang mao xiang	217
+长面包	chang mian bao	1158
+常青树	chang qing shu	14766
+超度	chao du	5702
+超级辣	chao ji la	502
+超辣	chao la	734
+朝右	chao you	568
+朝左	chao zuo	920
+车轱辘	che gu lu	17
+车轮子	che lun zi	1023
+衬衫领带	chen shan ling dai	238
+尘土飞扬	chen tu fei yang	2735
+成年男人	cheng nian nan ren	3592
+成年男性	cheng nian nan xing	8571
+成年女人	cheng nian nv ren	2310
+成年女性	cheng nian nv xing	8389
+撑伞	cheng san	5222
+橙色的书	cheng se de shu	87
+橙色的心	cheng se de xin	100
+橙色书本	cheng se shu ben	41
+橙色心	cheng se xin	133
+城市风光	cheng shi feng guang	1674
+城市景观	cheng shi jing guan	1144
+橙心	cheng xin	2199
+乘雪橇	cheng xue qiao	6
+翅膀钱	chi bang qian	30
+吃比萨	chi bi sa	66
+吃比萨饼	chi bi sa bing	7
+匙子	chi zi	475
+冲浪者	chong lang zhe	1464
+重新载入	chong xin zai ru	61829
+厨刀	chu dao	311
+出口成脏	chu kou cheng zang	92
+出拳	chu quan	1989
+搋子	chuai zi	112
+床上休息	chuang shang xiu xi	915
+吹口气	chui kou qi	761
+吹气	chui qi	2592
+锤子扳手	chui zi ban shou	158
+锤子和镐	chui zi he gao	20
+锤子与镐	chui zi yu gao	25
+唇印	chun yin	2704
+葱头	cong tou	724
+粗乘号	cu cheng hao	7
+粗除号	cu chu hao	9
+粗等号	cu deng hao	34
+粗加号	cu jia hao	29
+粗减号	cu jian hao	19
+粗体乘号	cu ti cheng hao	15
+粗体除号	cu ti chu hao	7
+粗体等号	cu ti deng hao	9
+粗体加号	cu ti jia hao	80
+粗体减号	cu ti jian hao	20
+错号	cuo hao	1015
+打板	da ban	5874
+答错了	da cuo le	3633
+打对钩	da dui gou	62
+答对了	da dui le	9979
+大方块	da fang kuai	95
+打高尔夫	da gao er fu	3448
+打给我	da gei wo	2194
+大公鸡	da gong ji	3480
+打钩	da gou	3854
+打滚儿	da gun er	623
+打呵欠	da he qian	617
+大红灯笼	da hong deng long	517
+打结	da jie	5493
+大卡车	da ka che	1564
+打开的书	da kai de shu	3798
+打开的锁	da kai de suo	154
+大喇叭	da la ba	2314
+大菱形	da ling xing	219
+大米饭	da mi fan	2469
+打咩	da mie	162
+大脑爆炸	da nao bao zha	198
+打你	da ni	25648
+大厦夕阳	da sha xi yang	19
+大山日出	da shan ri chu	115
+打手球	da shou qiu	24
+打算盘	da suan pan	1389
+大头针	da tou zhen	2096
+大卫之星	da wei zhi xing	140
+大小王	da xiao wang	2089
+大写字母	da xie zi mu	887
+大音量	da yin liang	674
+大正方形	da zheng fang xing	1006
+带骨肉	dai gu rou	170
+袋棍球	dai gun qiu	103
+贷记卡	dai ji ka	186
+戴口罩	dai kou zhao	34855
+带框的画	dai kuang de hua	3
+戴头巾	dai tou jin	95
+带吸管杯	dai xi guan bei	17
+单板滑雪	dan ban hua xue	28174
+蛋饼	dan bing	1229
+蛋巢	dan chao	239
+单峰骆驼	dan feng luo tuo	261
+单轨	dan gui	148
+单轨铁路	dan gui tie lu	74
+淡蓝色心	dan lan se xin	19
+淡蓝心	dan lan xin	15
+蛋奶糕	dan nai gao	59
+单曲循环	dan qu xun huan	8923
+单蛇杖	dan she zhang	2
+单蛇之杖	dan she zhi zhang	1
+单眼偷看	dan yan tou kan	8
+单眼吐舌	dan yan tu she	8
+当心儿童	dang xin er tong	48
+刀叉	dao cha	1252
+倒脸	dao lian	703
+稻穗	dao sui	2949
+倒退按钮	dao tui an niu	65
+得意的猫	de yi de mao	875
+得意地笑	de yi de xiao	673
+得意猫	de yi mao	349
+得意猫脸	de yi mao lian	13
+灯笼椒	deng long jiao	16
+登山鞋	deng shan xie	867
+登山者	deng shan zhe	4064
+低电量	di dian liang	4474
+低亮度	di liang du	494
+第三卷	di san juan	23043
+第四卷	di si juan	19671
+低头忧伤	di tou you shang	127
+地下铁路	di xia tie lu	1072
+电插头	dian cha tou	168
+电池不足	dian chi bu zu	212
+颠倒的脸	dian dao de lian	25
+电动轮椅	dian dong lun yi	2091
+电话听筒	dian hua ting tong	222
+电话筒	dian hua tong	325
+电量不足	dian liang bu zu	4665
+电量低	dian liang di	1334
+电脑光盘	dian nao guang pan	183
+电脑键盘	dian nao jian pan	10202
+电脑鼠标	dian nao shu biao	5708
+电平滑块	dian ping hua kuai	4
+电筒	dian tong	1300
+点烟	dian yan	1293
+电影胶片	dian ying jiao pian	657
+电源插头	dian yuan cha tou	1432
+订婚戒	ding hun jie	328
+丢垃圾	diu la ji	1520
+冻僵了	dong jiang le	186
+东京塔	dong jing ta	2118
+东萨摩亚	dong sa mo ya	16
+冻死了	dong si le	3324
+动物脚印	dong wu jiao yin	115
+豆荚	dou jia	1260
+渡船	du chuan	1499
+嘟嘟车	du du che	533
+堵耳	du er	416
+堵耳朵	du er duo	857
+独角兽脸	du jiao shou lian	32
+独角兽头	du jiao shou tou	105
+渡轮	du lun	834
+独木舟	du mu zhou	2620
+堵上耳朵	du shang er duo	169
+都市风光	du shi feng guang	372
+都市景观	du shi jing guan	203
+堵着耳朵	du zhe er duo	111
+堵住耳朵	du zhu er duo	3774
+断链	duan lian	8045
+对钩	dui gou	879
+对号	dui hao	5784
+对话气泡	dui hua qi pao	9682
+对虾	dui xia	3759
+多哥	duo ge	3119
+多米尼克	duo mi ni ke	5210
+鹅鹅鹅	e e e	1108
+蛾眉月	e mei yue	106
+恶魔的眼	e mo de yan	228
+恶魔生气	e mo sheng qi	89
+恶魔微笑	e mo wei xiao	210
+恶魔眼	e mo yan	261
+恶魔之眼	e mo zhi yan	987
+儿童过街	er tong guo jie	15
+二头肌	er tou ji	450
+发传真	fa chuan zhen	377
+发件	fa jian	4110
+发件箱	fa jian xiang	262
+发冷	fa leng	831
+法轮	fa lun	2479
+翻白眼	fan bai yan	7755
+翻白眼儿	fan bai yan er	62
+翻跟头	fan gen tou	1011
+翻筋斗	fan jin dou	547
+翻墙	fan qiang	6961
+烦死	fan si	7129
+烦死啦	fan si la	202
+烦死人	fan si ren	1457
+泛舟	fan zhou	22411
+方板	fang ban	142
+方片	fang pian	1530
+放声大哭	fang sheng da ku	238
+房屋群	fang wu qun	85
+方形按钮	fang xing an niu	250
+放映机	fang ying ji	2348
+非常棒	fei chang bang	16957
+飞机着陆	fei ji zhuo lu	1524
+非礼勿看	fei li wu kan	5
+非礼勿视	fei li wu shi	55
+非礼勿听	fei li wu ting	21
+非礼勿言	fei li wu yan	34
+飞去来器	fei qu lai qi	876
+飞吻	fei wen	2366
+飞旋镖	fei xuan biao	45
+非饮用水	fei yin yong shui	282
+废纸篓	fei zhi lou	803
+非洲欧洲	fei zhou ou zhou	240
+粉红心	fen hong xin	133
+粉色的心	fen se de xin	1016
+粉色心	fen se xin	208
+粉心	fen xin	258
+风吹拂	feng chui fu	864
+奉金瓮	feng jin weng	6
+缝纫针	feng ren zhen	209
+丰收饼	feng shou bing	10
+枫树叶	feng shu ye	435
+凤尾蝶	feng wei die	80
+缝衣针	feng yi zhen	747
+风鸢	feng yuan	72
+佛寺	fo si	1349
+复古钥匙	fu gu yao shi	70
+孵化小鸡	fu hua xiao ji	1213
+复活岛	fu huo dao	1281
+服了	fu le	1323
+服了你了	fu le ni le	83
+芙蓉花	fu rong hua	3702
+服务铃	fu wu ling	193
+服务犬	fu wu quan	111
+复选	fu xuan	3031
+复选按钮	fu xuan an niu	132
+干脆面君	gan cui mian jun	27
+干得好	gan de hao	9144
+干你	gan ni	4887
+钢镚	gang beng	763
+冈比亚	gang bi ya	1563
+刚果布	gang guo bu	797
+钢琴按键	gang qin an jian	574
+钢琴键	gang qin jian	3468
+高跟儿	gao gen er	27
+高跟儿鞋	gao gen er xie	6
+高跟儿靴	gao gen er xue	5
+高跟凉鞋	gao gen liang xie	41
+高跟靴	gao gen xue	34
+高架铁路	gao jia tie lu	351
+高亮度	gao liang du	850
+高帽	gao mao	936
+高山索道	gao shan suo dao	333
+高速列车	gao su lie che	7646
+高压电	gao ya dian	2650
+高音量	gao yin liang	831
+歌记号	ge ji hao	5
+格林纳达	ge lin na da	744
+格子饼	ge zi bing	155
+格子旗	ge zi qi	163
+根西岛	gen xi dao	86
+工厂工人	gong chang gong ren	1054
+肱二头	gong er tou	287
+公共广播	gong gong guang bo	2084
+弓和箭	gong he jian	176
+公事包	gong shi bao	214
+工作犬	gong zuo quan	240
+狗獾	gou huan	71
+狗脸	gou lian	273
+购物袋	gou wu dai	2144
+古典建筑	gu dian jian zhu	1064
+骨灰缸	gu hui gang	143
+轱辘	gu lu	80
+骨坛	gu tan	65
+骨瓮	gu weng	40
+刮胡刀	gua hu dao	241
+瓜皮帽	gua pi mao	167
+乖宝	guai bao	891
+乖宝宝	guai bao bao	2066
+关闭手机	guan bi shou ji	2693
+盥洗室	guan xi shi	108
+管弦乐器	guan xian yue qi	86
+光头男人	guang tou nan ren	541
+光头男子	guang tou nan zi	831
+光头女	guang tou nv	557
+光头女人	guang tou nv ren	455
+光头女子	guang tou nv zi	339
+贵宾犬	gui bin quan	445
+轨迹球	gui ji qiu	198
+鬼牌	gui pai	324
+跪坐	gui zuo	2399
+果饮	guo yin	215
+果汁盒	guo zhi he	342
+蛤蛤	ha ha	2382
+海盗旗	hai dao qi	355
+海关检查	hai guan jian cha	925
+海狸	hai li	784
+害怕的猫	hai pa de mao	52
+害怕猫	hai pa mao	450
+害怕猫脸	hai pa mao lian	4
+海贼旗	hai zei qi	158
+旱冰	han bing	2035
+旱冰鞋	han bing xie	900
+汗滴	han di	1422
+憨憨	han han	36765
+含泪笑脸	han lei xiao lian	49
+汗衫	han shan	1394
+航班降落	hang ban jiang luo	860
+好崇拜	hao chong bai	1986
+好崇拜哦	hao chong bai o	170
+好哒	hao da	9002
+好好吃	hao hao chi	17738
+好基友	hao ji you	658
+蚝蛎	hao li	105
+和平标志	he ping biao zhi	128
+和平符号	he ping fu hao	125
+和平手势	he ping shou shi	84
+和平象征	he ping xiang zheng	154
+合上的锁	he shang de suo	12
+鹤嘴锄	he zui chu	98
+黑框	hei kuang	3920
+黑棋	hei qi	2771
+黑色的心	hei se de xin	1741
+黑色旗	hei se qi	56
+黑色旗子	hei se qi zi	30
+黑色小鸟	hei se xiao niao	186
+黑色心	hei se xin	285
+烘焙	hong bei	19104
+红发男	hong fa nan	375
+红发男人	hong fa nan ren	186
+红发男子	hong fa nan zi	584
+红发女	hong fa nv	672
+红发女人	hong fa nv ren	635
+红发女子	hong fa nv zi	821
+红凤凰	hong feng huang	1019
+红鹳	hong guan	138
+红酒杯	hong jiu bei	748
+红萝卜	hong luo bo	3481
+红毛猩猩	hong mao xing xing	418
+红色的书	hong se de shu	2559
+红色书本	hong se shu ben	117
+红色头发	hong se tou fa	1084
+红头发	hong tou fa	6161
+红中	hong zhong	4732
+猴头	hou tou	2904
+护肤霜	hu fu shuang	891
+呼机	hu ji	893
+狐狸脸	hu li lian	1078
+虎脸	hu lian	918
+护照检查	hu zhao jian cha	207
+胡子女	hu zi nv	434
+花豹	hua bao	439
+画叉	hua cha	255
+花痴的猫	hua chi de mao	3
+花痴猫	hua chi mao	15
+花痴猫脸	hua chi mao lian	2
+滑旱冰	hua han bing	290
+滑滑梯	hua hua ti	1651
+画框	hua kuang	3492
+花扑克牌	hua pu ke pai	37
+花饰	hua shi	810
+划艇	hua ting	1694
+滑雪板	hua xue ban	2274
+滑雪的人	hua xue de ren	440
+化学家	hua xue jia	7393
+滑雪橇	hua xue qiao	160
+滑雪装备	hua xue zhuang bei	954
+花椰菜	hua ye cai	415
+黄金瓮	huang jin weng	20
+黄榄	huang lan	23
+晃脑	huang nao	309
+黄乳油	huang ru you	7
+黄色的心	huang se de xin	638
+黄色心	huang se xin	64
+黄心	huang xin	2746
+荒宅	huang zhai	579
+回电话	hui dian hua	2245
+回飞棒	hui fei bang	75
+回力棒	hui li bang	229
+回力镖	hui li biao	169
+灰色的心	hui se de xin	506
+灰色心	hui se xin	40
+回形针	hui xing zhen	606
+货币兑换	huo bi dui huan	2335
+火大	huo da	1275
+火山爆发	huo shan bao fa	8919
+火山喷发	huo shan pen fa	1301
+火上之心	huo shang zhi xin	18
+吉布提	ji bu ti	712
+寄存行李	ji cun xing li	4907
+击剑选手	ji jian xuan shou	106
+击剑者	ji jian zhe	78
+基里巴斯	ji li ba si	171
+鸡头	ji tou	1715
+鸡腿儿	ji tui er	980
+机械手臂	ji xie shou bi	4703
+机械腿	ji xie tui	1016
+击掌	ji zhang	4070
+加冰	jia bing	7481
+夹克衫	jia ke shan	1748
+夹钳	jia qian	893
+家禽的腿	jia qin de tui	53
+家禽腿	jia qin tui	28
+驾雪橇	jia xue qiao	3
+夹趾凉鞋	jia zhi liang xie	66
+煎饼馃子	jian bing guo zi	47
+检查护照	jian cha hu zhao	832
+剑刃	jian ren	2011
+剪头	jian tou	4953
+建筑工	jian zhu gong	4955
+建筑工人	jian zhu gong ren	6670
+剪子	jian zi	3060
+讲话者	jiang hua zhe	472
+将军肚	jiang jun du	343
+交叉箭头	jiao cha jian tou	270
+交叉旗	jiao cha qi	46
+较浅肤色	jiao qian fu se	21
+较深肤色	jiao shen fu se	18
+交通灯	jiao tong deng	2420
+脚丫子	jiao ya zi	1063
+椒盐卷饼	jiao yan juan bing	21
+接收天线	jie shou tian xian	178
+禁丢垃圾	jin diu la ji	14
+金发男	jin fa nan	181
+金发男人	jin fa nan ren	112
+金发男子	jin fa nan zi	371
+金发女	jin fa nv	258
+金发女人	jin fa nv ren	193
+金发女子	jin fa nv zi	234
+金毛犬	jin mao quan	295
+金色头发	jin se tou fa	948
+金属礼	jin shu li	76
+金瓮	jin weng	41
+禁止骑车	jin zhi qi che	162
+禁止骑行	jin zhi qi xing	280
+禁止驶入	jin zhi shi ru	161
+禁止手势	jin zhi shou shi	248
+禁止吸烟	jin zhi xi yan	2616
+禁止响铃	jin zhi xiang ling	39
+禁止行人	jin zhi xing ren	365
+警车灯	jing che deng	166
+警灯	jing deng	1056
+井号键	jing hao jian	51
+镜面球	jing mian qiu	285
+惊声尖叫	jing sheng jian jiao	1159
+惊问	jing wen	521
+静音铃铛	jing yin ling dang	16
+九点钟	jiu dian zhong	12819
+救救我	jiu jiu wo	350
+就是你	jiu shi ni	1908953
+旧钥匙	jiu yao shi	271
+酒桌游戏	jiu zhuo you xi	181
+举白旗	ju bai qi	482
+巨怪	ju guai	755
+举黑旗	ju hei qi	307
+橘黄色	ju huang se	1508
+举起的手	ju qi de shou	6516
+举起拳头	ju qi quan tou	9256
+橘色的书	ju se de shu	27
+橘色的心	ju se de xin	43
+橘色菱形	ju se ling xing	4
+橘色书本	ju se shu ben	6
+橘色心	ju se xin	13
+举双手	ju shuang shou	17637
+橘心	ju xin	188
+举中指	ju zhong zhi	372
+卷边的纸	juan bian de zhi	71
+卷饼	juan bing	935
+卷发女	juan fa nv	330
+卷发女人	juan fa nv ren	227
+卷发女子	juan fa nv zi	192
+卷毛狗	juan mao gou	165
+卷曲环	juan qu huan	12
+卷纸	juan zhi	2279
+绝了	jue le	12110
+噘嘴	jue zui	1461
+噘嘴的猫	jue zui de mao	10
+噘嘴的人	jue zui de ren	17
+噘嘴猫	jue zui mao	10
+噘嘴猫脸	jue zui mao lian	2
+军功勋章	jun gong xun zhang	56
+军功章	jun gong zhang	396
+军盔	jun kui	314
+军用头盔	jun yong tou kui	705
+咖啡杯	ka fei bei	1532
+卡牌索引	ka pai suo yin	85
+卡片盒	ka pian he	1803
+卡片索引	ka pian suo yin	393
+卡片相机	ka pian xiang ji	318
+卡塔尔国	ka ta er guo	186
+开花了	kai hua le	7114
+开趴	kai pa	201
+开始播放	kai shi bo fang	40303
+开始录像	kai shi lu xiang	5516
+开始录音	kai shi lu yin	11260
+开始战斗	kai shi zhan dou	15465
+开心的猫	kai xin de mao	385
+开心猫	kai xin mao	148
+开心猫脸	kai xin mao lian	16
+开银趴	kai yin pa	11
+开淫趴	kai yin pa	5
+坎达	kan da	576
+坎达符号	kan da fu hao	5
+康加鼓	kang jia gu	11
+烤番薯	kao fan shu	32
+烤甘薯	kao gan shu	19
+客船	ke chuan	282
+科科斯	ke ke si	205
+可怜兮兮	ke lian xi xi	2811
+客轮	ke lun	135
+科威特国	ke wei te guo	120
+坑洞	keng dong	177
+恐惧的猫	kong ju de mao	36
+恐惧尖叫	kong ju jian jiao	142
+恐惧猫	kong ju mao	108
+恐惧猫脸	kong ju mao lian	7
+空鸟巢	kong niao chao	112
+空手道服	kong shou dao fu	6
+控制旋钮	kong zhi xuan niu	264
+空中缆车	kong zhong lan che	97
+扣针	kou zhen	315
+哭了	ku le	35081
+枯木	ku mu	7232
+哭泣的猫	ku qi de mao	106
+哭泣猫	ku qi mao	40
+哭泣猫脸	ku qi mao lian	4
+枯树	ku shu	3867
+枯萎的花	ku wei de hua	1407
+跨性别旗	kua xing bie qi	11
+快餐盒	kuai can he	470
+快进符号	kuai jin fu hao	16
+快上	kuai shang	4971
+快退	kuai tui	1391
+快退符号	kuai tui fu hao	8
+快下	kuai xia	1479
+亏凸月	kui tu yue	4
+困乏	kun fa	1515
+困倦	kun juan	4051
+困困	kun kun	2553
+困了	kun le	4084
+喇叭筒	la ba tong	383
+拉便便	la bian bian	36
+拉大便	la da bian	305
+垃圾篓	la ji lou	247
+垃圾入篓	la ji ru lou	6
+拉上拉链	la shang la lian	225
+辣死	la si	876
+辣死了	la si le	520
+来一根	lai yi gen	3390
+来一根儿	lai yi gen er	105
+兰花指	lan hua zhi	589
+蓝色的书	lan se de shu	1073
+蓝色的心	lan se de xin	2173
+蓝色书本	lan se shu ben	84
+蓝色心	lan se xin	364
+蓝心	lan xin	9532
+懒猪	lan zhu	1149
+狼脸	lang lian	38
+狼头	lang tou	493
+烙饼	lao bing	2801
+老虎脸	lao hu lian	205
+老虎头	lao hu tou	1549
+老式钥匙	lao shi yao shi	48
+老鼠脸	lao shu lian	318
+老鼠头	lao shu tou	1484
+老钥匙	lao yao shi	175
+累了	lei le	305992
+类人	lei ren	4917
+雷云	lei yun	5441
+冷脸	leng lian	5944
+冷死	leng si	2323
+冷死了	leng si le	1817
+利比亚国	li bi ya guo	37
+礼宾花	li bin hua	49
+礼品盒	li pin he	2652
+理头	li tou	390
+理头发	li tou fa	273
+礼物盒	li wu he	1800
+鲤鱼旗	li yu qi	450
+俩叹号	lia tan hao	14
+脸发烧	lian fa shao	40
+莲花坐	lian hua zuo	824
+练腿	lian tui	1154
+两点半	liang dian ban	17101
+两点钟	liang dian zhong	11819
+亮度低	liang du di	340
+亮度高	liang du gao	526
+量体温	liang ti wen	544
+烈酒	lie jiu	6782
+咧嘴笑	lie zui xiao	4650
+灵柩	ling jiu	708
+领取行李	ling qu xing li	667
+溜冰鞋	liu bing xie	95
+六点钟	liu dian zhong	7453
+六角星	liu jiao xing	1492
+六六六	liu liu liu	2673
+六芒星	liu mang xing	971
+留尼汪	liu ni wang	242
+溜石	liu shi	240
+聋子	long zi	1691
+露齿笑	lu chi xiao	166
+录像按钮	lu xiang an niu	27
+录音按钮	lu yin an niu	318
+录影带	lu ying dai	120
+轮椅标志	lun yi biao zhi	89
+螺母螺栓	luo mu luo shuan	302
+络腮胡	luo sai hu	272
+螺丝扳手	luo si ban shou	320
+落叶树	luo ye shu	378
+绿菜花	lv cai hua	70
+驴儿	lv er	587
+绿花椰菜	lv hua ye cai	10
+绿皮火车	lv pi huo che	591
+绿色的书	lv se de shu	966
+绿色的心	lv se de xin	1438
+绿色沙拉	lv se sha la	180
+绿色书本	lv se shu ben	61
+绿色心	lv se xin	274
+绿心	lv xin	1674
+绿叶蔬菜	lv ye shu cai	559
+略略略	lve lve lve	767
+码畜	ma chu	28
+马黛茶	ma dai cha	136
+马耳他	ma er ta	1750
+马脸	ma lian	4955
+马骝	ma liu	301
+马桶抽子	ma tong chou zi	18
+马桶搋	ma tong chuai	234
+马桶搋子	ma tong chuai zi	101
+马桶塞	ma tong sai	430
+马桶吸	ma tong xi	395
+马桶吸把	ma tong xi ba	17
+马桶吸盘	ma tong xi pan	74
+马戏	ma xi	8594
+马约特	ma yue te	63
+蔓菁	man jing	86
+满了	man le	20893
+满面寒霜	man mian han shuang	68
+慢吞吞	man tun tun	1571
+毛虫	mao chong	761
+冒汗焦虑	mao han jiao lv	2
+猫脸	mao lian	1366
+猫头	mao tou	19786
+毛线球	mao xian qiu	618
+猫熊	mao xiong	1102
+美刀	mei dao	288
+梅利利亚	mei li li ya	69
+眉毛上挑	mei mao shang tiao	117
+美男鱼	mei nan yu	39
+美式足球	mei shi zu qiu	1487
+没有空位	mei you kong wei	138
+没有嘴	mei you zui	3176
+没有嘴巴	mei you zui ba	2359
+美元钞票	mei yuan chao piao	73
+眉月	mei yue	284
+没嘴	mei zui	1187
+门松	men song	125
+门子	men zi	1241
+蒙眼睛	meng yan jing	1344
+猛摇头	meng yao tou	315
+蒙住眼睛	meng zhu yan jing	569
+米饼	mi bing	1979
+蜜瓜	mi gua	1086
+蜜橘	mi ju	636
+迷你光碟	mi ni guang die	42
+迷你光盘	mi ni guang pan	48
+眯眼	mi yan	18127
+眯眼吐舌	mi yan tu she	20
+眯眼笑	mi yan xiao	506
+面包圈	mian bao quan	1496
+面饼	mian bing	745
+缅甸联邦	mian dian lian bang	724
+喵喵叫	miao miao jiao	675
+喵喵喵	miao miao miao	9009
+摩艾石像	mo ai shi xiang	62
+魔棒	mo bang	360
+魔法上网	mo fa shang wang	80
+墨镜笑脸	mo jing xiao lian	28
+摩托艇	mo tuo ting	220
+墨西哥粽	mo xi ge zong	242
+木槿花	mu jin hua	141
+母羊	mu yang	351
+母婴室	mu ying shi	1266
+拇指朝上	mu zhi chao shang	112
+拇指朝下	mu zhi chao xia	112
+拇指向上	mu zhi xiang shang	356
+奶酪火锅	nai lao huo guo	405
+男白领	nan bai ling	186
+男厕	nan ce	2423
+男厕所	nan ce suo	3654
+男超人	nan chao ren	211
+男衬衫	nan chen shan	147
+男程序员	nan cheng xu yuan	302
+男厨师	nan chu shi	579
+男大反派	nan da fan pai	3
+男大夫	nan dai fu	245
+男灯神	nan deng shen	5
+男电工	nan dian gong	74
+男法官	nan fa guan	178
+男法师	nan fa shi	133
+男反派	nan fan pai	152
+男飞行员	nan fei xing yuan	128
+男服务生	nan fu wu sheng	61
+男服务员	nan fu wu yuan	486
+男工人	nan gong ren	351
+男画家	nan hua jia	87
+男化学家	nan hua xue jia	27
+男坏蛋	nan huai dan	24
+男技工	nan ji gong	46
+男技术员	nan ji shu yuan	12
+男建筑工	nan jian zhu gong	11
+男僵尸	nan jiang shi	39
+男教师	nan jiao shi	1750
+男警察	nan jing cha	572
+男警官	nan jing guan	212
+男精灵	nan jing ling	152
+男科学家	nan ke xue jia	344
+男老师	nan lao shi	4920
+男码畜	nan ma chu	2
+男码农	nan ma nong	29
+男漫画家	nan man hua jia	32
+男魔法师	nan mo fa shi	105
+男魔术师	nan mo shu shi	63
+男农民工	nan nong min gong	141
+男人怀孕	nan ren huai yun	168
+男人鱼	nan ren yu	134
+男丧尸	nan sang shi	57
+男生冲浪	nan sheng chong lang	44
+男生举重	nan sheng ju zhong	76
+男生游泳	nan sheng you yong	257
+男士标志	nan shi biao zhi	216
+男士衬衫	nan shi chen shan	2309
+男士符号	nan shi fu hao	57
+男水管工	nan shui guan gong	26
+男卫兵	nan wei bing	2
+男卫士	nan wei shi	37
+男洗手间	nan xi shou jian	660
+男吸血鬼	nan xi xue gui	52
+男消防员	nan xiao fang yuan	108
+男鞋	nan xie	1134
+男新娘	nan xin niang	178
+男修理工	nan xiu li gong	4
+男艺术家	nan yi shu jia	77
+男宇航员	nan yu hang yuan	90
+男仔	nan zai	287
+男侦探	nan zhen tan	90
+男职员	nan zhi yuan	269
+脑爆炸	nao bao zha	105
+闹表	nao biao	706
+脑袋爆炸	nao dai bao zha	337
+脑花	nao hua	2313
+脑子爆炸	nao zi bao zha	264
+嫩苗	nen miao	1020
+你妈死了	ni ma si le	146
+你自己	ni zi ji	2419117
+念珠	nian zhu	9809
+鸟头	niao tou	1698
+捏合	nie he	2543
+捏手指	nie shou zhi	1022
+扭打	niu da	3309
+牛角面包	niu jiao mian bao	940
+牛脸	niu lian	425
+牛奶杯	niu nai bei	517
+牛仔帽	niu zai mao	605
+牛仔帽脸	niu zai mao lian	1
+诺福克岛	nuo fu ke dao	58
+女白领	nv bai ling	1208
+女包	nv bao	1780
+女厕	nv ce	4793
+女厕所	nv ce suo	5879
+女超人	nv chao ren	1656
+女衬衫	nv chen shan	207
+女程序员	nv cheng xu yuan	663
+女厨师	nv chu shi	1849
+女大反派	nv da fan pai	6
+女大夫	nv dai fu	783
+女灯神	nv deng shen	15
+女电工	nv dian gong	223
+女法师	nv fa shi	733
+女服务员	nv fu wu yuan	3729
+女工人	nv gong ren	1899
+女画家	nv hua jia	720
+女化学家	nv hua xue jia	95
+女坏蛋	nv huai dan	75
+女技工	nv ji gong	101
+女技术员	nv ji shu yuan	61
+女建筑工	nv jian zhu gong	12
+女僵尸	nv jiang shi	209
+女精灵	nv jing ling	464
+女码畜	nv ma chu	3
+女码农	nv ma nong	63
+女帽	nv mao	298
+女魔术师	nv mo shu shi	266
+女农民工	nv nong min gong	535
+女丧尸	nv sang shi	294
+女生冲浪	nv sheng chong lang	95
+女生举重	nv sheng ju zhong	97
+女生游泳	nv sheng you yong	521
+女士标志	nv shi biao zhi	118
+女士衬衫	nv shi chen shan	383
+女士符号	nv shi fu hao	60
+女式凉鞋	nv shi liang xie	94
+女士钱包	nv shi qian bao	138
+女水管工	nv shui guan gong	60
+女同性恋	nv tong xing lian	2151
+女卫兵	nv wei bing	45
+女卫士	nv wei shi	212
+女洗手间	nv xi shou jian	1476
+女吸血鬼	nv xi xue gui	195
+女消防员	nv xiao fang yuan	326
+女新郎	nv xin lang	279
+女修理工	nv xiu li gong	7
+女靴	nv xue	175
+女医生	nv yi sheng	10603
+女艺术家	nv yi shu jia	478
+女宇航员	nv yu hang yuan	219
+女侦探	nv zhen tan	345
+哦耶	o ye	1862
+欧式城堡	ou shi cheng bao	981
+欧元钞票	ou yuan chao piao	32
+欧洲城堡	ou zhou cheng bao	396
+欧洲非洲	ou zhou fei zhou	349
+欧洲邮局	ou zhou you ju	31
+爬梯子	pa ti zi	1369
+派对脸	pai dui lian	14
+拍掌	pai zhang	875
+攀爬的人	pan pa de ren	173
+攀山	pan shan	2786
+盘腿	pan tui	6284
+攀岩者	pan yan zhe	1002
+跑步鞋	pao bu xie	453
+跑步者	pao bu zhe	750
+抛接	pao jie	1085
+抛接杂耍	pao jie za shua	5
+抛媚眼	pao mei yan	341
+泡澡的人	pao zao de ren	28
+喷水的鲸	pen shui de jing	38
+盆栽植物	pen zai zhi wu	859
+捧花	peng hua	3922
+棚屋	peng wu	2181
+膨胀的心	peng zhang de xin	64
+啤酒肚	pi jiu du	241
+皮卡车	pi ka che	260
+皮老虎	pi lao hu	456
+皮芽子	pi ya zi	65
+撇嘴	pie zui	16189
+拼块	pin kuai	801
+拼块儿	pin kuai er	39
+拼图块	pin tu kuai	511
+平底杯	ping di bei	609
+平底鞋	ping di xie	10863
+破壳	po ke	4520
+葡币	pu bi	26
+汽车尾气	qi che wei qi	881
+骑单车	qi dan che	1501
+七点半	qi dian ban	8897
+七点钟	qi dian zhong	8689
+奇怪了	qi guai le	6080
+麒麟鹿	qi lin lu	94
+骑山地车	qi shan di che	92
+起司火锅	qi si huo guo	17
+七星瓢虫	qi xing piao chong	999
+前方施工	qian fang shi gong	347
+钱飞了	qian fei le	20
+浅肤色	qian fu se	667
+潜水面罩	qian shui mian zhao	191
+钱眼	qian yan	210
+钱眼儿	qian yan er	34
+强忍泪水	qiang ren lei shui	347
+琴键	qin jian	2610
+亲你	qin ni	1587
+亲亲的猫	qin qin de mao	48
+亲亲猫	qin qin mao	79
+亲亲猫脸	qin qin mao lian	5
+亲一个	qin yi ge	1654
+亲一下	qin yi xia	2963
+亲嘴	qin zui	1486
+倾倒液体	qing dao ye ti	217
+青瓜	qing gua	3566
+轻轨电车	qing gui dian che	292
+青花菜	qing hua cai	786
+情侣宾馆	qing lv bin guan	23
+情侣旅店	qing lv lv dian	23
+情侣旅馆	qing lv lv guan	50
+青柠	qing ning	6595
+晴偶有云	qing ou you yun	2
+青苹果	qing ping guo	9162
+情人宾馆	qing ren bin guan	12
+情人酒店	qing ren jiu dian	123
+情人旅店	qing ren lv dian	14
+情人旅馆	qing ren lv guan	118
+青蛙脸	qing wa lian	124
+青蛙头	qing wa tou	202
+请勿入内	qing wu ru nei	102
+请勿驶入	qing wu shi ru	124
+请勿吸烟	qing wu xi yan	630
+请勿饮用	qing wu yin yong	207
+求婚戒	qiu hun jie	107
+求救讯号	qiu jiu xun hao	107
+球门网	qiu men wang	109
+求你了	qiu ni le	26407
+求求你了	qiu qiu ni le	3149
+球网	qiu wang	963
+曲别针	qu bie zhen	599
+曲棍球	qu gun qiu	1526
+拳击手套	quan ji shou tao	1251
+全莲花坐	quan lian hua zuo	69
+燃烧的心	ran shao de xin	601
+热带饮料	re dai yin liao	246
+热死	re si	3219
+热死了	re si le	3842
+认输了	ren shu le	283
+人物剪影	ren wu jian ying	104
+人猿	ren yuan	366
+忍住泪水	ren zhu lei shui	375
+扔垃圾	reng la ji	1785
+日本城堡	ri ben cheng bao	346
+日本地图	ri ben di tu	3483
+日本剪影	ri ben jian ying	21
+日本神社	ri ben shen she	1999
+日本娃娃	ri ben wa wa	231
+日本邮局	ri ben you ju	132
+日币	ri bi	266
+日式城堡	ri shi cheng bao	987
+日元钞票	ri yuan chao piao	32
+容我三思	rong wo san si	125
+柔道服	rou dao fu	87
+乳液瓶	ru ye ping	227
+软冰激凌	ruan bing ji ling	11
+软冰淇淋	ruan bing qi lin	763
+萨克岛	sa ke dao	45
+赛马骑师	sai ma qi shi	356
+赛艇	sai ting	1414
+三蹦子	san beng zi	448
+三不猴	san bu hou	160
+三点半	san dian ban	12569
+三点式	san dian shi	6440
+三点钟	san dian zhong	13003
+三角板	san jiao ban	714
+三角尺	san jiao chi	263
+三脚鸡	san jiao ji	340
+三角裤	san jiao ku	475
+三角旗	san jiao qi	190
+三口之家	san kou zhi jia	63833
+伞状	san zhuang	220
+沙槌	sha chui	75
+沙发和灯	sha fa he deng	20
+傻瓜脸	sha gua lian	88
+沙滩凉鞋	sha tan liang xie	116
+沙滩伞	sha tan san	97
+山地车	shan di che	5355
+山顶日出	shan ding ri chu	1817
+珊瑚礁	shan hu jiao	3324
+闪亮的心	shan liang de xin	337
+山区铁路	shan qu tie lu	598
+山中日出	shan zhong ri chu	2436
+山猪	shan zhu	2120
+商标符号	shang biao fu hao	207
+商超	shang chao	3381
+上箭头	shang jian tou	1774
+上三角	shang san jiao	789
+上锁	shang suo	5882
+上下箭头	shang xia jian tou	592
+上一首	shang yi shou	22073
+蛇夫座	she fu zuo	80
+摄录机	she lu ji	182
+蛇蛇	she she	291
+蛇杖	she zhang	64
+深肤色	shen fu se	968
+深潜	shen qian	7613
+深思的脸	shen si de lian	210
+圣诞夫人	sheng dan fu ren	73
+圣诞奶奶	sheng dan nai nai	90
+圣甲虫	sheng jia chong	495
+圣马力诺	sheng ma li nuo	1341
+生气的猫	sheng qi de mao	171
+生气恶魔	sheng qi e mo	42
+生气符号	sheng qi fu hao	49
+生气猫脸	sheng qi mao lian	12
+生物危害	sheng wu wei hai	384
+十八禁	shi ba jin	1421
+失聪者	shi cong zhe	312
+十点半	shi dian ban	10483
+十点钟	shi dian zhong	11088
+十二点半	shi er dian ban	1889
+十二点钟	shi er dian zhong	3416
+施工符号	shi gong fu hao	54
+施工中	shi gong zhong	23107
+狮脸	shi lian	412
+十一点半	shi yi dian ban	401
+十一点钟	shi yi dian zhong	191
+狮子脸	shi zi lian	209
+十字头盔	shi zi tou kui	26
+收到来信	shou dao lai xin	6520
+收到邮件	shou dao you jian	7042
+手动轮椅	shou dong lun yi	1385
+手风琴	shou feng qin	595
+手机关机	shou ji guan ji	1061
+手机来电	shou ji lai dian	1406
+手机信号	shou ji xin hao	3255
+手锯	shou ju	60
+守密	shou mi	6939
+手拿包	shou na bao	1328
+收起的伞	shou qi de san	28
+受伤的心	shou shang de xin	238
+手撕日历	shou si ri li	19
+收邮件	shou you jian	251
+手掌朝上	shou zhang chao shang	242
+手掌朝下	shou zhang chao xia	240
+手掌捂脸	shou zhang wu lian	13
+手指交叉	shou zhi jiao cha	1918
+手指捏合	shou zhi nie he	87
+手指张开	shou zhi zhang kai	663
+蔬菜沙拉	shu cai sha la	683
+书呆子脸	shu dai zi lian	4
+树懒先生	shu lan xian sheng	37
+鼠脸	shu lian	195
+书签标签	shu qian biao qian	207
+摔跤选手	shuai jiao xuan shou	367
+甩头	shuai tou	2168
+双耳瓶	shuang er ping	100
+双峰骆驼	shuang feng luo tuo	150
+双感叹号	shuang gan tan hao	282
+双肩包	shuang jian bao	13746
+双剑交叉	shuang jian jiao cha	93
+双惊叹号	shuang jing tan hao	142
+双卷曲环	shuang juan qu huan	3
+双人像	shuang ren xiang	390
+双手张开	shuang shou zhang kai	3890
+双叹号	shuang tan hao	66
+水拔子	shui ba zi	8
+水管工	shui guan gong	9237
+水果饮料	shui guo yin liao	811
+睡觉的人	shui jiao de ren	766
+睡了	shui le	35870
+睡眠符号	shui mian fu hao	31
+水枪	shui qiang	2060
+水球	shui qiu	2500
+睡着了	shui zhao le	279893
+谁知道呢	shui zhi dao ne	29835
+朔月	shuo yue	542
+说脏话	shuo zang hua	315
+斯波克	si bo ke	897
+四点半	si dian ban	8360
+四点钟	si dian zhong	6053
+四方帽	si fang mao	20
+思考气泡	si kao qi pao	2052
+送货车	song huo che	382
+松口气	song kou qi	5680
+松了口气	song le kou qi	180608
+蒜头	suan tou	1504
+蒜香	suan xiang	917
+碎花彩球	sui hua cai qiu	4
+锁上	suo shang	3812
+太棒	tai bang	11470
+太棒啦	tai bang la	1713
+太差啦	tai cha la	846
+太差了	tai cha le	4080
+跆拳道服	tai quan dao fu	275
+台钟	tai zhong	187
+弹出按钮	tan chu an niu	1734
+叹号	tan hao	2009
+叹号问号	tan hao wen hao	17
+叹问号	tan wen hao	23
+糖果球	tang guo qiu	588
+汤勺	tang shao	506
+特棒	te bang	443
+特别酷	te bie ku	776
+提琴	ti qin	3534
+提子	ti zi	709
+甜菜	tian cai	2501
+甜椒	tian jiao	350
+天使宝宝	tian shi bao bao	1058
+甜筒	tian tong	1567
+挑眉	tiao mei	22267
+笤帚	tiao zhou	961
+铁钩	tie gou	1222
+铁链子	tie lian zi	309
+停车按钮	ting che an niu	314
+停车标志	ting che biao zhi	742
+停车让行	ting che rang xing	467
+停止标志	ting zhi biao zhi	2498
+停止播放	ting zhi bo fang	10904
+铜管乐器	tong guan yue qi	242
+通通乐	tong tong le	168
+同性旗	tong xing qi	5
+头爆炸	tou bao zha	190
+头部剪影	tou bu jian ying	45
+投票箱	tou piao xiang	948
+偷瞧	tou qiao	217
+偷偷看	tou tou kan	4311
+偷偷瞧	tou tou qiao	241
+头秃	tou tu	1991
+吐出来	tu chu lai	11230
+秃顶	tu ding	2690
+图钉	tu ding	847
+兔耳朵	tu er duo	1512
+吐啦	tu la	778
+兔脸	tu lian	117
+兔头	tu tou	1349
+图瓦卢	tu wa lu	46
+兔先生	tu xian sheng	657
+涂指甲油	tu zhi jia you	231
+兔子脸	tu zi lian	343
+兔子头	tu zi tou	770
+推出按钮	tui chu an niu	507
+腿儿	tui er	1461
+驼鹿脸	tuo lu lian	11
+驼鹿头	tuo lu tou	28
+瓦肯	wa ken	578
+外带杯子	wai dai bei zi	112
+外卖包装	wai mai bao zhuang	182
+外卖盒	wai mai he	727
+外卖桶	wai mai tong	35
+弯钩	wan gou	1401
+玩篮球	wan lan qiu	542
+碗面	wan mian	947
+碗勺	wan shao	204
+玩手球	wan shou qiu	13
+玩水球	wan shui qiu	315
+弯月	wan yue	2438
+旺柴	wang chai	355
+网球鞋	wang qiu xie	247
+往上指	wang shang zhi	1680
+往下指	wang xia zhi	2513
+往右	wang you	8559
+往右跑	wang you pao	136
+往右指	wang you zhi	34
+往右走	wang you zou	458
+往左	wang zuo	12052
+往左跑	wang zuo pao	159
+往左指	wang zuo zhi	40
+往左走	wang zuo zou	563
+危楼	wei lou	976
+微怒	wei nu	188
+微微不满	wei wei bu man	265
+微笑恶魔	wei xiao e mo	79
+微笑猫	wei xiao mao	85
+微笑猫脸	wei xiao mao lian	20
+微笑亲亲	wei xiao qin qin	24
+卫星天线	wei xing tian xian	1331
+微醺	wei xun	1178
+伪装的脸	wei zhuang de lian	74
+文件柜	wen jian gui	509
+蚊虻	wen meng	35
+蚊蝇	wen ying	376
+我不敢看	wo bu gan kan	2547
+我不看	wo bu kan	11913
+我不听	wo bu ting	9404
+我服了	wo fu le	517
+我服了你	wo fu le ni	351
+握拳	wo quan	8152
+我吐	wo tu	2753
+我吐啦	wo tu la	106
+我吐了	wo tu le	553
+我想想	wo xiang xiang	72862
+我晕	wo yun	3477
+我再想想	wo zai xiang xiang	62040
+五点半	wu dian ban	4096
+五点钟	wu dian zhong	2795
+勿丢垃圾	wu diu la ji	3
+舞动的心	wu dong de xin	172
+捂耳	wu er	655
+捂耳朵	wu er duo	1801
+无轨电车	wu gui dian che	408
+五角星	wu jiao xing	6854
+雾蒙蒙	wu meng meng	1830
+无人荒岛	wu ren huang dao	119
+勿扔垃圾	wu reng la ji	7
+捂上耳朵	wu shang er duo	173
+捂上嘴巴	wu shang zui ba	89
+武术服	wu shu fu	105
+五线谱	wu xian pu	1351
+无线网	wu xian wang	5289
+捂眼	wu yan	956
+捂眼睛	wu yan jing	1241
+乌云蔽日	wu yun bi ri	811
+捂着耳朵	wu zhe er duo	11357
+捂着嘴巴	wu zhe zui ba	2465
+捂着嘴笑	wu zhe zui xiao	424
+捂住耳朵	wu zhu er duo	14813
+捂住眼	wu zhu yan	939
+捂住眼睛	wu zhu yan jing	5953
+捂住嘴巴	wu zhu zui ba	8619
+捂嘴笑	wu zui xiao	701
+吸把	xi ba	145
+洗发露	xi fa lu	8204
+吸管杯	xi guan bei	465
+锡克	xi ke	1447
+西蓝花	xi lan hua	333
+西撒哈拉	xi sa ha la	90
+吸铁石	xi tie shi	529
+洗澡的人	xi zao de ren	170
+下大雨	xia da yu	1128
+下箭头	xia jian tou	524
+下三角	xia san jiao	216
+吓死了	xia si le	10949
+下一首	xia yi shou	6933
+线圈本	xian quan ben	59
+线圈日历	xian quan ri li	8
+陷入爱河	xian ru ai he	181
+线团	xian tuan	1318
+线轴	xian zhou	1294
+响铃关闭	xiang ling guan bi	51
+向上箭头	xiang shang jian tou	869
+向上指	xiang shang zhi	1076
+向下箭头	xiang xia jian tou	1309
+向下指	xiang xia zhi	1023
+向右的手	xiang you de shou	125
+向右箭头	xiang you jian tou	845
+向右跑	xiang you pao	1983
+向右推	xiang you tui	971
+向右推手	xiang you tui shou	11
+向右指	xiang you zhi	344
+向右走	xiang you zou	13447
+向左的手	xiang zuo de shou	135
+向左箭头	xiang zuo jian tou	542
+向左跑	xiang zuo pao	2625
+向左推	xiang zuo tui	785
+向左推手	xiang zuo tui shou	11
+向左指	xiang zuo zhi	249
+向左走	xiang zuo zou	25163
+小白点	xiao bai dian	2352
+小白点儿	xiao bai dian er	140
+小白框	xiao bai kuang	193
+小宝贝儿	xiao bao bei er	210
+小丑脸	xiao chou lian	503
+笑出眼泪	xiao chu yan lei	91
+笑得打滚	xiao de da gun	167
+小点儿声	xiao dian er sheng	30
+小电驴	xiao dian lv	180
+小点声	xiao dian sheng	207
+小方块	xiao fang kuai	1750
+小方片	xiao fang pian	109
+小黑点	xiao hei dian	1473
+小黑点儿	xiao hei dian er	95
+小黑框	xiao hei kuang	233
+小鸡破壳	xiao ji po ke	107
+小鸡头	xiao ji tou	98
+笑哭了	xiao ku le	206
+小菱形	xiao ling xing	275
+小驴	xiao lv	898
+小猫咪	xiao mao mi	24844
+小盆友	xiao pen you	299
+小商店	xiao shang dian	984
+小声点	xiao sheng dian	4857
+小声点儿	xiao sheng dian er	744
+小写字母	xiao xie zi mu	866
+小型飞机	xiao xing fei ji	2440
+小鸭子	xiao ya zi	13196
+小圆点儿	xiao yuan dian er	42
+笑晕	xiao yun	505
+小正方形	xiao zheng fang xing	903
+笑中带泪	xiao zhong dai lei	279
+写字板	xie zi ban	2007
+信号灯	xin hao deng	175510
+信号强度	xin hao qiang du	3370
+新加坡币	xin jia po bi	23
+新加坡元	xin jia po yuan	53
+新疆瓜	xin jiang gua	294
+心伤	xin shang	551
+心形	xin xing	3414
+心形装饰	xin xing zhuang shi	60
+新邮件	xin you jian	1206
+心在燃烧	xin zai ran shao	233
+心在着火	xin zai zhao huo	15
+心脏器官	xin zang qi guan	2778
+心中箭了	xin zhong jian le	4
+擤鼻涕	xing bi ti	2081
+擤鼻子	xing bi zi	987
+星号	xing hao	2433
+星号键	xing hao jian	34
+行李寄存	xing li ji cun	404
+行李领取	xing li ling qu	44
+姓名牌	xing ming pai	159
+星条旗	xing tiao qi	254
+幸运饼干	xing yun bing gan	429
+幸运草	xing yun cao	553
+星钻	xing zuan	1528
+雄鸡	xiong ji	20748
+熊脸	xiong lian	561
+熊猫脸	xiong mao lian	203
+胸片	xiong pian	637
+熊头	xiong tou	1471
+胸透	xiong tou	597
+休达	xiu da	619
+绣花针	xiu hua zhen	6695
+修理工	xiu li gong	2198
+羞涩亲亲	xiu se qin qin	4
+休闲车	xiu xian che	229
+休闲鞋	xiu xian xie	315
+恤衫	xu shan	55
+虚线脸	xu xian lian	36
+虚线轮廓	xu xian lun kuo	158
+旋转的心	xuan zhuan de xin	84
+血滴	xue di	1432
+穴居巨怪	xue ju ju guai	5
+学士帽	xue shi mao	416
+学童过街	xue tong guo jie	6
+雪云	xue yun	1726
+寻呼机	xun hu ji	619
+循环利用	xun huan li yong	13427
+循环再生	xun huan zai sheng	630
+熏肉	xun rou	1224
+熏咸肉	xun xian rou	36
+亚洲澳洲	ya zhou ao zhou	70
+眼冒金星	yan mao jin xing	309
+眼冒星星	yan mao xing xing	105
+烟肉	yan rou	232
+燕尾服	yan wei fu	1609
+扬手欢呼	yang shou huan hu	32
+洋蒜	yang suan	26
+洋芋	yang yu	1045
+摇滚歌手	yao gun ge shou	623
+摇滚手势	yao gun shou shi	31
+要哭了	yao ku le	702
+咬住嘴唇	yao zhu zui chun	143
+咬嘴唇	yao zui chun	529
+夜间大桥	ye jian da qiao	22
+页签	ye qian	813
+野营	ye ying	2123
+椰子果	ye zi guo	508
+一百分	yi bai fen	7806
+一杯奶	yi bei nai	662
+一杯奶茶	yi bei nai cha	9726
+一点半	yi dian ban	6672
+一点钟	yi dian zhong	12426
+意粉	yi fen	149
+一锅食物	yi guo shi wu	59
+一壶茶	yi hu cha	542
+一家四口	yi jia si kou	2801
+一箭穿心	yi jian chuan xin	161
+一脸不悦	yi lian bu yue	403
+医疗标志	yi liao biao zhi	168
+医疗符号	yi liao fu hao	120
+以色列国	yi se lie guo	1118
+一条蛇	yi tiao she	4340
+一碗面	yi wan mian	11554
+疑问惊叹	yi wen jing tan	150
+异形怪兽	yi xing guai shou	247
+一只眼	yi zhi yan	3953
+一只眼睛	yi zhi yan jing	10425
+印度卢比	yin du lu bi	150
+印度庙	yin du miao	124
+印度寺庙	yin du si miao	639
+隐瞒身份	yin man shen fen	1686
+印刷机	yin shua ji	6658
+饮水处	yin shui chu	844
+音乐键盘	yin yue jian pan	155
+英镑钞票	ying bang chao piao	36
+婴儿标志	ying er biao zhi	36
+婴儿符号	ying er fu hao	43
+赢啦	ying la	2333
+赢了	ying le	419504
+赢咯	ying lo	201
+英式足球	ying shi zu qiu	574
+盈凸月	ying tu yue	7
+英文大写	ying wen da xie	1988
+英文小写	ying wen xiao xie	180
+拥抱的人	yong bao de ren	363
+泳镜	yong jing	1616
+泳客	yong ke	437
+泳圈	yong quan	1339
+有蛋的巢	you dan de chao	2
+右钩拳	you gou quan	108
+有轨电车	you gui dian che	539
+有环行星	you huan xing xing	22
+右箭头	you jian tou	487
+有料	you liao	71741
+右拳	you quan	998
+右上箭头	you shang jian tou	214
+油酥点心	you su dian xin	41
+犹太教堂	you tai jiao tang	452
+油桶	you tong	938
+邮筒	you tong	564
+右推	you tui	390
+游戏手柄	you xi shou bing	255
+游戏摇杆	you xi yao gan	52
+右下箭头	you xia jian tou	556
+右向拳	you xiang quan	9
+游泳镜	you yong jing	196
+游泳圈	you yong quan	1014
+游泳者	you yong zhe	712
+油炸面圈	you zha mian quan	69
+邮政喇叭	you zheng la ba	19
+鱼饼	yu bing	376
+渔竿	yu gan	166
+瑜伽男	yu jia nan	43
+瑜伽女	yu jia nv	153
+羽毛球拍	yu mao qiu pai	5966
+与我无关	yu wo wu guan	11264
+鱼眼	yu yan	2735
+雨云	yu yun	2934
+圆白菜	yuan bai cai	447
+圆桶	yuan tong	174
+原子符号	yuan zi fu hao	1321
+月团	yue tuan	438
+运动背心	yun dong bei xin	123
+晕了	yun le	2585
+晕头	yun tou	4477
+云中的脸	yun zhong de lian	19
+杂耍	za shua	8196
+泽西岛	ze xi dao	291
+乍得	zha de	14942
+炸豆丸子	zha dou wan zi	29
+炸虾	zha xia	1682
+站立者	zhan li zhe	874
+张开双手	zhang kai shuang shou	15591
+掌心朝上	zhang xin chao shang	829
+掌心朝下	zhang xin chao xia	684
+掌印	zhang yin	521
+着火了	zhao huo le	3384
+爪印	zhao yin	1832
+遮阳伞	zhe yang san	7853
+振动模式	zhen dong mo shi	2259
+针线	zhen xian	11468
+蒸房	zheng fang	718
+蒸汽火车	zheng qi huo che	942
+正三角	zheng san jiao	1573
+蒸桑拿	zheng sang na	1753
+指北针	zhi bei zhen	724
+趾高气昂	zhi gao qi ang	1345
+指你	zhi ni	5570
+指人	zhi ren	3388
+芝士火锅	zhi shi huo guo	2131
+指纹解锁	zhi wen jie suo	1065
+指我	zhi wo	2930
+纸箱子	zhi xiang zi	471
+纸烟	zhi yan	730
+指印	zhi yin	986
+直饮水	zhi yin shui	1949
+治愈的心	zhi yu de xin	328
+指着你	zhi zhe ni	1384
+中等方块	zhong deng fang kuai	64
+中等肤色	zhong deng fu se	68
+中等音量	zhong deng yin liang	337
+终点旗	zhong dian qi	279
+中方块	zhong fang kuai	127
+中国澳门	zhong guo ao men	826
+中国帽	zhong guo mao	657
+重拳出击	zhong quan chu ji	694
+中正方形	zhong zheng fang xing	608
+皱着眉头	zhou zhe mei tou	34566
+猪鼻子	zhu bi zi	4969
+注册标记	zhu ce biao ji	69
+朱古力	zhu gu li	3126
+朱古力棒	zhu gu li bang	22
+竹篮	zhu lan	5186
+猪脸	zhu lian	1941
+猪排	zhu pai	1124
+逐日花	zhu ri hua	43
+煮熟的饭	zhu shu de fan	119
+助听器	zhu ting qi	3077
+蛛网	zhu wang	3729
+柱形图	zhu xing tu	237
+注意儿童	zhu yi er tong	979
+追日花	zhui ri hua	11
+紫色的心	zi se de xin	1525
+紫色心	zi se xin	309
+滋水枪	zi shui qiang	29
+子午线	zi wu xian	1027
+紫心	zi xin	3066
+龇牙	zi ya	2110
+自由女神	zi you nv shen	2877
+棕榈树	zong lv shu	1524
+棕蘑菇	zong mo gu	11
+棕色的心	zong se de xin	24
+棕色心	zong se xin	26
+棕心	zong xin	120
+揍你	zou ni	3326
+足尖鞋	zu jian xie	37
+左钩拳	zuo gou quan	145
+左箭头	zuo jian tou	903
+佐料瓶	zuo liao ping	9
+做美甲	zuo mei jia	1935
+左拳	zuo quan	2883
+左上箭头	zuo shang jian tou	1009
+左下箭头	zuo xia jian tou	108
+左向拳	zuo xiang quan	16
+坐雪橇	zuo xue qiao	17
+左右箭头	zuo you jian tou	332
+做造型	zuo zao xing	967
+做指甲	zuo zhi jia	1974

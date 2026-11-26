@@ -1,0 +1,3493 @@
+# Rime dictionary
+# encoding: utf-8
+# L3 专业领域：CS / AI 前沿术语（≤5 字，Qwen3.8-27B 生成）
+
+---
+name: domain_cs_ai
+version: "2026-11-26"
+sort: by_weight
+...
+
+安波福	an bo fu	116
+按键输入	an jian shu ru	2572
+暗角	an jiao	483
+安全层	an quan ceng	1427
+安全存储	an quan cun chu	1284
+安全多方	an quan duo fang	1026
+安全隔离	an quan ge li	3918
+安全规范	an quan gui fan	11056
+安全护栏	an quan hu lan	10603
+安全密钥	an quan mi yao	1193
+安全容器	an quan rong qi	1128
+安全扫描	an quan sao miao	3195
+安全沙箱	an quan sha xiang	569
+安全套接	an quan tao jie	64
+安全协议	an quan xie yi	19928
+安全约束	an quan yue shu	6488
+安全组	an quan zu	2587
+按需付费	an xu fu fei	2586
+靶标	ba biao	4013
+八叉树加速	ba cha shu jia su	20
+八位量化	ba wei liang hua	34
+百度智能云	bai du zhi neng yun	373
+百分位	bai fen wei	1767
+白盒模型	bai he mo xing	714
+白帽	bai mao	2154
+白屏检测	bai ping jian ce	93
+拜占庭容错	bai zhan ting rong cuo	33
+版本链	ban ben lian	52
+版本锁定	ban ben suo ding	152
+版本向量	ban ben xiang liang	53
+半监督	ban jian du	777
+半精度	ban jing du	344
+半精度计算	ban jing du ji suan	61
+半柔性对接	ban rou xing dui jie	5
+半双工	ban shuang gong	288
+版税	ban shui	134
+版税分成	ban shui fen cheng	30
+半同步复制	ban tong bu fu zhi	225
+半透明物体	ban tou ming wu ti	87
+半自动标注	ban zi dong biao zhu	78
+绑定纹理	bang ding wen li	29
+报表生成	bao biao sheng cheng	1537
+保持时间	bao chi shi jian	1630
+曝光量	bao guang liang	837
+曝光偏差	bao guang pian cha	18
+曝光调整	bao guang tiao zheng	78
+饱和度调整	bao he du tiao zheng	243
+保留价	bao liu jia	517
+保密性	bao mi xing	616
+包年包月	bao nian bao yue	46
+包体积	bao ti ji	29
+包体积分析	bao ti ji fen xi	5
+北斗导航	bei dou dao hang	1363
+贝尔曼方程	bei er man fang cheng	1006
+备份策略	bei fen ce lve	2444
+悲观并发	bei guan bing fa	21
+背景纹理	bei jing wen li	260
+背压	bei ya	680
+背压机制	bei ya ji zhi	136
+贝叶斯推断	bei ye si tui duan	176
+贝叶斯先验	bei ye si xian yan	42
+贝叶斯优化	bei ye si you hua	165
+本地仓库	ben di cang ku	3371
+本地生活	ben di sheng huo	44703
+本地消息表	ben di xiao xi biao	25
+本体构建	ben ti gou jian	786
+本征态	ben zheng tai	221
+本征值	ben zheng zhi	198
+崩溃恢复	beng kui hui fu	170
+崩溃率	beng kui lv	69
+崩溃容错	beng kui rong cuo	12
+闭包	bi bao	11462
+闭包作用域	bi bao zuo yong yu	75
+闭环优化	bi huan you hua	1191
+比特翻转	bi te fan zhuan	198
+闭运算	bi yun suan	264
+避障	bi zhang	1620
+边车	bian che	1453
+边车代理	bian che dai li	29
+边车模式	bian che mo shi	59
+编程接口	bian cheng jie kou	1301
+变分参数	bian fen can shu	149
+变分推断	bian fen tui duan	571
+变分自编码	bian fen zi bian ma	144
+变更管理	bian geng guan li	830
+变构调节	bian gou tiao jie	48
+变构位点	bian gou wei dian	22
+边际化	bian ji hua	445
+边界框	bian jie kuang	3221
+边界框回归	bian jie kuang hui gui	205
+边框圆角	bian kuang yuan jiao	135
+变量赋值	bian liang fu zhi	11182
+变量管理	bian liang guan li	1870
+变量监视	bian liang jian shi	376
+编码距离	bian ma ju li	184
+编码增益	bian ma zeng yi	62
+编排调度	bian pai diao du	287
+编排模式	bian pai mo shi	1186
+编排系统	bian pai xi tong	752
+编排引擎	bian pai yin qing	217
+扁平无引脚	bian ping wu yin jiao	16
+边嵌入	bian qian ru	33
+变现模式	bian xian mo shi	961
+边缘部署	bian yuan bu shu	268
+边缘触发	bian yuan chu fa	890
+边缘计算	bian yuan ji suan	3287
+边缘网络	bian yuan wang luo	509
+表格分页	biao ge fen ye	305
+表观遗传	biao guan yi chuan	1353
+标记清除	biao ji qing chu	595
+标记压缩	biao ji ya suo	170
+表面码	biao mian ma	302
+表面码阈值	biao mian ma yu zhi	2
+表面贴装	biao mian tie zhuang	138
+表面瑕疵	biao mian xia ci	534
+标签编码	biao qian bian ma	529
+标签传播	biao qian chuan bo	171
+标签管理	biao qian guan li	1100
+标签体系	biao qian ti xi	1859
+标签噪声	biao qian zao sheng	236
+表情生成	biao qing sheng cheng	517
+表锁	biao suo	139
+标注工具	biao zhu gong ju	3228
+标注规范	biao zhu gui fan	1836
+标注平台	biao zhu ping tai	1769
+标注任务	biao zhu ren wu	6818
+标注数据	biao zhu shu ju	5345
+标注团队	biao zhu tuan dui	1443
+标注员	biao zhu yuan	883
+标注质量	biao zhu zhi liang	927
+标准错误	biao zhun cuo wu	3025
+标准协议	biao zhun xie yi	3243
+标准作业	biao zhun zuo ye	5456
+并发度	bing fa du	2639
+并发回收	bing fa hui shou	160
+并发连接	bing fa lian jie	7493
+并发量	bing fa liang	5300
+并发数指标	bing fa shu zhi biao	33
+病理切片	bing li qie pian	926
+并行查询	bing xing cha xun	3463
+并行分解	bing xing fen jie	1238
+并行接口	bing xing jie kou	1366
+并行模式	bing xing mo shi	3941
+并行通信	bing xing tong xin	1894
+并行文件	bing xing wen jian	1568
+病灶分割	bing zao fen ge	33
+波长路由	bo chang lu you	34
+波分复用	bo fen fu yong	1198
+波前	bo qian	918
+波前执行	bo qian zhi xing	12
+玻色子映射	bo shai zi ying she	5
+波特率	bo te lv	612
+博弈论	bo yi lun	5290
+不变性	bu bian xing	3604
+补偿机制	bu chang ji zhi	2510
+布尔查询	bu er cha xun	429
+布尔类型	bu er lei xing	1356
+部分可观测	bu fen ke guan ce	173
+布局布线	bu ju bu xian	131
+布局流程	bu ju liu cheng	238
+不可变数据	bu ke bian shu ju	189
+不可否认性	bu ke fou ren xing	826
+不可靠传输	bu ke kao chuan shu	24
+布洛赫球	bu luo he qiu	51
+布洛赫向量	bu luo he xiang liang	25
+部署控制器	bu shu kong zhi qi	61
+步态识别	bu tai shi bie	57
+不透明物体	bu tou ming wu ti	69
+不稳定排序	bu wen ding pai xu	79
+采埃孚	cai ai fu	49
+采样策略	cai yang ce lve	2337
+采样定理	cai yang ding li	917
+材质生成	cai zhi sheng cheng	296
+残差范数	can cha fan shu	9
+残差块	can cha kuai	130
+残差连接	can cha lian jie	424
+参量放大器	can liang fang da qi	169
+参数初始化	can shu chu shi hua	2934
+参数服务器	can shu fu wu qi	1865
+参数规模	can shu gui mo	1301
+参数校验	can shu jiao yan	3757
+参数扫描	can shu sao miao	201
+参数调优	can shu tiao you	770
+参数调整	can shu tiao zheng	3588
+参与者故障	can yu zhe gu zhang	27
+舱壁模式	cang bi mo shi	7
+操作日志	cao zuo ri zhi	4382
+操作审计	cao zuo shen ji	240
+测度与校正	ce duo yu jiao zheng	17
+侧链架构	ce lian jia gou	22
+测量流程	ce liang liu cheng	477
+策略迭代	ce lve die dai	1256
+策略对齐	ce lve dui qi	1096
+策略改进	ce lve gai jin	1665
+策略函数	ce lve han shu	531
+策略评估	ce lve ping gu	3116
+策略平滑	ce lve ping hua	166
+策略熵	ce lve shang	169
+策略梯度	ce lve ti du	475
+策略网络	ce lve wang luo	879
+策略稳定性	ce lve wen ding xing	507
+策略蒸馏	ce lve zheng liu	190
+测试覆盖率	ce shi fu gai lv	333
+测试集	ce shi ji	4577
+测试集评估	ce shi ji ping gu	92
+测试驱动	ce shi qu dong	770
+测试向量	ce shi xiang liang	591
+侧输出流	ce shu chu liu	35
+侧信道攻击	ce xin dao gong ji	379
+层次包围盒	ceng ci bao wei he	19
+层归一化	ceng gui yi hua	38
+层数	ceng shu	713
+差分定位	cha fen ding wei	81
+差分隐私	cha fen yin si	1635
+插件扩展	cha jian kuo zhan	447
+插件系统	cha jian xi tong	1640
+查询安全性	cha xun an quan xing	311
+查询长度	cha xun chang du	1057
+查询重写	cha xun chong xie	574
+查询分布	cha xun fen bu	497
+查询分类	cha xun fen lei	2005
+查询改写	cha xun gai xie	1373
+查询过滤	cha xun guo lv	583
+查询建议	cha xun jian yi	1949
+查询聚类	cha xun ju lei	295
+查询扩展	cha xun kuo zhan	765
+查询类型	cha xun lei xing	5283
+查询理解	cha xun li jie	1138
+查询流行度	cha xun liu xing du	143
+查询鲁棒性	cha xun lu bang xing	105
+查询难度	cha xun nan du	681
+查询漂移	cha xun piao yi	182
+查询频率	cha xun pin lv	1227
+查询屏蔽	cha xun ping bi	279
+查询稳定性	cha xun wen ding xing	475
+查询消歧	cha xun xiao qi	52
+查询意图	cha xun yi tu	6458
+查询注入	cha xun zhu ru	428
+插值上采样	cha zhi shang cai yang	10
+插值算法	cha zhi suan fa	220
+插值渲染	cha zhi xuan ran	25
+产品量化	chan pin liang hua	180
+产生式	chan sheng shi	4883
+产业落地	chan ye luo di	399
+长度单位	chang du dan wei	723
+长短期记忆	chang duan qi ji yi	741
+场景分类	chang jing fen lei	1402
+场景理解	chang jing li jie	1561
+场景生成	chang jing sheng cheng	2738
+常量传播	chang liang chuan bo	76
+常量内存	chang liang nei cun	225
+常量折叠	chang liang zhe die	164
+长期记忆	chang qi ji yi	32586
+常识推理	chang shi tui li	3504
+长尾词	chang wei ci	539
+长尾分布	chang wei fen bu	631
+长尾效应	chang wei xiao ying	736
+超标量处理	chao biao liang chu li	129
+超标量架构	chao biao liang jia gou	122
+超参数	chao can shu	1381
+超参数调优	chao can shu tiao you	79
+超导岛	chao dao dao	53
+超导电路	chao dao dian lu	638
+超导态	chao dao tai	325
+超导线	chao dao xian	177
+超级块	chao ji kuai	484
+超级用户	chao ji yong hu	9495
+超宽带	chao kuan dai	390
+超声图像	chao sheng tu xiang	2141
+超时重传	chao shi chong chuan	65
+超时重试	chao shi chong shi	735
+超时机制	chao shi ji zhi	560
+超时设置	chao shi she zhi	296
+超时时间	chao shi shi jian	2646
+超网	chao wang	503
+超网络结构	chao wang luo jie gou	27
+超文本传输	chao wen ben chuan shu	408
+车道线标注	che dao xian biao zhu	23
+车道线检测	che dao xian jian ce	116
+车辆检测	che liang jian ce	806
+车路协同	che lu xie tong	181
+撤销日志	che xiao ri zhi	310
+成本优化	cheng ben you hua	2484
+惩罚项	cheng fa xiang	307
+成功提示	cheng gong ti shi	1089
+成码率	cheng ma lv	11
+城市建模	cheng shi jian mo	105
+成员权利	cheng yuan quan li	115
+承载网络	cheng zai wang luo	533
+迟到数据	chi dao shu ju	39
+池化操作	chi hua cao zuo	130
+池化层	chi hua ceng	161
+持久连接	chi jiu lian jie	1336
+持续部署	chi xu bu shu	2510
+持续学习	chi xu xue xi	53474
+重传机制	chong chuan ji zhi	59
+重叠区域	chong die qu yu	192
+重放保护	chong fang bao hu	42
+重复惩罚	chong fu cheng fa	430
+重排层	chong pai ceng	27
+重入攻击	chong ru gong ji	34
+重试策略	chong shi ce lve	1263
+重试机制	chong shi ji zhi	1993
+抽成	chou cheng	5522
+抽检比例	chou jian bi li	735
+稠密矩阵	chou mi ju zhen	52
+稠密向量	chou mi xiang liang	58
+抽象性	chou xiang xing	2998
+抽象语法树	chou xiang yu fa shu	512
+除法单元	chu fa dan yuan	78
+触觉反馈	chu jue fan kui	950
+出块频率	chu kuai pin lv	22
+处理时间	chu li shi jian	21729
+处理时延	chu li shi yan	272
+处理延迟	chu li yan chi	3626
+初始化时间	chu shi hua shi jian	3937
+初始条件	chu shi tiao jian	13420
+传播时延	chuan bo shi yan	51
+传感器融合	chuan gan qi rong he	1261
+传感器数据	chuan gan qi shu ju	4111
+传输层安全	chuan shu ceng an quan	323
+传输加密	chuan shu jia mi	920
+传输矩阵	chuan shu ju zhen	289
+传输控制	chuan shu kong zhi	1217
+传输网络	chuan shu wang luo	922
+串行连接	chuan xing lian jie	2090
+窗函数	chuang han shu	52
+窗口操作	chuang kou cao zuo	1708
+窗口计算	chuang kou ji suan	395
+创世区块	chuang shi qu kuai	27
+创意工具	chuang yi gong ju	1862
+创作者经济	chuang zuo zhe jing ji	227
+垂直扩缩容	chui zhi kuo suo rong	10
+垂直扩展	chui zhi kuo zhan	781
+垂直搜索	chui zhi sou suo	974
+垂直同步	chui zhi tong bu	1453
+纯函数	chun han shu	969
+纯函数概念	chun han shu gai nian	41
+次版本	ci ban ben	64
+词表	ci biao	7999
+词袋模型	ci dai mo xing	131
+磁力计	ci li ji	628
+磁盘写入	ci pan xie ru	1037
+词嵌入	ci qian ru	180
+磁通管	ci tong guan	44
+磁通量子	ci tong liang zi	110
+磁通量子化	ci tong liang zi hua	29
+词元化器	ci yuan hua qi	9
+从副本	cong fu ben	1202
+从机	cong ji	3778
+从设备	cong she bei	2209
+从头预测	cong tou yu ce	343
+粗粒化模拟	cu li hua mo ni	19
+粗排层	cu pai ceng	47
+存储层	cun chu ceng	1640
+存储层次	cun chu ceng ci	395
+存储成本	cun chu cheng ben	1731
+存储隔离	cun chu ge li	402
+存储加密	cun chu jia mi	849
+存储接口	cun chu jie kou	980
+存储调优	cun chu tiao you	24
+存储延迟	cun chu yan chi	331
+存活检测	cun huo jian ce	377
+存活探针	cun huo tan zhen	57
+存在惩罚	cun zai cheng fa	217
+错误检测	cuo wu jian ce	2512
+错误监控	cuo wu jian kong	620
+错误纠正	cuo wu jiu zheng	1357
+大对象	da dui xiang	1104
+大规模动作	da gui mo dong zuo	1418
+大规模状态	da gui mo zhuang tai	222
+大陆集团	da lu ji tuan	329
+大页	da ye	288
+打印样式	da yin yang shi	1914
+代币发行	dai bi fa xing	478
+代币分配	dai bi fen pei	42
+代币解锁	dai bi jie suo	46
+代币经济	dai bi jing ji	399
+代币销毁	dai bi xiao hui	56
+代价模型	dai jia mo xing	149
+带宽利用率	dai kuan li yong lv	128
+带宽瓶颈	dai kuan ping jing	85
+带宽限制	dai kuan xian zhi	854
+带宽优化	dai kuan you hua	203
+代理转发	dai li zhuan fa	378
+代码分割	dai ma fen ge	661
+代码解释	dai ma jie shi	3649
+代码执行	dai ma zhi xing	7417
+代数几何码	dai shu ji he ma	23
+代谢稳定性	dai xie wen ding xing	52
+代谢组	dai xie zu	477
+蛋白互作	dan bai hu zuo	123
+蛋白质结构	dan bai zhi jie gou	2517
+蛋白质组	dan bai zhi zu	2404
+单比特门	dan bi te men	25
+单步	dan bu	1052
+单步执行	dan bu zhi xing	768
+单侧注意力	dan ce zhu yi li	42
+单调递增	dan diao di zeng	476
+单调读	dan diao du	55
+单调读取	dan diao du qu	67
+单调写	dan diao xie	62
+单调写入	dan diao xie ru	38
+单工通信	dan gong tong xin	162
+单光子源	dan guang zi yuan	93
+氮空位色心	dan kong wei se xin	2
+单目深度	dan mu shen du	143
+单体架构	dan ti jia gou	806
+单体应用	dan ti ying yong	573
+单细胞测序	dan xi bao ce xu	216
+单页应用	dan ye ying yong	647
+单应性矩阵	dan ying xing ju zhen	58
+单元化架构	dan yuan hua jia gou	193
+单载波	dan zai bo	15
+单智能体	dan zhi neng ti	332
+到达定义	dao da ding yi	319
+导纳控制	dao na kong zhi	10
+导频	dao pin	191
+倒装芯片	dao zhuang xin pian	31
+低比特量化	di bi te liang hua	106
+低比特推理	di bi te tui li	35
+底部栏	di bu lan	1767
+低代码	di dai ma	3560
+低功耗设计	di gong hao she ji	811
+递归网络	di gui wang luo	892
+递归下降	di gui xia jiang	5794
+地基增强	di ji zeng qiang	125
+底价设置	di jia she zhi	71
+笛卡尔空间	di ka er kong jian	106
+地理冗余	di li rong yu	47
+地平线征程	di ping xian zheng cheng	121
+低碳排放	di tan pai fang	908
+地图匹配	di tu pi pei	406
+地图搜索	di tu sou suo	201
+低温环境	di wen huan jing	3531
+低效	di xiao	6446
+抵押稳定币	di ya wen ding bi	14
+低延迟	di yan chi	994
+低秩分解	di zhi fen jie	139
+地址转换	di zhi zhuan huan	181
+地址族	di zhi zu	30
+低资源	di zi yuan	446
+电磁兼容	dian ci jian rong	4809
+电动夹爪	dian dong jia zhao	82
+电光	dian guang	9718
+电话呼叫	dian hua hu jiao	451
+点击流数据	dian ji liu shu ju	151
+点击行为	dian ji xing wei	504
+点积运算	dian ji yun suan	59
+电量优化	dian liang you hua	149
+点密度	dian mi du	45
+电商搜索	dian shang sou suo	210
+电信网络	dian xin wang luo	6285
+电压调节	dian ya tiao jie	474
+电源门控	dian yuan men kong	52
+点云生成	dian yun sheng cheng	110
+点云数据	dian yun shu ju	145
+点阵显示	dian zhen xian shi	185
+电装	dian zhuang	336
+调度调优	diao du diao you	12
+调度器	diao du qi	2700
+调度器组件	diao du qi zu jian	51
+调度延迟	diao du yan chi	186
+调优建议	diao you jian yi	101
+迭代次数	die dai ci shu	3932
+迭代解码	die dai jie ma	233
+迭代求解器	die dai qiu jie qi	82
+蝶形网络	die xing wang luo	25
+订单簿	ding dan bu	131
+顶点插值	ding dian cha zhi	22
+顶点法线	ding dian fa xian	36
+顶点吞吐	ding dian tun tu	17
+顶点着色	ding dian zhao se	78
+顶会	ding hui	879
+定位精度	ding wei jing du	633
+定位速度	ding wei su du	362
+订阅服务	ding yue fu wu	2850
+订阅模式	ding yue mo shi	880
+丢包率	diu bao lv	398
+动画播放	dong hua bo fang	849
+动画插值	dong hua cha zhi	20
+动画重复	dong hua chong fu	58
+动画方向	dong hua fang xiang	120
+动画缓动	dong hua huan dong	33
+动画恢复	dong hua hui fu	47
+动画加速	dong hua jia su	88
+动画减速	dong hua jian su	32
+动画监听	dong hua jian ting	17
+动画静止	dong hua jing zhi	52
+动画曲线	dong hua qu xian	85
+动画取消	dong hua qu xiao	85
+动画时长	dong hua shi chang	452
+动画停止	dong hua ting zhi	211
+动画序列	dong hua xu lie	233
+动画循环	dong hua xun huan	194
+动画延迟	dong hua yan chi	52
+动画匀速	dong hua yun su	11
+动画暂停	dong hua zan ting	344
+动画组合	dong hua zu he	102
+动力学仿真	dong li xue fang zhen	670
+动量法	dong liang fa	164
+动量项	dong liang xiang	65
+动量优化	dong liang you hua	88
+动量优化器	dong liang you hua qi	66
+动态定位	dong tai ding wei	822
+动态分辨率	dong tai fen bian lv	290
+动态分支	dong tai fen zhi	414
+动态功耗	dong tai gong hao	418
+动态化	dong tai hua	3846
+动态解耦	dong tai jie ou	28
+动态流控	dong tai liu kong	35
+动态路由	dong tai lu you	1372
+动态配置	dong tai pei zhi	585
+动态批处理	dong tai pi chu li	296
+动态随机	dong tai sui ji	1428
+动态渲染	dong tai xuan ran	983
+动态阴影	dong tai yin ying	215
+动态主机	dong tai zhu ji	399
+动态字体	dong tai zi ti	445
+动作表示	dong zuo biao shi	3243
+动作捕捉	dong zuo bu zhuo	1700
+动作价值	dong zuo jia zhi	456
+动作空间	dong zuo kong jian	1308
+动作平滑	dong zuo ping hua	621
+动作值	dong zuo zhi	1131
+抖动机制	dou dong ji zhi	118
+抖动控制	dou dong kong zhi	138
+读副本	du fu ben	150
+读己之写	du ji zhi xie	21
+独立经验	du li jing yan	339
+独立像素	du li xiang su	474
+独立学习	du li xue xi	3242
+独热编码	du re bian ma	657
+读未提交	du wei ti jiao	13
+读写模型	du xie mo xing	437
+读已提交	du yi ti jiao	34
+独占策略	du zhan ce lve	334
+度中心性	du zhong xin xing	12
+端侧部署	duan ce bu shu	196
+端到端测试	duan dao duan ce shi	1623
+端到端学习	duan dao duan xue xi	1394
+端到端延迟	duan dao duan yan chi	834
+断点回归	duan dian hui gui	89
+断点设置	duan dian she zhi	149
+断点续训	duan dian xu xun	24
+短轮询	duan lun xun	23
+段码显示	duan ma xian shi	39
+短期记忆	duan qi ji yi	16720
+断线重连	duan xian chong lian	163
+短语提取	duan yu ti qu	3677
+端云协同	duan yun xie tong	672
+短作业优先	duan zuo ye you xian	13
+对比度增强	dui bi du zeng qiang	216
+对比损失	dui bi sun shi	526
+对比学习	dui bi xue xi	5942
+对称多处理	dui chen duo chu li	358
+对冲策略	dui chong ce lve	1817
+堆段	dui duan	86
+对话标注	dui hua biao zhu	3569
+对话式搜索	dui hua shi sou suo	149
+对抗博弈	dui kang bo yi	422
+对抗攻击	dui kang gong ji	2481
+对抗网络	dui kang wang luo	1192
+对抗样本	dui kang yang ben	923
+队列调度	dui lie diao du	671
+队列类型	dui lie lei xing	645
+对偶容错	dui ou rong cuo	19
+对齐技术	dui qi ji shu	397
+对齐训练	dui qi xun lian	423
+对数损失	dui shu sun shi	59
+对象遍历	dui xiang bian li	87
+堆栈溢出	dui zhan yi chu	644
+堆转储	dui zhuan chu	30
+多版本并发	duo ban ben bing fa	128
+多臂老虎机	duo bi lao hu ji	165
+多比特门	duo bi te men	56
+多尺度特征	duo chi du te zheng	315
+多重采样	duo chong cai yang	1612
+多重签名	duo chong qian ming	998
+多核处理器	duo he chu li qi	579
+多核架构	duo he jia gou	278
+多集群管理	duo ji qun guan li	169
+多阶段构建	duo jie duan gou jian	67
+多卡互联	duo ka hu lian	62
+多路复用器	duo lu fu yong qi	80
+多轮对话	duo lun dui hua	2856
+多模态模型	duo mo tai mo xing	217
+多模态数据	duo mo tai shu ju	110
+多模态搜索	duo mo tai sou suo	33
+多模态学习	duo mo tai xue xi	157
+多目标优化	duo mu biao you hua	2614
+多普勒频	duo pu lei pin	53
+多签机制	duo qian ji zhi	39
+多任务学习	duo ren wu xue xi	1460
+多视图几何	duo shi tu ji he	369
+多数派	duo shu pai	1786
+多数派协议	duo shu pai xie yi	44
+多体动力学	duo ti dong li xue	208
+多头机制	duo tou ji zhi	591
+多头注意力	duo tou zhu yi li	1694
+多项式核	duo xiang shi he	152
+多项式回归	duo xiang shi hui gui	1456
+多项式特征	duo xiang shi te zheng	531
+多芯片模块	duo xin pian mo kuai	101
+惰性求值	duo xing qiu zhi	1482
+多样性推荐	duo yang xing tui jian	395
+多页应用	duo ye ying yong	67
+多因素认证	duo yin su ren zheng	197
+多语言支持	duo yu yan zhi chi	612
+多云管理	duo yun guan li	141
+多载波	duo zai bo	44
+多址接入	duo zhi jie ru	190
+多智能体	duo zhi neng ti	2306
+多主复制	duo zhu fu zhi	28
+多租户隔离	duo zu hu ge li	191
+多组学	duo zu xue	104
+厄米算符	e mi suan fu	35
+二级结构	er ji jie gou	1755
+二进制数据	er jin zhi shu ju	5967
+二进制协议	er jin zhi xie yi	1943
+二期临床	er qi lin chuang	724
+法币挂钩	fa bi gua gou	5
+发布获取	fa bu huo qu	105
+发布流程	fa bu liu cheng	997
+法定人数	fa ding ren shu	986
+法雷奥	fa lei ao	118
+法律风险	fa lv feng xian	1781
+法律合规	fa lv he gui	1868
+发热控制	fa re kong zhi	272
+法线重建	fa xian chong jian	14
+法线计算	fa xian ji suan	54
+法线贴图	fa xian tie tu	43
+范德华力	fan de hua li	275
+泛光	fan guang	6963
+泛化能力	fan hua neng li	985
+泛化性	fan hua xing	874
+反卷积	fan juan ji	1778
+反馈偏差	fan kui pian cha	61
+反亲和	fan qin he	245
+反亲和性	fan qin he xing	107
+反射效果	fan she xiao guo	803
+反事实	fan shi shi	6490
+反思机制	fan si ji zhi	6720
+泛素化	fan su hua	169
+范围分片	fan wei fen pian	22
+反压机制	fan ya ji zhi	109
+反作弊	fan zuo bi	3706
+防重放	fang chong fang	231
+防重放攻击	fang chong fang gong ji	38
+防篡改	fang cuan gai	1588
+访存	fang cun	398
+防抖节流	fang dou jie liu	119
+防腐层	fang fu ceng	713
+芳香性	fang xiang xing	420
+仿真测试	fang zhen ce shi	1230
+仿真环境	fang zhen huan jing	787
+仿真模型	fang zhen mo xing	1385
+非重叠区域	fei chong die qu yu	164
+非共价键	fei gong jia jian	31
+非功能测试	fei gong neng ce shi	250
+非聚簇索引	fei ju cu suo yin	8
+非空约束	fei kong yue shu	121
+非门	fei men	1934
+费米子映射	fei mi zi ying she	4
+菲涅尔效应	fei nie er xiao ying	24
+非平稳性	fei ping wen xing	411
+非抢占	fei qiang zhan	255
+非确定性	fei que ding xing	3578
+非线性规划	fei xian xing gui hua	19910
+非盈利	fei ying li	2132
+非原地排序	fei yuan di pai xu	42
+非终结符	fei zhong jie fu	292
+非阻塞通信	fei zu se tong xin	113
+分布式编程	fen bu shi bian cheng	1179
+分布式拒绝	fen bu shi ju jue	2893
+分布式模式	fen bu shi mo shi	1246
+分布式文件	fen bu shi wen jian	1811
+分布式训练	fen bu shi xun lian	5146
+分布式账本	fen bu shi zhang ben	631
+分布式追踪	fen bu shi zhui zong	1386
+分层架构	fen ceng jia gou	5486
+分代回收	fen dai hui shou	120
+分发渠道	fen fa qu dao	1068
+分类模型	fen lei mo xing	4759
+分片	fen pian	16610
+分片策略	fen pian ce lve	260
+分片存储	fen pian cun chu	360
+分片技术	fen pian ji shu	112
+分片键	fen pian jian	122
+分片上传	fen pian shang chuan	253
+分区容错性	fen qu rong cuo xing	7
+分区优化	fen qu you hua	155
+分散执行	fen san zhi xing	576
+粉丝数量	fen si shu liang	662
+分箱	fen xiang	1861
+分享行为	fen xiang xing wei	176
+分页加载	fen ye jia zai	2769
+分支策略	fen zhi ce lve	1064
+分支发散	fen zhi fa san	235
+分支消除	fen zhi xiao chu	62
+分子动力学	fen zi dong li xue	2612
+分子对接	fen zi dui jie	642
+分子力场	fen zi li chang	345
+分子生成	fen zi sheng cheng	1019
+分子体积	fen zi ti ji	288
+分子重量	fen zi zhong liang	290
+分组卷积	fen zu juan ji	117
+讽刺识别	feng ci shi bie	27
+风格控制	feng ge kong zhi	783
+风格迁移	feng ge qian yi	595
+风控系统	feng kong xi tong	7161
+风冷系统	feng leng xi tong	71
+峰浓度	feng nong du	23
+冯诺依曼熵	feng nuo yi man shang	4
+蜂群算法	feng qun suan fa	177
+蜂窝网络	feng wo wang luo	1063
+风险评分	feng xian ping fen	2090
+风险评估	feng xian ping gu	42113
+风险识别	feng xian shi bie	5693
+副本机制	fu ben ji zhi	374
+负采样	fu cai yang	585
+浮点寄存器	fu dian ji cun qi	96
+浮点精度	fu dian jing du	196
+浮点数精度	fu dian shu jing du	363
+浮点转换	fu dian zhuan huan	86
+浮动按钮	fu dong an niu	353
+浮动定位	fu dong ding wei	197
+幅度校准	fu du jiao zhun	63
+覆盖率测试	fu gai lv ce shi	1475
+覆盖索引	fu gai suo yin	155
+复合分片	fu he fen pian	58
+复合索引	fu he suo yin	375
+佛吉亚	fu ji ya	228
+父区块哈希	fu qu kuai ha xi	20
+肤色分类	fu se fen lei	85
+辐射场	fu she chang	995
+辐射度	fu she du	400
+辐射散热	fu she san re	219
+服饰识别	fu shi shi bie	30
+服务代理	fu wu dai li	270
+服务端渲染	fu wu duan xuan ran	2645
+服务工作者	fu wu gong zuo zhe	258
+服务器权威	fu wu qi quan wei	130
+服务清单	fu wu qing dan	456
+服务网格	fu wu wang ge	142
+服务账户	fu wu zhang hu	281
+服务注册	fu wu zhu ce	150
+负载测试	fu zai ce shi	1574
+负载均衡器	fu zai jun heng qi	8760
+负载平衡	fu zai ping heng	1488
+负责任披露	fu ze ren pi lu	18
+辅助创作	fu zhu chuang zuo	2942
+副作用控制	fu zuo yong kong zhi	115
+干涉仪	gan she yi	133
+感受野	gan shou ye	53
+肝药酶	gan yao mei	30
+刚体	gang ti	10667
+刚体动力学	gang ti dong li xue	2119
+刚性对接	gang xing dui jie	346
+高度计	gao du ji	56
+高对比度	gao dui bi du	343
+高精地图	gao jing di tu	98
+高精定位	gao jing ding wei	72
+告警通知	gao jing tong zhi	86
+告警系统	gao jing xi tong	86
+高可靠	gao ke kao	880
+高斯分布	gao si fen bu	1017
+高斯过程	gao si guo cheng	434
+高斯核	gao si he	109
+高斯混合	gao si hun he	247
+高斯泼溅	gao si po jian	17
+高斯调制	gao si tiao zhi	31
+高速串行	gao su chuan xing	323
+高速接口	gao su jie kou	601
+高通量筛选	gao tong liang shai xuan	1631
+高吞吐	gao tun tu	305
+高吞吐量	gao tun tu liang	258
+高维动作	gao wei dong zuo	108
+高维空间	gao wei kong jian	1449
+高维状态	gao wei zhuang tai	173
+高性能集群	gao xing neng ji qun	975
+隔离性	ge li xing	848
+格洛纳斯	ge luo na si	63
+个人区域网	ge ren qu yu wang	12
+个人使用	ge ren shi yong	3864
+个体化医疗	ge ti hua yi liao	178
+各向异性	ge xiang yi xing	811
+个性化排序	ge xing hua pai xu	608
+给药途径	gei yao tu jing	573
+根分区	gen fen qu	32
+根节点	gen jie dian	1736
+跟随者	gen sui zhe	6425
+根因分析	gen yin fen xi	639
+根元素字号	gen yuan su zi hao	5
+工单系统	gong dan xi tong	381
+公共领域	gong gong ling yu	3289
+功耗管理	gong hao guan li	328
+功耗优化	gong hao you hua	878
+共价键	gong jia jian	477
+工件坐标系	gong jian zuo biao xi	62
+工具变量	gong ju bian liang	825
+工具调用	gong ju diao yong	63754
+工具坐标系	gong ju zuo biao xi	313
+公开拍卖	gong kai pai mai	1681
+功率放大器	gong lv fang da qi	1303
+公民开发者	gong min kai fa zhe	238
+功能安全	gong neng an quan	3130
+公平调度	gong ping diao du	47
+共识机制	gong shi ji zhi	1306
+共识算法	gong shi suan fa	414
+贡献者	gong xian zhe	1560
+共享策略	gong xiang ce lve	342
+共享经验	gong xiang jing yan	782
+共享元素	gong xiang yuan su	198
+供需平衡	gong xu ping heng	3885
+公钥地址	gong yao di zhi	34
+公钥密码学	gong yao mi ma xue	131
+公钥私钥	gong yao si yao	49
+公钥体系	gong yao ti xi	115
+工业互联	gong ye hu lian	638
+工业界	gong ye jie	11651
+工业质检	gong ye zhi jian	960
+供应链安全	gong ying lian an quan	3380
+公用网络	gong yong wang luo	534
+公有云部署	gong you yun bu shu	204
+共振峰	gong zhen feng	209
+工作负载	gong zuo fu zai	1157
+工作量证明	gong zuo liang zheng ming	109
+工作窃取	gong zuo qie qu	114
+购买行为	gou mai xing wei	1620
+构象变化	gou xiang bian hua	132
+固定布局	gu ding bu ju	1247
+固定窗口	gu ding chuang kou	2391
+固定时间步	gu ding shi jian bu	85
+固定效应	gu ding xiao ying	551
+骨干网络	gu gan wang luo	485
+骨架屏	gu jia ping	133
+骨架屏展示	gu jia ping zhan shi	7
+孤立森林	gu li sen lin	1637
+故障覆盖	gu zhang fu gai	41
+故障演练	gu zhang yan lian	97
+故障预警	gu zhang yu jing	229
+故障转移	gu zhang zhuan yi	511
+寡核苷酸	gua he gan suan	61
+观察矩阵	guan cha ju zhen	851
+关键词抽取	guan jian ci chou qu	2626
+关键点标注	guan jian dian biao zhu	676
+关节空间	guan jie kong jian	156
+关系抽取	guan xi chou qu	99
+关系蒸馏	guan xi zheng liu	52
+惯性滚动	guan xing gun dong	339
+关注点分离	guan zhu dian fen li	266
+关注关系	guan zhu guan xi	1174
+广播操作	guang bo cao zuo	494
+广播消息	guang bo xiao xi	2366
+光发射	guang fa she	260
+光放大	guang fang da	127
+光放大器	guang fang da qi	69
+光复用	guang fu yong	234
+光互连	guang hu lian	81
+光计算	guang ji suan	687
+光检测	guang jian ce	281
+光交叉连接	guang jiao cha lian jie	49
+光交换	guang jiao huan	313
+光解复用	guang jie fu yong	22
+光接收	guang jie shou	352
+光开关	guang kai guan	397
+光滤波	guang lv bo	50
+光腔	guang qiang	280
+光栅化剔除	guang shan hua ti chu	8
+光调制	guang tiao zhi	144
+光网络	guang wang luo	1121
+光线步进	guang xian bu jin	49
+光纤存储	guang xian cun chu	221
+光纤连接	guang xian lian jie	2080
+光纤通信	guang xian tong xin	5444
+光线网格	guang xian wang ge	64
+光照传感	guang zhao chuan gan	31
+光照估计	guang zhao gu ji	65
+光钟	guang zhong	466
+光子晶体	guang zi jing ti	2621
+光子学	guang zi xue	1700
+光子映射	guang zi ying she	258
+硅光子	gui guang zi	1006
+规划会议	gui hua hui yi	1441
+规划能力	gui hua neng li	2130
+规划算法	gui hua suan fa	1502
+轨迹规划	gui ji gui hua	767
+轨迹预测	gui ji yu ce	520
+轨迹追踪	gui ji zhui zong	1144
+硅通孔	gui tong kong	142
+归一化层	gui yi hua ceng	108
+归因分析	gui yin fen xi	1274
+归约操作	gui yue cao zuo	111
+规约操作	gui yue cao zuo	35
+规约运算	gui yue yun suan	26
+滚动窗口	gun dong chuang kou	1179
+滚动更新	gun dong geng xin	3031
+过拟合现象	guo ni he xian xiang	63
+哈达玛门	ha da ma men	6
+哈希	ha xi	65970
+哈希表	ha xi biao	3078
+哈希分片	ha xi fen pian	78
+哈希函数	ha xi han shu	1458
+哈希连接	ha xi lian jie	151
+哈希碰撞	ha xi peng zhuang	465
+哈希索引	ha xi suo yin	215
+海森堡绘景	hai sen bao hui jing	6
+海森堡极限	hai sen bao ji xian	7
+汉明窗	han ming chuang	162
+汉宁窗	han ning chuang	141
+焊球	han qiu	527
+函数逼近	han shu bi jin	569
+函数即服务	han shu ji fu wu	388
+函数计算	han shu ji suan	4061
+寒武纪基准	han wu ji ji zhun	18
+行号	hang hao	2737
+行式存储	hang shi cun chu	26
+行锁	hang suo	614
+行业联盟	hang ye lian meng	180
+毫开尔文	hao kai er wen	2
+毫米波雷达	hao mi bo lei da	307
+好友关系	hao you guan xi	3504
+合并操作	he bing cao zuo	2417
+合并冲突	he bing chong tu	2631
+核采样	he cai yang	577
+合成数据	he cheng shu ju	3063
+核磁共振	he ci gong zhen	4602
+核方法	he fang fa	648
+合规测试	he gui ce shi	2128
+合规监管	he gui jian guan	519
+合规审查	he gui shen cha	12185
+合规审计	he gui shen ji	2138
+合规性	he gui xing	35238
+合规性检查	he gui xing jian cha	7858
+核技巧	he ji qiao	433
+荷兰式拍卖	he lan shi pai mai	75
+核心开发者	he xin kai fa zhe	5461
+核心网络	he xin wang luo	8365
+核心线程数	he xin xian cheng shu	299
+核心转储	he xin zhuan chu	91
+合作博弈	he zuo bo yi	328
+黑盒模型	hei he mo xing	477
+黑芝麻华山	hei zhi ma hua shan	15
+横竖屏切换	heng shu ping qie huan	60
+宏基准测试	hong ji zhun ce shi	48
+红绿灯识别	hong lv deng shi bie	61
+宏任务队列	hong ren wu dui lie	100
+红外感应	hong wai gan ying	1342
+红外通信	hong wai tong xin	726
+后处理	hou chu li	5215
+后门攻击	hou men gong ji	415
+候选版	hou xuan ban	414
+候选框	hou xuan kuang	962
+候选者	hou xuan zhe	10093
+后置条件	hou zhi tiao jian	4407
+互连技术	hu lian ji shu	36
+互连拓扑	hu lian tuo pu	44
+滑点	hua dian	511
+华为云	hua wei yun	9731
+缓存层级	huan cun ceng ji	149
+缓存穿透	huan cun chuan tou	217
+缓存击穿	huan cun ji chuan	211
+缓存命中率	huan cun ming zhong lv	988
+缓存失效	huan cun shi xiao	1983
+缓存行	huan cun xing	440
+缓存雪崩	huan cun xue beng	48
+缓存一致性	huan cun yi zhi xing	273
+缓存友好	huan cun you hao	362
+缓存中间件	huan cun zhong jian jian	109
+幻读	huan du	714
+环境隔离	huan jing ge li	943
+环境光遮蔽	huan jing guang zhe bi	49
+环境交互	huan jing jiao hu	1167
+幻觉现象	huan jue xian xiang	987
+幻觉抑制	huan jue yi zhi	637
+缓慢变化维	huan man bian hua wei	9
+环签名	huan qian ming	130
+环系	huan xi	395
+环型	huan xing	658
+环形缓冲区	huan xing huan chong qu	1969
+环型拓扑	huan xing tuo pu	62
+环形网络	huan xing wang luo	1654
+汇编器	hui bian qi	1193
+灰度测试	hui du ce shi	336
+灰度发布	hui du fa bu	582
+灰度化	hui du hua	72
+回顾会议	hui gu hui yi	3154
+回归模型	hui gui mo xing	1884
+回滚机制	hui gun ji zhi	159
+回滚日志	hui gun ri zhi	127
+灰盒模型	hui he mo xing	191
+会话窗口	hui hua chuang kou	2346
+会话存储	hui hua cun chu	242
+会话固定	hui hua gu ding	76
+会话劫持	hui hua jie chi	54
+会话日志	hui hua ri zhi	1040
+会话一致性	hui hua yi zhi xing	128
+灰狼优化	hui lang you hua	50
+灰帽	hui mao	362
+灰名单	hui ming dan	287
+回声消除	hui sheng xiao chu	119
+会员制度	hui yuan zhi du	438
+绘制流程	hui zhi liu cheng	3563
+汇总层	hui zong ceng	336
+混币器	hun bi qi	64
+混沌工程	hun dun gong cheng	184
+混沌实验	hun dun shi yan	126
+混合编译	hun he bian yi	627
+混合并行	hun he bing xing	392
+混合部署	hun he bu shu	394
+混合操作	hun he cao zuo	1602
+混合存储	hun he cun chu	608
+混合单位	hun he dan wei	699
+混合动作	hun he dong zuo	2529
+混合计算	hun he ji suan	1604
+混合检索	hun he jian suo	1105
+混合精度	hun he jing du	1556
+混合任务	hun he ren wu	3437
+混合拓扑	hun he tuo pu	182
+混合现实	hun he xian shi	2538
+混合云部署	hun he yun bu shu	116
+混频器	hun pin qi	137
+混淆案例	hun xiao an li	151
+混淆标准	hun xiao biao zhun	245
+混淆策略	hun xiao ce lve	337
+混淆测试	hun xiao ce shi	1134
+混淆场景	hun xiao chang jing	333
+混淆度	hun xiao du	763
+混淆法规	hun xiao fa gui	39
+混淆法律	hun xiao fa lv	114
+混淆方法	hun xiao fang fa	353
+混淆分析	hun xiao fen xi	995
+混淆服务	hun xiao fu wu	185
+混淆工具	hun xiao gong ju	484
+混淆规范	hun xiao gui fan	172
+混淆技巧	hun xiao ji qiao	201
+混淆机制	hun xiao ji zhi	347
+混淆架构	hun xiao jia gou	94
+混淆教程	hun xiao jiao cheng	60
+混淆接口	hun xiao jie kou	186
+混淆经验	hun xiao jing yan	148
+混淆框架	hun xiao kuang jia	231
+混淆理念	hun xiao li nian	61
+混淆伦理	hun xiao lun li	127
+混淆模块	hun xiao mo kuai	156
+混淆模型	hun xiao mo xing	1030
+混淆目标	hun xiao mu biao	447
+混淆评估	hun xiao ping gu	211
+混淆平台	hun xiao ping tai	199
+混淆强度	hun xiao qiang du	73
+混淆设计	hun xiao she ji	249
+混淆实践	hun xiao shi jian	32
+混淆实现	hun xiao shi xian	113
+混淆算法	hun xiao suan fa	287
+混淆文档	hun xiao wen dang	126
+混淆文化	hun xiao wen hua	144
+混淆系统	hun xiao xi tong	616
+混淆协议	hun xiao xie yi	376
+混淆需求	hun xiao xu qiu	351
+混淆验证	hun xiao yan zheng	272
+混淆应用	hun xiao ying yong	134
+混淆优化	hun xiao you hua	333
+混淆原则	hun xiao yuan ze	480
+混淆政策	hun xiao zheng ce	118
+混淆指标	hun xiao zhi biao	275
+混淆指南	hun xiao zhi nan	124
+混淆组件	hun xiao zu jian	48
+伙伴系统	huo ban xi tong	117
+活锁	huo suo	616
+火焰图	huo yan tu	174
+活跃变量	huo yue bian liang	54
+基板材料	ji ban cai liao	1389
+基板封装	ji ban feng zhuang	363
+极表面积	ji biao mian ji	21
+吉布斯采样	ji bu si cai yang	229
+集成光子	ji cheng guang zi	292
+继承属性	ji cheng shu xing	1750
+继承性	ji cheng xing	3875
+基础镜像	ji chu jing xiang	861
+基础设施层	ji chu she shi ceng	1040
+寄存器堆	ji cun qi dui	945
+寄存器分配	ji cun qi fen pei	1146
+寄存器文件	ji cun qi wen jian	2075
+寄存器压力	ji cun qi ya li	314
+寄存器映射	ji cun qi ying she	746
+极大后验	ji da hou yan	15
+激动剂	ji dong ji	169
+饥饿现象	ji e xian xiang	130
+激发态	ji fa tai	564
+计费计量	ji fei ji liang	276
+积分器	ji fen qi	379
+积分系统	ji fen xi tong	1388
+激光测距	ji guang ce ju	560
+激光冷却	ji guang leng que	799
+几何重建	ji he chong jian	75
+集合通信	ji he tong xin	381
+几何着色	ji he zhuo se	127
+几何着色器	ji he zhuo se qi	78
+激活量化	ji huo liang hua	76
+剂量优化	ji liang you hua	111
+机密性	ji mi xing	549
+基尼系数	ji ni xi shu	1343
+奇偶校验	ji ou jiao yan	3140
+基频	ji pin	400
+机器人控制	ji qi ren kong zhi	1152
+机器人实验	ji qi ren shi yan	308
+集群备份	ji qun bei fen	138
+集群化	ji qun hua	1417
+集群计算	ji qun ji suan	1066
+集群联邦	ji qun lian bang	97
+集群模式	ji qun mo shi	943
+集群升级	ji qun sheng ji	296
+即时编译	ji shi bian yi	1701
+即时奖励	ji shi jiang li	2364
+即时结算	ji shi jie suan	2957
+即时消息	ji shi xiao xi	9945
+技术白皮书	ji shu bai pi shu	1254
+技术壁垒	ji shu bi lei	654
+基数估计	ji shu gu ji	173
+技术伦理	ji shu lun li	2365
+技术中台	ji shu zhong tai	127
+计算层	ji suan ceng	1729
+计算成本	ji suan cheng ben	17736
+计算单元	ji suan dan yuan	5005
+计算分片	ji suan fen pian	163
+计算基测量	ji suan ji ce liang	11
+计算量	ji suan liang	29683
+计算模型	ji suan mo xing	12714
+计算瓶颈	ji suan ping jing	701
+计算延迟	ji suan yan chi	3790
+计算着色	ji suan zhuo se	507
+计算着色器	ji suan zhuo se qi	255
+基态	ji tai	637
+即席查询	ji xi cha xun	117
+绩效评估	ji xiao ping gu	3456
+记忆机制	ji yi ji zhi	787
+基因测序	ji yin ce xu	1829
+基因组学	ji yin zu xue	3724
+基址指针	ji zhi zhi zhen	27
+集中式架构	ji zhong shi jia gou	264
+集中训练	ji zhong xun lian	3963
+基坐标系	ji zuo biao xi	51
+加窗	jia chuang	525
+架构优化	jia gou you hua	2719
+伽利略系统	jia li lve xi tong	34
+加密通信	jia mi tong xin	3068
+假名性	jia ming xing	12
+加权调度	jia quan diao du	187
+加权轮询	jia quan lun xun	233
+加速结构	jia su jie gou	188
+加速卡	jia su ka	323
+加速库	jia su ku	100
+加速引擎	jia su yin qing	569
+加载状态	jia zai zhuang tai	4992
+夹爪	jia zhao	673
+价值捕获	jia zhi bu huo	19
+价值迭代	jia zhi die dai	86
+价值观对齐	jia zhi guan dui qi	288
+价值函数	jia zhi han shu	133
+价值评估	jia zhi ping gu	808
+价值网络	jia zhi wang luo	361
+渐变效果	jian bian xiao guo	527
+检测能力	jian ce neng li	1538
+检查点机制	jian cha dian ji zhi	142
+简单邮件	jian dan you jian	542
+监督微调	jian du wei tiao	83
+碱基编辑	jian ji bian ji	120
+间接光照	jian jie guang zhao	100
+渐近稳定	jian jin wen ding	68
+健康管理	jian kang guan li	46722
+键空间	jian kong jian	324
+监控指标	jian kong zhi biao	1362
+键盘弹出	jian pan tan chu	1252
+减速器	jian su qi	3192
+检索增强	jian suo zeng qiang	6255
+剪贴板操作	jian tie ban cao zuo	39
+剪贴板读取	jian tie ban du qu	28
+剪贴板写入	jian tie ban xie ru	16
+箭头函数	jian tou han shu	632
+建图	jian tu	261
+间隙锁	jian xi suo	19
+剪枝	jian zhi	3999
+键值存储	jian zhi cun chu	235
+键值缓存	jian zhi huan cun	77
+剪枝技术	jian zhi ji shu	35
+降本增效	jiang ben zeng xiao	9450
+降级策略	jiang ji ce lve	4501
+降级预案	jiang ji yu an	470
+奖励函数	jiang li han shu	164
+奖励建模	jiang li jian mo	52
+奖励模型	jiang li mo xing	709
+奖励塑形	jiang li su xing	3
+奖励信号	jiang li xin hao	145
+降维	jiang wei	7820
+降维处理	jiang wei chu li	310
+降维技术	jiang wei ji shu	89
+降维算法	jiang wei suan fa	89
+交并比	jiao bing bi	287
+交叉熵	jiao cha shang	403
+交叉熵损失	jiao cha shang sun shi	110
+交叉注意力	jiao cha zhu yi li	1497
+焦点管理	jiao dian guan li	268
+角度单位	jiao du dan wei	104
+角度剔除	jiao du ti chu	33
+交付周期	jiao fu zhou qi	1945
+交互逻辑	jiao hu luo ji	2058
+交互式查询	jiao hu shi cha xun	3734
+交互特征	jiao hu te zheng	245
+交换分区	jiao huan fen qu	187
+交换门	jiao huan men	654
+交换通信	jiao huan tong xin	889
+胶囊网络	jiao nang wang luo	560
+胶片效果	jiao pian xiao guo	191
+教师模型	jiao shi mo xing	1743
+交通标志	jiao tong biao zhi	3766
+交易哈希	jiao yi ha xi	128
+交易确认	jiao yi que ren	622
+交易手续费	jiao yi shou xu fei	417
+交易数据	jiao yi shu ju	1048
+接触阴影	jie chu yin ying	107
+借贷协议	jie dai xie yi	526
+节点标签	jie dian biao qian	966
+节点池	jie dian chi	539
+节点分类	jie dian fen lei	938
+节点间通信	jie dian jian tong xin	422
+节点排水	jie dian pai shui	57
+节点嵌入	jie dian qian ru	556
+节点亲和	jie dian qin he	76
+节点网络	jie dian wang luo	1671
+节点维护	jie dian wei hu	437
+节点污点	jie dian wu dian	19
+杰发科技	jie fa ke ji	313
+解构赋值	jie gou fu zhi	21
+结构光	jie gou guang	1222
+结构化剪枝	jie gou hua jian zhi	144
+结构化数据	jie gou hua shu ju	34048
+结构控制	jie gou kong zhi	2365
+结构体	jie gou ti	14531
+接管率	jie guan lv	451
+结合自由能	jie he zi you neng	108
+杰卡德	jie ka de	379
+杰卡德系数	jie ka de xi shu	111
+接口版本	jie kou ban ben	993
+接口封装	jie kou feng zhuang	1280
+接口隔离	jie kou ge li	380
+接口规范	jie kou gui fan	2662
+接口聚合	jie kou ju he	178
+接口模拟	jie kou mo ni	296
+接口契约	jie kou qi yue	856
+节流	jie liu	11362
+解密算法	jie mi suan fa	1462
+界面规范	jie mian gui fan	537
+接入网络	jie ru wang luo	2466
+节省计划	jie sheng ji hua	563
+解释器	jie shi qi	2390
+解释性	jie shi xing	3913
+结束标记	jie shu biao ji	5280
+介数中心	jie shu zhong xin	115
+结算层	jie suan ceng	56
+阶梯衰减	jie ti shuai jian	63
+解调	jie tiao	673
+近场通信	jin chang tong xin	534
+进程隔离	jin cheng ge li	227
+进度追踪	jin du zhui zong	1699
+近端策略	jin duan ce lve	194
+金库管理	jin ku guan li	64
+紧密中心	jin mi zhong xin	134
+浸没式冷却	jin mo shi leng que	57
+金融风控	jin rong feng kong	2726
+金融交易	jin rong jiao yi	5651
+金丝雀发布	jin si que fa bu	30
+近似最近邻	jin si zui jin lin	986
+经典优化器	jing dian you hua qi	65
+静电作用	jing dian zuo yong	359
+竞价策略	jing jia ce lve	1422
+竞价实例	jing jia shi li	59
+精简指令集	jing jian zhi ling ji	975
+静力学仿真	jing li xue fang zhen	37
+镜面反射	jing mian fan she	4034
+精排层	jing pai ceng	37
+精确率	jing que lv	5414
+景深效果	jing shen xiao guo	64
+静态定位	jing tai ding wei	1137
+静态功耗	jing tai gong hao	438
+静态加密	jing tai jia mi	1086
+静态类型	jing tai lei xing	7044
+静态流控	jing tai liu kong	36
+静态批处理	jing tai pi chu li	716
+静态随机	jing tai sui ji	2764
+竞态条件	jing tai tiao jian	747
+静态图优化	jing tai tu you hua	34
+静态阴影	jing tai yin ying	216
+镜头光斑	jing tou guang ban	292
+惊喜度	jing xi du	73
+镜像仓库	jing xiang cang ku	1047
+镜像端口	jing xiang duan kou	270
+镜像分层	jing xiang fen ceng	233
+镜像构建	jing xiang gou jian	424
+镜像缓存	jing xiang huan cun	458
+镜像拉取	jing xiang la qu	72
+镜像扫描	jing xiang sao miao	443
+镜像推送	jing xiang tui song	307
+镜像站点	jing xiang zhan dian	423
+经验回放	jing yan hui fang	67
+鲸鱼优化	jing yu you hua	16
+竞争博弈	jing zheng bo yi	398
+竞争冒险	jing zheng mao xian	133
+精准医疗	jing zhun yi liao	4171
+纠错能力	jiu cuo neng li	1814
+九宫格拉伸	jiu gong ge la shen	9
+就绪队列	jiu xu dui lie	256
+就绪检测	jiu xu jian ce	225
+就绪探针	jiu xu tan zhen	95
+局部重绘	ju bu chong hui	228
+局部地图	ju bu di tu	1082
+局部定位	ju bu ding wei	679
+局部解释	ju bu jie shi	638
+局部内存	ju bu nei cun	435
+局部线性	ju bu xian xing	568
+局部性原理	ju bu xing yuan li	1573
+局部注意力	ju bu zhu yi li	734
+句法	ju fa	8712
+聚合端口	ju he duan kou	122
+聚合根	ju he gen	1750
+聚合路由	ju he lu you	363
+聚集操作	ju ji cao zuo	73
+拒绝策略	ju jue ce lve	1236
+聚类系数	ju lei xi shu	138
+距离矢量	ju li shi liang	90
+距离剔除	ju li ti chu	57
+卷积层	juan ji ceng	2294
+卷积码	juan ji ma	223
+决策能力	jue ce neng li	1240
+决定系数	jue ding xi shu	2255
+绝对单位	jue dui dan wei	255
+绝对位置	jue dui wei zhi	867
+角色绑定	jue se bang ding	765
+角色管理	jue se guan li	688
+角色权限	jue se quan xian	398
+均方根误差	jun fang gen wu cha	106
+均方误差	jun fang wu cha	358
+军事国防	jun shi guo fang	1494
+均匀网格	jun yun wang ge	189
+卡顿掉帧	ka dun diao zhen	35
+卡顿检测	ka dun jian ce	388
+开发者生态	kai fa zhe sheng tai	404
+开发者体验	kai fa zhe ti yan	473
+开放标准	kai fang biao zhun	978
+开关控制	kai guan kong zhi	880
+开始标记	kai shi biao ji	13588
+开源生态	kai yuan sheng tai	1967
+开运算	kai yun suan	220
+抗抵赖性	kang di lai xing	15
+抗扰动	kang rao dong	398
+可安全	ke an quan	1080
+可保障	ke bao zhang	438
+可编程逻辑	ke bian cheng luo ji	3217
+可变时间步	ke bian shi jian bu	38
+可变刷新率	ke bian shua xin lv	90
+可部署	ke bu shu	451
+可部署性	ke bu shu xing	127
+可测试	ke ce shi	978
+课程学习	ke cheng xue xi	6045
+可持续发展	ke chi xu fa zhan	609303
+可重复读	ke chong fu du	393
+可重现	ke chong xian	819
+可串行化	ke chuan xing hua	279
+可定制	ke ding zhi	898
+可访问性	ke fang wen xing	418
+可复现	ke fu xian	389
+可个性化	ke ge xing hua	273
+可公平	ke gong ping	276
+可观测	ke guan ce	5991
+可观测性	ke guan ce xing	811
+可管理	ke guan li	876
+可合规	ke he gui	187
+客户端权威	ke hu duan quan wei	38
+客户端渲染	ke hu duan xuan ran	581
+可监控	ke jian kong	656
+可解释性	ke jie shi xing	1459
+可靠传输	ke kao chuan shu	165
+可靠消息	ke kao xiao xi	1699
+可控制	ke kong zhi	1333
+颗粒感	ke li gan	1533
+柯里化函数	ke li hua han shu	29
+可伦理	ke lun li	393
+可配置	ke pei zhi	669
+可审计	ke shen ji	416
+可伸缩性	ke shen suo xing	214
+可视化大屏	ke shi hua da ping	894
+可视化分析	ke shi hua fen xi	9075
+可调节	ke tiao jie	1146
+可透明	ke tou ming	239
+可微分架构	ke wei fen jia gou	29
+可维护	ke wei hu	1353
+可问责	ke wen ze	185
+可信赖	ke xin lai	1389
+可信执行	ke xin zhi xing	597
+可行性检查	ke xing xing jian cha	1864
+可选链式	ke xuan lian shi	72
+可验证	ke yan zheng	1116
+可验证性	ke yan zheng xing	357
+可用表达式	ke yong biao da shi	2360
+可用区	ke yong qu	2092
+可用性测试	ke yong xing ce shi	3612
+可用性指标	ke yong xing zhi biao	1833
+可证明	ke zheng ming	1343
+可治理	ke zhi li	441
+可追溯	ke zhui su	1248
+可自博弈	ke zi bo yi	20
+可自合作	ke zi he zuo	23
+可自恢复	ke zi hui fu	16
+可自进化	ke zi jin hua	35
+可自竞争	ke zi jing zheng	12
+可自平衡	ke zi ping heng	18
+可自融合	ke zi rong he	18
+可自适应	ke zi shi ying	192
+可自同步	ke zi tong bu	14
+可自稳定	ke zi wen ding	18
+可自协调	ke zi xie tiao	13
+可自协同	ke zi xie tong	11
+可自修复	ke zi xiu fu	19
+可自学习	ke zi xue xi	29
+可自演化	ke zi yan hua	20
+可自优化	ke zi you hua	20
+可自愈合	ke zi yu he	12
+可自整合	ke zi zheng he	12
+可自组织	ke zi zu zhi	27
+可组合性	ke zu he xing	401
+空洞卷积	kong dong juan ji	131
+空间管理	kong jian guan li	881
+空间哈希	kong jian ha xi	45
+空间划分	kong jian hua fen	418
+空间纠缠	kong jian jiu chan	38
+空间离散	kong jian li san	147
+空间冗余	kong jian rong yu	78
+空间转录组	kong jian zhuan lu zu	105
+空气隔离	kong qi ge li	357
+空投活动	kong tou huo dong	63
+空闲时间	kong xian shi jian	12364
+控制单元	kong zhi dan yuan	1385
+空值合并	kong zhi he bing	46
+控制流图	kong zhi liu tu	95
+控制平面	kong zhi ping mian	746
+控制器逻辑	kong zhi qi luo ji	991
+控制组	kong zhi zu	3042
+库珀对	ku po dui	12
+跨地域同步	kua di yu tong bu	47
+跨境合规	kua jing he gui	1164
+跨链桥接	kua lian qiao jie	9
+跨链协议	kua lian xie yi	134
+跨模态	kua mo tai	1787
+跨模态对齐	kua mo tai dui qi	94
+跨模态融合	kua mo tai rong he	87
+跨芯片通信	kua xin pian tong xin	52
+跨域部署	kua yu bu shu	132
+跨语言检索	kua yu yan jian suo	582
+跨云迁移	kua yun qian yi	59
+跨站脚本	kua zhan jiao ben	91
+跨站请求	kua zhan qing qiu	96
+块存储	kuai cun chu	235
+快门速度	kuai men su du	675
+快速传输层	kuai su chuan shu ceng	16
+快照隔离	kuai zhao ge li	141
+快照机制	kuai zhao ji zhi	526
+宽带传输	kuan dai chuan shu	115
+宽松许可	kuan song xu ke	92
+宽线性模型	kuan xian xing mo xing	8
+捆绑销售	kun bang xiao shou	225
+困惑度	kun huo du	150
+扩散模型	kuo san mo xing	995
+扩展功能	kuo zhan gong neng	8264
+扩展精度	kuo zhan jing du	323
+拉链表	la lian biao	1401
+拉模式	la mo shi	348
+拉盘砸盘	la pan za pan	3
+拉取	la qu	2777
+懒标记	lan biao ji	23
+懒传播	lan chuan bo	14
+懒加载策略	lan jia zai ce lve	37
+蓝绿部署	lan lv bu shu	51
+蓝牙连接	lan ya lian jie	1871
+老药新用	lao yao xin yong	16
+乐观并发	le guan bing fa	86
+勒索软件	le suo ruan jian	1178
+类别不平衡	lei bie bu ping heng	197
+类激活图	lei ji huo tu	71
+类器官	lei qi guan	458
+类型检查	lei xing jian cha	1423
+类型判断	lei xing pan duan	4817
+类型匹配	lei xing pi pei	2568
+类型推导	lei xing tui dao	860
+冷备冗余	leng bei rong yu	8
+冷钱包	leng qian bao	1652
+冷数据	leng shu ju	1342
+里程计	li cheng ji	234
+李尔	li er	5276
+力反馈	li fan kui	820
+力矩传感器	li ju chuan gan qi	88
+力觉	li jue	156
+力控	li kong	1346
+利率模型	li lv mo xing	622
+离散动作	li san dong zuo	226
+离线编程	li xian bian cheng	552
+离线计算	li xian ji suan	1914
+离线评估	li xian ping gu	888
+离线学习	li xian xue xi	1477
+离线阴影	li xian yin ying	69
+离线应用	li xian ying yong	722
+李雅普诺夫	li ya pu nuo fu	31
+粒子发射	li zi fa she	1375
+离子阱	li zi jing	1056
+离子阱冷却	li zi jing leng que	45
+粒子碰撞	li zi peng zhuang	2214
+粒子群优化	li zi qun you hua	1340
+粒子拖尾	li zi tuo wei	81
+联邦集群	lian bang ji qun	119
+联邦学习	lian bang xue xi	1832
+连贯性	lian guan xing	9527
+联合熵	lian he shang	131
+联合训练	lian he xun lian	2821
+连接复用	lian jie fu yong	166
+链接器	lian jie qi	661
+链接预测	lian jie yu ce	89
+链路隔离	lian lu ge li	289
+链路聚合	lian lu ju he	507
+链路状态	lian lu zhuang tai	1297
+链路追踪	lian lu zhui zong	5483
+链上数据	lian shang shu ju	811
+链式法则	lian shi fa ze	431
+联调环境	lian tiao huan jing	38
+链下数据	lian xia shu ju	123
+连续动作	lian xu dong zuo	10665
+连续化	lian xu hua	2157
+连续批处理	lian xu pi chu li	339
+两层架构	liang ceng jia gou	1185
+量化技术	liang hua ji shu	360
+量化推理	liang hua tui li	567
+量化压缩	liang hua ya suo	263
+两阶段锁定	liang jie duan suo ding	119
+两阶段提交	liang jie duan ti jiao	295
+良率	liang lv	839
+量子霸权	liang zi ba quan	590
+量子保真度	liang zi bao zhen du	39
+量子比特	liang zi bi te	4542
+量子编译	liang zi bian yi	552
+量子测量	liang zi ce liang	550
+量子场模拟	liang zi chang mo ni	61
+量子处理器	liang zi chu li qi	751
+量子磁力计	liang zi ci li ji	15
+量子磁性	liang zi ci xing	148
+量子存储	liang zi cun chu	1135
+量子存储器	liang zi cun chu qi	456
+量子点	liang zi dian	3301
+量子电路	liang zi dian lu	1085
+量子叠加	liang zi die jia	1224
+量子放大	liang zi fang da	216
+量子光	liang zi guang	951
+量子核方法	liang zi he fang fa	11
+量子互联网	liang zi hu lian wang	952
+量子汇编	liang zi hui bian	131
+量子霍尔态	liang zi huo er tai	57
+量子迹距	liang zi ji ju	2
+量子计算机	liang zi ji suan ji	16955
+量子加速器	liang zi jia su qi	337
+量子降维	liang zi jiang wei	97
+量子交换机	liang zi jiao huan ji	320
+量子节点	liang zi jie dian	434
+量子纠错	liang zi jiu cuo	1533
+量子纠错码	liang zi jiu cuo ma	317
+量子聚类	liang zi ju lei	330
+量子雷达	liang zi lei da	942
+量子链路	liang zi lian lu	288
+量子临界点	liang zi lin jie dian	160
+量子路由器	liang zi lu you qi	420
+量子门	liang zi men	1527
+量子模拟	liang zi mo ni	1096
+量子模拟器	liang zi mo ni qi	478
+量子启发式	liang zi qi fa shi	324
+量子搜索	liang zi sou suo	407
+量子算法	liang zi suan fa	2737
+量子隧穿	liang zi sui chuan	450
+量子态	liang zi tai	6739
+量子态层析	liang zi tai ceng xi	8
+量子态重构	liang zi tai chong gou	48
+量子态制备	liang zi tai zhi bei	64
+量子体积	liang zi ti ji	372
+量子通信	liang zi tong xin	5203
+量子退火	liang zi tui huo	652
+量子退相干	liang zi tui xiang gan	260
+量子陀螺仪	liang zi tuo luo yi	120
+量子网络	liang zi wang luo	1971
+量子涡旋	liang zi wo xuan	100
+量子线路	liang zi xian lu	333
+量子限制	liang zi xian zhi	256
+量子相变	liang zi xiang bian	413
+量子协议	liang zi xie yi	599
+量子信道	liang zi xin dao	372
+量子芯片	liang zi xin pian	1786
+量子压缩	liang zi ya suo	619
+量子压缩态	liang zi ya suo tai	37
+量子优化	liang zi you hua	1562
+量子优势	liang zi you shi	471
+量子优越性	liang zi you yue xing	146
+量子噪声	liang zi zao sheng	759
+量子指令集	liang zi zhi ling ji	40
+量子中继	liang zi zhong ji	723
+量子重力仪	liang zi zhong li yi	17
+聊天室功能	liao tian shi gong neng	207
+列表动画	lie biao dong hua	1647
+列表项	lie biao xiang	13947
+列表虚拟化	lie biao xu ni hua	316
+列裁剪	lie cai jian	278
+列号	lie hao	3012
+临界磁场	lin jie ci chang	190
+临界电流	lin jie dian liu	438
+临界温度	lin jie wen du	2094
+临时表	lin shi biao	3153
+临时卷	lin shi juan	773
+磷酸化	lin suan hua	2349
+领导者选举	ling dao zhe xuan ju	152
+零和博弈	ling he bo yi	712
+零件识别	ling jian shi bie	173
+零结果查询	ling jie guo cha xun	76
+零拷贝传输	ling kao bei chuan shu	96
+令牌窃取	ling pai qie qu	37
+令牌桶	ling pai tong	303
+令牌桶算法	ling pai tong suan fa	210
+零信任	ling xin ren	4908
+零信任架构	ling xin ren jia gou	604
+零样本学习	ling yang ben xue xi	456
+领域服务	ling yu fu wu	597
+领域事件	ling yu shi jian	213
+领域适应	ling yu shi ying	147
+六边形架构	liu bian xing jia gou	142
+流处理器	liu chu li qi	122
+留存分析	liu cun fen xi	601
+留存率	liu cun lv	1990
+流动性池	liu dong xing chi	237
+流动性激励	liu dong xing ji li	31
+流动性挖矿	liu dong xing wa kuang	20
+刘海屏适配	liu hai ping shi pei	7
+流控	liu kong	1235
+流控策略	liu kong ce lve	106
+浏览器操作	liu lan qi cao zuo	879
+浏览器扩展	liu lan qi kuo zhan	1330
+流量传感	liu liang chuan gan	9
+流量封顶	liu liang feng ding	48
+流量镜像	liu liang jing xiang	30
+流量染色	liu liang ran se	9
+流量优化	liu liang you hua	613
+流量整形	liu liang zheng xing	43
+流量治理	liu liang zhi li	116
+流式处理	liu shi chu li	829
+流式加载	liu shi jia zai	114
+流水线并行	liu shui xian bing xing	400
+流水线技术	liu shui xian ji shu	361
+六态协议	liu tai xie yi	43
+流体模拟	liu ti mo ni	1052
+流形学习	liu xing xue xi	550
+留一法	liu yi fa	70
+龙格库塔	long ge ku ta	21
+漏电流	lou dian liu	754
+漏洞检测	lou dong jian ce	3394
+漏洞披露	lou dong pi lu	467
+漏洞修复	lou dong xiu fu	4553
+漏斗分析	lou dou fen xi	811
+漏桶	lou tong	1158
+漏桶算法	lou tong suan fa	95
+鲁棒性	lu bang xing	3042
+路侧单元	lu ce dan yuan	16
+路径追踪	lu jing zhui zong	1620
+路由规则	lu you gui ze	2400
+路由机制	lu you ji zhi	359
+路由守卫	lu you shou wei	256
+路由算法	lu you suan fa	1153
+乱序处理	luan xu chu li	162
+轮廓系数	lun kuo xi shu	25
+伦理约束	lun li yue shu	1699
+伦理准则	lun li zhun ze	4389
+论文发表	lun wen fa biao	870
+轮询	lun xun	9150
+轮询策略	lun xun ce lve	237
+轮询调度	lun xun diao du	169
+轮询算法	lun xun suan fa	88
+轮转	lun zhuan	12513
+逻辑错误率	luo ji cuo wu lv	101
+逻辑分析仪	luo ji fen xi yi	4862
+逻辑回归	luo ji hui gui	3437
+逻辑门	luo ji men	4460
+逻辑冗余	luo ji rong yu	411
+逻辑式编程	luo ji shi bian cheng	82
+逻辑时钟	luo ji shi zhong	455
+逻辑斯蒂	luo ji si di	1625
+逻辑推理	luo ji tui li	90131
+逻辑像素	luo ji xiang su	472
+裸金属	luo jin shu	549
+罗森伯格	luo sen bo ge	1287
+绿色计算	lv se ji suan	283
+绿色挖矿	lv se wa kuang	13
+旅行商问题	lv xing shang wen ti	98
+马尔可夫	ma er ke fu	3969
+马尔可夫链	ma er ke fu lian	497
+码分复用	ma fen fu yong	34
+麻雀搜索	ma que sou suo	24
+码相位	ma xiang wei	19
+脉冲校准	mai chong jiao zhun	46
+脉冲序列	mai chong xu lie	333
+脉冲整形	mai chong zheng xing	11
+埋点上报	mai dian shang bao	74
+埋点数据	mai dian shu ju	59
+麦克风调用	mai ke feng diao yong	91
+漫反射	man fan she	317
+毛刺	mao ci	1549
+锚框	mao kuang	93
+锚框机制	mao kuang ji zhi	8
+每秒查询率	mei miao cha xun lv	277
+门磁开关	men ci kai guan	32
+门控机制	men kong ji zhi	1001
+门限加密	men xian jia mi	4
+蒙特卡洛	meng te ka luo	4706
+蒙特卡洛树	meng te ka luo shu	307
+幂等性设计	mi deng xing she ji	30
+密度聚类	mi du ju lei	65
+密度矩阵	mi du ju zhen	553
+密封拍卖	mi feng pai mai	35
+密集奖励	mi ji jiang li	199
+密集连接	mi ji lian jie	1205
+密集预测	mi ji yu ce	93
+密码学	mi ma xue	3147
+秘密共享	mi mi gong xiang	197
+秘密泄露	mi mi xie lou	448
+密钥更新	mi yao geng xin	139
+密钥轮换	mi yao lun huan	165
+密钥派生	mi yao pai sheng	272
+密钥销毁	mi yao xiao hui	39
+密钥协商	mi yao xie shang	209
+面板数据	mian ban shu ju	1355
+面部识别	mian bu shi bie	2731
+面法线	mian fa xian	23
+免疫检查点	mian yi jian cha dian	810
+免疫逃逸	mian yi tao yi	921
+敏感性分析	min gan xing fen xi	13402
+命令查询	ming ling cha xun	1207
+命令式编程	ming ling shi bian cheng	958
+命令注入	ming ling zhu ru	1741
+明略科技	ming lve ke ji	356
+命名实体	ming ming shi ti	5825
+明细层	ming xi ceng	102
+末端执行器	mo duan zhi xing qi	1240
+模仿学习	mo fang xue xi	1431
+模糊测试	mo hu ce shi	834
+模糊控制	mo hu kong zhi	605
+默克尔根	mo ke er gen	6
+模块度	mo kuai du	356
+模块划分	mo kuai hua fen	2971
+模块化设计	mo kuai hua she ji	9047
+模拟模拟	mo ni mo ni	1809
+模拟信号	mo ni xin hao	4566
+莫仕	mo shi	450
+模态对齐	mo tai dui qi	49
+模型保存	mo xing bao cun	614
+模型并行	mo xing bing xing	675
+模型部署	mo xing bu shu	2045
+模型定义	mo xing ding yi	1993
+模型泛化	mo xing fan hua	276
+模型服务化	mo xing fu wu hua	60
+模型格式	mo xing ge shi	1080
+模型攻击	mo xing gong ji	740
+模型加载	mo xing jia zai	2967
+模型剪枝	mo xing jian zhi	303
+模型矩阵	mo xing ju zhen	561
+模型量化	mo xing liang hua	880
+模型鲁棒性	mo xing lu bang xing	110
+模型逆向	mo xing ni xiang	623
+模型评估	mo xing ping gu	4135
+模型窃取	mo xing qie qu	376
+模型融合	mo xing rong he	906
+模型水印	mo xing shui yin	493
+模型压缩	mo xing ya suo	1619
+模型蒸馏	mo xing zheng liu	751
+模板管理	mu ban guan li	217
+模板缓冲	mu ban huan chong	55
+模板渲染	mu ban xuan ran	245
+目标编码	mu biao bian ma	1384
+目标代码	mu biao dai ma	4579
+目标函数	mu biao han shu	12021
+目标检测框	mu biao jian ce kuang	97
+目标均值	mu biao jun zhi	1004
+目标网络	mu biao wang luo	2432
+目录遍历	mu lu bian li	201
+目录缓存	mu lu huan cun	239
+目录项	mu lu xiang	1078
+纳米线	na mi xian	438
+纳米载体	na mi zai ti	63
+纳什均衡	na shi jun heng	921
+奈奎斯特	nai kui si te	312
+耐药突变	nai yao tu bian	241
+难例挖掘	nan li wa jue	3
+脑裂问题	nao lie wen ti	65
+内部网关	nei bu wang guan	936
+内部网络	nei bu wang luo	6611
+内存池	nei cun chi	2135
+内存池管理	nei cun chi guan li	120
+内存带宽	nei cun dai kuan	1252
+内存调优	nei cun diao you	76
+内存排序	nei cun pai xu	409
+内存墙	nei cun qiang	351
+内存延迟	nei cun yan chi	181
+内存一致性	nei cun yi zhi xing	229
+内存占用	nei cun zhan yong	4173
+内存状态	nei cun zhuang tai	1346
+内核调优	nei he tiao you	36
+内核优化	nei he you hua	1252
+内建自测试	nei jian zi ce shi	17
+内幕交易	nei mu jiao yi	3733
+内容创作	nei rong chuang zuo	40848
+内容分发	nei rong fen fa	2223
+内容过滤	nei rong guo lv	5435
+内容区	nei rong qu	4856
+内容审核	nei rong shen he	8020
+内容生成	nei rong sheng cheng	49431
+内容寻址	nei rong xun zhi	433
+能量法	neng liang fa	395
+能隙	neng xi	156
+能效比	neng xiao bi	1557
+能源管理	neng yuan guan li	1126
+逆变	ni bian	7844
+匿名代理	ni ming dai li	351
+匿名化	ni ming hua	1158
+匿名性	ni ming xing	908
+逆文档频率	ni wen dang pin lv	88
+逆运动学	ni yun dong xue	172
+年龄估计	nian ling gu ji	165
+农业监测	nong ye jian ce	284
+农业物联	nong ye wu lian	47
+耦合性	ou he xing	820
+欧拉积分	ou la ji fen	457
+欧拉角	ou la jiao	514
+排队时延	pai dui shi yan	7
+拍卖机制	pai mai ji zhi	118
+排序合并	pai xu he bing	204
+排序筛选	pai xu shai xuan	605
+判别器	pan bie qi	3571
+判别器网络	pan bie qi wang luo	96
+判别式模型	pan bie shi mo xing	851
+泡利测量	pao li ce liang	11
+泡利门	pao li men	6
+配额管理	pei e guan li	269
+培训体系	pei xun ti xi	1197
+配置错误	pei zhi cuo wu	1356
+配置热更新	pei zhi re geng xin	70
+配置中心	pei zhi zhong xin	434
+碰撞攻击	peng zhuang gong ji	100
+碰撞响应	peng zhuang xiang ying	164
+批处理大小	pi chu li da xiao	122
+批处理推理	pi chu li tui li	92
+批次大小	pi ci da xiao	408
+批大小	pi da xiao	152
+批归一化	pi gui yi hua	25
+批量大小	pi liang da xiao	501
+批量发送	pi liang fa song	2280
+批量归一化	pi liang gui yi hua	47
+批量交易	pi liang jiao yi	784
+批量消费	pi liang xiao fei	445
+匹配方法	pi pei fang fa	2093
+偏差方差	pian cha fang cha	27
+偏好建模	pian hao jian mo	319
+偏见消除	pian jian xiao chu	300
+片上网络	pian shang wang luo	125
+片上系统	pian shang xi tong	229
+偏序关系	pian xu guan xi	1633
+片元着色器	pian yuan zhuo se qi	20
+偏振纠缠	pian zhen jiu chan	57
+偏置	pian zhi	12061
+偏自相关	pian zi xiang guan	46
+频分复用	pin fen fu yong	54
+频率编码	pin lv bian ma	183
+频率惩罚	pin lv cheng fa	42
+频率单位	pin lv dan wei	123
+频率校准	pin lv jiao zhun	254
+频率缩放	pin lv suo fang	59
+频谱图	pin pu tu	1211
+拼音匹配	pin yin pi pei	672
+频域分析	pin yu fen xi	102
+评分数据	ping fen shu ju	1940
+评估板	ping gu ban	420
+评估基准	ping gu ji zhun	6142
+评估指标	ping gu zhi biao	18455
+平衡模式	ping heng mo shi	325
+平滑处理	ping hua chu li	7277
+平滑滚动	ping hua gun dong	1071
+平滑升级	ping hua sheng ji	819
+平滑着色	ping hua zhuo se	96
+瓶颈分析	ping jing fen xi	294
+瓶颈结构	ping jing jie gou	53
+平均池化	ping jun chi hua	187
+平均精度	ping jun jing du	114
+平均延迟	ping jun yan chi	219
+平面网络	ping mian wang luo	686
+平面着色	ping mian zhuo se	333
+屏幕空间	ping mu kong jian	782
+平稳性	ping wen xing	884
+平移向量	ping yi xiang liang	4718
+屏障同步	ping zhang tong bu	115
+破坏性变更	po huai xing bian geng	178
+谱方法	pu fang fa	125
+普通广播	pu tong guang bo	531
+启动分区	qi dong fen qu	420
+气动夹爪	qi dong jia zhao	88
+启动检测	qi dong jian ce	2066
+启动配置	qi dong pei zhi	2129
+启动速度	qi dong su du	1168
+启动探针	qi dong tan zhen	460
+器官分割	qi guan fen ge	186
+器官芯片	qi guan xin pian	103
+期货合约	qi huo he yue	1508
+期权合约	qi quan he yue	1830
+气体检测	qi ti jian ce	1023
+气味识别	qi wei shi bie	191
+气象模拟	qi xiang mo ni	725
+气压计	qi ya ji	2038
+企业使用	qi ye shi yong	2592
+弃用	qi yong	7432
+欺诈检测	qi zha jian ce	812
+前滚日志	qian gun ri zhi	150
+潜空间	qian kong jian	747
+前馈网络	qian kui wang luo	1745
+欠拟合	qian ni he	429
+欠拟合问题	qian ni he wen ti	70
+嵌入表示	qian ru biao shi	1039
+嵌入层	qian ru ceng	1384
+嵌入模型	qian ru mo xing	4325
+嵌入维度	qian ru wei du	581
+浅色模式	qian se mo shi	435
+前向传播	qian xiang chuan bo	2658
+前向纠错	qian xiang jiu cuo	497
+前向渲染	qian xiang xuan ran	139
+迁移性	qian yi xing	596
+潜在变量	qian zai bian liang	2113
+千兆以太网	qian zhao yi tai wang	295
+前缀缓存	qian zhui huan cun	881
+前缀索引	qian zhui suo yin	466
+腔场	qiang chang	156
+强化对齐	qiang hua dui qi	248
+强化预训练	qiang hua yu xun lian	111
+强缓存协商	qiang huan cun xie shang	21
+强拷贝	qiang kao bei	44
+强内存模型	qiang nei cun mo xing	24
+抢占策略	qiang zhan ce lve	369
+强制对流	qiang zhi dui liu	308
+强制对齐	qiang zhi dui qi	1268
+切线空间	qie xian kong jian	115
+亲和性规则	qin he xing gui ze	24
+清除率	qing chu lv	355
+情感计算	qing gan ji suan	1482
+氢键供体	qing jian gong ti	35
+氢键受体	qing jian shou ti	38
+轻量化网络	qing liang hua wang luo	658
+轻量级目录	qing liang ji mu lu	135
+请求方法	qing qiu fang fa	5416
+请求耗时	qing qiu hao shi	2506
+请求拦截	qing qiu lan jie	7612
+请求响应	qing qiu xiang ying	15044
+清算机制	qing suan ji zhi	175
+倾向得分	qing xiang de fen	269
+球栅阵列	qiu zha zhen lie	14
+去标识化	qu biao shi hua	186
+去重	qu chong	2432
+去重机制	qu chong ji zhi	118
+去重键	qu chong jian	34
+去串扰	qu chuan rao	10
+区块高度	qu kuai gao du	298
+区块哈希	qu kuai ha xi	266
+区块奖励	qu kuai jiang li	308
+区块链存证	qu kuai lian cun zheng	134
+区块时间	qu kuai shi jian	130
+区块体	qu kuai ti	225
+区块头	qu kuai tou	518
+曲面屏	qu mian ping	201
+去模糊技术	qu mo hu ji shu	18
+去耦	qu ou	91
+趋势分析	qu shi fen xi	4520
+趋势图	qu shi tu	595
+曲线下面积	qu xian xia mian ji	74
+取消定义	qu xiao ding yi	774
+取消请求	qu xiao qing qiu	4358
+区域分解	qu yu fen jie	285
+区域感知	qu yu gan zhi	606
+区域建议	qu yu jian yi	308
+区域控制器	qu yu kong zhi qi	744
+去噪过程	qu zao guo cheng	94
+去噪算法	qu zao suan fa	47
+去中心化	qu zhong xin hua	946
+驱逐策略	qu zhu ce lve	37
+全精度计算	quan jing du ji suan	429
+全景分割	quan jing fen ge	116
+全局窗口	quan ju chuang kou	830
+全局地图	quan ju di tu	735
+全局定位	quan ju ding wei	983
+全局光照	quan ju guang zhao	270
+全局互连	quan ju hu lian	21
+全局解释	quan ju jie shi	682
+全局内存	quan ju nei cun	1037
+全局时钟	quan ju shi zhong	224
+全局锁	quan ju suo	715
+全局注意力	quan ju zhu yi li	596
+全连接层	quan lian jie ceng	1096
+全链路监控	quan lian lu jian kong	620
+全链路压测	quan lian lu ya ce	126
+全量发布	quan liang fa bu	210
+全量更新	quan liang geng xin	346
+全内反射	quan nei fan she	118
+全球定位	quan qiu ding wei	1566
+全生命周期	quan sheng ming zhou qi	5616
+全双工	quan shuang gong	1228
+全序关系	quan xu guan xi	363
+权益证明	quan yi zheng ming	339
+全原子模拟	quan yuan zi mo ni	307
+权重初始化	quan zhong chu shi hua	332
+权重量化	quan zhong liang hua	179
+权重衰减	quan zhong shuai jian	286
+确定性策略	que ding xing ce lve	3687
+确定性延迟	que ding xing yan chi	824
+确认号	que ren hao	2588
+缺失值处理	que shi zhi chu li	220
+缺陷跟踪	que xian gen zong	65
+缺陷检测	que xian jian ce	1461
+热备冗余	re bei rong yu	20
+热冲击	re chong ji	65
+热导率	re dao lv	89
+热点分析	re dian fen xi	1603
+热点数据	re dian shu ju	312
+热点探测	re dian tan ce	80
+热对流	re dui liu	81
+热辐射	re fu she	275
+热光	re guang	423
+热交换	re jiao huan	442
+热界面材料	re jie mian cai liao	121
+热扩散	re kuo san	346
+热平衡	re ping heng	306
+热钱包	re qian bao	241
+热容	re rong	195
+热设计功率	re she ji gong lv	85
+热数据	re shu ju	571
+热稳定性	re wen ding xing	145
+热循环	re xun huan	189
+人类对齐	ren lei dui qi	1784
+人类反馈	ren lei fan kui	9870
+人体解析	ren ti jie xi	681
+任务拆解	ren wu chai jie	19821
+任务分发	ren wu fen fa	3352
+任务分解	ren wu fen jie	26162
+任务级并行	ren wu ji bing xing	85
+任务依赖	ren wu yi lai	4949
+韧性设计	ren xing she ji	145
+日活跃用户	ri huo yue yong hu	153
+日志复制	ri zhi fu zhi	198
+日志检索	ri zhi jian suo	727
+日志截断	ri zhi jie duan	198
+日志结构	ri zhi jie gou	564
+日志聚合	ri zhi ju he	173
+日志数据	ri zhi shu ju	1522
+日志压缩	ri zhi ya suo	578
+容错机制	rong cuo ji zhi	534
+容错设计	rong cuo she ji	256
+容错性	rong cuo xing	510
+容错阈值	rong cuo yu zhi	28
+熔断降级	rong duan jiang ji	180
+熔断器	rong duan qi	7114
+融合蛋白	rong he dan bai	95
+溶剂化能	rong ji hua neng	71
+溶解度	rong jie du	1788
+容量规划	rong liang gui hua	418
+容器重启	rong qi chong qi	285
+容器化	rong qi hua	4369
+容器化部署	rong qi hua bu shu	653
+容器监控	rong qi jian kong	170
+容器镜像	rong qi jing xiang	485
+容器卷挂载	rong qi juan gua zai	19
+容器启动	rong qi qi dong	1044
+容器日志	rong qi ri zhi	324
+容器停止	rong qi ting zhi	388
+容器引擎	rong qi yin qing	298
+容器运行时	rong qi yun xing shi	573
+冗余链路	rong yu lian lu	198
+冗余设计	rong yu she ji	2312
+容灾备份	rong zai bei fen	189
+容灾恢复	rong zai hui fu	95
+柔顺控制	rou shun kong zhi	19
+柔顺性	rou shun xing	70
+柔性对接	rou xing dui jie	215
+柔性事务	rou xing shi wu	216
+入侵防御	ru qin fang yu	154
+软标签生成	ruan biao qian sheng cheng	25
+软分叉	ruan fen cha	16
+软更新	ruan geng xin	262
+软更新机制	ruan geng xin ji zhi	49
+软件定义	ruan jian ding yi	1715
+软键盘遮挡	ruan jian pan zhe dang	13
+软件虚拟化	ruan jian xu ni hua	102
+软件在环	ruan jian zai huan	22
+软实时	ruan shi shi	223
+软体模拟	ruan ti mo ni	83
+软阴影	ruan yin ying	215
+软最大	ruan zui da	73
+锐化	rui hua	4677
+弱测量	ruo ce liang	42
+弱监督学习	ruo jian du xue xi	91
+弱拷贝	ruo kao bei	17
+弱内存模型	ruo nei cun mo xing	47
+弱一致性	ruo yi zhi xing	61
+散布操作	san bu cao zuo	89
+散点图	san dian tu	90
+三角形网格	san jiao xing wang ge	185
+三阶段提交	san jie duan ti jiao	71
+三期临床	san qi lin chuang	303
+散热设计	san re she ji	1302
+散射参数	san she can shu	207
+散射操作	san she cao zuo	52
+三元组损失	san yuan zu sun shi	27
+色彩校正	se cai jiao zheng	69
+色调映射	se diao ying she	192
+沙箱环境	sha xiang huan jing	1441
+扇出	shan chu	1388
+闪贷攻击	shan dai gong ji	2
+闪电贷	shan dian dai	122
+闪电网络	shan dian wang luo	823
+扇入	shan ru	323
+山寨币	shan zhai bi	21
+上采样层	shang cai yang ceng	61
+熵减过程	shang jian guo cheng	98
+商汤科技	shang tang ke ji	387
+上下文传播	shang xia wen chuan bo	352
+上下文传递	shang xia wen chuan di	691
+上下文窗口	shang xia wen chuang kou	13882
+上下文带宽	shang xia wen dai kuan	202
+上下文管理	shang xia wen guan li	4126
+上下文学习	shang xia wen xue xi	2532
+商业发行	shang ye fa xing	162
+商业授权	shang ye shou quan	331
+商业应用	shang ye ying yong	1226
+上云策略	shang yun ce lve	76
+熵正则化	shang zheng ze hua	44
+少样本提示	shao yang ben ti shi	175
+少样本学习	shao yang ben xue xi	167
+设备插件	she bei cha jian	306
+设备方向	she bei fang xiang	349
+设备影子	she bei ying zi	121
+社会工程	she hui gong cheng	732
+社会规范	she hui gui fan	2679
+设计令牌	she ji ling pai	3003
+设计文档	she ji wen dang	25138
+设计系统	she ji xi tong	13109
+社交功能	she jiao gong neng	2115
+射频脉冲	she pin mai chong	325
+射频识别	she pin shi bie	1364
+社区发现	she qu fa xian	750
+社区贡献	she qu gong xian	290
+社区结构	she qu jie gou	318
+社区生态	she qu sheng tai	324
+摄入时间	she ru shi jian	782
+摄像头调用	she xiang tou diao yong	172
+神策	shen ce	1271
+深度重建	shen du chong jian	925
+深度估计	shen du gu ji	908
+深度缓冲	shen du huan chong	350
+深度卷积	shen du juan ji	1409
+深度宽网络	shen du kuan wang luo	23
+深度随机	shen du sui ji	1106
+深度预通道	shen du yu tong dao	13
+审计日志	shen ji ri zhi	4689
+审计追踪	shen ji zhui zong	1836
+神经辐射场	shen jing fu she chang	560
+神经科学	shen jing ke xue	12637
+神经渲染	shen jing xuan ran	304
+深色模式	shen se mo shi	2851
+渗透性	shen tou xing	2067
+生产端	sheng chan duan	1655
+生产速度	sheng chan su du	1526
+生成对抗	sheng cheng dui kang	5364
+生成器网络	sheng cheng qi wang luo	161
+生成式模型	sheng cheng shi mo xing	1158
+生成质量	sheng cheng zhi liang	16256
+生存奖励	sheng cun jiang li	187
+升级回滚	sheng ji hui gun	63
+升级机制	sheng ji ji zhi	1004
+声明式配置	sheng ming shi pei zhi	203
+声纹克隆	sheng wen ke long	72
+生物特征	sheng wu te zheng	4008
+声音反馈	sheng yin fan kui	302
+剩余参数	sheng yu can shu	1023
+实参	shi can	911
+市场操纵	shi chang cao zong	73
+市场趋势	shi chang qu shi	1659
+实车测试	shi che ce shi	87
+湿度监测	shi du jian ce	292
+时间步	shi jian bu	622
+时间步进	shi jian bu jin	110
+时间戳校验	shi jian chuo jiao yan	39
+时间戳转换	shi jian chuo zhuan huan	52
+时间单位	shi jian dan wei	1075
+时间个性化	shi jian ge xing hua	124
+时间纠缠	shi jian jiu chan	152
+时间离散	shi jian li san	283
+事件任务	shi jian ren wu	729
+事件日志	shi jian ri zhi	878
+时间冗余	shi jian rong yu	110
+事件时间	shi jian shi jian	2081
+事件溯源	shi jian su yuan	176
+时间特征	shi jian te zheng	268
+事件同步	shi jian tong bu	374
+时间语义	shi jian yu yi	270
+示教器	shi jiao qi	65
+世界空间	shi jie kong jian	545
+视距剔除	shi ju ti chu	2
+视觉定位	shi jue ding wei	3816
+视觉反馈	shi jue fan kui	4839
+视觉里程计	shi jue li cheng ji	242
+视觉引导	shi jue yin dao	2340
+视觉语言	shi jue yu yan	13523
+时空对齐	shi kong dui qi	238
+视口单位	shi kou dan wei	21
+实例分割	shi li fen ge	119
+实例化渲染	shi li hua xuan ran	23
+矢量表示	shi liang biao shi	497
+矢量图形	shi liang tu xing	1057
+史密斯圆图	shi mi si yuan tu	53
+视频标注	shi pin biao zhu	332
+视频检索	shi pin jian suo	133
+视频理解	shi pin li jie	555
+视频流式	shi pin liu shi	116
+视频生成	shi pin sheng cheng	3050
+事实表	shi shi biao	1399
+实时传输	shi shi chuan shu	3506
+实时调度	shi shi diao du	1925
+事实核查	shi shi he cha	8291
+实时流处理	shi shi liu chu li	1293
+实时率	shi shi lv	1292
+实时通信	shi shi tong xin	10334
+实时响应	shi shi xiang ying	17026
+实时性	shi shi xing	14843
+事实性	shi shi xing	12326
+实时阴影	shi shi yin ying	438
+实体抽取	shi ti chou qu	683
+实体对齐	shi ti dui qi	335
+实体链接	shi ti lian jie	569
+实体识别	shi ti shi bie	1739
+视图更新	shi tu geng xin	462
+视图空间	shi tu kong jian	381
+视图树	shi tu shu	510
+事务持久	shi wu chi jiu	153
+事务隔离性	shi wu ge li xing	47
+事务消息	shi wu xiao xi	556
+事务原子	shi wu yuan zi	209
+时序差分	shi xu cha fen	193
+时序融合	shi xu rong he	341
+时序数据	shi xu shu ju	1584
+时序预测	shi xu yu ce	1738
+实验平台	shi yan ping tai	751
+时域反射计	shi yu fan she ji	24
+时域分析	shi yu fen xi	111
+时域抗锯齿	shi yu kang ju chi	8
+时钟抖动	shi zhong dou dong	62
+时钟恢复	shi zhong hui fu	265
+时钟门控	shi zhong men kong	117
+时钟偏移	shi zhong pian yi	233
+时钟频率	shi zhong pin lv	422
+时钟算法	shi zhong suan fa	126
+视锥体	shi zhui ti	30
+视锥剔除	shi zhui ti chu	2
+狮子优化	shi zi you hua	35
+收藏行为	shou cang xing wei	119
+手动切换	shou dong qie huan	13974
+受控非门	shou kong fei men	12
+受控相位门	shou kong xiang wei men	12
+收敛速度	shou lian su du	2803
+收敛条件	shou lian tiao jian	2524
+收敛性	shou lian xing	6745
+寿命预测	shou ming yu ce	186
+首屏加载	shou ping jia zai	367
+授权协议	shou quan xie yi	1043
+授权许可	shou quan xu ke	692
+手势导航	shou shi dao hang	62
+受体配体	shou ti pei ti	72
+收益聚合器	shou yi ju he qi	21
+输出层	shu chu ceng	4179
+数据安全性	shu ju an quan xing	1392
+数据搬运	shu ju ban yun	1175
+数据闭环	shu ju bi huan	1335
+数据标准	shu ju biao zhun	1068
+数据并行	shu ju bing xing	1422
+数据采样	shu ju cai yang	1707
+数据层	shu ju ceng	562
+数据重分布	shu ju chong fen bu	33
+数据抽取	shu ju chou qu	632
+数据订阅	shu ju ding yue	355
+数据飞轮	shu ju fei lun	232
+数据分层	shu ju fen ceng	542
+数据分片	shu ju fen pian	164
+数据分区	shu ju fen qu	418
+数据副本	shu ju fu ben	534
+数据服务	shu ju fu wu	6794
+数据隔离	shu ju ge li	1860
+数据管道	shu ju guan dao	2757
+数据归档	shu ju gui dang	899
+数据合规	shu ju he gui	1573
+数据湖	shu ju hu	1663
+数据级并行	shu ju ji bing xing	40
+数据价值	shu ju jia zhi	1054
+数据交易	shu ju jiao yi	2263
+数据解密	shu ju jie mi	346
+数据聚合	shu ju ju he	1279
+数据卷	shu ju juan	485
+数据开放	shu ju kai fang	1738
+数据库并发	shu ju ku bing fa	516
+数据宽度	shu ju kuan du	218
+数据流编程	shu ju liu bian cheng	139
+数据流处理	shu ju liu chu li	544
+数据流架构	shu ju liu jia gou	166
+数据埋点	shu ju mai dian	97
+数据偏差	shu ju pian cha	300
+数据平衡	shu ju ping heng	818
+数据探索	shu ju tan suo	1159
+数据投毒	shu ju tou du	119
+数据脱敏	shu ju tuo min	229
+数据血缘	shu ju xue yuan	366
+数据增强	shu ju zeng qiang	4798
+数据治理	shu ju zhi li	3873
+数据中台	shu ju zhong tai	215
+数据主权	shu ju zhu quan	976
+数据资产	shu ju zi chan	1753
+数论	shu lun	415
+输入框聚焦	shu ru kuang ju jiao	50
+输入延迟	shu ru yan chi	1242
+疏水表面积	shu shui biao mian ji	6
+疏水效应	shu shui xiao ying	50
+数说故事	shu shuo gu shi	370
+树搜索	shu sou suo	153
+束搜索	shu sou suo	139
+树搜索算法	shu sou suo suan fa	66
+树型	shu xing	1099
+树形索引	shu xing suo yin	168
+属性填充	shu xing tian chong	155
+树型拓扑	shu xing tuo pu	37
+属性文法	shu xing wen fa	26
+数学计算	shu xue ji suan	10717
+树摇优化	shu yao you hua	2
+数值类型	shu zhi lei xing	4367
+数值稳定性	shu zhi wen ding xing	1463
+数字孪生	shu zi luan sheng	528
+数字生物	shu zi sheng wu	820
+数字收藏	shu zi shou cang	89
+刷盘机制	shua pan ji zhi	89
+双比特门	shuang bi te men	36
+双重差分	shuang chong cha fen	631
+双列直插	shuang lie zhi cha	25
+双曲正切	shuang qu zheng qie	41
+双网络结构	shuang wang luo jie gou	92
+双向编码器	shuang xiang bian ma qi	307
+双向注意力	shuang xiang zhu yi li	1018
+双写一致性	shuang xie yi zhi xing	15
+双因素	shuang yin su	2495
+水浸检测	shui jin jian ce	7
+水平触发	shui ping chu fa	79
+水平扩缩容	shui ping kuo suo rong	6
+水平扩展	shui ping kuo zhan	476
+水位线	shui wei xian	3882
+税务申报	shui wu shen bao	2644
+水印机制	shui yin ji zhi	300
+顺序消息	shun xu xiao xi	313
+顺序一致性	shun xu yi zhi xing	245
+说话人分离	shuo hua ren fen li	35
+四边形网格	si bian xing wang ge	204
+四波混频	si bo hun pin	11
+四叉树加速	si cha shu jia su	9
+死代码消除	si dai ma xiao chu	122
+司法管辖	si fa guan xia	2414
+四级结构	si ji jie gou	128
+思维链	si wei lian	72347
+思维链推理	si wei lian tui li	1859
+四位量化	si wei liang hua	246
+思维树	si wei shu	3823
+思维图	si wei tu	2098
+死信队列	si xin dui lie	359
+私钥	si yao	536
+私钥管理	si yao guan li	72
+私钥加密	si yao jia mi	64
+私钥密码	si yao mi ma	25
+私钥体系	si yao ti xi	11
+私有云部署	si you yun bu shu	271
+搜索框	sou suo kuang	2829
+搜索日志	sou suo ri zhi	1141
+速率限制	su lv xian zhi	1575
+溯因推理	su yin tui li	500
+溯源技术	su yuan ji shu	236
+算法稳定币	suan fa wen ding bi	19
+算符	suan fu	3789
+算符优先	suan fu you xian	98
+算力集群	suan li ji qun	2376
+算子融合	suan zi rong he	48
+隧道结	sui dao jie	16
+随机采样	sui ji cai yang	8088
+随机策略	sui ji ce lve	1523
+随机初始化	sui ji chu shi hua	4181
+随机抖动	sui ji dou dong	935
+随机搜索	sui ji sou suo	3018
+随机梯度	sui ji ti du	1403
+随机退避	sui ji tui bi	98
+随机效应	sui ji xiao ying	1029
+随机性策略	sui ji xing ce lve	291
+随机游走	sui ji you zou	2274
+碎片整理	sui pian zheng li	303
+锁存器	suo cun qi	173
+锁定文件	suo ding wen jian	2300
+缩放因子	suo fang yin zi	731
+锁相环	suo xiang huan	178
+索引服务	suo yin fu wu	118
+索引构建	suo yin gou jian	162
+索引结构	suo yin jie gou	261
+泰科	tai ke	782
+胎压监测	tai ya jian ce	3063
+贪婪搜索	tan lan sou suo	92
+探索利用	tan suo li yong	327
+探索率	tan suo lv	177
+探索性分析	tan suo xing fen xi	440
+探索与利用	tan suo yu li yong	410
+贪心解码	tan xin jie ma	88
+弹性布局	tan xing bu ju	605
+弹性伸缩	tan xing shen suo	1370
+弹性数据	tan xing shu ju	248
+弹性网	tan xing wang	389
+弹性网络	tan xing wang luo	525
+碳足迹	tan zu ji	1079
+汤普森采样	tang pu sen cai yang	15
+套利策略	tao li ce lve	1777
+套索回归	tao suo hui gui	11
+特殊标记	te shu biao ji	6885
+特性开关	te xing kai guan	610
+特征交叉	te zheng jiao cha	216
+特征金字塔	te zheng jin zi ta	101
+特征嵌入	te zheng qian ru	177
+特征融合	te zheng rong he	385
+特征缩放	te zheng suo fang	264
+特征蒸馏	te zheng zheng liu	76
+特征重要性	te zheng zhong yao xing	331
+特征组合	te zheng zu he	919
+提案机制	ti an ji zhi	94
+剔除测试	ti chu ce shi	1068
+梯度爆炸	ti du bao zha	237
+梯度裁剪	ti du cai jian	203
+梯度检查点	ti du jian cha dian	81
+梯度累积	ti du lei ji	345
+梯度提升树	ti du ti sheng shu	316
+梯度显著图	ti du xian zhu tu	22
+梯度消失	ti du xiao shi	811
+梯度压缩	ti du ya suo	102
+体感交互	ti gan jiao hu	41
+体积渲染	ti ji xuan ran	62
+提交点	ti jiao dian	646
+提交记录	ti jiao ji lu	2527
+提交阶段	ti jiao jie duan	472
+提交历史	ti jiao li shi	1128
+提前编译	ti qian bian yi	4011
+提示词	ti shi ci	173118
+提示词工程	ti shi ci gong cheng	1083
+提示工程	ti shi gong cheng	9239
+提示模板	ti shi mu ban	1687
+提示学习	ti shi xue xi	1799
+提示注入	ti shi zhu ru	1374
+体素	ti su	581
+天池基准	tian chi ji zhun	8
+填充标记	tian chong biao ji	653
+填充率	tian chong lv	830
+填充掩码	tian chong yan ma	134
+跳表	tiao biao	4321
+条件熵	tiao jian shang	199
+条件生成	tiao jian sheng cheng	4560
+条件渲染	tiao jian xuan ran	1363
+跳跃连接	tiao yue lian jie	423
+调制解调	tiao zhi jie tiao	1957
+调制器	tiao zhi qi	1939
+停顿时间	ting dun shi jian	7480
+停用词	ting yong ci	36195
+停止条件	ting zhi tiao jian	9159
+同步处理	tong bu chu li	2778
+同步调用	tong bu diao yong	3104
+同步屏障	tong bu ping zhang	209
+同步刷盘	tong bu shua pan	16
+同步状态	tong bu zhuang tai	1147
+同城双活	tong cheng shuang huo	58
+通道数	tong dao shu	70
+统计检验	tong ji jian yan	5072
+统计信息	tong ji xin xi	34290
+通孔插装	tong kong cha zhuang	19
+铜缆连接	tong lan lian jie	59
+通缩模型	tong suo mo xing	124
+同态加密	tong tai jia mi	560
+通信开销	tong xin kai xiao	688
+通信延迟	tong xin yan chi	1397
+通信原语	tong xin yuan yu	129
+统一表示	tong yi biao shi	2862
+同义词扩展	tong yi ci kuo zhan	474
+统一内存	tong yi nei cun	841
+统一寻址	tong yi xun zhi	123
+通用计算	tong yong ji suan	1861
+同源重组	tong yuan chong zu	375
+通胀模型	tong zhang mo xing	312
+头部词	tou bu ci	937
+头部项目	tou bu xiang mu	1067
+透明大页	tou ming da ye	4
+透明代理	tou ming dai li	135
+透明排序	tou ming pai xu	70
+透明性	tou ming xing	1089
+透皮	tou pi	211
+透视除法	tou shi chu fa	58
+头数	tou shu	49
+投影测量	tou ying ce liang	88
+投影层	tou ying ceng	374
+投影梯度	tou ying ti du	84
+图半监督	tu ban jian du	4
+图半径	tu ban jing	28
+凸包	tu bao	203
+图变换	tu bian huan	220
+图编辑距离	tu bian ji ju li	9
+图标签	tu biao qian	258
+图标注	tu biao zhu	166
+图采样	tu cai yang	48
+图长度	tu chang du	52
+图池化	tu chi hua	11
+图重采样	tu chong cai yang	9
+图大小	tu da xiao	43
+图对比	tu dui bi	88
+图对抗	tu dui kang	32
+图对齐	tu dui qi	83
+图分类	tu fen lei	232
+图分量	tu fen liang	19
+图复杂度	tu fu za du	91
+图高度	tu gao du	39
+土狗项目	tu gou xiang mu	15
+图轨迹	tu gui ji	20
+图规模	tu gui mo	69
+图过采样	tu guo cai yang	2
+图合成	tu he cheng	27
+图核方法	tu he fang fa	3
+图基准	tu ji zhun	33
+图聚合	tu ju he	45
+图距离	tu ju li	85
+图卷积	tu juan ji	440
+图卷积网络	tu juan ji wang luo	169
+图宽度	tu kuan du	13
+图扩散	tu kuo san	46
+图类别	tu lei bie	52
+图连通	tu lian tong	65
+图灵机	tu ling ji	598
+图路径	tu lu jing	97
+图路线	tu lu xian	61
+图滤波	tu lv bo	17
+图密度	tu mi du	57
+图面积	tu mian ji	66
+图判别器	tu pan bie qi	7
+图匹配	tu pi pei	87
+图片翻转	tu pian fan zhuan	182
+图片解码	tu pian jie ma	353
+图片懒加载	tu pian lan jia zai	112
+图评估	tu ping gu	45
+图平衡	tu ping heng	39
+图平滑	tu ping hua	15
+图欠采样	tu qian cai yang	2
+图嵌入	tu qian ru	92
+图迁移	tu qian yi	35
+图清洗	tu qing xi	23
+图融合	tu rong he	62
+图深度	tu shen du	132
+图神经网络	tu shen jing wang luo	1465
+图生成	tu sheng cheng	1097
+图生成器	tu sheng cheng qi	72
+图生视频	tu sheng shi pin	233
+图生图	tu sheng tu	174
+图数据集	tu shu ju ji	52
+图属性	tu shu xing	21
+图损失	tu sun shi	21
+图特征	tu te zheng	160
+图体积	tu ti ji	42
+图拓扑	tu tuo pu	126
+图微调	tu wei diao	40
+图文对	tu wen dui	538
+图文匹配	tu wen pi pei	1022
+图文融合	tu wen rong he	646
+图无监督	tu wu jian du	13
+图稀疏	tu xi shu	42
+图稀疏度	tu xi shu du	11
+图像生成	tu xiang sheng cheng	16119
+图信号	tu xin hao	76
+图域适应	tu yu shi ying	5
+图预训练	tu yu xun lian	58
+图增强	tu zeng qiang	88
+图正则	tu zheng ze	67
+图正则化	tu zheng ze hua	38
+图指标	tu zhi biao	116
+图直径	tu zhi jing	41
+图周长	tu zhou chang	21
+图注意力	tu zhu yi li	107
+图子采样	tu zi cai yang	2
+图自监督	tu zi jian du	6
+退避	tui bi	3866
+退避策略	tui bi ce lve	54
+退避算法	tui bi suan fa	32
+推测解码	tui ce jie ma	244
+退极化信道	tui ji hua xin dao	5
+推荐奖励	tui jian jiang li	712
+推理加速	tui li jia su	1252
+推理能力	tui li neng li	7446
+推理引擎	tui li yin qing	4474
+推理优化	tui li you hua	2013
+推模式	tui mo shi	286
+吞吐量测试	tun tu liang ce shi	476
+吞吐量提升	tun tu liang ti sheng	780
+吞吐量指标	tun tu liang zhi biao	490
+吞吐率	tun tu lv	318
+托菲门	tuo fei men	12
+拓扑保护	tuo pu bao hu	93
+拓扑分布	tuo pu fen bu	189
+拓扑感知	tuo pu gan zhi	304
+拓扑结构	tuo pu jie gou	4493
+拓扑绝缘体	tuo pu jue yuan ti	324
+拓扑码	tuo pu ma	82
+拓扑序	tuo pu xu	538
+拖拽排序	tuo zhuai pai xu	236
+拖拽上传	tuo zhuai shang chuan	247
+拖拽式开发	tuo zhuai shi kai fa	22
+挖孔屏	wa kong ping	27
+挖矿奖励	wa kuang jiang li	39
+外部碎片	wai bu sui pian	401
+外部知识	wai bu zhi shi	22146
+外推	wai tui	24181
+往返时间	wang fan shi jian	449
+往返时延	wang fan shi yan	36
+网格方法	wang ge fang fa	248
+网格划分	wang ge hua fen	935
+网格流式	wang ge liu shi	41
+网格批处理	wang ge pi chu li	88
+网格搜索	wang ge sou suo	1441
+网格拓扑	wang ge tuo pu	892
+网格网络	wang ge wang luo	389
+网格细分	wang ge xi fen	170
+网格系统	wang ge xi tong	1024
+网格型	wang ge xing	320
+网关路由	wang guan lu you	1008
+网络策略	wang luo ce lve	758
+网络插件	wang luo cha jian	206
+网络调优	wang luo diao you	35
+网络隔离	wang luo ge li	979
+网络功能	wang luo gong neng	917
+网络接口卡	wang luo jie kou ka	237
+网络时间	wang luo shi jian	1261
+网络效应	wang luo xiao ying	1031
+网络延迟	wang luo yan chi	2980
+网络药理学	wang luo yao li xue	122
+网页端应用	wang ye duan ying yong	98
+网页爬取	wang ye pa qu	262
+网状拓扑	wang zhuang tuo pu	1030
+微波雷达	wei bo lei da	517
+微波脉冲	wei bo mai chong	242
+尾部项目	wei bu xiang mu	266
+谓词下推	wei ci xia tui	11
+谓词执行	wei ci zhi xing	29
+尾递归优化	wei di gui you hua	225
+维度表	wei du biao	583
+维度建模	wei du jian mo	448
+维度灾难	wei du zai nan	216
+微服务架构	wei fu wu jia gou	1341
+伪共享	wei gong xiang	1275
+微环谐振器	wei huan xie zhen qi	3
+微基准测试	wei ji zhun ce shi	73
+微架构	wei jia gou	111
+伪距测量	wei ju ce liang	53
+微开尔文	wei kai er wen	3
+维科	wei ke	1012
+微控制器	wei kong zhi qi	638
+微批处理	wei pi chu li	55
+微前端	wei qian duan	192
+微任务队列	wei ren wu dui lie	132
+伪随机数	wei sui ji shu	1073
+微调策略	wei tiao ce lve	4758
+微调技术	wei tiao ji shu	957
+微调训练	wei tiao xun lian	2541
+委托投票	wei tuo tou piao	129
+威胁建模	wei xie jian mo	131
+卫星通信	wei xing tong xin	6386
+卫星图像	wei xing tu xiang	2601
+尾延迟	wei yan chi	108
+位移操作	wei yi cao zuo	1782
+唯一键	wei yi jian	1168
+唯一性	wei yi xing	16201
+位运算操作	wei yun suan cao zuo	74
+位置编码	wei zhi bian ma	230
+未知标记	wei zhi biao ji	255
+位置个性化	wei zhi ge xing hua	56
+位置偏差	wei zhi pian cha	284
+位置信息	wei zhi xin xi	3961
+伪终端	wei zhong duan	637
+文本标注	wen ben biao zhu	1316
+文本润色	wen ben run se	357
+文本生成	wen ben sheng cheng	16846
+文本协议	wen ben xie yi	829
+文本摘要	wen ben zhai yao	3270
+文档存储	wen dang cun chu	693
+文档生成	wen dang sheng cheng	4525
+稳定版	wen ding ban	913
+稳定币	wen ding bi	568
+稳定性测试	wen ding xing ce shi	5737
+稳定性指标	wen ding xing zhi biao	1462
+稳定子码	wen ding zi ma	6
+温度补偿	wen du bu chang	148
+温度采样	wen du cai yang	188
+温度参数	wen du can shu	604
+温度监测	wen du jian ce	351
+文法歧义	wen fa qi yi	13
+文化适应性	wen hua shi ying xing	305
+文件哈希	wen jian ha xi	312
+文件映射	wen jian ying she	237
+纹理采样	wen li cai yang	123
+纹理合成	wen li he cheng	125
+纹理流式	wen li liu shi	16
+纹理内存	wen li nei cun	66
+纹理吞吐	wen li tun tu	7
+纹理坐标	wen li zuo biao	172
+文生视频	wen sheng shi pin	510
+文生图	wen sheng tu	574
+问责制	wen ze zhi	4627
+无标度	wu biao du	63
+误差函数	wu cha han shu	274
+无常损失	wu chang sun shi	22
+无代码	wu dai ma	2121
+污点容忍	wu dian rong ren	3
+无服务器	wu fu wu qi	1039
+无监督	wu jian du	1711
+无结果搜索	wu jie guo sou suo	86
+物理步长	wu li bu chang	88
+物理层	wu li ceng	4995
+物理冗余	wu li rong yu	83
+物理像素	wu li xiang su	323
+物联网集成	wu lian wang ji cheng	515
+物流优化	wu liu you hua	1954
+物流追踪	wu liu zhui zong	1860
+物品画像	wu pin hua xiang	82
+无人机航拍	wu ren ji hang pai	1168
+物体计数	wu ti ji shu	315
+无障碍测试	wu zhang ai ce shi	404
+无障碍访问	wu zhang ai fang wen	6914
+无状态服务	wu zhuang tai fu wu	156
+无阻塞	wu zu se	348
+细胞计数	xi bao ji shu	399
+细分曲面	xi fen qu mian	114
+洗牌操作	xi pai cao zuo	99
+稀释制冷机	xi shi zhi leng ji	57
+稀疏动作	xi shu dong zuo	45
+稀疏激活	xi shu ji huo	58
+稀疏奖励	xi shu jiang li	70
+稀疏卷积	xi shu juan ji	69
+稀疏向量	xi shu xiang liang	288
+稀疏张量	xi shu zhang liang	172
+稀疏注意力	xi shu zhu yi li	209
+稀疏状态	xi shu zhuang tai	56
+系统级封装	xi tong ji feng zhuang	179
+系统利用率	xi tong li yong lv	912
+系统容量	xi tong rong liang	1933
+系统调优	xi tong tiao you	76
+系统用户	xi tong yong hu	6119
+蜥蜴优化	xi yi you hua	5
+下采样层	xia cai yang ceng	19
+下拉提示	xia la ti shi	5010
+纤程	xian cheng	165
+线程池大小	xian cheng chi da xiao	263
+线程局部	xian cheng ju bu	898
+线程块	xian cheng kuai	937
+线程束	xian cheng shu	178
+显存带宽	xian cun dai kuan	159
+显存管理	xian cun guan li	69
+显存优化	xian cun you hua	89
+显存占用	xian cun zhan yong	138
+限界上下文	xian jie shang xia wen	54
+线控油门	xian kong you men	75
+线控制动	xian kong zhi dong	340
+线控转向	xian kong zhuan xiang	264
+限流策略	xian liu ce lve	218
+限流器	xian liu qi	138
+限流算法	xian liu suan fa	57
+显式表示	xian shi biao shi	305
+显式代理	xian shi dai li	65
+显式反馈	xian shi fan kui	107
+线性反卷积	xian xing fan juan ji	178
+线性空间	xian xing kong jian	11948
+线性一致性	xian xing yi zhi xing	1605
+线性注意力	xian xing zhu yi li	6139
+限制范围	xian zhi fan wei	2976
+相变冷却	xiang bian leng que	65
+相对单位	xiang dui dan wei	150
+相对熵	xiang dui shang	454
+相对位置	xiang dui wei zhi	1444
+相干光通信	xiang gan guang tong xin	44
+相干检测	xiang gan jian ce	37
+相干态	xiang gan tai	82
+相关性排序	xiang guan xing pai xu	10177
+向后兼容	xiang hou jian rong	1400
+向量处理	xiang liang chu li	924
+向量寄存器	xiang liang ji cun qi	210
+向量计算	xiang liang ji suan	3680
+向量检索	xiang liang jian suo	3707
+向量时钟	xiang liang shi zhong	470
+向量数据库	xiang liang shu ju ku	7529
+向量运算	xiang liang yun suan	2345
+向前兼容	xiang qian jian rong	801
+像素比适配	xiang su bi shi pei	4
+像素局部性	xiang su ju bu xing	12
+像素密度	xiang su mi du	461
+像素吞吐	xiang su tun tu	17
+像素值	xiang su zhi	753
+像素着色	xiang su zhuo se	122
+相位翻转	xiang wei fan zhuan	201
+相位校准	xiang wei jiao zhun	253
+相位门	xiang wei men	354
+相位噪声	xiang wei zao sheng	293
+相位阻尼	xiang wei zu ni	43
+响应拦截	xiang ying lan jie	1103
+响应式原理	xiang ying shi yuan li	104
+响应状态	xiang ying zhuang tai	4175
+享元	xiang yuan	469
+享元对象	xiang yuan dui xiang	91
+小币种	xiao bi zhong	528
+效度	xiao du	126
+消费端	xiao fei duan	485
+消费确认	xiao fei que ren	239
+消费失败	xiao fei shi bai	204
+消费速度	xiao fei su du	282
+消费位点	xiao fei wei dian	10
+消费滞后	xiao fei zhi hou	59
+效果触发	xiao guo chu fa	86
+效率优化	xiao lv you hua	1049
+小目标检测	xiao mu biao jian ce	55
+消融实验	xiao rong shi yan	2227
+消息撤回	xiao xi che hui	669
+消息持久化	xiao xi chi jiu hua	117
+消息重传	xiao xi chong chuan	12
+消息重复	xiao xi chong fu	404
+消息重试	xiao xi chong shi	118
+消息订阅	xiao xi ding yue	321
+消息丢失	xiao xi diu shi	465
+消息堆积	xiao xi dui ji	168
+消息翻译	xiao xi fan yi	1733
+消息积压	xiao xi ji ya	176
+消息去重	xiao xi qu chong	27
+消息确认	xiao xi que ren	1001
+消息体	xiao xi ti	1814
+消息头	xiao xi tou	758
+消息摘要	xiao xi zhai yao	672
+小样本学习	xiao yang ben xue xi	387
+协变	xie bian	883
+谐波减速器	xie bo jian su qi	218
+协程	xie cheng	2961
+写副本	xie fu ben	250
+写回	xie hui	2736
+写回策略	xie hui ce lve	20
+写日志	xie ri zhi	776
+协调者故障	xie tiao zhe gu zhang	5
+写通	xie tong	644
+写通策略	xie tong ce lve	7
+协同模式	xie tong mo shi	1219
+协议适配	xie yi shi pei	186
+协议族	xie yi zu	268
+卸载计算	xie zai ji suan	114
+谐振器	xie zhen qi	2408
+协作博弈	xie zuo bo yi	155
+芯驰科技	xin chi ke ji	86
+信道估计	xin dao gu ji	347
+信度	xin du	229
+信号发生器	xin hao fa sheng qi	918
+信号通路	xin hao tong lu	843
+新华三基准	xin hua san ji zhun	4
+心理效应	xin li xiao ying	1132
+信念传播	xin nian chuan bo	42
+信念状态	xin nian zhuang tai	140
+芯片封装	xin pian feng zhuang	960
+芯片加速	xin pian jia su	315
+芯片间互连	xin pian jian hu lian	27
+芯擎科技	xin qing ke ji	78
+信任策略	xin ren ce lve	149
+信任测试	xin ren ce shi	541
+信任分析	xin ren fen xi	700
+信任根	xin ren gen	190
+信任管理	xin ren guan li	389
+信任关系	xin ren guan xi	5492
+信任机制	xin ren ji zhi	1460
+信任锚	xin ren mao	146
+信任模型	xin ren mo xing	595
+信任评估	xin ren ping gu	218
+信任设计	xin ren she ji	230
+信任实现	xin ren shi xian	65
+信任算法	xin ren suan fa	253
+信任协议	xin ren xie yi	538
+信任验证	xin ren yan zheng	348
+信任优化	xin ren you hua	194
+信任域方法	xin ren yu fang fa	3
+心跳机制	xin tiao ji zhi	152
+心跳检测	xin tiao jian ce	745
+新闻搜索	xin wen sou suo	297
+信息保密	xin xi bao mi	4592
+信息比	xin xi bi	5001
+信息抽取	xin xi chou qu	2643
+信息协调	xin xi xie tiao	1125
+信息增益比	xin xi zeng yi bi	123
+新颖性	xin ying xing	4160
+性别分类	xing bie fen lei	1327
+形参	xing can	351
+星基增强	xing ji zeng qiang	4
+性能基准	xing neng ji zhun	1277
+性能剖析	xing neng pou xi	138
+性能追踪	xing neng zhui zong	249
+形态学操作	xing tai xue cao zuo	122
+行为分析	xing wei fen xi	7896
+行为经济学	xing wei jing ji xue	906
+行为驱动	xing wei qu dong	619
+行为日志	xing wei ri zhi	1334
+行为序列	xing wei xu lie	987
+星型	xing xing	790
+行星减速器	xing xing jian su qi	114
+星型模型	xing xing mo xing	41
+星型拓扑	xing xing tuo pu	117
+星形拓扑	xing xing tuo pu	87
+修订版本	xiu ding ban ben	9564
+许可费	xu ke fei	110
+序列并行	xu lie bing xing	322
+序列到序列	xu lie dao xu lie	327
+序列化格式	xu lie hua ge shi	2277
+序列模式	xu lie mo shi	2546
+序列数据	xu lie shu ju	1564
+序列挖掘	xu lie wa jue	104
+序列一致性	xu lie yi zhi xing	386
+虚拟机隔离	xu ni ji ge li	667
+虚拟节点	xu ni jie dian	378
+虚拟筛选	xu ni shai xuan	249
+虚拟私有	xu ni si you	278
+虚拟调试	xu ni tiao shi	355
+虚拟土地	xu ni tu di	131
+虚拟细胞	xu ni xi bao	574
+虚拟验证	xu ni yan zheng	751
+虚拟样机	xu ni yang ji	192
+虚拟专用	xu ni zhuan yong	702
+虚拟资产	xu ni zi chan	1036
+需求规格	xu qiu gui ge	3309
+眩光	xuan guang	1243
+选举机制	xuan ju ji zhi	417
+选择偏差	xuan ze pian cha	706
+旋转键	xuan zhuan jian	112
+薛定谔方程	xue ding e fang cheng	67
+薛定谔绘景	xue ding e hui jing	2
+雪花模型	xue hua mo xing	99
+学生模型	xue sheng mo xing	1332
+学术搜索	xue shu sou suo	507
+学习率	xue xi lv	858
+学习率调度	xue xi lv diao du	83
+学习率衰减	xue xi lv shuai jian	86
+循环变换	xun huan bian huan	279
+循环并行化	xun huan bing xing hua	18
+循环不变	xun huan bu bian	965
+循环单元	xun huan dan yuan	257
+循环分布	xun huan fen bu	105
+循环分割	xun huan fen ge	97
+循环合并	xun huan he bing	150
+循环交换	xun huan jiao huan	487
+循环流水	xun huan liu shui	94
+循环前缀	xun huan qian zhui	88
+循环强度	xun huan qiang du	53
+循环融合	xun huan rong he	92
+循环网络	xun huan wang luo	302
+循环向量化	xun huan xiang liang hua	28
+循环携带	xun huan xie dai	78
+循环依赖	xun huan yi lai	3347
+循环优化	xun huan you hua	815
+训练集	xun lian ji	4971
+训练集划分	xun lian ji hua fen	39
+训练轮数	xun lian lun shu	49
+雅可比矩阵	ya ke bi ju zhen	177
+压控振荡器	ya kong zhen dang qi	30
+压力传感	ya li chuan gan	49
+压缩格式	ya suo ge shi	3329
+压缩光	ya suo guang	399
+压缩态	ya suo tai	369
+亚稳态	ya wen tai	244
+延迟补偿	yan chi bu chang	1085
+延迟队列	yan chi dui lie	843
+延迟分布	yan chi fen bu	614
+延迟奖励	yan chi jiang li	593
+延迟控制	yan chi kong zhi	1258
+延迟消息	yan chi xiao xi	2433
+延迟渲染	yan chi xuan ran	668
+延迟隐藏	yan chi yin cang	673
+延迟优化	yan chi you hua	1894
+严格非阻塞	yan ge fei zu se	61
+掩码	yan ma	2669
+掩码机制	yan ma ji zhi	97
+掩码建模	yan ma jian mo	36
+颜色分级	yan se fen ji	83
+颜色码	yan se ma	100
+衍生品交易	yan sheng pin jiao yi	4959
+验收标准	yan shou biao zhun	2213
+眼图	yan tu	305
+烟雾报警	yan wu bao jing	329
+演员评论家	yan yuan ping lun jia	11
+验证集	yan zheng ji	5341
+验证集监控	yan zheng ji jian kong	44
+炎症因子	yan zheng yin zi	336
+样本不均衡	yang ben bu jun heng	69
+样本权重	yang ben quan zhong	656
+样本效率	yang ben xiao lv	345
+洋葱架构	yang cong jia gou	55
+腰部项目	yao bu xiang mu	65
+药代动力学	yao dai dong li xue	180
+遥感影像	yao gan ying xiang	3881
+药物重定位	yao wu chong ding wei	34
+药物研发	yao wu yan fa	1467
+药效团	yao xiao tuan	9
+页表映射	ye biao ying she	28
+页对齐	ye dui qi	63
+页分裂	ye fen lie	11
+页合并	ye he bing	40
+页缓存	ye huan cun	52
+页框	ye kuang	145
+液冷技术	ye leng ji shu	254
+页面浏览	ye mian liu lan	292
+液位传感	ye wei chuan gan	95
+业务连续性	ye wu lian xu xing	1801
+业务中台	ye wu zhong tai	178
+叶子节点	ye zi jie dian	689
+异步复制	yi bu fu zhi	659
+异步更新	yi bu geng xin	1316
+异步计算	yi bu ji suan	2669
+异步校验	yi bu jiao yan	448
+异步刷盘	yi bu shua pan	39
+异常值检测	yi chang zhi jian ce	295
+溢出攻击	yi chu gong ji	62
+依存句法	yi cun ju fa	549
+异地多活	yi di duo huo	138
+移动部署	yi dong bu shu	169
+移动端部署	yi dong duan bu shu	870
+移动端适配	yi dong duan shi pei	2968
+移动端应用	yi dong duan ying yong	4027
+异构图	yi gou tu	164
+依赖收集	yi lai shou ji	617
+依赖树	yi lai shu	1940
+医疗影像	yi liao ying xiang	1318
+医疗诊断	yi liao zhen duan	2636
+译码	yi ma	8924
+一期临床	yi qi lin chuang	173
+蚁群优化	yi qun you hua	367
+已提交读	yi ti jiao du	180
+依图科技	yi tu ke ji	15
+意图识别	yi tu shi bie	45551
+意图预测	yi tu yu ce	1579
+乙酰化	yi xian hua	565
+易用性测试	yi yong xing ce shi	288
+一致性协议	yi zhi xing xie yi	1280
+隐藏层	yin cang ceng	669
+隐藏代理	yin cang dai li	151
+隐藏状态	yin cang zhuang tai	1442
+引导加载器	yin dao jia zai qi	60
+引导系数	yin dao xi shu	123
+音高	yin gao	1784
+因果发现	yin guo fa xian	111
+因果顺序	yin guo shun xu	127
+因果推断	yin guo tui duan	470
+因果效应	yin guo xiao ying	212
+因果掩码	yin guo yan ma	27
+因果依赖	yin guo yi lai	102
+因果一致性	yin guo yi zhi xing	73
+隐空间	yin kong jian	373
+隐马尔可夫	yin ma er ke fu	160
+音频分析	yin pin fen xi	1614
+音频检索	yin pin jian suo	152
+音频流式	yin pin liu shi	97
+音频生成	yin pin sheng cheng	2422
+音频事件	yin pin shi jian	245
+音频压缩	yin pin ya suo	281
+隐式	yin shi	1940
+隐式表示	yin shi biao shi	84
+隐式反馈	yin shi fan kui	147
+隐私保护	yin si bao hu	10557
+隐私法规	yin si fa gui	232
+隐私放大	yin si fang da	19
+隐私计算	yin si ji suan	1758
+隐向量	yin xiang liang	166
+阴影贴图	yin ying tie tu	30
+阴影渲染	yin ying xuan ran	99
+隐喻理解	yin yu li jie	233
+音乐搜索	yin yue sou suo	73
+因子分解机	yin zi fen jie ji	34
+因子图	yin zi tu	342
+硬分叉	ying fen cha	51
+硬更新	ying geng xin	180
+硬件抽象层	ying jian chou xiang ceng	761
+硬件光追	ying jian guang zhui	63
+硬件钱包	ying jian qian bao	645
+硬件虚拟化	ying jian xu ni hua	499
+硬件在环	ying jian zai huan	135
+鹰群优化	ying qun you hua	13
+英式拍卖	ying shi pai mai	27
+硬实时	ying shi shi	1171
+硬阴影	ying yin ying	125
+应用层协议	ying yong ceng xie yi	981
+应用存储	ying yong cun chu	308
+应用恢复	ying yong hui fu	234
+应用架构	ying yong jia gou	496
+应用加固	ying yong jia gu	98
+硬中断	ying zhong duan	800
+影子模式	ying zi mo shi	372
+硬最大	ying zui da	30
+用户分群	yong hu fen qun	120
+用户故事	yong hu gu shi	32299
+用户留存	yong hu liu cun	1937
+用户流失	yong hu liu shi	3329
+用户手册	yong hu shou ce	4670
+用户数据报	yong hu shu ju bao	72
+用户行为	yong hu xing wei	12643
+用量限制	yong liang xian zhi	966
+拥塞	yong se	299
+永续合约	yong xu he yue	170
+优化器	you hua qi	11757
+邮件列表	you jian lie biao	671
+友盟	you meng	49
+幽默理解	you mo li jie	636
+优势估计	you shi gu ji	222
+优势函数	you shi han shu	203
+酉算符	you suan fu	10
+游戏化机制	you xi hua ji zhi	116
+优先采样	you xian cai yang	2095
+有限差分	you xian cha fen	2259
+优先级继承	you xian ji ji cheng	326
+优先级类	you xian ji lei	406
+优先级排序	you xian ji pai xu	20950
+优先级抢占	you xian ji qiang zhan	185
+有限体积	you xian ti ji	786
+有线通信	you xian tong xin	475
+有限元方法	you xian yuan fang fa	1373
+优雅关闭	you ya guan bi	467
+优雅退出	you ya tui chu	1228
+有状态	you zhuang tai	1969
+有状态服务	you zhuang tai fu wu	138
+域不变	yu bu bian	143
+预测维护	yu ce wei hu	245
+预读	yu du	4869
+预发布	yu fa bu	1010
+预发布环境	yu fa bu huan jing	94
+预发环境	yu fa huan jing	562
+预加载资源	yu jia zai zi yuan	389
+预检请求	yu jian qing qiu	459
+预览版	yu lan ban	807
+裕量	yu liang	331
+语料	yu liao	12567
+语料库	yu liao ku	1562
+预留实例	yu liu shi li	513
+语气判断	yu qi pan duan	1738
+预取	yu qu	1784
+预取机制	yu qu ji zhi	171
+鱼群算法	yu qun suan fa	66
+域适应	yu shi ying	80
+预售机制	yu shou ji zhi	130
+预提交	yu ti jiao	1394
+预条件子	yu tiao jian zi	74
+余弦退火	yu xian tui huo	42
+预写式日志	yu xie shi ri zhi	30
+预训练	yu xun lian	15850
+预训练模型	yu xun lian mo xing	3190
+预言机服务	yu yan ji fu wu	94
+语义动作	yu yi dong zuo	2892
+语义分割	yu yi fen ge	8369
+语义化版本	yu yi hua ban ben	194
+语义化标签	yu yi hua biao qian	1258
+语义理解	yu yi li jie	41454
+语义向量	yu yi xiang liang	6570
+语音交互	yu yin jiao hu	3049
+语音转写	yu yin zhuan xie	825
+语用	yu yong	1548
+阈值定理	yu zhi ding li	106
+元标签设置	yuan biao qian she zhi	68
+远程运维	yuan cheng yun wei	1960
+原地排序	yuan di pai xu	471
+原生开发	yuan sheng kai fa	2435
+原始层	yuan shi ceng	1652
+元数据管理	yuan shu ju guan li	422
+元数据缓存	yuan shu ju huan cun	220
+原型链继承	yuan xing lian ji cheng	114
+元学习	yuan xue xi	1386
+元宇宙概念	yuan yu zhou gai nian	440
+原子干涉仪	yuan zi gan she yi	186
+原子交换	yuan zi jiao huan	776
+原子腔	yuan zi qiang	550
+原子性	yuan zi xing	5303
+原子钟	yuan zi zhong	6598
+月活跃用户	yue huo yue yong hu	49
+约瑟夫森结	yue se fu sen jie	24
+约束布局	yue shu bu ju	223
+约束求解	yue shu qiu jie	1585
+约束优化	yue shu you hua	2601
+越狱攻击	yue yu gong ji	350
+云边协同	yun bian xie tong	54
+运动规划	yun dong gui hua	303
+云端部署	yun duan bu shu	1227
+云端推理	yun duan tui li	539
+云迁移	yun qian yi	309
+云同步	yun tong bu	402
+运行时安全	yun xing shi an quan	2001
+云原生	yun yuan sheng	1252
+云原生技术	yun yuan sheng ji shu	124
+云原生应用	yun yuan sheng ying yong	122
+载波恢复	zai bo hui fu	20
+载波相位	zai bo xiang wei	117
+灾害评估	zai hai ping gu	356
+在线扩容	zai xian kuo rong	86
+在线缩容	zai xian suo rong	13
+在线文档	zai xian wen dang	2694
+脏读	zang du	114
+噪声调度	zao sheng diao du	145
+噪声鲁棒性	zao sheng lu bang xing	87
+早停	zao ting	613
+早停策略	zao ting ce lve	44
+早停法	zao ting fa	48
+增量回收	zeng liang hui shou	100
+栅栏同步	zha lan tong bu	30
+摘要生成	zhai yao sheng cheng	6304
+站点恢复	zhan dian hui fu	207
+栈段	zhan duan	85
+站会	zhan hui	430
+粘性定位	zhan xing ding wei	81
+粘性广播	zhan xing guang bo	47
+占用网络	zhan yong wang luo	1380
+障碍物识别	zhang ai wu shi bie	259
+章程规则	zhang cheng gui ze	228
+账户抽象	zhang hu chou xiang	96
+张量	zhang liang	7552
+张量并行	zhang liang bing xing	330
+张量核心	zhang liang he xin	104
+召回层	zhao hui ceng	163
+遮挡查询	zhe dang cha xun	81
+遮挡处理	zhe dang chu li	193
+遮挡剔除	zhe dang ti chu	17
+折叠路径	zhe die lu jing	194
+折扣因子	zhe kou yin zi	22
+折扣优惠	zhe kou you hui	857
+折射效果	zhe she xiao guo	137
+帧长	zhen chang	212
+振动传感	zhen dong chuan gan	472
+振动反馈	zhen dong fan kui	681
+震动反馈	zhen dong fan kui	599
+振动分析	zhen dong fen xi	1607
+振幅阻尼	zhen fu zu ni	121
+帧缓冲	zhen huan chong	234
+帧间标注	zhen jian biao zhu	12
+帧结构	zhen jie gou	233
+真空腔	zhen kong qiang	937
+真空吸盘	zhen kong xi pan	335
+帧率控制	zhen lv kong zhi	56
+真实环境	zhen shi huan jing	1570
+帧时间	zhen shi jian	284
+帧移	zhen yi	223
+正负样本	zheng fu yang ben	1497
+正交初始化	zheng jiao chu shi hua	249
+正交频分	zheng jiao pin fen	43
+整洁架构	zheng jie jia gou	11
+证据因子	zheng ju yin zi	150
+证书颁发	zheng shu ban fa	1070
+整数规划	zheng shu gui hua	850
+证书校验	zheng shu jiao yan	336
+证书轮换	zheng shu lun huan	25
+证书验证	zheng shu yan zheng	905
+整数运算	zheng shu yun suan	2831
+整数转换	zheng shu zhuan huan	318
+正运动学	zheng yun dong xue	183
+正则化技术	zheng ze hua ji shu	88
+正则校验	zheng ze jiao yan	1699
+正则文法	zheng ze wen fa	43
+指标采集	zhi biao cai ji	301
+指标监控	zhi biao jian kong	955
+指标口径	zhi biao kou jing	903
+指代消解	zhi dai xiao jie	123
+支付通道	zhi fu tong dao	1128
+质检流程	zhi jian liu cheng	3675
+直接光照	zhi jie guang zhao	1600
+直接求解器	zhi jie qiu jie qi	143
+制冷机	zhi leng ji	3251
+治理代币	zhi li dai bi	28
+指令跟随	zhi ling gen sui	4334
+指令融合	zhi ling rong he	978
+指令吞吐	zhi ling tun tu	268
+指令微调	zhi ling wei diao	2875
+指令指针	zhi ling zhi zhen	767
+指令遵循	zhi ling zun xun	18216
+智能安防	zhi neng an fang	497
+智能版权	zhi neng ban quan	114
+智能合约	zhi neng he yue	790
+智能决策	zhi neng jue ce	735
+智能客服	zhi neng ke fu	10204
+智能网卡	zhi neng wang ka	213
+智能网联	zhi neng wang lian	764
+智能医疗	zhi neng yi liao	2211
+智能运维	zhi neng yun wei	1545
+智能账户	zhi neng zhang hu	161
+知识图谱	zhi shi tu pu	3176
+知识蒸馏	zhi shi zheng liu	524
+指数平滑	zhi shu ping hua	219
+指数退避	zhi shu tui bi	366
+指数稳定	zhi shu wen ding	106
+值文件	zhi wen jian	87
+直线电机	zhi xian dian ji	963
+执行层	zhi xing ceng	3621
+执行端口	zhi xing duan kou	1546
+质押奖励	zhi ya jiang li	12
+职业操守	zhi ye cao shou	1800
+指针操作	zhi zhen cao zuo	1845
+众包标注	zhong bao biao zhu	618
+忠诚度计划	zhong cheng du ji hua	2016
+中断调优	zhong duan diao you	35
+终端奖励	zhong duan jiang li	388
+中间表示	zhong jian biao shi	5890
+终结符	zhong jie fu	3925
+重量传感	zhong liang chuan gan	21
+肿瘤微环境	zhong liu wei huan jing	181
+中台战略	zhong tai zhan lve	330
+中心性	zhong xin xing	2423
+中性原子	zhong xing yuan zi	5338
+重要性采样	zhong yao xing cai yang	25
+重要性剔除	zhong yao xing ti chu	9
+肘部法则	zhou bu fa ze	36
+轴角表示	zhou jiao biao shi	73
+周期任务	zhou qi ren wu	728
+周期特征	zhou qi te zheng	149
+周转时间	zhou zhuan shi jian	278
+主版本	zhu ban ben	361
+主备切换	zhu bei qie huan	299
+注册中心	zhu ce zhong xin	721
+主从架构	zhu cong jia gou	124
+主从模式	zhu cong mo shi	118
+主动学习	zhu dong xue xi	18553
+助记词	zhu ji ci	618
+主机字节序	zhu ji zi jie xu	21
+主流币	zhu liu bi	134
+主设备	zhu she bei	622
+主题域	zhu ti yu	1612
+注意力层	zhu yi li ceng	254
+注意力机制	zhu yi li ji zhi	20687
+注意力模型	zhu yi li mo xing	2294
+注意力权重	zhu yi li quan zhong	993
+注意力掩码	zhu yi li yan ma	105
+铸造费用	zhu zao fei yong	50
+铸造流程	zhu zao liu cheng	319
+专家并行	zhuan jia bing xing	45
+专家混合	zhuan jia hun he	96
+专利保护	zhuan li bao hu	2752
+专利布局	zhuan li bu ju	1300
+专利搜索	zhuan li sou suo	139
+转录组	zhuan lu zu	1083
+转售限制	zhuan shou xian zhi	25
+专用网络	zhuan yong wang luo	2672
+专有软件	zhuan you ruan jian	1364
+专有云	zhuan you yun	6733
+转置卷积	zhuan zhi juan ji	60
+装配验证	zhuang pei yan zheng	93
+装饰器	zhuang shi qi	544
+状态表示	zhuang tai biao shi	1856
+状态估计	zhuang tai gu ji	824
+状态管理	zhuang tai guan li	3194
+状态后端	zhuang tai hou duan	172
+状态机复制	zhuang tai ji fu zhi	29
+状态价值	zhuang tai jia zhi	392
+状态监测	zhuang tai jian ce	1061
+状态同步	zhuang tai tong bu	3121
+状态通道	zhuang tai tong dao	355
+状态值	zhuang tai zhi	1943
+追加日志	zhui jia ri zhi	1095
+追踪分析	zhui zong fen xi	4393
+准备阶段	zhun bei jie duan	7770
+准入控制	zhun ru kong zhi	698
+桌面客户端	zhuo mian ke hu duan	407
+着色器变体	zhuo se qi bian ti	9
+着色器瓶颈	zhuo se qi ping jing	9
+着色语言	zhuo se yu yan	338
+自编码器	zi bian ma qi	280
+自博弈训练	zi bo yi xun lian	35
+子词	zi ci	2912
+子词单元	zi ci dan yuan	79
+子词切分	zi ci qie fen	23
+自定义资源	zi ding yi zi yuan	1001
+自动曝光	zi dong bao guang	683
+自动标注	zi dong biao zhu	1828
+自动化合成	zi dong hua he cheng	1475
+自动恢复	zi dong hui fu	3536
+自动驾驶	zi dong jia shi	165804
+自动扩缩	zi dong kuo suo	124
+自动扩缩容	zi dong kuo suo rong	41
+自动扩展	zi dong kuo zhan	2712
+自动切换	zi dong qie huan	10074
+自动提升	zi dong ti sheng	648
+自动摘要	zi dong zhai yao	3488
+自动做市商	zi dong zuo shi shang	22
+自发光	zi fa guang	452
+字符级嵌入	zi fu ji qian ru	103
+自回归模型	zi hui gui mo xing	689
+自监督	zi jian du	264
+自监督学习	zi jian du xue xi	489
+字节对编码	zi jie dui bian ma	51
+字节交换	zi jie jiao huan	111
+资金池	zi jin chi	3135
+子类型	zi lei xing	1907
+自然对流	zi ran dui liu	1053
+自然梯度法	zi ran ti du fa	86
+自适应均衡	zi shi ying jun heng	293
+自适应流控	zi shi ying liu kong	139
+自适应设计	zi shi ying she ji	497
+自适应时钟	zi shi ying shi zhong	210
+自适应网格	zi shi ying wang ge	432
+自适应限流	zi shi ying xian liu	98
+姿态估计	zi tai gu ji	154
+字体适配	zi ti shi pei	306
+子图同构	zi tu tong gou	20
+子图挖掘	zi tu wa jue	19
+自托管钱包	zi tuo guan qian bao	11
+自相关	zi xiang guan	1187
+自由能微扰	zi you neng wei rao	4
+资源编排	zi yuan bian pai	439
+资源池	zi yuan chi	1607
+资源池化	zi yuan chi hua	45
+资源隔离	zi yuan ge li	398
+资源监控	zi yuan jian kong	629
+资源竞争	zi yuan jing zheng	925
+资源配额	zi yuan pei e	618
+资源清单	zi yuan qing dan	942
+资源请求	zi yuan qing qiu	1096
+资源限制	zi yuan xian zhi	3734
+资源压缩	zi yuan ya suo	300
+子载波	zi zai bo	356
+自助分析	zi zhu fen xi	444
+自助服务	zi zhu fu wu	2323
+自注意力	zi zhu yi li	2064
+综合属性	zong he shu xing	869
+总线架构	zong xian jia gou	736
+总线拓扑	zong xian tuo pu	860
+总线型	zong xian xing	1040
+组合导航	zu he dao hang	291
+组合交易	zu he jiao yi	370
+组合疗法	zu he liao fa	445
+组合优化	zu he you hua	1690
+组合子	zu he zi	887
+租户隔离	zu hu ge li	106
+租户管理	zu hu guan li	471
+组件化开发	zu jian hua kai fa	449
+阻抗控制	zu kang kong zhi	202
+阻塞通信	zu se tong xin	745
+最长路径	zui chang lu jing	1729
+最长作业	zui chang zuo ye	213
+最大长度	zui da chang du	2347
+最大池化	zui da chi hua	123
+最大割问题	zui da ge wen ti	14
+最大后验	zui da hou yan	69
+最大线程数	zui da xian cheng shu	89
+最大序列长	zui da xu lie chang	12
+最大延迟	zui da yan chi	141
+最短作业	zui duan zuo ye	162
+最高响应比	zui gao xiang ying bi	31
+最近邻插值	zui jin lin cha zhi	41
+最少连接	zui shao lian jie	473
+最小连接数	zui xiao lian jie shu	507
+最小能隙	zui xiao neng xi	38
+最小权限	zui xiao quan xian	2149
+最小延迟	zui xiao yan chi	1069
+最新区块	zui xin qu kuai	158
+最终性	zui zhong xing	25018
+最终一致	zui zhong yi zhi	38749
+最终一致性	zui zhong yi zhi xing	13862
+最左归约	zui zuo gui yue	26
+最左推导	zui zuo tui dao	164
+做市商	zuo shi shang	479
+作业指导书	zuo ye zhi dao shu	634

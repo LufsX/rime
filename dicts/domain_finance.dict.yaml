@@ -1,0 +1,2002 @@
+# Rime dictionary
+# encoding: utf-8
+# L3 专业领域：财经金融（≤4 字，源自 THUOCL 财经）
+
+---
+name: domain_finance
+version: "2026-11-26"
+sort: by_weight
+...
+
+阿比银行	a bi yin hang	32
+艾迪西	ai di xi	62
+爱建	ai jian	898
+安彩	an cai	387
+安达信	an da xin	411
+按计划	an ji hua	453593
+安居宝	an ju bao	438
+安凯客车	an kai ke che	49
+安联集团	an lian ji tuan	85
+安纳达	an na da	72
+按年	an nian	7524
+安全边际	an quan bian ji	2620
+安全度	an quan du	1408
+按日	an ri	7194
+安泰集团	an tai ji tuan	435
+安信信托	an xin xin tuo	246
+奥飞动漫	ao fei dong man	318
+奥克股份	ao ke gu fen	61
+奥普光电	ao pu guang dian	247
+奥维通信	ao wei tong xin	250
+澳新银行	ao xin yin hang	219
+澳优	ao you	100
+奥运卡	ao yun ka	59
+把控	ba kong	16259
+把握机遇	ba wo ji yu	1539
+八一钢铁	ba yi gang tie	180
+白金版	bai jin ban	849
+白金卡	bai jin ka	1193
+百利电气	bai li dian qi	122
+百盛集团	bai sheng ji tuan	193
+白页	bai ye	1386
+白银铜城	bai yin tong cheng	12
+百圆裤业	bai yuan ku ye	6
+半仓	ban cang	1163
+半年期	ban nian qi	1528
+办税厅	ban shui ting	398
+办税员	ban shui yuan	255
+报查	bao cha	66
+宝诚	bao cheng	86
+报告期	bao gao qi	25394
+保管人	bao guan ren	720
+宝光	bao guang	795
+饱和点	bao he dian	560
+保护价	bao hu jia	276
+保荐制	bao jian zhi	48
+宝莱特	bao lai te	59
+保利地产	bao li di chan	3442
+宝丽华	bao li hua	100
+宝利来	bao li lai	396
+保理商	bao li shang	1040
+宝龙地产	bao long di chan	213
+宝莫股份	bao mo gu fen	84
+暴升	bao sheng	285
+包头铝业	bao tou lv ye	77
+保网	bao wang	30
+包销	bao xiao	304
+宝信	bao xin	173
+宝盈	bao ying	70
+保增长	bao zeng zhang	415
+宝姿	bao zi	65
+北玻股份	bei bo gu fen	42
+北辰实业	bei chen shi ye	131
+备抵	bei di	557
+备付金	bei fu jin	182
+北海港	bei hai gang	185
+北海集团	bei hai ji tuan	80
+北海银行	bei hai yin hang	219
+北京分行	bei jing fen hang	853
+北京国投	bei jing guo tou	77
+北京华联	bei jing hua lian	292
+北京君正	bei jing jun zheng	94
+北京科锐	bei jing ke rui	128
+北京利尔	bei jing li er	97
+北京旅游	bei jing lv you	3801
+北京天桥	bei jing tian qiao	332
+北矿	bei kuang	248
+北陆药业	bei lu yao ye	15
+北旅	bei lv	246
+北满特钢	bei man te gang	19
+背书人	bei shu ren	614
+贝塔	bei ta	5358
+北新路桥	bei xin lu qiao	118
+北亚集团	bei ya ji tuan	17
+备用费	bei yong fei	247
+本票	ben piao	1365
+本实	ben shi	1352
+彼得林奇	bi de lin qi	623
+碧生源	bi sheng yuan	751
+比索	bi suo	2221
+币值	bi zhi	235
+标金	biao jin	186
+飚升	biao sheng	127
+表首	biao shou	275
+波动性	bo dong xing	4822
+波段性	bo duan xing	281
+博耳电力	bo er dian li	17
+波峰	bo feng	3654
+波幅	bo fu	245
+波谷	bo gu	284
+渤化	bo hua	36
+拨回	bo hui	514
+博软	bo ruan	141
+博通	bo tong	3953
+博信	bo xin	414
+博讯	bo xun	934
+拨用	bo yong	40
+簿册	bu ce	1297
+不成文法	bu cheng wen fa	1075
+不定期	bu ding qi	261782
+补价	bu jia	1551
+补进	bu jin	5078
+不可撤销	bu ke che xiao	5960
+补空	bu kong	1420
+补助金	bu zhu jin	23441
+财产安全	cai chan an quan	8079
+财产保险	cai chan bao xian	1945
+财富时报	cai fu shi bao	15
+财华网	cai hua wang	92
+财经论坛	cai jing lun tan	879
+财经频道	cai jing pin dao	4570
+财经时报	cai jing shi bao	1034
+财经网	cai jing wang	773
+财经周刊	cai jing zhou kan	743
+采掘业	cai jue ye	46
+财会信报	cai kuai xin bao	28
+彩票点	cai piao dian	212
+彩票网	cai piao wang	1331
+财务会计	cai wu kuai ji	152446
+财信通	cai xin tong	154
+财政赤字	cai zheng chi zi	2755
+财智	cai zhi	2292
+参保率	can bao lv	165
+残余价值	can yu jia zhi	906
+残值	can zhi	1400
+残值率	can zhi lv	207
+仓单	cang dan	134
+沧州大化	cang zhou da hua	190
+操作规范	cao zuo gui fan	2584
+操作流程	cao zuo liu cheng	155548
+操作指南	cao zuo zhi nan	9625
+策略研究	ce lve yan jiu	2413
+查库	cha ku	509
+拆股	chai gu	1145
+拆伙	chai huo	3431
+拆细	chai xi	682
+产成品	chan cheng pin	524
+产权导刊	chan quan dao kan	2
+产业资本	chan ye zi ben	973
+长百集团	chang bai ji tuan	15
+常柴	chang chai	252
+长城集团	chang cheng ji tuan	424
+长城卡	chang cheng ka	357
+长城特钢	chang cheng te gang	93
+畅丰车桥	chang feng che qiao	1
+偿付	chang fu	16006
+长航凤凰	chang hang feng huang	18
+昌河	chang he	5032
+长盛环球	chang sheng huan qiu	19
+长盛基金	chang sheng ji jin	96
+长盛同德	chang sheng tong de	7
+长盛同瑞	chang sheng tong rui	5
+长盛同禧	chang sheng tong xi	6
+长盛同智	chang sheng tong zhi	6
+常胜网	chang sheng wang	20
+长盛中证	chang sheng zhong zheng	44
+昌源	chang yuan	3072
+偿债	chang zhai	11049
+超标者	chao biao zhe	75
+超跌股	chao die gu	45
+巢东股份	chao dong gu fen	17
+炒高	chao gao	305
+潮宏基	chao hong ji	100
+朝华	chao hua	2311
+炒汇者	chao hui zhe	8
+超图软件	chao tu ruan jian	40
+撤资	che zi	704
+晨鸣	chen ming	558
+承担者	cheng dan zhe	1820
+成都路桥	cheng du lu qiao	60
+成功营销	cheng gong ying xiao	318
+承诺费	cheng nuo fei	100
+诚聘英才	cheng pin ying cai	1584
+成商集团	cheng shang ji tuan	32
+城投	cheng tou	7760
+城投控股	cheng tou kong gu	294
+承销额	cheng xiao e	45
+承销团	cheng xiao tuan	504
+诚信网	cheng xin wang	110
+成长先锋	cheng zhang xian feng	84
+持本单	chi ben dan	13
+持仓不动	chi cang bu dong	1855
+迟付	chi fu	212
+持卡	chi ka	68367
+持票人	chi piao ren	363
+重庆川仪	chong qing chuan yi	49
+重庆港九	chong qing gang jiu	32
+重庆华亚	chong qing hua ya	49
+重庆机电	chong qing ji dian	127
+重庆银行	chong qing yin hang	1194
+重庆中药	chong qing zhong yao	152
+冲销	chong xiao	422
+重新转向	chong xin zhuan xiang	32083
+储备头寸	chu bei tou cun	90
+出超	chu chao	680
+除净	chu jing	392
+出口人	chu kou ren	581
+出口业	chu kou ye	174
+出票人	chu piao ren	66
+出千	chu qian	1529
+出售方	chu shou fang	233
+除息	chu xi	3283
+储蓄卡	chu xu ka	754
+储蓄率	chu xu lv	272
+储蓄券	chu xu quan	148
+出资额	chu zi e	1314
+出租人	chu zu ren	1120
+川大智胜	chuan da zhi sheng	33
+川金路	chuan jin lu	22
+创投公司	chuang tou gong si	1177
+创新低	chuang xin di	223
+创兴银行	chuang xing yin hang	10
+创业教育	chuang ye jiao yu	281
+创业网	chuang ye wang	185
+创智	chuang zhi	696
+纯金	chun jin	5433
+次贷危机	ci dai wei ji	106
+次新股	ci xin gu	39
+次月	ci yue	1254
+催收	cui shou	52334
+存贷款	cun dai kuan	567
+存定期	cun ding qi	338
+存放处	cun fang chu	1639
+存款人	cun kuan ren	413
+大北农	da bei nong	105
+达标者	da biao zhe	1112
+达创	da chuang	325
+达尔曼	da er man	235
+大富科技	da fu ke ji	63
+大行情	da hang qing	729
+大华农	da hua nong	102
+大华银行	da hua yin hang	1848
+大降	da jiang	427
+大莱卡	da lai ka	16
+达力集团	da li ji tuan	29
+大连港	da lian gang	864
+大秦铁路	da qin tie lu	382
+大庆华科	da qing hua ke	17
+达声	da sheng	371
+大通银行	da tong yin hang	75
+大萧条	da xiao tiao	441
+大冶特钢	da ye te gang	95
+打印单	da yin dan	853
+大银行	da yin hang	1343
+大有期货	da you qi huo	96
+大众投资	da zhong tou zi	82
+戴尔电脑	dai er dian nao	1638
+贷款难	dai kuan nan	487
+贷款人	dai kuan ren	2641
+贷款协议	dai kuan xie yi	810
+代理制	dai li zhi	390
+代领人	dai ling ren	31
+待评	dai ping	1252
+担保法	dan bao fa	267
+担保费	dan bao fei	153
+担保函	dan bao han	655
+担保金	dan bao jin	532
+担保品	dan bao pin	162
+单币	dan bi	73
+单币卡	dan bi ka	5
+淡仓	dan cang	151
+单利	dan li	172
+淡马锡	dan ma xi	417
+到期日	dao qi ri	5519
+盗刷	dao shua	162
+到账	dao zhang	408010
+德国安联	de guo an lian	59
+德棉	de mian	143
+德盛增利	de sheng zeng li	5
+德信集团	de xin ji tuan	230
+等价交换	deng jia jiao huan	19523
+第三波	di san bo	17976
+抵押合同	di ya he tong	230
+抵押率	di ya lv	79
+递延	di yan	12876
+第一食品	di yi shi pin	440
+电广实业	dian guang shi ye	9
+点后	dian hou	39692
+调回	diao hui	1945
+掉期	diao qi	895
+碟型	die xing	184
+鼎立	ding li	2409
+鼎盛天工	ding sheng tian gong	62
+定税	ding shui	242
+鼎泰新材	ding tai xin cai	15
+鼎天	ding tian	502
+东安黑豹	dong an hei bao	7
+东阿阿胶	dong e e jiao	176
+东方保本	dong fang bao ben	32
+东方电机	dong fang dian ji	130
+东方锆业	dong fang gao ye	50
+东方国信	dong fang guo xin	61
+东方航空	dong fang hang kong	3544
+东方金钰	dong fang jin yu	54
+东方龙	dong fang long	3211
+东方银行	dong fang yin hang	293
+东方银星	dong fang yin xing	16
+东方雨虹	dong fang yu hong	162
+东风集团	dong feng ji tuan	1405
+东富龙	dong fu long	126
+东光集团	dong guang ji tuan	52
+东锅	dong guo	155
+东华科技	dong hua ke ji	1996
+东华能源	dong hua neng yuan	225
+东控	dong kong	167
+动力源	dong li yuan	2229
+东软集团	dong ruan ji tuan	151
+东碳	dong tan	59
+东吴嘉禾	dong wu jia he	45
+东源电器	dong yuan dian qi	9
+毒笔	du bi	174
+赌彩	du cai	548
+杜约翰	du yue han	98
+短仓	duan cang	171
+短融券	duan rong quan	105
+对赌	dui du	6947
+兑付期	dui fu qi	160
+对外资	dui wai zi	12906
+对照表	dui zhao biao	14169
+多佳	duo jia	559
+多伦股份	duo lun gu fen	32
+鄂绒	e rong	73
+二纺	er fang	118
+二纺机	er fang ji	92
+法币	fa bi	602
+发卡银行	fa ka yin hang	352
+罚款率	fa kuan lv	57
+法拉电子	fa la dian zi	154
+法郎区	fa lang qu	18
+法律部	fa lv bu	637
+法人银行	fa ren yin hang	120
+发行额	fa xing e	879
+发行方案	fa xing fang an	837
+发行期	fa xing qi	901
+泛海酒店	fan hai jiu dian	20
+反馈单	fan kui dan	75
+翻两番	fan liang fan	105
+翻三番	fan san fan	46
+反洗钱法	fan xi qian fa	191
+翻一番	fan yi fan	1438
+方大集团	fang da ji tuan	113
+方大特钢	fang da te gang	23
+房改房	fang gai fang	88
+放高利贷	fang gao li dai	10
+方兴	fang xing	1815
+方兴地产	fang xing di chan	24
+方源	fang yuan	926
+方正富邦	fang zheng fu bang	129
+非公经济	fei gong jing ji	82
+飞力达	fei li da	138
+飞马国际	fei ma guo ji	145
+非融资性	fei rong zi xing	131
+非现金	fei xian jin	968
+非正常户	fei zheng chang hu	34
+分行制	fen hang zhi	904
+分界点	fen jie dian	488
+分配方案	fen pei fang an	2642
+分散化	fen san hua	730
+封闭期	feng bi qi	2245
+丰华	feng hua	1080
+凤凰财经	feng huang cai jing	1036
+凤凰股	feng huang gu	97
+丰林集团	feng lin ji tuan	81
+封盘	feng pan	3153
+风神股份	feng shen gu fen	42
+风险提示	feng xian ti shi	268684
+风险系数	feng xian xi shu	1134
+凤竹纺织	feng zhu fang zhi	72
+封转开	feng zhuan kai	79
+辅币	fu bi	1235
+福彩中心	fu cai zhong xin	1121
+附单	fu dan	58
+复旦复华	fu dan fu hua	121
+辅导期	fu dao qi	183
+阜丰集团	fu feng ji tuan	255
+富国天成	fu guo tian cheng	44
+富国银行	fu guo yin hang	247
+富豪酒店	fu hao jiu dian	126
+富华集团	fu hua ji tuan	247
+腹空	fu kong	268
+复利	fu li	4192
+负利率	fu li lv	1376
+复权	fu quan	1111
+富士银行	fu shi yin hang	182
+抚顺特钢	fu shun te gang	538
+福特赛	fu te sai	119
+服务合同	fu wu he tong	542
+服务协议	fu wu xie yi	50862
+服务营销	fu wu ying xiao	204
+付息	fu xi	48075
+付息日	fu xi ri	1629
+福星晓程	fu xing xiao cheng	43
+负债率	fu zhai lv	1432
+副主席	fu zhu xi	5088
+改票	gai piao	551
+赣锋锂业	gan feng li ye	124
+甘化	gan hua	715
+钢镚儿	gang beng er	95
+港股通	gang gu tong	11009
+港华燃气	gang hua ran qi	266
+港铁公司	gang tie gong si	154
+钢研高纳	gang yan gao na	19
+高度关注	gao du guan zhu	3313
+高价股	gao jia gu	99
+高金食品	gao jin shi pin	12
+高盛集团	gao sheng ji tuan	1217
+高斯达	gao si da	54
+高特利	gao te li	24
+高息揽存	gao xi lan cun	3
+高新兴	gao xin xing	422
+高新张铜	gao xin zhang tong	6
+高溢价	gao yi jia	266
+高银地产	gao yin di chan	22
+格令	ge ling	119
+个人理财	ge ren li cai	1586
+格式合同	ge shi he tong	766
+葛州坝	ge zhou ba	143
+共保	gong bao	2586
+公股	gong gu	273
+共合网	gong he wang	55
+公积金率	gong ji jin lv	86
+供给区	gong ji qu	224
+公司理财	gong si li cai	511
+公司制	gong si zhi	505
+工新	gong xin	165
+工银保本	gong yin bao ben	5
+工银添利	gong yin tian li	12
+工银添颐	gong yin tian yi	4
+工银亚洲	gong yin ya zhou	42
+公营化	gong ying hua	100
+公用科技	gong yong ke ji	88
+公债	gong zhai	1529
+购回	gou hui	98
+购汇	gou hui	94
+购买美国	gou mai mei guo	92
+购买区	gou mai qu	120
+购票员	gou piao yuan	61
+古币	gu bi	411
+股城网	gu cheng wang	60
+固定资本	gu ding zi ben	1061
+固额	gu e	194
+股分	gu fen	226
+股歌	gu ge	291
+古汉集团	gu han ji tuan	14
+股票机	gu piao ji	92
+股票界	gu piao jie	112
+股票市价	gu piao shi jia	15
+股市快讯	gu shi kuai xun	543
+古越龙山	gu yue long shan	169
+挂价	gua jia	94
+挂帐	gua zhang	377
+冠城大通	guan cheng da tong	67
+管理学家	guan li xue jia	576
+关联公司	guan lian gong si	861
+观音币	guan yin bi	44
+广百股份	guang bai gu fen	220
+广电信息	guang dian xin xi	313
+广电运通	guang dian yun tong	240
+广东广信	guang dong guang xin	244
+广东科德	guang dong ke de	97
+广东星湖	guang dong xing hu	29
+广发华福	guang fa hua fu	379
+光明乳业	guang ming ru ye	61
+广汽长丰	guang qi chang feng	93
+广深铁路	guang shen tie lu	690
+广为流传	guang wei liu chuan	30542
+广夏	guang xia	1636
+光亚	guang ya	414
+广宇集团	guang yu ji tuan	581
+广州分行	guang zhou fen hang	1652
+广州国光	guang zhou guo guang	104
+广州浪奇	guang zhou lang qi	353
+广州冷机	guang zhou leng ji	27
+广州万隆	guang zhou wan long	122
+广州珠江	guang zhou zhu jiang	4547
+硅宝科技	gui bao ke ji	106
+贵宾厅	gui bin ting	490
+桂东电力	gui dong dian li	12
+规划委	gui hua wei	264
+桂林旅游	gui lin lv you	2670
+贵绳	gui sheng	147
+贵研铂业	gui yan bo ye	25
+国瓷	guo ci	99
+国电南瑞	guo dian nan rui	154
+国电南自	guo dian nan zi	68
+国富论	guo fu lun	473
+国富强债	guo fu qiang zhai	7
+国际大厦	guo ji da sha	618
+国际结算	guo ji jie suan	718
+国际融资	guo ji rong zi	155
+国际上	guo ji shang	39993
+国际商报	guo ji shang bao	120
+国际商务	guo ji shang wu	3902
+国际视野	guo ji shi ye	6398
+国际投资	guo ji tou zi	908
+国际银行	guo ji yin hang	844
+国九条	guo jiu tiao	183
+国库券	guo ku quan	347
+国联安	guo lian an	121
+国联信托	guo lian xin tuo	33
+国民收入	guo min shou ru	5356
+国民银行	guo min yin hang	696
+国泰金鼎	guo tai jin ding	15
+国泰金龙	guo tai jin long	80
+国泰金鹿	guo tai jin lu	4
+国泰金马	guo tai jin ma	55
+国泰金牛	guo tai jin niu	41
+国泰金鹏	guo tai jin peng	3
+国泰进取	guo tai jin qu	41
+国泰金鹰	guo tai jin ying	19
+国泰纳指	guo tai na zhi	42
+国泰上证	guo tai shang zheng	65
+国泰双利	guo tai shuang li	20
+国通	guo tong	670
+国统股份	guo tong gu fen	17
+国投瑞银	guo tou rui yin	59
+国祥	guo xiang	147
+国星光电	guo xing guang dian	17
+国研网	guo yan wang	86
+国阳新能	guo yang xin neng	11
+国药	guo yao	8272
+国有化	guo you hua	2498
+国资局	guo zi ju	733
+哈慈	ha ci	258
+哈动力	ha dong li	372
+哈尔斯	ha er si	3043
+哈飞航空	ha fei hang kong	74
+哈高科	ha gao ke	439
+哈里伯顿	ha li bo dun	283
+哈特佛	ha te fo	38
+哈投股份	ha tou gu fen	58
+哈药股份	ha yao gu fen	206
+哈药集团	ha yao ji tuan	323
+海大集团	hai da ji tuan	56
+海德股份	hai de gu fen	187
+海富通	hai fu tong	222
+海格通信	hai ge tong xin	73
+海兰信	hai lan xin	180
+海立	hai li	899
+海立美达	hai li mei da	3
+海联讯	hai lian xun	45
+海伦哲	hai lun zhe	84
+海螺型材	hai luo xing cai	20
+海纳	hai na	9042
+海南海药	hai nan hai yao	90
+海能达	hai neng da	148
+海宁皮城	hai ning pi cheng	196
+海普瑞	hai pu rui	69
+海泰	hai tai	388
+海通集团	hai tong ji tuan	79
+海王集团	hai wang ji tuan	61
+海王生物	hai wang sheng wu	57
+海信电器	hai xin dian qi	402
+海药	hai yao	167
+海源机械	hai yuan ji xie	28
+海正药业	hai zheng yao ye	68
+瀚宇博德	han yu bo de	5
+行话	hang hua	13839
+航民	hang min	571
+杭汽轮	hang qi lun	130
+航天长峰	hang tian chang feng	94
+航天机电	hang tian ji dian	74
+航意险	hang yi xian	140
+浩宁达	hao ning da	35
+豪盛	hao sheng	573
+好时光	hao shi guang	11141
+河北钢铁	he bei gang tie	1537
+合臣	he chen	64
+和而泰	he er tai	241
+合肥百货	he fei bai huo	164
+合肥三洋	he fei san yang	75
+合富辉煌	he fu hui huang	59
+合股	he gu	524
+河化	he hua	477
+合会	he hui	202
+合伙制	he huo zhi	947
+禾嘉	he jia	299
+合兴集团	he xing ji tuan	47
+核战争	he zhan zheng	2200
+核准制	he zhun zhi	117
+黑白菜	hei bai cai	214
+黑盒子	hei he zi	2453
+黑卡	hei ka	2161
+黑龙股份	hei long gu fen	11
+黑牡丹	hei mu dan	1052
+黑钱	hei qian	1387
+恒基达鑫	heng ji da xin	31
+恒立	heng li	2139
+亨泰	heng tai	375
+恒泰艾普	heng tai ai pu	25
+恒泰大通	heng tai da tong	12
+亨通光电	heng tong guang dian	227
+宏安集团	hong an ji tuan	139
+红宝丽	hong bao li	38
+洪都航空	hong du hang kong	171
+红发集团	hong fa ji tuan	98
+红鲱鱼	hong fei yu	84
+宏峰	hong feng	290
+宏华集团	hong hua ji tuan	220
+鸿基	hong ji	1424
+宏盛	hong sheng	1188
+红太阳	hong tai yang	14654
+红阳能源	hong yang neng yuan	35
+宏业	hong ye	1325
+宏业集团	hong ye ji tuan	225
+宏智	hong zhi	1278
+后撤	hou che	1388
+湖北华新	hu bei hua xin	361
+湖北迈亚	hu bei mai ya	28
+湖北宜化	hu bei yi hua	116
+沪建	hu jian	198
+沪科	hu ke	1227
+湖南海利	hu nan hai li	53
+互太纺织	hu tai fang zhi	41
+沪铜	hu tong	346
+华安宝利	hua an bao li	26
+华安富利	hua an fu li	21
+华安宏利	hua an hong li	12
+华北银行	hua bei yin hang	770
+华北制药	hua bei zhi yao	1390
+华昌达	hua chang da	79
+华昌化工	hua chang hua gong	80
+花雕	hua diao	990
+华鼎	hua ding	1782
+华鼎锦纶	hua ding jin lun	5
+划断	hua duan	2059
+华芳纺织	hua fang fang zhi	16
+华丰集团	hua feng ji tuan	240
+华孚色纺	hua fu se fang	6
+化工股	hua gong gu	309
+华海药业	hua hai yao ye	158
+华靖	hua jing	89
+华力创通	hua li chuang tong	82
+华联综超	hua lian zong chao	7
+华菱钢铁	hua ling gang tie	125
+华龙集团	hua long ji tuan	513
+华南城	hua nan cheng	1680
+华仁药业	hua ren yao ye	60
+华润锦华	hua run jin hua	70
+华商产业	hua shang chan ye	46
+华商银行	hua shang yin hang	280
+华神集团	hua shen ji tuan	42
+华盛达	hua sheng da	560
+华升股份	hua sheng gu fen	93
+华陶	hua tao	27
+华天酒店	hua tian jiu dian	221
+华微电子	hua wei dian zi	144
+华西村	hua xi cun	2016
+华夏通	hua xia tong	3507
+华信	hua xin	3330
+华讯	hua xun	665
+华阳科技	hua yang ke ji	217
+华银电力	hua yin dian li	59
+华远地产	hua yuan di chan	140
+华资实业	hua zi shi ye	37
+坏账率	huai zhang lv	1166
+还本	huan ben	550
+寰岛	huan dao	240
+换股	huan gu	2241
+换汇	huan hui	1395
+环康集团	huan kang ji tuan	17
+还款计划	huan kuan ji hua	7278
+还款期	huan kuan qi	1226
+环球财经	huan qiu cai jing	905
+环球集团	huan qiu ji tuan	318
+皇朝家俬	huang chao jia si	23
+皇朝家私	huang chao jia si	13
+黄金宝	huang jin bao	878
+黄金储备	huang jin chu bei	2088
+黄金集团	huang jin ji tuan	102
+黄金投资	huang jin tou zi	926
+黄金网	huang jin wang	227
+汇宝集团	hui bao ji tuan	27
+惠博普	hui bo pu	44
+回次	hui ci	703
+汇多利	hui duo li	8
+汇丰集团	hui feng ji tuan	452
+汇丰晋信	hui feng jin xin	341
+汇划	hui hua	101
+汇款人	hui kuan ren	811
+灰色收入	hui se shou ru	215
+回收期	hui shou qi	3638
+惠天	hui tian	356
+汇添富	hui tian fu	139
+回天胶业	hui tian jiao ye	13
+汇通集团	hui tong ji tuan	49
+汇通能源	hui tong neng yuan	12
+汇通天下	hui tong tian xia	217
+混业	hun ye	668
+货币化	huo bi hua	418
+货币流通	huo bi liu tong	1489
+货币主义	huo bi zhu yi	310
+基本点	ji ben dian	4778
+绩差	ji cha	28
+绩差公司	ji cha gong si	7
+绩差股	ji cha gu	7
+济柴	ji chai	82
+积成电子	ji cheng dian zi	75
+机电股	ji dian gu	116
+吉恩镍业	ji en nie ye	3
+寄放	ji fang	1978
+吉峰农机	ji feng nong ji	3
+际华集团	ji hua ji tuan	90
+基价	ji jia	160
+基金合同	ji jin he tong	617
+吉林化纤	ji lin hua xian	573
+吉林森工	ji lin sen gong	660
+吉林炭素	ji lin tan su	54
+基民	ji min	2743
+纪念钞	ji nian chao	292
+吉诺尔	ji nuo er	84
+即期	ji qi	1888
+基期	ji qi	270
+集琦	ji qi	124
+急升	ji sheng	448
+计世网	ji shi wang	98
+技术面	ji shu mian	864
+几维鸟	ji wei niao	59
+记账员	ji zhang yuan	460
+吉纸	ji zhi	72
+机制性	ji zhi xing	3504
+集资额	ji zi e	122
+集资款	ji zi kuan	602
+家得宝	jia de bao	55
+价格改革	jia ge gai ge	103
+加拿大元	jia na da yuan	72
+价内权证	jia nei quan zheng	3
+嘉瑞	jia rui	2597
+家润多	jia run duo	7
+嘉实恒生	jia shi heng sheng	124
+佳士科技	jia shi ke ji	89
+价税	jia shui	91
+假账	jia zhang	93
+佳纸	jia zhi	376
+监管政策	jian guan zheng ce	1961
+建行卡	jian hang ka	1715
+健康险	jian kang xian	262
+健康元	jian kang yuan	95
+健民	jian min	136
+监事长	jian shi zhang	1011
+建信	jian xin	709
+建研集团	jian yan ji tuan	19
+兼营	jian ying	562
+江海股份	jiang hai gu fen	179
+江力	jiang li	386
+奖励费	jiang li fei	23
+奖励金	jiang li jin	385
+江苏纺织	jiang su fang zhi	420
+江苏宏宝	jiang su hong bao	62
+江苏旷达	jiang su kuang da	57
+江苏舜天	jiang su shun tian	200
+江中药业	jiang zhong yao ye	73
+江钻	jiang zuan	472
+焦点话题	jiao dian hua ti	2250
+焦点问题	jiao dian wen ti	2231
+交割单	jiao ge dan	1159
+交货单	jiao huo dan	858
+交货价	jiao huo jia	320
+交强险	jiao qiang xian	77886
+交钥匙	jiao yao shi	1290
+交易场	jiao yi chang	904
+交易池	jiao yi chi	237
+交易规则	jiao yi gui ze	2615
+交易密码	jiao yi mi ma	404
+交易区	jiao yi qu	755
+交易时间	jiao yi shi jian	1243
+交易税	jiao yi shui	191
+交易厅	jiao yi ting	403
+交易指南	jiao yi zhi nan	392
+交银	jiao yin	599
+交银环球	jiao yin huan qiu	23
+交银添利	jiao yin tian li	14
+缴足	jiao zu	164
+焦作万方	jiao zuo wan fang	213
+借报	jie bao	999
+借出	jie chu	8740
+借记	jie ji	26402
+节能减排	jie neng jian pai	12514
+解盘	jie pan	326
+结算凭证	jie suan ping zheng	430
+截止日	jie zhi ri	1065
+金榜集团	jin bang ji tuan	45
+金宝通	jin bao tong	58
+金本位制	jin ben wei zhi	54
+金城股份	jin cheng gu fen	92
+金地集团	jin di ji tuan	1995
+金飞达	jin fei da	31
+金枫酒业	jin feng jiu ye	7
+锦港	jin gang	71
+金固股份	jin gu gu fen	32
+金果	jin guo	1451
+金海股份	jin hai gu fen	36
+锦化	jin hua	515
+金化	jin hua	277
+金辉集团	jin hui ji tuan	179
+金健米业	jin jian mi ye	7
+锦江酒店	jin jiang jiu dian	1123
+金交所	jin jiao suo	103
+金葵花	jin kui hua	392
+金利华电	jin li hua dian	63
+金利科技	jin li ke ji	167
+金利通	jin li tong	663
+金岭	jin ling	540
+金龙机电	jin long ji dian	48
+金路集团	jin lu ji tuan	82
+金马股份	jin ma gu fen	261
+金马集团	jin ma ji tuan	435
+金马投票	jin ma tou piao	35
+金盘	jin pan	692
+金普卡	jin pu ka	10
+津劝业	jin quan ye	10
+金融办	jin rong ban	425
+金融部	jin rong bu	1527
+金融大街	jin rong da jie	243
+金融史	jin rong shi	824
+金融市	jin rong shi	427
+金融世界	jin rong shi jie	2097
+金融体制	jin rong ti zhi	530
+金融投资	jin rong tou zi	5608
+金瑞	jin rui	1233
+金瑞科技	jin rui ke ji	87
+金瑞矿业	jin rui kuang ye	52
+金穗卡	jin sui ka	17
+金通灵	jin tong ling	18
+金业公司	jin ye gong si	37
+金银币	jin yin bi	348
+金宇车城	jin yu che cheng	7
+金隅股份	jin yu gu fen	52
+金宇集团	jin yu ji tuan	40
+金源米业	jin yuan mi ye	4
+金智科技	jin zhi ke ji	35
+禁止令	jin zhi ling	1602
+金种子	jin zhong zi	715
+锦州港	jin zhou gang	785
+锦州石化	jin zhou shi hua	586
+经办员	jing ban yuan	283
+精诚铜业	jing cheng tong ye	29
+精工钢构	jing gong gang gou	1058
+精工集团	jing gong ji tuan	1525
+经济导刊	jing ji dao kan	46
+经济统计	jing ji tong ji	473
+经济学界	jing ji xue jie	892
+经济学术	jing ji xue shu	625
+经济杂志	jing ji za zhi	131
+经理费	jing li fei	194
+净利润率	jing li run lv	7462
+精伦	jing lun	262
+经贸大学	jing mao da xue	516
+颈圈	jing quan	570
+经手费	jing shou fei	104
+净收入	jing shou ru	3107
+景顺长城	jing shun chang cheng	158
+精算师	jing suan shi	750
+京投银泰	jing tou yin tai	56
+经纬纺机	jing wei fang ji	73
+京西	jing xi	4141
+颈线	jing xian	699
+净现值	jing xian zhi	371
+京信通信	jing xin tong xin	97
+京运通	jing yun tong	184
+净赚	jing zhuan	511
+九发	jiu fa	2017
+旧股	jiu gu	156
+酒鬼酒	jiu gui jiu	117
+九九久	jiu jiu jiu	387
+久立特材	jiu li te cai	47
+巨潮	ju chao	539
+巨额交易	ju e jiao yi	820
+拒付	ju fu	1069
+聚富	ju fu	433
+具结	ju jie	922
+炬力	ju li	97
+巨龙管业	ju long guan ye	11
+拒批	ju pi	295
+巨星科技	ju xing ke ji	94
+聚友	ju you	448
+卡菲尔	ka fei er	510
+卡夫食品	ka fu shi pin	11
+卡样	ka yang	82
+卡种	ka zhong	665
+卡中心	ka zhong xin	503
+开仓	kai cang	596
+凯地	kai di	231
+凯迪电力	kai di dian li	32
+开尔新材	kai er xin cai	26
+开放经济	kai fang jing ji	1586
+开户费	kai hu fei	376
+开卡	kai ka	479
+凯马	kai ma	652
+凯美特气	kai mei te qi	12
+凯诺科技	kai nuo ke ji	66
+开拓进取	kai tuo jin qu	16297
+看跌	kan die	801
+看跌者	kan die zhe	18
+看涨者	kan zhang zhe	360
+康达	kang da	2212
+康达尔	kang da er	207
+康大食品	kang da shi pin	16
+康得新	kang de xin	438
+康菲石油	kang fei shi you	110
+康卡斯特	kang ka si te	137
+康美药业	kang mei yao ye	533
+康美债	kang mei zhai	14
+康耐特	kang nai te	225
+康赛	kang sai	878
+康盛股份	kang sheng gu fen	91
+扛住	kang zhu	6481
+考核指标	kao he zhi biao	2996
+科达机电	ke da ji dian	16
+科华恒盛	ke hua heng sheng	19
+科伦药业	ke lun yao ye	43
+柯尼卡	ke ni ka	377
+科诺威德	ke nuo wei de	3
+科斯伍德	ke si wu de	245
+科新机电	ke xin ji dian	4
+科学城	ke xue cheng	1456
+可用资产	ke yong zi chan	1605
+控股权	kong gu quan	38
+空换	kong huan	1030
+空开	kong kai	1309
+空头换手	kong tou huan shou	60
+空头头寸	kong tou tou cun	162
+空中网	kong zhong wang	839
+库藏股	ku cang gu	14
+跨国银行	kua guo yin hang	346
+跨年度	kua nian du	2084
+快公司	kuai gong si	676
+宽限期	kuan xian qi	1668
+亏损面	kui sun mian	150
+扩仓	kuo cang	312
+拉高均价	la gao jun jia	10
+莱钢	lai gang	694
+莱英达	lai ying da	33
+揽存	lan cun	362
+兰光	lan guang	357
+兰铝	lan lv	41
+朗伯德街	lang bo de jie	6
+浪莎	lang sha	82
+老凤祥	lao feng xiang	141
+乐电	le dian	151
+乐视网	le shi wang	297
+雷柏科技	lei bai ke ji	175
+累进税	lei jin shui	181
+雷鸣科化	lei ming ke hua	25
+雷伊	lei yi	3126
+棱光	leng guang	286
+冷却期	leng que qi	5167
+利邦	li bang	231
+理财金	li cai jin	216
+理财周报	li cai zhou bao	91
+利多消息	li duo xiao xi	1020
+利记	li ji	523
+礼品税	li pin shui	90
+理文集团	li wen ji tuan	15
+利息率	li xi lv	2110
+利源铝业	li yuan lv ye	18
+丽悦酒店	li yue jiu dian	19
+丽珠集团	li zhu ji tuan	419
+联办	lian ban	218
+联次	lian ci	191
+联电	lian dian	173
+联动机制	lian dong ji zhi	1138
+联华超市	lian hua chao shi	115
+联华合纤	lian hua he xian	5
+联名卡	lian ming ka	672
+联信永益	lian xin yong yi	5
+联益	lian yi	33
+联油	lian you	26
+良运	liang yun	155
+林州重机	lin zhou zhong ji	43
+零存整取	ling cun zheng qu	132
+领跌	ling die	1159
+领购簿	ling gou bu	3
+领军者	ling jun zhe	2918
+领票	ling piao	1609
+零七股份	ling qi gu fen	22
+零手	ling shou	441
+零首付	ling shou fu	1174
+零售银行	ling shou yin hang	537
+零息	ling xi	2952
+另行通知	ling xing tong zhi	15146
+流标	liu biao	420
+流动电讯	liu dong dian xun	4
+流动资产	liu dong zi chan	16329
+六渡桥	liu du qiao	38
+六福集团	liu fu ji tuan	299
+流转税	liu zhuan shui	43
+陇达	long da	132
+龙涤股份	long di gu fen	2
+隆基机械	long ji ji xie	159
+龙建	long jian	613
+龙科	long ke	293
+龙双	long shuang	276
+龙头股	long tou gu	1827
+龙星化工	long xing hua gong	12
+龙源电力	long yuan dian li	95
+潞安环能	lu an huan neng	8
+鲁润	lu run	3712
+鲁商置业	lu shang zhi ye	146
+鲁石化	lu shi hua	373
+鲁泰	lu tai	2935
+鲁银	lu yin	1950
+鲁证	lu zheng	1076
+鲁政委	lu zheng wei	1836
+鲁置业	lu zhi ye	60
+轮换制	lun huan zhi	1127
+裸币	luo bi	193
+洛玻	luo bo	287
+罗克韦尔	luo ke wei er	520
+罗莱家纺	luo lai jia fang	209
+罗平锌电	luo ping xin dian	22
+罗普斯金	luo pu si jin	49
+洛阳玻璃	luo yang bo li	506
+氯碱	lv jian	896
+绿景	lv jing	263
+绿景地产	lv jing di chan	62
+履约保函	lv yue bao han	174
+履约率	lv yue lv	1000
+卖超	mai chao	502
+麦达斯	mai da si	152
+买断型	mai duan xing	21
+买方市场	mai fang shi chang	2121
+卖方市场	mai fang shi chang	1789
+卖价	mai jia	662
+买价	mai jia	238
+麦考林	mai kao lin	143
+麦科特	mai ke te	76
+卖空	mai kong	1351
+买空	mai kong	441
+卖空者	mai kong zhe	99
+买通	mai tong	1060
+卖主	mai zhu	742
+满堂红	man tang hong	4308
+盲目性	mang mu xing	3446
+美国国际	mei guo guo ji	1129
+梅花伞	mei hua san	351
+美利纸业	mei li zhi ye	12
+美联集团	mei lian ji tuan	45
+美联银行	mei lian yin hang	86
+美菱股份	mei ling gu fen	24
+美罗药业	mei luo yao ye	37
+煤气化	mei qi hua	389
+煤炭股	mei tan gu	182
+美欣达	mei xin da	26
+美雅	mei ya	204
+梅雁水电	mei yan shui dian	20
+美元区	mei yuan qu	493
+美元危机	mei yuan wei ji	148
+蒙发利	meng fa li	83
+免代理费	mian dai li fei	12
+岷电	min dian	41
+民丰特纸	min feng te zhi	28
+闽福发	min fu fa	37
+民化	min hua	450
+民生证券	min sheng zheng quan	301
+闽信集团	min xin ji tuan	50
+明泰铝业	ming tai lv ye	162
+明星电力	ming xing dian li	27
+莫高股份	mo gao gu fen	9
+摩根财团	mo gen cai tuan	403
+茉织华	mo zhi hua	29
+目标公司	mu biao gong si	5504
+目标值	mu biao zhi	9717
+南百	nan bai	794
+南玻集团	nan bo ji tuan	457
+南博网	nan bo wang	12
+南方公司	nan fang gong si	1841
+南方航空	nan fang hang kong	1616
+南国置业	nan guo zhi ye	38
+南化	nan hua	2128
+南华集团	nan hua ji tuan	185
+南京新百	nan jing xin bai	95
+南京新港	nan jing xin gang	84
+南京银行	nan jing yin hang	3106
+南开戈德	nan kai ge de	156
+南控	nan kong	825
+南宁糖业	nan ning tang ye	105
+南顺	nan shun	1264
+南天信息	nan tian xin xi	204
+南通科技	nan tong ke ji	262
+南油物业	nan you wu ye	35
+南证	nan zheng	1163
+内部资料	nei bu zi liao	20178
+内蒙宏峰	nei meng hong feng	4
+内蒙君正	nei meng jun zheng	4
+内盘	nei pan	633
+年收益	nian shou yi	255
+宁波富邦	ning bo fu bang	111
+宁波韵升	ning bo yun sheng	151
+宁天龙	ning tian long	161
+宁夏恒力	ning xia heng li	14
+扭亏为盈	niu kui wei ying	158
+农行卡	nong hang ka	1280
+农化	nong hua	1217
+农林牧渔	nong lin mu yu	3118
+农商社	nong shang she	27
+诺安	nuo an	1424
+诺安平衡	nuo an ping heng	22
+欧比特	ou bi te	767
+欧洲货币	ou zhou huo bi	1383
+牌价	pai jia	217
+派息日	pai xi ri	134
+盘感	pan gan	431
+盘活资产	pan huo zi chan	1961
+攀渝钛业	pan yu tai ye	1
+泡沫经济	pao mo jing ji	2597
+配额制	pei e zhi	406
+鹏博士	peng bo shi	395
+骗线	pian xian	240
+偏转	pian zhuan	15745
+平安集团	ping an ji tuan	95
+评估办法	ping gu ban fa	1683
+评估标准	ping gu biao zhun	26172
+评估方案	ping gu fang an	17229
+评估费	ping gu fei	819
+评估师	ping gu shi	1034
+平均利率	ping jun li lv	415
+平均利润	ping jun li run	723
+平券	ping xuan	61
+平值	ping zhi	1050
+普跌	pu die	203
+浦东建设	pu dong jian she	208
+浦东金桥	pu dong jin qiao	171
+普洛股份	pu luo gu fen	19
+普洛康裕	pu luo kang yu	6
+普民	pu min	211
+普天收益	pu tian shou yi	59
+普天债	pu tian zhai	25
+普天债券	pu tian zhai quan	18
+浦银	pu yin	133
+浦银安盛	pu yin an sheng	17
+浦银红利	pu yin hong li	3
+旗滨集团	qi bin ji tuan	150
+启动资金	qi dong zi jin	2421
+七乐彩	qi le cai	215
+启明信息	qi ming xin xi	44
+期权费	qi quan fei	438
+齐翔腾达	qi xiang teng da	19
+七星电子	qi xing dian zi	424
+齐星铁塔	qi xing tie ta	10
+汽油机	qi you ji	1854
+前笔	qian bi	5568
+钱串子	qian chuan zi	48
+钱袋网	qian dai wang	20
+钱江摩托	qian jiang mo tuo	44
+钱经	qian jing	351
+黔凯涤	qian kai di	1
+前手	qian shou	8821
+黔中天	qian zhong tian	94
+抢单	qiang dan	312
+枪客	qiang ke	677
+侨汇	qiao hui	286
+侨兴环球	qiao xing huan qiu	4
+秦丰	qin feng	1398
+青岛海信	qing dao hai xin	398
+青岛碱业	qing dao jian ye	85
+清华紫光	qing hua zi guang	847
+青龙管业	qing long guan ye	102
+青鸟华光	qing niao hua guang	43
+青山纸业	qing shan zhi ye	116
+清算协议	qing suan xie yi	124
+琼民源	qiong min yuan	39
+区域型	qu yu xing	560
+全局观	quan ju guan	2670
+全面发力	quan mian fa li	4962
+全球商业	quan qiu shang ye	796
+全权信托	quan quan xin tuo	63
+权智	quan zhi	394
+群聚	qun ju	2099
+让渡	rang du	5250
+认定标准	ren ding biao zhun	2782
+认购协议	ren gou xie yi	395
+认沽期权	ren gu qi quan	37
+认同卡	ren tong ka	339
+人头税	ren tou shui	485
+日贷	ri dai	118
+日经指数	ri jing zhi shu	113
+日科化学	ri ke hua xue	12
+日线图	ri xian tu	3003
+融通领先	rong tong ling xian	35
+融信达	rong xin da	135
+融资额	rong zi e	479
+融资方案	rong zi fang an	1627
+融资款	rong zi kuan	184
+融资网	rong zi wang	64
+融资协议	rong zi xie yi	528
+融资性	rong zi xing	120
+入股协议	ru gu xie yi	186
+软控股份	ruan kong gu fen	130
+软通货	ruan tong huo	512
+软着陆	ruan zhuo lu	6249
+瑞福进取	rui fu jin qu	19
+瑞和	rui he	794
+瑞立集团	rui li ji tuan	58
+瑞龙	rui long	998
+瑞士法郎	rui shi fa lang	1168
+瑞士银行	rui shi yin hang	1671
+瑞银集团	rui yin ji tuan	355
+赛格达声	sai ge da sheng	2
+赛格股份	sai ge gu fen	33
+赛格三星	sai ge san xing	11
+三房巷	san fang xiang	194
+三丰智能	san feng zhi neng	79
+三井银行	san jing yin hang	47
+三立	san li	3425
+三力	san li	922
+三力士	san li shi	699
+三联商社	san lian shang she	154
+三菱银行	san ling yin hang	405
+三木集团	san mu ji tuan	179
+三普	san pu	400
+三普药业	san pu yao ye	12
+三全食品	san quan shi pin	359
+三泰电子	san tai dian zi	56
+三特索道	san te suo dao	15
+三维丝	san wei si	468
+三五互联	san wu hu lian	247
+三星电气	san xing dian qi	225
+三元达	san yuan da	497
+扫盘	sao pan	588
+厦工股份	sha gong gu fen	45
+厦华	sha hua	98
+莎拉李	sha la li	42
+沙隆达	sha long da	80
+厦新	sha xin	159
+山东鲁阳	shan dong lu yang	464
+山东铝业	shan dong lv ye	265
+山东如意	shan dong ru yi	759
+山东威达	shan dong wei da	83
+山煤国际	shan mei guo ji	56
+山推股份	shan tui gu fen	152
+陕西长安	shan xi chang an	1814
+陕西金叶	shan xi jin ye	56
+上港集团	shang gang ji tuan	663
+上海贝岭	shang hai bei ling	131
+上海地产	shang hai di chan	448
+上海分行	shang hai fen hang	750
+上海凤凰	shang hai feng huang	245
+上海辅仁	shang hai fu ren	55
+上海港机	shang hai gang ji	14
+上海钢联	shang hai gang lian	351
+上海机电	shang hai ji dian	94
+上海佳豪	shang hai jia hao	43
+上海建工	shang hai jian gong	277
+上海金陵	shang hai jin ling	99
+上海金融	shang hai jin rong	606
+上海九百	shang hai jiu bai	57
+上海凯宝	shang hai kai bao	65
+上海科技	shang hai ke ji	1644
+上海莱士	shang hai lai shi	188
+上海绿新	shang hai lv xin	77
+上海梅林	shang hai mei lin	180
+上海普天	shang hai pu tian	96
+上海物贸	shang hai wu mao	32
+上海新梅	shang hai xin mei	72
+上海医药	shang hai yi yao	231
+上海证大	shang hai zheng da	34
+商界评论	shang jie ping lun	131
+商品期货	shang pin qi huo	813
+上破	shang po	1186
+商社	shang she	1112
+上市规则	shang shi gui ze	211
+上提	shang ti	5614
+商通卡	shang tong ka	14
+商网	shang wang	197
+商务英语	shang wu ying yu	73012
+商务周刊	shang wu zhou kan	139
+商业周刊	shang ye zhou kan	418
+商誉	shang yu	2670
+上证股	shang zheng gu	202
+上证综指	shang zheng zong zhi	840
+赊销	she xiao	794
+深安达	shen an da	115
+深宝安	shen bao an	255
+深宝恒	shen bao heng	9
+申报率	shen bao lv	264
+深赤湾	shen chi wan	23
+深大通	shen da tong	143
+深发	shen fa	2466
+深纺织	shen fang zhi	74
+深高	shen gao	2140
+深高速	shen gao su	759
+申购款	shen gou kuan	1059
+深国商	shen guo shang	93
+深华发	shen hua fa	81
+深华新	shen hua xin	74
+审计结果	shen ji jie guo	7922
+审计意见	shen ji yi jian	5417
+深锦兴	shen jin xing	8
+深南光	shen nan guang	115
+深能	shen neng	889
+深赛格	shen sai ge	14
+申赎	shen shu	126
+深泰	shen tai	296
+深特力	shen te li	22
+深天地	shen tian di	360
+深天马	shen tian ma	644
+深万科	shen wan ke	178
+深物业	shen wu ye	155
+深原野	shen yuan ye	25
+深圳比克	shen zhen bi ke	68
+深圳方大	shen zhen fang da	88
+深圳国际	shen zhen guo ji	1354
+深圳迈瑞	shen zhen mai rui	168
+深圳能源	shen zhen neng yuan	491
+深证综指	shen zheng zong zhi	27
+深值	shen zhi	1911
+圣方	sheng fang	1039
+胜景山河	sheng jing shan he	73
+圣莱达	sheng lai da	49
+盛润	sheng run	631
+圣雪绒	sheng xue rong	65
+生意宝	sheng yi bao	155
+市场报	shi chang bao	197
+市场供求	shi chang gong qiu	284
+市场体系	shi chang ti xi	433
+实得	shi de	433
+实德环球	shi de huan qiu	9
+试点办法	shi dian ban fa	123
+试点方案	shi dian fang an	969
+实股	shi gu	96
+石化债	shi hua zhai	72
+实际公司	shi ji gong si	1358
+市净率	shi jing lv	71
+实卡	shi ka	462
+士兰微	shi lan wei	118
+石炼	shi lian	141
+石炼化	shi lian hua	98
+试盘	shi pan	170
+仕奇	shi qi	255
+石劝业	shi quan ye	3
+实施标准	shi shi biao zhun	1756
+势态	shi tai	2031
+实体经济	shi ti jing ji	5456
+石岘	shi xian	86
+试行标准	shi xing biao zhun	73
+实益达	shi yi da	110
+收储	shou chu	81
+首创置业	shou chuang zhi ye	9
+收费收据	shou fei shou ju	98
+手工票	shou gong piao	338
+收购方	shou gou fang	486
+收购人	shou gou ren	264
+收购者	shou gou zhe	203
+收官日	shou guan ri	763
+受关注	shou guan zhu	3159
+收还	shou hai	134
+收汇	shou hui	82
+售汇	shou hui	25
+收结汇	shou jie hui	2
+收进	shou jin	1378
+售尽	shou jin	36
+受理人	shou li ren	2114
+售楼部	shou lou bu	1736
+收盘报	shou pan bao	125
+受损者	shou sun zhe	791
+收益宝	shou yi bao	151
+授予者	shou yu zhe	398
+双币	shuang bi	589
+双币卡	shuang bi ka	14
+双箭股份	shuang jian gu fen	21
+双马	shuang ma	1277
+双赔	shuang pei	237
+双账户	shuang zhang hu	146
+税点	shui dian	342
+税基	shui ji	240
+顺诚	shun cheng	297
+顺发恒业	shun fa heng ye	24
+四川电器	si chuan dian qi	92
+四川湖山	si chuan hu shan	45
+四川圣达	si chuan sheng da	73
+四川双马	si chuan shuang ma	78
+四创	si chuang	1069
+思达	si da	1149
+死股	si gu	222
+思捷环球	si jie huan qiu	6
+斯伦贝榭	si lun bei xie	4
+斯普林特	si pu lin te	387
+私人银行	si ren yin hang	1385
+私营公司	si ying gong si	1037
+四洲集团	si zhou ji tuan	20
+松辽汽车	song liao qi che	11
+送配	song pei	70
+搜于特	sou yu te	61
+苏常柴	su chang chai	45
+苏常远东	su chang yuan dong	6
+速贷通	su dai tong	35
+苏福马	su fu ma	174
+塑料钞	su liao chao	51
+苏宁环球	su ning huan qiu	187
+苏三山	su san shan	19
+苏威孚	su wei fu	23
+苏物	su wu	1675
+苏物贸	su wu mao	11
+苏州固锝	su zhou gu de	151
+苏州恒久	su zhou heng jiu	117
+损失率	sun shi lv	492
+损益表	sun yi biao	5929
+锁仓	suo cang	561
+所有权证	suo you quan zheng	363
+拓日新能	ta ri xin neng	109
+钛白	tai bai	539
+泰达宏利	tai da hong li	84
+泰复	tai fu	125
+泰格	tai ge	1295
+太光	tai guang	922
+太光电信	tai guang dian xin	12
+抬轿	tai jiao	2214
+钛金	tai jin	1407
+钛金卡	tai jin ka	9
+泰京银行	tai jing yin hang	16
+探路者	tan lu zhe	678
+谭木匠	tan mu jiang	325
+汤臣倍健	tang chen bei jian	137
+汤臣集团	tang chen ji tuan	41
+唐山港	tang shan gang	260
+唐陶	tang tao	20
+套汇	tao hui	180
+逃汇	tao hui	149
+套取	tao qu	753
+特别措施	te bie cuo shi	762
+特困户	te kun hu	1091
+特区经济	te qu jing ji	510
+特许权税	te xu quan shui	12
+腾邦国际	teng bang guo ji	53
+提额	ti e	461
+提货单	ti huo dan	2987
+体制性	ti zhi xing	1181
+天方	tian fang	2212
+天富	tian fu	323
+天富热电	tian fu re dian	13
+天广消防	tian guang xiao fang	5
+天合光能	tian he guang neng	56
+天弘	tian hong	482
+天鸿	tian hong	435
+天宏	tian hong	270
+天鸿宝业	tian hong bao ye	5
+天弘丰利	tian hong feng li	12
+天弘永定	tian hong yong ding	9
+天津海运	tian jin hai yun	94
+天津普林	tian jin pu lin	83
+天津松江	tian jin song jiang	202
+天利高新	tian li gao xin	11
+天龙光电	tian long guang dian	52
+天伦置业	tian lun zhi ye	10
+天马股份	tian ma gu fen	92
+天马精化	tian ma jing hua	4
+天目药	tian mu yao	73
+天目药业	tian mu yao ye	100
+天桥百货	tian qiao bai huo	30
+填权	tian quan	67
+天然碱	tian ran jian	1297
+天润曲轴	tian run qu zhou	7
+天士力	tian shi li	436
+天仪	tian yi	313
+添益宝	tian yi bao	11
+天喻信息	tian yu xin xi	12
+天源迪科	tian yuan di ke	14
+天原集团	tian yuan ji tuan	28
+天治双盈	tian zhi shuang ying	2
+跳动点	tiao dong dian	83
+条形图	tiao xing tu	5098
+贴现率	tie xian lv	816
+停板	ting ban	1063
+铜城	tong cheng	570
+通程控股	tong cheng kong gu	56
+通达卡	tong da ka	207
+通道制	tong dao zhi	102
+通货	tong huo	25080
+通货紧缩	tong huo jin suo	2312
+同济堂	tong ji tang	173
+统计系	tong ji xi	1138
+通金	tong jin	360
+桐君阁	tong jun ge	56
+通科	tong ke	294
+通联	tong lian	2939
+通盘	tong pan	2549
+通行权	tong xing quan	865
+通胀率	tong zhang lv	1112
+通知期	tong zhi qi	115
+同洲电子	tong zhou dian zi	170
+投标书	tou biao shu	2068
+投标者	tou biao zhe	219
+投票门	tou piao men	61
+投资参考	tou zi can kao	339
+投资家	tou zi jia	951
+投资界	tou zi jie	810
+投资量	tou zi liang	234
+投资品	tou zi pin	850
+投资期	tou zi qi	168
+投资收藏	tou zi shou cang	158
+投资协议	tou zi xie yi	594
+投资性	tou zi xing	533
+投资型	tou zi xing	290
+投资学	tou zi xue	538
+投资业	tou zi ye	286
+投资有道	tou zi you dao	182
+投资指南	tou zi zhi nan	648
+团办	tuan ban	78
+屯积	tun ji	97
+托普	tuo pu	5088
+瓦轴	wa zhou	60
+外管局	wai guan ju	5472
+外国银行	wai guo yin hang	764
+外汇宝	wai hui bao	588
+外汇管理	wai hui guan li	4035
+外汇管制	wai hui guan zhi	1940
+外汇通	wai hui tong	977
+外汇资产	wai hui zi chan	508
+外汇资金	wai hui zi jin	2093
+万邦达	wan bang da	200
+万昌科技	wan chang ke ji	49
+万丰奥威	wan feng ao wei	140
+万华	wan hua	5181
+万家基金	wan jia ji jin	88
+万利达	wan li da	1004
+万力达	wan li da	840
+万年薪	wan nian xin	90
+完税证	wan shui zheng	16
+万顺昌	wan shun chang	13
+万通地产	wan tong di chan	92
+万威国际	wan wei guo ji	48
+万向德农	wan xiang de nong	15
+万象集团	wan xiang ji tuan	416
+万泽股份	wan ze gu fen	180
+望春花	wang chun hua	796
+网付	wang fu	35
+潍柴重机	wei chai zhong ji	69
+伪钞	wei chao	717
+威达	wei da	303
+维达国际	wei da guo ji	114
+威尔泰	wei er tai	228
+维加	wei jia	1232
+维科精华	wei ke jing hua	21
+微利股	wei li gu	9
+魏桥纺织	wei qiao fang zhi	199
+威胜集团	wei sheng ji tuan	39
+违约率	wei yue lv	256
+温商网	wen shang wang	42
+温氏集团	wen shi ji tuan	112
+文印室	wen yin shi	52
+卧龙地产	wo long di chan	126
+武昌鱼	wu chang yu	11432
+武汉凡谷	wu han fan gu	181
+芜湖港	wu hu gang	30
+五矿发展	wu kuang fa zhan	57
+五矿建设	wu kuang jian she	28
+五矿期货	wu kuang qi huo	36
+五矿证券	wu kuang zheng quan	72
+五粮	wu liang	5757
+物贸	wu mao	141
+物贸中心	wu mao zhong xin	34
+物物交换	wu wu jiao huan	439
+无息贷款	wu xi dai kuan	136
+无锡尚德	wu xi shang de	202
+吴中	wu zhong	8467
+五洲明珠	wu zhou ming zhu	47
+西安旅游	xi an lv you	3507
+西昌电	xi chang dian	20
+西陇化工	xi long hua gong	32
+西南合成	xi nan he cheng	376
+息票	xi piao	931
+西王糖业	xi wang tang ye	3
+西藏旅游	xi zang lv you	2937
+西藏天路	xi zang tian lu	481
+下调	xia diao	238007
+下轨	xia gui	244
+厦门国贸	xia men guo mao	212
+厦门路桥	xia men lu qiao	90
+厦门厦工	xia men sha gong	19
+厦门钨业	xia men wu ye	72
+厦门信达	xia men xin da	76
+下破	xia po	342
+现代传播	xian dai chuan bo	941
+现代教育	xian dai jiao yu	14914
+先声药业	xian sheng yao ye	77
+现手	xian shou	301
+限售股	xian shou gu	6082
+限售期	xian shou qi	2541
+现值	xian zhi	987
+橡果国际	xiang guo guo ji	11
+香梨	xiang li	1524
+项目融资	xiang mu rong zi	424
+小股民	xiao gu min	403
+销货清单	xiao huo qing dan	116
+销卡	xiao ka	344
+小牌	xiao pai	514
+销售合同	xiao shou he tong	2118
+销售一空	xiao shou yi kong	424
+小阳	xiao yang	4788
+携程网	xie cheng wang	3037
+协会章程	xie hui zhang cheng	600
+协调部	xie tiao bu	234
+楔形	xie xing	3059
+新奥燃气	xin ao ran qi	36
+新北洋	xin bei yang	185
+新财富	xin cai fu	1877
+新财经	xin cai jing	575
+新城市	xin cheng shi	3805
+信达地产	xin da di chan	218
+信达期货	xin da qi huo	132
+信达资产	xin da zi chan	333
+信贷员	xin dai yuan	361
+信贷资产	xin dai zi chan	407
+信德集团	xin de ji tuan	107
+新低点	xin di dian	505
+新动力	xin dong li	2861
+鑫富药业	xin fu yao ye	27
+新高点	xin gao dian	827
+鑫光	xin guang	501
+新海宜	xin hai yi	57
+新韩银行	xin han yin hang	67
+新和成	xin he cheng	83
+新鸿基	xin hong ji	552
+新宏信	xin hong xin	30
+新华百货	xin hua bai huo	223
+新华财经	xin hua cai jing	1953
+新华基金	xin hua ji jin	289
+新华锦	xin hua jin	375
+新华银行	xin hua yin hang	833
+新黄浦	xin huang pu	198
+信汇	xin hui	35
+新嘉联	xin jia lian	30
+新疆天宏	xin jiang tian hong	13
+新疆天业	xin jiang tian ye	45
+新疆屯河	xin jiang tun he	12
+新锦华	xin jin hua	48
+新锦江	xin jin jiang	188
+新经济	xin jing ji	13514
+新卡	xin ka	917
+新开普	xin kai pu	1395
+新莱应材	xin lai ying cai	112
+信立泰	xin li tai	164
+信联	xin lian	67
+新龙国际	xin long guo ji	41
+新龙头	xin long tou	426
+欣龙无纺	xin long wu fang	6
+信诺	xin nuo	453
+新设	xin she	2580
+新世界	xin shi jie	139773
+新太	xin tai	1313
+新台阶	xin tai jie	888
+新天	xin tian	8473
+信托合同	xin tuo he tong	648
+信托投资	xin tuo tou zi	606
+信托业	xin tuo ye	425
+信托资产	xin tuo zi chan	531
+新威国际	xin wei guo ji	42
+新闻集团	xin wen ji tuan	262
+新五丰	xin wu feng	44
+信息早报	xin xi zao bao	478
+鑫新	xin xin	227
+新秀丽	xin xiu li	889
+锌业	xin ye	330
+新野纺织	xin ye fang zhi	27
+新营销	xin ying xiao	825
+信用度	xin yong du	495
+信用额度	xin yong e du	1027
+新中基	xin zhong ji	39
+新宙邦	xin zhou bang	187
+新资本	xin zi ben	997
+兴达国际	xing da guo ji	81
+兴利集团	xing li ji tuan	29
+星美	xing mei	1038
+行权价	xing quan jia	70
+兴业卡	xing ye ka	543
+雄震	xiong zhen	820
+修身堂	xiu shen tang	180
+徐工科技	xu gong ke ji	197
+虚拟卡	xu ni ka	403
+虚涨	xu zhang	352
+削价	xue jia	188
+雪莱特	xue lai te	116
+雅戈	ya ge	277
+雅虎财经	ya hu cai jing	386
+雅虎公司	ya hu gong si	192
+押汇	ya hui	121
+轧空	ya kong	125
+亚玛顿	ya ma dun	146
+雅天妮	ya tian ni	134
+亚夏汽车	ya xia qi che	63
+亚星	ya xing	782
+亚星化学	ya xing hua xue	17
+亚洲货币	ya zhou huo bi	155
+亚洲金融	ya zhou jin rong	217
+验钞机	yan chao ji	155
+盐湖集团	yan hu ji tuan	130
+验旧	yan jiu	152
+研究简报	yan jiu jian bao	1389
+验审	yan shen	210
+衍生产品	yan sheng chan pin	2865
+衍生权证	yan sheng quan zheng	60
+阳谷华泰	yang gu hua tai	7
+杨红革	yang hong ge	33
+邀会	yao hui	150
+亿安	yi an	1509
+易宝	yi bao	2641
+一本通	yi ben tong	8405
+移仓	yi cang	408
+遗产税	yi chan shui	203
+壹传媒	yi chuan mei	44
+奕达	yi da	246
+一德	yi de	2492
+异动股	yi dong gu	39
+宜华	yi hua	789
+仪化	yi hua	194
+宜华地产	yi hua di chan	20
+宜华木业	yi hua mu ye	19
+易货贸易	yi huo mao yi	209
+易基	yi ji	412
+溢缴款	yi jiao kuan	23
+伊立浦	yi li pu	85
+易联众	yi lian zhong	270
+艺龙	yi long	225
+益民红利	yi min hong li	27
+一汽富维	yi qi fu wei	693
+一汽金杯	yi qi jin bei	98
+一汽夏利	yi qi xia li	409
+易世达	yi shi da	111
+伊泰	yi tai	4058
+益鑫泰	yi xin tai	15
+亿阳信通	yi yang xin tong	43
+银承	yin cheng	286
+银广厦	yin guang sha	89
+银广夏	yin guang xia	258
+银行部	yin hang bu	613
+银行管理	yin hang guan li	890
+银行行长	yin hang hang zhang	1992
+银行界	yin hang jie	658
+银行卡号	yin hang ka hao	4161
+银行券	yin hang quan	265
+银行学	yin hang xue	162
+银河银泰	yin he yin tai	7
+银基发展	yin ji fa zhan	32
+银基集团	yin ji ji tuan	125
+银建	yin jian	291
+银监局	yin jian ju	656
+引开	yin kai	6361
+银率网	yin lv wang	32
+银期	yin qi	908
+银山	yin shan	380
+银泰百货	yin tai bai huo	341
+银元	yin yuan	4451
+银债	yin zhai	192
+银证通	yin zheng tong	60
+银质	yin zhi	2469
+银之杰	yin zhi jie	45
+印子钱	yin zi qian	42
+英达	ying da	2402
+英飞拓	ying fei ta	169
+英化	ying hua	1065
+营口港	ying kou gang	561
+鹰美	ying mei	205
+英唐智控	ying tang zhi kong	55
+英特集团	ying te ji tuan	99
+英威腾	ying wei teng	242
+营业日	ying ye ri	1102
+硬指标	ying zhi biao	958
+永大	yong da	95
+永大集团	yong da ji tuan	27
+永亨银行	yong heng yin hang	54
+永嘉集团	yong jia ji tuan	147
+用卡	yong ka	2094
+永利带业	yong li dai ye	2
+友阿股份	you a gu fen	13
+友邦华泰	you bang hua tai	27
+邮币卡	you bi ka	83
+有偿转让	you chang zhuan rang	34
+友达光电	you da guang dian	12
+有价证券	you jia zheng quan	283
+诱空	you kong	233
+优酷网	you ku wang	470
+尤洛卡	you luo ka	351
+优先股	you xian gu	1475
+豫能	yu neng	555
+渝三峡	yu san xia	96
+渝钛白	yu tai bai	11
+渝太地产	yu tai di chan	6
+宇信易诚	yu xin yi cheng	16
+玉源	yu yuan	204
+源发	yuan fa	4619
+原始积累	yuan shi ji lei	1624
+远望谷	yuan wang gu	28
+粤宏远	yue hong yuan	55
+粤丽珠	yue li zhu	12
+粤水电	yue shui dian	175
+越秀投资	yue xiu tou zi	124
+云海金属	yun hai jin shu	18
+云南马龙	yun nan ma long	185
+云南盐化	yun nan yan hua	62
+云南锗业	yun nan zhe ye	61
+运盛	yun sheng	41
+运通公司	yun tong gong si	36
+运通卡	yun tong ka	40
+运营部	yun ying bu	2311
+在线咨询	zai xian zi xun	15344
+增资额	zeng zi e	290
+渣打集团	zha da ji tuan	118
+摘牌	zhai pai	447
+债权国	zhai quan guo	63
+债务国	zhai wu guo	228
+债务危机	zhai wu wei ji	2542
+斩仓	zhan cang	630
+展讯	zhan xun	392
+账簿	zhang bu	3251
+账户表	zhang hu biao	443
+长控	zhang kong	357
+张铜	zhang tong	1067
+招标者	zhao biao zhe	223
+招行卡	zhao hang ka	216
+浙大海纳	zhe da hai na	30
+浙江富阳	zhe jiang fu yang	648
+浙江海亮	zhe jiang hai liang	103
+浙江海纳	zhe jiang hai na	100
+浙江永强	zhe jiang yong qiang	334
+折旧率	zhe jiu lv	1014
+折现率	zhe xian lv	185
+折子钱	zhe zi qian	35
+振华港机	zhen hua gang ji	125
+针线街	zhen xian jie	36
+振新	zhen xin	4622
+振业集团	zhen ye ji tuan	154
+政策工具	zheng ce gong ju	1556
+正常性	zheng chang xing	1181
+征管处	zheng guan chu	213
+证券导报	zheng quan dao bao	28
+证券导刊	zheng quan dao kan	10
+证券日报	zheng quan ri bao	535
+证券网	zheng quan wang	149
+证券溢价	zheng quan yi jia	25
+证券周刊	zheng quan zhou kan	69
+证券资讯	zheng quan zi xun	250
+正泰电器	zheng tai dian qi	543
+正兴	zheng xing	5813
+征用权	zheng yong quan	25
+郑州燃气	zheng zhou ran qi	277
+指标股	zhi biao gu	317
+至高点	zhi gao dian	2852
+指令部	zhi ling bu	1409
+知名银行	zhi ming yin hang	545
+支取凭证	zhi qu ping zheng	28
+质押品	zhi ya pin	627
+质押物	zhi ya wu	997
+滞胀	zhi zhang	494
+中标者	zhong biao zhe	858
+仲裁规则	zhong cai gui ze	748
+中彩网	zhong cai wang	100
+中川国际	zhong chuan guo ji	113
+中创信测	zhong chuang xin ce	11
+重单	zhong dan	272
+重点关注	zhong dian guan zhu	1612209
+中电投	zhong dian tou	192
+中房	zhong fang	1011
+中纺	zhong fang	410
+中房股份	zhong fang gu fen	60
+中纺机	zhong fang ji	129
+中服	zhong fu	1679
+中孚实业	zhong fu shi ye	91
+中钢吉炭	zhong gang ji tan	41
+中冠	zhong guan	1317
+中国宝安	zhong guo bao an	274
+中国北车	zhong guo bei che	24
+中国玻璃	zhong guo bo li	458
+中国财富	zhong guo cai fu	846
+中国凤凰	zhong guo feng huang	597
+中国服装	zhong guo fu zhuang	1009
+中国国航	zhong guo guo hang	95
+中国国贸	zhong guo guo mao	312
+中国科技	zhong guo ke ji	6228
+中国南车	zhong guo nan che	75
+中国商报	zhong guo shang bao	130
+中国商人	zhong guo shang ren	664
+中国食品	zhong guo shi pin	1685
+中国水务	zhong guo shui wu	264
+中国太保	zhong guo tai bao	205
+中国投资	zhong guo tou zi	639
+中国西电	zhong guo xi dian	104
+中国医疗	zhong guo yi liao	1557
+中国医药	zhong guo yi yao	907
+中国远洋	zhong guo yuan yang	290
+中国忠旺	zhong guo zhong wang	29
+中海达	zhong hai da	1492
+中航地产	zhong hang di chan	738
+中航精机	zhong hang jing ji	165
+中航科工	zhong hang ke gong	179
+中航三鑫	zhong hang san xin	74
+中核科技	zhong he ke ji	150
+中核钛白	zhong he tai bai	27
+中恒	zhong heng	1615
+中恒电气	zhong heng dian qi	200
+中恒集团	zhong heng ji tuan	381
+中化国际	zhong hua guo ji	199
+中化岩土	zhong hua yan tu	60
+中江地产	zhong jiang di chan	43
+中科创业	zhong ke chuang ye	758
+中科合臣	zhong ke he chen	52
+中科健	zhong ke jian	261
+中科软	zhong ke ruan	1483
+中科三环	zhong ke san huan	897
+中科英华	zhong ke ying hua	232
+中联债	zhong lian zhai	24
+中粮屯河	zhong liang tun he	121
+中辽	zhong liao	434
+中鲁	zhong lu	1052
+中南重工	zhong nan zhong gong	1034
+中农	zhong nong	880
+中欧鼎利	zhong ou ding li	81
+中盘股	zhong pan gu	148
+中葡	zhong pu	1296
+中侨	zhong qiao	235
+中瑞思创	zhong rui si chuang	35
+中润	zhong run	1292
+中顺洁柔	zhong shun jie rou	99
+中泰化学	zhong tai hua xue	76
+中铁二局	zhong tie er ju	1141
+中钨	zhong wu	1236
+中西药业	zhong xi yao ye	450
+中小板指	zhong xiao ban zhi	62
+中小盘股	zhong xiao pan gu	146
+中小散户	zhong xiao san hu	516
+中信国安	zhong xin guo an	441
+中信控股	zhong xin kong gu	638
+中燕	zhong yan	711
+重要公告	zhong yao gong gao	1467
+众业达	zhong ye da	25
+重仪	zhong yi	392
+中银国际	zhong yin guo ji	339
+中银卡	zhong yin ka	88
+中银绒业	zhong yin rong ye	55
+中源	zhong yuan	2104
+中原特钢	zhong yuan te gang	79
+中原信托	zhong yuan xin tuo	295
+注册费	zhu ce fei	202
+筑底	zhu di	2111
+珠江实业	zhu jiang shi ye	588
+主力资金	zhu li zi jin	92260
+注销户	zhu xiao hu	391
+筑信	zhu xin	408
+主要措施	zhu yao cuo shi	4364
+株冶集团	zhu ye ji tuan	62
+转换费	zhuan huan fei	126
+转换价格	zhuan huan jia ge	459
+转换价值	zhuan huan jia zhi	318
+转配股	zhuan pei gu	18
+转期	zhuan qi	366
+转押	zhuan ya	124
+追收	zhui shou	120
+追索权	zhui suo quan	316
+准贷记卡	zhun dai ji ka	32
+卓尔发展	zhuo er fa zhan	31
+卓悦控股	zhuo yue kong gu	33
+卓越理财	zhuo yue li cai	99
+资本化	zi ben hua	2248
+资本化率	zi ben hua lv	158
+资本品	zi ben pin	419
+资本预算	zi ben yu suan	424
+资产公司	zi chan gong si	1081
+自偿性	zi chang xing	84
+紫光华宇	zi guang hua yu	104
+自留额	zi liu e	24
+自买	zi mai	414
+自然人股	zi ran ren gu	151
+资信证明	zi xin zheng ming	620
+咨询报告	zi xun bao gao	817
+自仪	zi yi	425
+自由竞争	zi you jing zheng	444
+资助金	zi zhu jin	558
+自助银行	zi zhu yin hang	540
+总成本	zong cheng ben	1135
+总成交量	zong cheng jiao liang	328
+总房价	zong fang jia	191
+总负债	zong fu zhai	300
+综合税	zong he shui	463
+总水平	zong shui ping	352
+总体而言	zong ti er yan	161004
+总需求	zong xu qiu	1892
+总账	zong zhang	1830
+租方	zu fang	168
+组合投资	zu he tou zi	739
+租契	zu qi	39
+组选	zu xuan	2194
+组织图	zu zhi tu	1205
+最低值	zui di zhi	2768
